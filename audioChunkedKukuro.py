@@ -3,10 +3,16 @@ import time
 from pydub import AudioSegment
 import multiprocessing
 import soundfile as sf
-from kokoro import KPipeline # Import Kokoro
+from kokoro import KPipeline  # Import Kokoro
+from tqdm import tqdm # Import tqdm for progress bar
+
+
+INPUT_FILE = 'jordan1.txt'
+OUTPUT_FILE = '1.wav'
+OUTPUT_DIR = 'jordan_kokoro_2x'
 
 # Initialize Kokoro pipeline (moved outside process_chunk for efficiency)
-pipeline = KPipeline(lang_code='a') # American English
+pipeline = KPipeline(lang_code='a')  # American English
 
 def process_chunk(chunk_index, chunk, output_dir):
     """
@@ -22,22 +28,22 @@ def process_chunk(chunk_index, chunk, output_dir):
     """
     # Generate audio using Kokoro pipeline
     generator = pipeline(
-        chunk, voice='af_heart', # You can change voice here, 'af_heart' is an example
-        speed=1, split_pattern=r'\n+' # keep split_pattern in case chunks contain newlines
+        chunk, voice='af_heart',  # You can change voice here, 'af_heart' is an example
+        speed=2, split_pattern=r'\n+'  # keep split_pattern in case chunks contain newlines
     )
-    audio_chunk = None # Initialize audio_chunk to None
+    audio_chunk = None  # Initialize audio_chunk to None
 
     for i, (gs, ps, audio) in enumerate(generator):
-        audio_chunk = audio # Get the audio from the generator (assuming only one chunk per text chunk)
-        break # Exit loop after getting the audio once per chunk
+        audio_chunk = audio  # Get the audio from the generator (assuming only one chunk per text chunk)
+        break  # Exit loop after getting the audio once per chunk
 
     if audio_chunk is not None:
-        output_path = os.path.join(output_dir, f"chapter4_part{chunk_index + 1}.wav") # Keep chapter4 naming for consistency, you can change it
-        sf.write(output_path, audio_chunk, 24000) # Save audio using soundfile, 24000 rate from Kokoro example
+        output_path = os.path.join(output_dir, f"chapter4_part{chunk_index + 1}.wav")  # Keep chapter4 naming for consistency, you can change it
+        sf.write(output_path, audio_chunk, 24000)  # Save audio using soundfile, 24000 rate from Kokoro example
         return output_path
     else:
         print(f"Warning: No audio generated for chunk {chunk_index + 1}. Check the chunk content.")
-        return None # Return None if no audio was generated
+        return None  # Return None if no audio was generated
 
 
 # Function to split text into chunks (same as before)
@@ -62,18 +68,19 @@ if __name__ == "__main__":
     start_time = time.time()
 
     # Load text from the file
-    with open('jordan.txt', 'r', encoding='utf-8') as file:
+    with open(INPUT_FILE, 'r', encoding='utf-8') as file:
         text = file.read()
 
     # Split text into chunks
     text_chunks = split_text_into_chunks(text, max_length=250)
-    print(f"There are {len(text_chunks)} chunks")
+    num_chunks = len(text_chunks) # Get total number of chunks
+    print(f"There are {num_chunks} chunks")
 
     # Create output directory
-    output_dir = 'jordan_kokoro' # Changed output directory name to avoid confusion
+    output_dir = OUTPUT_DIR  # Changed output directory name to avoid confusion
     os.makedirs(output_dir, exist_ok=True)
 
-    # --- Multiprocessing Implementation ---
+    # --- Multiprocessing Implementation with Progress Tracking ---
     audio_files = []
     with multiprocessing.Pool() as pool:
         processes = []
@@ -82,10 +89,14 @@ if __name__ == "__main__":
             processes.append(process)
 
         print("Waiting for all chunks to be processed...")
-        for process in processes:
+        processed_chunks_count = 0
+        # Use tqdm to create a progress bar
+        for process in tqdm(processes, total=num_chunks, desc="Processing Chunks"):
             audio_file_path = process.get()
-            if audio_file_path: # Only append if audio file path is not None (audio was generated)
+            if audio_file_path:  # Only append if audio file path is not None (audio was generated)
                 audio_files.append(audio_file_path)
+            processed_chunks_count += 1
+            # print(f"Processed chunks: {processed_chunks_count}/{num_chunks}") # Basic progress print - replaced by tqdm
         print("All chunks processed.")
     # --- End Multiprocessing Implementation ---
 
@@ -96,7 +107,7 @@ if __name__ == "__main__":
         combined += audio
 
     # Export the combined audio to a single file
-    combined_output_path = os.path.join(output_dir, "1.wav") # Keep 01.wav output name
+    combined_output_path = os.path.join(output_dir, OUTPUT_FILE)  # Keep 01.wav output name
     combined.export(combined_output_path, format="wav")
 
     print(f"All chunks have been combined into '{combined_output_path}'.")
@@ -110,7 +121,12 @@ if __name__ == "__main__":
 
     print(f"There are {len(text_chunks)} chunks")
 
-https://github.com/remsky/Kokoro-FastAPI
+# https://github.com/remsky/Kokoro-FastAPI
 
 # Total execution time: 170.87 seconds
 # There are 154 chunks
+
+# All chunks processed.
+# All chunks have been combined into 'jordan_kokoro/1.wav'.
+# Total execution time: 6953.20 seconds
+# There are 4894 chunks
