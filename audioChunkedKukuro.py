@@ -14,9 +14,9 @@ from huggingface_hub import hf_hub_download
 from loguru import logger
 
 
-OUTPUT_DIR = 'out_parallel_custom_chunk'
+OUTPUT_DIR = 'civilization/output/1'
 os.makedirs(OUTPUT_DIR, exist_ok=True)
-
+FILE_NAME = 'civilization/1.txt'
 
 def custom_chunk_text(text: str, lang_code: str = 'a') -> List[Tuple[str, str]]:
     """
@@ -30,6 +30,7 @@ def custom_chunk_text(text: str, lang_code: str = 'a') -> List[Tuple[str, str]]:
         List[Tuple[str, str]]: A list of tuples, where each tuple contains (text_chunk, phoneme_chunk).
     """
     pipeline = KPipeline(lang_code=lang_code, model=False) # Initialize a "quiet" pipeline for G2P only
+    pipeline.g2p.nlp.max_length = 5000000
 
     if lang_code in 'ab': # English chunking
         _, tokens = pipeline.g2p(text) # Get tokens using kokoro's G2P
@@ -42,7 +43,7 @@ def custom_chunk_text(text: str, lang_code: str = 'a') -> List[Tuple[str, str]]:
                 t.phonemes = '' if t.phonemes is None else t.phonemes.replace('ɾ', 'T')
                 next_ps = t.phonemes + (' ' if t.whitespace else '')
                 next_pcount = pcount + len(next_ps.rstrip())
-                if next_pcount > 510: # Chunking limit
+                if next_pcount > 410: # Chunking limit
                     z = KPipeline.waterfall_last(tks, next_pcount)
                     text_chunk = KPipeline.tokens_to_text(tks[:z])
                     ps_chunk = KPipeline.tokens_to_ps(tks[:z])
@@ -99,16 +100,26 @@ if __name__ == "__main__":
     lang_code_to_use = 'a'
     num_processes = multiprocessing.cpu_count()
 
-    with open('jordan1.txt', 'r', encoding='utf-8') as file:
+    with open(FILE_NAME, 'r', encoding='utf-8') as file:
         text = file.read()
 
-    text_phoneme_chunks = custom_chunk_text(text, lang_code_to_use) # Custom chunking
+    text_phoneme_chunks = custom_chunk_text(text, lang_code_to_use)
+    total_chunks = len(text_phoneme_chunks)  # Get the total number of chunks
+    print(f"Total chunks to process: {total_chunks}")
+
 
     segment_tasks = []
     segment_index = 0
+    report_interval = 10  # Report progress every 10 chunks (or whatever you set)
+    chunks_processed = 0
+
     for chunk in text_phoneme_chunks:
         segment_tasks.append((chunk, voice_to_use, segment_index, lang_code_to_use))
         segment_index += 1
+        chunks_processed += 1
+
+        if chunks_processed % report_interval == 0 or chunks_processed == total_chunks:
+            print(f"Chunks processed: {chunks_processed} / {total_chunks}")
 
     filepaths_lists = []
     with multiprocessing.Pool(processes=num_processes) as pool:
