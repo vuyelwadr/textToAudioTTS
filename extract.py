@@ -9,8 +9,38 @@ import time
 logging.basicConfig(filename='pdf_extraction_errors.log', level=logging.ERROR,
                    format='%(asctime)s - %(levelname)s - %(message)s')
 
+# Helper function to sort text blocks by reading order
+def sort_blocks(blocks):
+    """Sort blocks by vertical position first, then by horizontal position for blocks in the same line"""
+    # Group blocks by lines (similar y-position)
+    line_threshold = 10  # pixels within which blocks are considered on the same line
+    lines = {}
+    
+    for block in blocks:
+        y_pos = block[1]  # y-coordinate of the block
+        
+        # Find a line this block belongs to
+        line_found = False
+        for line_y in lines.keys():
+            if abs(line_y - y_pos) < line_threshold:
+                lines[line_y].append(block)
+                line_found = True
+                break
+        
+        # If no matching line found, create a new one
+        if not line_found:
+            lines[y_pos] = [block]
+    
+    # Sort blocks within each line by x-position (left to right)
+    result = []
+    for y_pos in sorted(lines.keys()):
+        line_blocks = sorted(lines[y_pos], key=lambda b: b[0])  # Sort by x-coordinate
+        result.extend(line_blocks)
+        
+    return result
+
 # Function to extract text using PyMuPDF with batched processing
-def extract_with_pymupdf_batch(pdf_path, page_range):
+def extract_with_pymupdf_batch(pdf_path, page_range, extract_mode="text"):
     """Process a batch of pages at once for better performance"""
     try:
         import fitz  # PyMuPDF
@@ -20,9 +50,27 @@ def extract_with_pymupdf_batch(pdf_path, page_range):
         for page_num in page_range:
             if 0 <= page_num < len(doc):
                 page = doc[page_num]
-                text = page.get_text()
-                if text and len(text.strip()) > 0:
-                    results.append((page_num, text))
+                
+                if extract_mode == "blocks":
+                    # Extract as blocks for better reading order
+                    blocks = page.get_text("blocks")
+                    
+                    # Extract coordinates and text from each block
+                    text_blocks = [(block[0], block[1], block[4]) for block in blocks]
+                    
+                    # Sort blocks by position (top to bottom, left to right)
+                    sorted_blocks = sort_blocks(text_blocks)
+                    
+                    # Join the sorted text blocks
+                    text = "\n".join([block[2] for block in sorted_blocks])
+                    
+                    if text and len(text.strip()) > 0:
+                        results.append((page_num, text))
+                else:
+                    # Standard text extraction
+                    text = page.get_text()
+                    if text and len(text.strip()) > 0:
+                        results.append((page_num, text))
                     
         doc.close()
         return results
@@ -31,7 +79,7 @@ def extract_with_pymupdf_batch(pdf_path, page_range):
         return []
 
 # Function to extract text from a single page with robust error handling
-def extract_with_pymupdf(pdf_path, page_num=None):
+def extract_with_pymupdf(pdf_path, page_num=None, extract_mode="text"):
     try:
         import fitz  # PyMuPDF
         doc = fitz.open(pdf_path)
@@ -40,14 +88,30 @@ def extract_with_pymupdf(pdf_path, page_num=None):
             # Extract specific page
             if 0 <= page_num < len(doc):
                 page = doc[page_num]
-                text = page.get_text()
+                
+                if extract_mode == "blocks":
+                    # Extract as blocks for better reading order
+                    blocks = page.get_text("blocks")
+                    text_blocks = [(block[0], block[1], block[4]) for block in blocks]
+                    sorted_blocks = sort_blocks(text_blocks)
+                    text = "\n".join([block[2] for block in sorted_blocks])
+                else:
+                    text = page.get_text()
+                    
                 if text and len(text.strip()) > 0:
                     return page_num, text
         else:
             # Extract all pages and return as list
             text_list = []
             for i, page in enumerate(doc):
-                text = page.get_text()
+                if extract_mode == "blocks":
+                    blocks = page.get_text("blocks")
+                    text_blocks = [(block[0], block[1], block[4]) for block in blocks]
+                    sorted_blocks = sort_blocks(text_blocks)
+                    text = "\n".join([block[2] for block in sorted_blocks])
+                else:
+                    text = page.get_text()
+                    
                 if text and len(text.strip()) > 0:
                     text_list.append((i, text))
             return text_list
@@ -131,7 +195,7 @@ def process_batch_pypdf(pdf_path, batch_range):
         logging.error(f"Error in batch {batch_range}: {str(e)}")
         return {}
 
-def extract_text_from_pdf(pdf_path, txt_path, max_workers=None, batch_size=10, timeout=300):
+def extract_text_from_pdf(pdf_path, txt_path, max_workers=None, batch_size=10, timeout=300, extract_mode="blocks"):
     # If max_workers is not specified, use CPU count
     if max_workers is None:
         max_workers = max(1, multiprocessing.cpu_count() - 1)  # Leave one core free
@@ -141,7 +205,7 @@ def extract_text_from_pdf(pdf_path, txt_path, max_workers=None, batch_size=10, t
     # Step 1: Try PyMuPDF first (fastest method) with batched processing
     try:
         import fitz  # Check if PyMuPDF is available
-        print("Using PyMuPDF as primary extraction method")
+        print(f"Using PyMuPDF as primary extraction method (mode: {extract_mode})")
         
         start_time = time.time()
         # Open the document just to get the page count
@@ -159,7 +223,7 @@ def extract_text_from_pdf(pdf_path, txt_path, max_workers=None, batch_size=10, t
         with concurrent.futures.ProcessPoolExecutor(max_workers=max_workers) as executor:
             # Submit batch jobs
             future_to_batch = {
-                executor.submit(extract_with_pymupdf_batch, pdf_path, batch): batch 
+                executor.submit(extract_with_pymupdf_batch, pdf_path, batch, extract_mode): batch 
                 for batch in batches
             }
             
@@ -312,8 +376,8 @@ def extract_text_from_pdf(pdf_path, txt_path, max_workers=None, batch_size=10, t
         print("- Linux: apt-get install tesseract-ocr")
 
 if __name__ == "__main__":
-    pdf_path = 'civilization/civilization.pdf'  # Replace with your PDF file path
-    txt_path = 'civilization/civilization.txt'   # Output text file path
+    pdf_path = 'atlantis/atlantis.pdf'  # Replace with your PDF file path
+    txt_path = 'atlantis/atlantis.txt'   # Output text file path
     
-    # Using batched processing for better performance
-    extract_text_from_pdf(pdf_path, txt_path, batch_size=25)  # Process 25 pages in each batch
+    # Using batched processing for better performance and the blocks mode for better text order
+    extract_text_from_pdf(pdf_path, txt_path, batch_size=25, extract_mode="blocks")
