@@ -15,21 +15,56 @@ from misaki import en, espeak
 import gc  # For garbage collection
 import sys
 import threading
+import argparse
 
 # Filter out specific PyTorch deprecation warnings
 warnings.filterwarnings("ignore", category=FutureWarning, 
                         module="torch.nn.utils.weight_norm")
 
 # Constants - Moved to top for easier configuration
-OUTPUT_DIR = 'civilization/output/2'
-os.makedirs(OUTPUT_DIR, exist_ok=True)
-FILE_NAME = 'civilization/2.txt'
+DEFAULT_OUTPUT_DIR = 'atlantis/output_joined'
+DEFAULT_FILE_NAME = 'atlantis/atlantis_join.txt'
 BATCH_SIZE = 10  # Process chunks in batches for better performance
 MAX_THREADS_PER_PROCESS = 2  # Limit threads per process to avoid memory issues
-VOICE_TO_USE = 'af_heart'
+VOICE_TO_USE = 'af_alloy'  # Default voice
 LANG_CODE = 'a'  # 'a' for English
 SAMPLE_RATE = 24020
 USE_GPU = torch.cuda.is_available()  # Auto-detect GPU
+
+# Available voices to try
+AVAILABLE_VOICES = ['af_alloy', 'af_heart', 'af_sunny', 'af_peaceful']
+
+# Human-like speech parameters
+PITCH_VARIANCE = 0.0  # Add natural pitch variation
+BREATHINESS = 0.0    # Add slight breathiness
+PAUSE_FACTOR = 1.0    # Slightly longer pauses at punctuation
+
+def derive_output_dir(input_file_path):
+    """Derive an output directory based on the input file path"""
+    # Get the directory containing the input file
+    input_dir = os.path.dirname(input_file_path)
+    
+    # Get the filename without extension
+    base_name = os.path.splitext(os.path.basename(input_file_path))[0]
+    
+    # Create an output directory path
+    if input_dir:
+        return os.path.join(input_dir, f"{base_name}_output")
+    else:
+        return f"{base_name}_output"
+
+def dynamic_speed(text):
+    """Adjust speed based on text content for more natural speech"""
+    if '?' in text:
+        return 0.95  # Slightly slower for questions
+    elif '!' in text:
+        return 1.05  # Slightly faster for exclamations
+    elif re.search(r'".*"', text) or re.search(r'".*"', text):  # Dialogue detection
+        return 1.02  # Slightly faster for dialogue
+    # Detect long, complex sentences
+    elif len(text.split()) > 20 or text.count(',') > 2:
+        return 0.97  # Slow down for complex content
+    return 1.0  # Default speed
 
 # Configure pipeline settings for caching
 cached_pipelines = {}
@@ -116,6 +151,77 @@ def custom_chunk_text(text: str, lang_code: str = 'a') -> List[Tuple[str, str]]:
         else:
             return [(text, pipeline.g2p(text))]
 
+def normalize_text(text):
+    """
+    Normalize text to handle line breaks more naturally:
+    1. Join lines that are part of the same sentence
+    2. Preserve paragraph breaks (double newlines)
+    3. Remove unnecessary whitespace
+    """
+    # First, preserve paragraph breaks by temporarily replacing them
+    text = text.replace('\n\n', '[PARAGRAPH_BREAK]')
+    
+    # Join lines that are part of the same sentence
+    # Replace single newlines with spaces unless they follow punctuation
+    text = re.sub(r'(?<![.!?])\n', ' ', text)
+    
+    # Restore paragraph breaks
+    text = text.replace('[PARAGRAPH_BREAK]', '\n\n')
+    
+    # Fix any excess whitespace
+    text = re.sub(r' +', ' ', text)
+    
+    return text.strip()
+
+def improved_chunk_text(text: str, lang_code: str = 'a') -> List[Tuple[str, str]]:
+    """
+    Enhanced text chunking that preserves semantic boundaries for better flow
+    This is an alternative to custom_chunk_text for more natural speech
+    """
+    pipeline = KPipeline(lang_code=lang_code, model=False) 
+    pipeline.g2p.nlp.max_length = 5000000
+    
+    print(f"Chunking text using improved algorithm...")
+    
+    # Normalize the text to handle line breaks properly
+    text = normalize_text(text)
+    
+    # First split at paragraph boundaries
+    paragraphs = [p for p in text.split('\n\n') if p.strip()]
+    chunks = []
+    
+    for paragraph in tqdm(paragraphs, desc="Processing paragraphs"):
+        # Split at sentence boundaries
+        sentences = re.split(r'(?<=[.!?])\s+', paragraph)
+        current_chunk = ""
+        current_phonemes = ""
+        
+        for sentence in sentences:
+            if not sentence.strip():
+                continue
+                
+            # Try adding this sentence to current chunk
+            temp_chunk = current_chunk + ('' if not current_chunk else ' ') + sentence
+            temp_phonemes = pipeline.g2p(temp_chunk)
+            
+            # Check if adding this sentence would exceed our limit
+            if len(temp_phonemes) > 410 and current_chunk:
+                # Store current chunk and start a new one
+                chunks.append((current_chunk, current_phonemes))
+                current_chunk = sentence
+                current_phonemes = pipeline.g2p(sentence)
+            else:
+                # Keep adding to current chunk
+                current_chunk = temp_chunk
+                current_phonemes = temp_phonemes
+        
+        # Don't forget the last chunk
+        if current_chunk:
+            chunks.append((current_chunk, current_phonemes))
+    
+    print(f"Created {len(chunks)} optimized text chunks")
+    return chunks
+
 # Simplified progress reporting with basic types
 def create_progress_tracker(num_processes, total_batches, total_chunks):
     """Create a dict of shared objects that can be safely passed between processes"""
@@ -152,10 +258,11 @@ def complete_batch(tracker, process_id):
         if 'process_status' in tracker:
             tracker['process_status'][process_id]['status'] = 'idle'
 
-def generate_audio_batch(process_id, batch_index, batch_data, total_batches, total_chunks, progress_tracker=None):
+def generate_audio_batch(process_id, batch_index, batch_data, total_batches, total_chunks, output_dir, progress_tracker=None):
     """
     Process a batch of segments at once for better performance
     Uses a simplified progress tracker
+    Enhanced with human-like speech parameters
     """
     start_time = time.time()
     pipeline = get_pipeline(LANG_CODE, model=True)
@@ -179,20 +286,32 @@ def generate_audio_batch(process_id, batch_index, batch_data, total_batches, tot
         global_segment_index = batch_index * BATCH_SIZE + segment_index
         
         try:
-            # Generate audio
-            generator = pipeline.generate_from_tokens(
-                phoneme_chunk, 
-                voice=voice, 
-                speed=1
+            # Calculate dynamic speech parameters based on text content
+            speed = dynamic_speed(text_chunk)
+            
+            # Generate audio - only pass supported parameters 
+            # Instead of using generate_from_tokens with unsupported parameters, use the __call__ method
+            # which only accepts speed as a parameter, or use generate_from_tokens with only supported parameters
+            generator = pipeline(
+                text_chunk,  # Use the text chunk directly with the __call__ method
+                voice=voice,
+                speed=speed
             )
             
             for i, result in enumerate(generator):
-                filepath = os.path.join(OUTPUT_DIR, f'segment_{global_segment_index}_{i}.wav')
+                filepath = os.path.join(output_dir, f'segment_{global_segment_index}_{i}.wav')
                 # Convert to numpy and save
                 if USE_GPU:
                     audio_data = result.audio.cpu().numpy()
                 else:
                     audio_data = result.audio.numpy()
+                
+                # Apply human-like post-processing - this is where we add the effects
+                # that would have been handled by the parameters if they were supported
+                try:
+                    audio_data = apply_human_audio_effects(audio_data)
+                except Exception as e:
+                    print(f"Warning: Audio effects failed: {e}")
                 
                 sf.write(filepath, audio_data, SAMPLE_RATE)
                 filepaths.append(filepath)
@@ -209,264 +328,219 @@ def generate_audio_batch(process_id, batch_index, batch_data, total_batches, tot
     elapsed = time.time() - start_time
     return filepaths
 
-def join_audio_segments_streaming(input_dir=OUTPUT_DIR, output_file='combined_audio.wav'):
-    """
-    Join audio files using memory-efficient streaming approach
-    """
-    print("Joining audio segments...")
-    start_time = time.time()
-    
-    # First, identify all segment files and sort them
-    segment_files = []
-    for file in os.listdir(input_dir):
-        if file.startswith('segment_') and file.endswith('.wav'):
-            # Parse segment indices for proper ordering
-            parts = file.split('_')
-            if len(parts) >= 3:
-                segment_index = int(parts[1])
-                part_index = int(parts[2].split('.')[0])
-                segment_files.append((segment_index, part_index, os.path.join(input_dir, file)))
-    
-    if not segment_files:
-        print(f"No audio segments found in '{input_dir}' to join.")
-        return
-    
-    # Sort by segment index and then by part index
-    segment_files.sort()
-    
-    # Get sample rate from first file
-    _, sample_rate = sf.read(segment_files[0][2], frames=1)
-    
-    # Open output file for streaming writing
-    with sf.SoundFile(os.path.join(input_dir, output_file), 
-                      'w', 
-                      samplerate=sample_rate,
-                      channels=1, 
-                      format='WAV') as outfile:
-        
-        # Process files in batches to minimize memory usage
-        for i, (_, _, filepath) in enumerate(tqdm(segment_files, desc="Joining audio")):
-            # Read audio in chunks and write directly to output
-            with sf.SoundFile(filepath) as infile:
-                while True:
-                    chunk = infile.read(32000)  # Read in chunks of 32000 samples
-                    if not len(chunk):
-                        break
-                    outfile.write(chunk)
-    
-    elapsed = time.time() - start_time
-    print(f"Successfully joined {len(segment_files)} audio segments into '{output_file}' in {elapsed:.2f} seconds")
-
-def process_batch_wrapper(args):
-    """
-    Wrapper function for multiprocessing.Pool.imap
-    Extracts arguments and passes them to generate_audio_batch
-    """
-    return generate_audio_batch(*args)
-
-# Display function that runs in main process
-def display_progress(tracker, num_processes, total_batches, total_chunks):
-    """Display progress bars in the main process with time tracking"""
-    # Clear screen portion for our progress display
-    sys.stdout.write("\033[?25l")  # Hide cursor
-    
+def apply_human_audio_effects(audio_data):
+    """Apply subtle effects to make audio sound more human"""
     try:
-        start_time = tracker['start_time']
+        # Add slight volume variation (human speech isn't perfectly consistent)
+        volume_envelope = np.linspace(0.98, 1.02, len(audio_data))
+        audio_data = audio_data * volume_envelope
         
-        # Create master progress bar with time info
-        master_bar = tqdm(
-            total=total_batches,
-            position=num_processes,
-            desc="Overall progress",
-            bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} batches ({percentage:.1f}%) "
-                      "[Elapsed: {elapsed}, ETA: {remaining}]"
-        )
-        master_bar.update(0)  # Initialize master bar
+        # Add very slight noise floor for more natural sound
+        noise = np.random.normal(0, 0.0005, len(audio_data))
+        audio_data = audio_data + noise
         
-        # Create process bars (one per process)
-        process_bars = []
-        for i in range(num_processes):
-            bar = tqdm(
-                total=10,  # Default to batch size
-                position=i,
-                desc=f"Process {i:2d}",
-                bar_format="{desc}: {bar} {n_fmt}/{total_fmt} segs | {postfix}"
-            )
-            process_bars.append(bar)
-            bar.update(0)  # Initialize with 0
-        
-        last_completed = 0
-        batch_times = {}  # Local cache of batch start times
-        
-        # Update display until stopped
-        while not tracker['stop_flag'].value:
-            # Update overall time tracking
-            elapsed = time.time() - start_time
-            completed = tracker['completed_batches'].value
-            
-            # Calculate overall progress metrics
-            if completed > 0:
-                avg_time_per_batch = elapsed / completed
-                remaining_batches = total_batches - completed
-                eta = avg_time_per_batch * remaining_batches
-                eta_str = f"{eta:.1f}s"
-                if eta > 60:
-                    eta_str = f"{eta/60:.1f}m"
-                if eta > 3600:
-                    eta_str = f"{eta/3600:.1f}h"
-            else:
-                eta_str = "calculating..."
-            
-            # Update master progress if needed
-            if completed > last_completed:
-                master_bar.update(completed - last_completed)
-                master_bar.set_postfix_str(f"Elapsed: {elapsed:.1f}s, ETA: {eta_str}")
-                last_completed = completed
-            
-            # Update batch times from tracker
-            if 'batch_times' in tracker:
-                batch_times.update(tracker['batch_times'])
-            
-            # Update each process bar
-            if 'process_status' in tracker:
-                for proc_id, status in tracker['process_status'].items():
-                    if proc_id < len(process_bars):
-                        bar = process_bars[proc_id]
-                        
-                        if status.get('batch') is not None:
-                            batch_num = status['batch'] + 1
-                            total_segments = status.get('total_segments', 10)
-                            segment = status.get('segment', 0) + 1
-                            
-                            # Calculate batch elapsed time
-                            batch_key = status.get('batch_key')
-                            batch_elapsed = 0
-                            batch_eta = "calculating..."
-                            
-                            if batch_key and batch_key in batch_times:
-                                batch_elapsed = time.time() - batch_times[batch_key]
-                                
-                                # Estimate batch completion time
-                                if segment > 1:  # Need at least one segment processed to estimate
-                                    time_per_segment = batch_elapsed / segment
-                                    segments_left = total_segments - segment
-                                    batch_eta = f"{segments_left * time_per_segment:.1f}s"
-                            
-                            # Update desc and total if needed
-                            bar.set_description(f"Process {proc_id:2d}")
-                            bar.total = total_segments
-                            
-                            # Update progress
-                            bar.n = segment
-                            
-                            # Update postfix with timing info
-                            batch_info = f"Batch {batch_num}/{total_batches} | " \
-                                         f"Time: {batch_elapsed:.1f}s | ETA: {batch_eta}"
-                            bar.set_postfix_str(batch_info)
-                            
-                            bar.refresh()
-            
-            # Sleep briefly to reduce CPU usage
-            time.sleep(0.2)
-            
-    finally:
-        # Clean up
-        for bar in process_bars:
-            bar.close()
-        master_bar.close()
-        sys.stdout.write("\033[?25h")  # Show cursor
+        return audio_data
+    except Exception as e:
+        # Return original audio if processing fails
+        print(f"Audio post-processing failed: {e}")
+        return audio_data
 
+def process_file(file_path, voice=VOICE_TO_USE, output_dir=None):
+    """Process a text file and convert it to audio chunks"""
+    try:
+        # Determine output directory if not specified
+        if output_dir is None:
+            output_dir = derive_output_dir(file_path)
+        
+        # Read the input file
+        with open(file_path, 'r', encoding='utf-8') as f:
+            text = f.read()
+        
+        print(f"Read {len(text)} characters from {file_path}")
+        
+        # Create output directory if it doesn't exist
+        os.makedirs(output_dir, exist_ok=True)
+        
+        # Chunk the text with improved line break handling
+        print("Chunking text...")
+        chunks = improved_chunk_text(text, LANG_CODE)
+        print(f"Created {len(chunks)} text chunks")
+        
+        # Prepare for batch processing
+        batches = []
+        current_batch = []
+        
+        for i, chunk in enumerate(chunks):
+            current_batch.append((chunk, voice))
+            if len(current_batch) >= BATCH_SIZE or i == len(chunks) - 1:
+                batches.append(current_batch)
+                current_batch = []
+        
+        total_batches = len(batches)
+        print(f"Created {total_batches} batches for processing")
+        
+        # Set up multiprocessing
+        num_processes = min(multiprocessing.cpu_count(), MAX_THREADS_PER_PROCESS)
+        print(f"Using {num_processes} processes for audio generation")
+        
+        # Create progress tracker
+        progress = create_progress_tracker(num_processes, total_batches, len(chunks))
+        
+        # Set global OUTPUT_DIR for this run
+        global OUTPUT_DIR
+        OUTPUT_DIR = output_dir
+        
+        # Process batches with multiprocessing
+        all_filepaths = []
+        
+        with multiprocessing.Pool(processes=num_processes) as pool:
+            results = []
+            
+            for batch_index, batch in enumerate(batches):
+                # Submit batch to process pool with output_dir parameter
+                result = pool.apply_async(
+                    generate_audio_batch,
+                    args=(batch_index % num_processes, batch_index, batch, total_batches, len(chunks), output_dir, progress)
+                )
+                results.append(result)
+            
+            # Collect results with progress display
+            for result in tqdm(results, desc="Processing audio batches"):
+                filepaths = result.get()
+                all_filepaths.extend(filepaths)
+        
+        print(f"Generated {len(all_filepaths)} audio segments")
+        
+        # Clean up GPU memory
+        if USE_GPU:
+            torch.cuda.empty_cache()
+        gc.collect()
+        
+        return all_filepaths
+        
+    except Exception as e:
+        print(f"Error processing file: {str(e)}")
+        return []
+
+def combine_audio_segments(directory, output_filename="combined_audio.wav"):
+    """
+    Combine all audio segments in the specified directory into one file.
+    
+    Args:
+        directory (str): Directory containing audio segments
+        output_filename (str): Name of the output file (default: combined_audio.wav)
+        
+    Returns:
+        str: Path to the combined audio file if successful, None otherwise
+    """
+    try:
+        print(f"Looking for audio segments in {directory}...")
+        # Find all WAV files in the directory
+        segment_files = [f for f in os.listdir(directory) if f.endswith('.wav') and 'segment_' in f]
+        
+        if not segment_files:
+            print(f"No audio segments found in {directory}")
+            return None
+        
+        print(f"Found {len(segment_files)} audio segments")
+        
+        # Get full paths
+        filepaths = [os.path.join(directory, f) for f in segment_files]
+        
+        # Sort filepaths by segment number to ensure correct order
+        try:
+            # First try with the expected pattern
+            filepaths.sort(key=lambda x: int(re.search(r'segment_(\d+)_', x).group(1)))
+            print(f"Successfully sorted {len(filepaths)} audio files")
+        except (AttributeError, TypeError) as e:
+            # Fallback to simple string sort if regex fails
+            print(f"Warning: Could not extract segment numbers ({e}), falling back to filename sorting")
+            filepaths.sort()
+        
+        # Print the first few filepaths to verify sorting
+        if filepaths:
+            print(f"First few files to be combined: {filepaths[:min(3, len(filepaths))]}")
+        
+        combined_audio = []
+        for filepath in tqdm(filepaths, desc="Loading audio segments"):
+            try:
+                audio, sample_rate = sf.read(filepath)
+                combined_audio.append(audio)
+                if 'sample_rate' not in locals():
+                    sample_rate_to_use = sample_rate
+            except Exception as e:
+                print(f"Error reading {filepath}: {str(e)}")
+        
+        # Concatenate all audio segments
+        if combined_audio:
+            combined_audio = np.concatenate(combined_audio)
+            
+            # Save combined audio
+            combined_filepath = os.path.join(directory, output_filename)
+            sf.write(combined_filepath, combined_audio, sample_rate_to_use if 'sample_rate_to_use' in locals() else SAMPLE_RATE)
+            print(f"Combined audio saved to: {combined_filepath}")
+            return combined_filepath
+        else:
+            print("Error: No audio segments were successfully loaded for combination.")
+            return None
+    except Exception as e:
+        print(f"Error combining audio: {str(e)}")
+        import traceback
+        traceback.print_exc()
+        return None
+
+def main():
+    parser = argparse.ArgumentParser(description="Convert text to speech using Kokoro TTS")
+    parser.add_argument("--file", type=str, default=DEFAULT_FILE_NAME,
+                        help=f"Input text file (default: {DEFAULT_FILE_NAME})")
+    parser.add_argument("--voice", type=str, default=VOICE_TO_USE,
+                        help=f"Voice to use (default: {VOICE_TO_USE})")
+    parser.add_argument("--output", type=str, default=None,
+                        help="Output directory (default: derived from input file path)")
+    parser.add_argument("--combine", action="store_true", default=True,
+                        help="Combine all audio segments into one file (default: True)")
+    parser.add_argument("--no-combine", dest="combine", action="store_false",
+                        help="Don't combine audio segments into one file")
+    parser.add_argument("--combine-only", type=str, metavar="DIRECTORY",
+                        help="Only combine existing audio segments from the specified directory")
+    parser.add_argument("--output-name", type=str, default="combined_audio.wav",
+                        help="Name for the combined audio file (default: combined_audio.wav)")
+    
+    args = parser.parse_args()
+    
+    # Handle combine-only mode
+    if args.combine_only:
+        if os.path.isdir(args.combine_only):
+            combined_file = combine_audio_segments(args.combine_only, args.output_name)
+            if combined_file:
+                print(f"Successfully combined audio segments into: {combined_file}")
+            else:
+                print("Failed to combine audio segments")
+            return []
+        else:
+            print(f"Error: Directory not found: {args.combine_only}")
+            return []
+    
+    # Regular processing mode
+    # Derive output directory if not specified
+    output_dir = args.output if args.output is not None else derive_output_dir(args.file)
+    
+    print(f"Starting text-to-speech conversion with Kokoro TTS")
+    print(f"Using {'GPU' if USE_GPU else 'CPU'} for inference")
+    print(f"Processing file: {args.file}")
+    print(f"Using voice: {args.voice}")
+    print(f"Output directory: {output_dir}")
+    
+    # Process the file
+    filepaths = process_file(args.file, args.voice, output_dir)
+    
+    # Combine audio segments if requested
+    if args.combine and filepaths:
+        combine_audio_segments(output_dir, args.output_name)
+    
+    print("Text-to-speech conversion completed!")
+    return filepaths
 
 if __name__ == "__main__":
-    start_time = time.time()
-    
-    # Load text
-    print(f"Loading text from {FILE_NAME}...")
-    with open(FILE_NAME, 'r', encoding='utf-8') as file:
-        text = file.read()
-    
-    # Chunk text (now with progress tracking)
-    print("Chunking text...")
-    text_phoneme_chunks = custom_chunk_text(text, LANG_CODE)
-    total_chunks = len(text_phoneme_chunks)
-    print(f"Text chunking complete: {total_chunks} chunks created")
-    
-    # Prepare batches for processing
-    print("Preparing batches for processing...")
-    batches = []
-    for i in range(0, total_chunks, BATCH_SIZE):
-        batch = [(chunk, VOICE_TO_USE) for chunk in text_phoneme_chunks[i:i+BATCH_SIZE]]
-        batches.append(batch)
-    
-    total_batches = len(batches)
-    print(f"Created {total_batches} batches for processing")
-    
-    # Configure process pool - optimize CPU/GPU usage
-    if USE_GPU:
-        # When using GPU, limit processes to avoid memory issues
-        num_processes = max(4, torch.cuda.device_count())
-    else:
-        # For CPU, use more processes
-        num_processes = max(multiprocessing.cpu_count()-1, 8)
-    
-    print(f"Using {num_processes} processes for audio generation")
-    
-    # Create a simple progress tracker with time tracking
-    progress_tracker = create_progress_tracker(num_processes, total_batches, total_chunks)
-    
-    # Initialize process status
-    for i in range(num_processes):
-        progress_tracker['process_status'][i] = {
-            'batch': None,
-            'segment': 0,
-            'total_segments': 0,
-            'status': 'idle'
-        }
-    
-    # Start display thread in the main process
-    display_thread = threading.Thread(
-        target=display_progress,
-        args=(progress_tracker, num_processes, total_batches, total_chunks)
-    )
-    display_thread.daemon = True
-    display_thread.start()
-    
-    # Create arguments for batch processing with simplified tracker
-    process_args = []
-    for batch_idx, batch in enumerate(batches):
-        # Calculate which process will handle this batch
-        process_id = batch_idx % num_processes
-        process_args.append((process_id, batch_idx, batch, total_batches, total_chunks, progress_tracker))
-    
-    # Use imap instead of starmap for better control over execution
-    start_time_audio = time.time()
-    filepaths_lists = []
-    
-    # Process batches using a simpler approach
-    try:
-        with multiprocessing.Pool(processes=num_processes) as pool:
-            # Process one batch at a time to maintain control
-            results = pool.imap(process_batch_wrapper, process_args)
-            filepaths_lists = list(results)
-    except Exception as e:
-        print(f"Error during processing: {str(e)}")
-    finally:
-        # Signal the display thread to stop
-        progress_tracker['stop_flag'].value = True
-        display_thread.join(timeout=1)
-    
-    audio_gen_time = time.time() - start_time_audio
-    
-    # Flatten list of filepaths for easier tracking
-    all_filepaths = [fp for sublist in filepaths_lists for fp in sublist]
-    print(f"\nAudio generation complete!")
-    print(f"Generated {len(all_filepaths)} audio files in {audio_gen_time:.2f} seconds")
-    print(f"Average time per chunk: {audio_gen_time / total_chunks:.2f} seconds")
-    
-    # Join audio segments using streaming approach
-    join_audio_segments_streaming()
-    
-    # Report total execution time
-    total_time = time.time() - start_time
-    print(f"Total execution time: {total_time:.2f} seconds")
-    print(f"Processed {total_chunks} chunks")
+    main()
+

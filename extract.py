@@ -375,9 +375,41 @@ def extract_text_from_pdf(pdf_path, txt_path, max_workers=None, batch_size=10, t
         print("- macOS: brew install tesseract")
         print("- Linux: apt-get install tesseract-ocr")
 
-if __name__ == "__main__":
-    pdf_path = 'atlantis/atlantis.pdf'  # Replace with your PDF file path
-    txt_path = 'atlantis/atlantis.txt'   # Output text file path
+def derive_output_path(pdf_path):
+    """Derive an output text file path based on the input PDF path"""
+    # Get the directory and filename without extension
+    dirname = os.path.dirname(pdf_path)
+    basename = os.path.splitext(os.path.basename(pdf_path))[0]
     
-    # Using batched processing for better performance and the blocks mode for better text order
-    extract_text_from_pdf(pdf_path, txt_path, batch_size=25, extract_mode="blocks")
+    # Create output text file path with same name but .txt extension
+    if dirname:
+        return os.path.join(dirname, f"{basename}.txt")
+    else:
+        return f"{basename}.txt"
+
+if __name__ == "__main__":
+    import argparse
+    
+    # Set up command line argument parsing
+    parser = argparse.ArgumentParser(description="Extract text from PDF files with robust fallback methods")
+    parser.add_argument("pdf_path", help="Path to the PDF file for text extraction")
+    parser.add_argument("--output", "-o", help="Output text file path (default: derived from input filename)")
+    parser.add_argument("--batch-size", "-b", type=int, default=25, help="Batch size for processing (default: 25)")
+    parser.add_argument("--workers", "-w", type=int, default=None, 
+                        help="Number of worker processes (default: CPU count - 1)")
+    parser.add_argument("--mode", "-m", choices=["text", "blocks"], default="blocks",
+                        help="Text extraction mode (default: blocks)")
+    
+    # Parse the arguments
+    args = parser.parse_args()
+    
+    # Derive output path if not specified
+    txt_path = args.output if args.output else derive_output_path(args.pdf_path)
+    
+    print(f"Extracting text from: {args.pdf_path}")
+    print(f"Saving output to: {txt_path}")
+    print(f"Using extraction mode: {args.mode}")
+    
+    # Run the extraction with the provided parameters
+    extract_text_from_pdf(args.pdf_path, txt_path, max_workers=args.workers, 
+                         batch_size=args.batch_size, extract_mode=args.mode)
