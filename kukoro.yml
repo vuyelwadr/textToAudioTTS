@@ -1,0 +1,21 @@
+name: kokoro_env
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.10
+  - pip=23.0
+  - pytorch
+  - numpy
+  - pillow
+  - tqdm
+  - pip:
+    - PyMuPDF  # for fitz module
+    - pypdf
+    - pdf2image
+    - pytesseract
+    - soundfile
+    - kokoro
+    - misaki
+    - dstack

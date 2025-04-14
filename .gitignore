@@ -2,6 +2,7 @@
 /venv
 /outetts
 /kukuro
+/kukuro1
 
 *.wav
 *.txt

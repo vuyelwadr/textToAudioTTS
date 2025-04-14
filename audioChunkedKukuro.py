@@ -275,7 +275,7 @@ def generate_audio_batch(process_id, batch_index, batch_data, total_batches, tot
     total_segments = len(batch_data)
     
     # Update progress tracker at start
-    update_progress(progress_tracker, process_id, batch_index, 0, total_segments)
+    update_progress(progress_tracker, process_id, 0, 0, total_segments)
     
     # Process each segment in the batch
     for segment_index, (segment_data, voice) in enumerate(batch_data):
@@ -379,37 +379,34 @@ def process_file(file_path, voice=VOICE_TO_USE, output_dir=None):
         total_batches = len(batches)
         print(f"Created {total_batches} batches for processing")
         
-        # Set up multiprocessing
-        num_processes = min(multiprocessing.cpu_count(), MAX_THREADS_PER_PROCESS)
-        print(f"Using {num_processes} processes for audio generation")
+        # Set up for single-process execution
+        print(f"Using single process for audio generation on {'GPU' if USE_GPU else 'CPU'}")
         
-        # Create progress tracker
-        progress = create_progress_tracker(num_processes, total_batches, len(chunks))
+        # Create simplified progress tracker
+        start_time = time.time()
         
         # Set global OUTPUT_DIR for this run
         global OUTPUT_DIR
         OUTPUT_DIR = output_dir
         
-        # Process batches with multiprocessing
+        # Process batches with a single process
         all_filepaths = []
         
-        with multiprocessing.Pool(processes=num_processes) as pool:
-            results = []
-            
-            for batch_index, batch in enumerate(batches):
-                # Submit batch to process pool with output_dir parameter
-                result = pool.apply_async(
-                    generate_audio_batch,
-                    args=(batch_index % num_processes, batch_index, batch, total_batches, len(chunks), output_dir, progress)
-                )
-                results.append(result)
-            
-            # Collect results with progress display
-            for result in tqdm(results, desc="Processing audio batches"):
-                filepaths = result.get()
-                all_filepaths.extend(filepaths)
+        # Process each batch sequentially using a single process
+        for batch_index, batch in tqdm(enumerate(batches), desc="Processing audio batches", total=total_batches):
+            # Generate audio for this batch directly
+            filepaths = generate_audio_batch(
+                0,  # Single process ID is always 0
+                batch_index, 
+                batch, 
+                total_batches, 
+                len(chunks), 
+                output_dir, 
+                None  # No need for progress tracker with single process
+            )
+            all_filepaths.extend(filepaths)
         
-        print(f"Generated {len(all_filepaths)} audio segments")
+        print(f"Generated {len(all_filepaths)} audio segments in {time.time() - start_time:.2f} seconds")
         
         # Clean up GPU memory
         if USE_GPU:
@@ -491,7 +488,7 @@ def combine_audio_segments(directory, output_filename="combined_audio.wav"):
 
 def main():
     parser = argparse.ArgumentParser(description="Convert text to speech using Kokoro TTS")
-    parser.add_argument("--file", type=str, default=DEFAULT_FILE_NAME,
+    parser.add_argument("file", type=str, default=DEFAULT_FILE_NAME,
                         help=f"Input text file (default: {DEFAULT_FILE_NAME})")
     parser.add_argument("--voice", type=str, default=VOICE_TO_USE,
                         help=f"Voice to use (default: {VOICE_TO_USE})")
