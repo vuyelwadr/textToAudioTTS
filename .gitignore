@@ -7,3 +7,15 @@
 *.wav
 *.txt
 *.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Playwright/Testing
+debug_download/
+tts_output/
+tts_online_output/
