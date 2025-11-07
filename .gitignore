@@ -7,3 +7,18 @@
 *.wav
 *.txt
 *.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Test outputs
+mock_test_output/
+real_test_output/
+test_*_concurrent/
+*_tts_output/
+test_results*.txt
+test_results*.json
