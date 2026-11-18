@@ -1,0 +1,19 @@
+{
+  "item": {
+    "index": 15,
+    "video_id": "L6aFtojvzZc",
+    "title": "The Dream of a Young King. Leo Tolstoy's \"The Young Csar.\"",
+    "duration": 1919,
+    "url": "https://www.youtube.com/watch?v=L6aFtojvzZc",
+    "slug": "theDreamOfAYoungKing"
+  },
+  "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDreamOfAYoungKing",
+  "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDreamOfAYoungKing/raw_audio/theDreamOfAYoungKing.webm",
+  "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDreamOfAYoungKing/video_work/theDreamOfAYoungKing_audio_16k.wav",
+  "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDreamOfAYoungKing/theDreamOfAYoungKingTranscript.json",
+  "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDreamOfAYoungKing/theDreamOfAYoungKingTranscript.txt",
+  "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDreamOfAYoungKing/theDreamOfAYoungKing.txt",
+  "chunks": 30,
+  "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDreamOfAYoungKing/video_work/theDreamOfAYoungKing_chunk_audio_joined.wav",
+  "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDreamOfAYoungKing/theDreamOfAYoungKing_neuralsurfer.mp4"
+}

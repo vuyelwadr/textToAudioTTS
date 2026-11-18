@@ -1,0 +1,222 @@
+{
+  "created_at": "2026-04-12T17:08:14.074754+00:00",
+  "reference_audio": "assets/audio_samples/brothersKarmatzov.mp3",
+  "reference_transcript": "assets/audio_samples/brothersKarmatzov.transcript.auto.txt",
+  "inputs_dir": "experiments/tts_naturalness/inputs",
+  "output_dir": "experiments/tts_naturalness/inputs/passage_bank",
+  "target_words": 900,
+  "min_words": 800,
+  "max_words": 1100,
+  "paragraph_words": 180,
+  "existing_input_count": 7,
+  "generated_passage_count": 2,
+  "entry_count": 9,
+  "entries": [
+    {
+      "passage_id": "naturalness_prompt",
+      "order": 1,
+      "source_type": "existing_input",
+      "source_path": "experiments/tts_naturalness/inputs/naturalness_prompt.txt",
+      "role": "smoke",
+      "notes": "Short smoke check.",
+      "generated": false,
+      "word_count": 34,
+      "paragraph_count": 1
+    },
+    {
+      "passage_id": "long_audiobook_test",
+      "order": 2,
+      "source_type": "existing_input",
+      "source_path": "experiments/tts_naturalness/inputs/long_audiobook_test.txt",
+      "role": "long_narration",
+      "notes": "Original long narration baseline.",
+      "generated": false,
+      "word_count": 946,
+      "paragraph_count": 1
+    },
+    {
+      "passage_id": "dialogue_test",
+      "order": 3,
+      "source_type": "existing_input",
+      "source_path": "experiments/tts_naturalness/inputs/dialogue_test.txt",
+      "role": "dialogue_stress",
+      "notes": "Short dialogue stress test.",
+      "generated": false,
+      "word_count": 143,
+      "paragraph_count": 1
+    },
+    {
+      "passage_id": "description_test",
+      "order": 4,
+      "source_type": "existing_input",
+      "source_path": "experiments/tts_naturalness/inputs/description_test.txt",
+      "role": "description_stress",
+      "notes": "Short description stress test.",
+      "generated": false,
+      "word_count": 164,
+      "paragraph_count": 1
+    },
+    {
+      "passage_id": "descriptive_test_long",
+      "order": 5,
+      "source_type": "existing_input",
+      "source_path": "experiments/tts_naturalness/inputs/descriptive_test_long.txt",
+      "role": "long_description",
+      "notes": "Long descriptive stress test.",
+      "generated": false,
+      "word_count": 785,
+      "paragraph_count": 1
+    },
+    {
+      "passage_id": "dialogue_test_long",
+      "order": 6,
+      "source_type": "existing_input",
+      "source_path": "experiments/tts_naturalness/inputs/dialogue_test_long.txt",
+      "role": "long_dialogue",
+      "notes": "Long dialogue stress test.",
+      "generated": false,
+      "word_count": 489,
+      "paragraph_count": 1
+    },
+    {
+      "passage_id": "narrative_test_long",
+      "order": 7,
+      "source_type": "existing_input",
+      "source_path": "experiments/tts_naturalness/inputs/narrative_test_long.txt",
+      "role": "long_narrative",
+      "notes": "Long narrative stress test.",
+      "generated": false,
+      "word_count": 552,
+      "paragraph_count": 1
+    },
+    {
+      "passage_id": "bk_01",
+      "order": 8,
+      "source_type": "transcript_passage",
+      "source_path": "experiments/tts_naturalness/inputs/passage_bank/bk_01.txt",
+      "role": "brothers_karamazov",
+      "notes": "Transcript-backed passage from assets/audio_samples/brothersKarmatzov.mp3",
+      "generated": true,
+      "word_count": 1047,
+      "paragraph_count": 1,
+      "target_word_count": 900
+    },
+    {
+      "passage_id": "bk_02",
+      "order": 9,
+      "source_type": "transcript_passage",
+      "source_path": "experiments/tts_naturalness/inputs/passage_bank/bk_02.txt",
+      "role": "brothers_karamazov",
+      "notes": "Transcript-backed passage from assets/audio_samples/brothersKarmatzov.mp3",
+      "generated": true,
+      "word_count": 1133,
+      "paragraph_count": 1,
+      "target_word_count": 900
+    }
+  ],
+  "existing_inputs": [
+    {
+      "passage_id": "naturalness_prompt",
+      "order": 1,
+      "source_type": "existing_input",
+      "source_path": "experiments/tts_naturalness/inputs/naturalness_prompt.txt",
+      "role": "smoke",
+      "notes": "Short smoke check.",
+      "generated": false,
+      "word_count": 34,
+      "paragraph_count": 1
+    },
+    {
+      "passage_id": "long_audiobook_test",
+      "order": 2,
+      "source_type": "existing_input",
+      "source_path": "experiments/tts_naturalness/inputs/long_audiobook_test.txt",
+      "role": "long_narration",
+      "notes": "Original long narration baseline.",
+      "generated": false,
+      "word_count": 946,
+      "paragraph_count": 1
+    },
+    {
+      "passage_id": "dialogue_test",
+      "order": 3,
+      "source_type": "existing_input",
+      "source_path": "experiments/tts_naturalness/inputs/dialogue_test.txt",
+      "role": "dialogue_stress",
+      "notes": "Short dialogue stress test.",
+      "generated": false,
+      "word_count": 143,
+      "paragraph_count": 1
+    },
+    {
+      "passage_id": "description_test",
+      "order": 4,
+      "source_type": "existing_input",
+      "source_path": "experiments/tts_naturalness/inputs/description_test.txt",
+      "role": "description_stress",
+      "notes": "Short description stress test.",
+      "generated": false,
+      "word_count": 164,
+      "paragraph_count": 1
+    },
+    {
+      "passage_id": "descriptive_test_long",
+      "order": 5,
+      "source_type": "existing_input",
+      "source_path": "experiments/tts_naturalness/inputs/descriptive_test_long.txt",
+      "role": "long_description",
+      "notes": "Long descriptive stress test.",
+      "generated": false,
+      "word_count": 785,
+      "paragraph_count": 1
+    },
+    {
+      "passage_id": "dialogue_test_long",
+      "order": 6,
+      "source_type": "existing_input",
+      "source_path": "experiments/tts_naturalness/inputs/dialogue_test_long.txt",
+      "role": "long_dialogue",
+      "notes": "Long dialogue stress test.",
+      "generated": false,
+      "word_count": 489,
+      "paragraph_count": 1
+    },
+    {
+      "passage_id": "narrative_test_long",
+      "order": 7,
+      "source_type": "existing_input",
+      "source_path": "experiments/tts_naturalness/inputs/narrative_test_long.txt",
+      "role": "long_narrative",
+      "notes": "Long narrative stress test.",
+      "generated": false,
+      "word_count": 552,
+      "paragraph_count": 1
+    }
+  ],
+  "generated_passages": [
+    {
+      "passage_id": "bk_01",
+      "order": 8,
+      "source_type": "transcript_passage",
+      "source_path": "experiments/tts_naturalness/inputs/passage_bank/bk_01.txt",
+      "role": "brothers_karamazov",
+      "notes": "Transcript-backed passage from assets/audio_samples/brothersKarmatzov.mp3",
+      "generated": true,
+      "word_count": 1047,
+      "paragraph_count": 1,
+      "target_word_count": 900
+    },
+    {
+      "passage_id": "bk_02",
+      "order": 9,
+      "source_type": "transcript_passage",
+      "source_path": "experiments/tts_naturalness/inputs/passage_bank/bk_02.txt",
+      "role": "brothers_karamazov",
+      "notes": "Transcript-backed passage from assets/audio_samples/brothersKarmatzov.mp3",
+      "generated": true,
+      "word_count": 1133,
+      "paragraph_count": 1,
+      "target_word_count": 900
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "item": {
+    "index": 20,
+    "video_id": "0Fdh08msVoE",
+    "title": "Leo Tolstoy\u2019s Spiritual Fables. Based on his refashioning of Folk stories from Ancient India.",
+    "duration": 704,
+    "url": "https://www.youtube.com/watch?v=0Fdh08msVoE",
+    "slug": "leoTolstoysSpiritualFables"
+  },
+  "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/leoTolstoysSpiritualFables",
+  "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/leoTolstoysSpiritualFables/raw_audio/leoTolstoysSpiritualFables.webm",
+  "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/leoTolstoysSpiritualFables/video_work/leoTolstoysSpiritualFables_audio_16k.wav",
+  "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/leoTolstoysSpiritualFables/leoTolstoysSpiritualFablesTranscript.json",
+  "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/leoTolstoysSpiritualFables/leoTolstoysSpiritualFablesTranscript.txt",
+  "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/leoTolstoysSpiritualFables/leoTolstoysSpiritualFables.txt",
+  "chunks": 12,
+  "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/leoTolstoysSpiritualFables/video_work/leoTolstoysSpiritualFables_chunk_audio_joined.wav",
+  "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/leoTolstoysSpiritualFables/leoTolstoysSpiritualFables_neuralsurfer.mp4"
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "item": {
+      "index": 30,
+      "video_id": "xshfJXank_0",
+      "title": "Ethical Reflections",
+      "duration": 1748,
+      "url": "https://www.youtube.com/watch?v=xshfJXank_0",
+      "slug": "ethicalReflections"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/schopenhauer_kallipolis/ethicalReflections",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/schopenhauer_kallipolis/ethicalReflections/raw_audio/ethicalReflections.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/schopenhauer_kallipolis/ethicalReflections/video_work/ethicalReflections_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/schopenhauer_kallipolis/ethicalReflections/ethicalReflectionsTranscript.json",
+    "transcript_source": "whisper",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/schopenhauer_kallipolis/ethicalReflections/ethicalReflectionsTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/schopenhauer_kallipolis/ethicalReflections/ethicalReflections.txt",
+    "chunks": 32,
+    "youtube_chapters": 10,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/schopenhauer_kallipolis/ethicalReflections/video_work/ethicalReflections_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/schopenhauer_kallipolis/ethicalReflections/ethicalReflections_neuralsurfer.mp4"
+  }
+]

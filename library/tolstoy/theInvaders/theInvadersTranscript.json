@@ -1,0 +1,3373 @@
+{
+  "audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theInvaders/video_work/theInvaders_audio_16k.wav",
+  "model": "small.en",
+  "language": "en",
+  "duration": 3687.4216875,
+  "segments": [
+    {
+      "start": 5.23,
+      "end": 10.27,
+      "text": "The Invaders. A Volunteers' Narrative. A Short Story by Leo Tolstoy"
+    },
+    {
+      "start": 10.27,
+      "end": 19.01,
+      "text": "1. On the 24th of July, Captain Clopoff, in Epilots and Cap, a style of dress in which"
+    },
+    {
+      "start": 19.01,
+      "end": 24.27,
+      "text": "I had not seen him since my arrival in the Caucasus, entered the low door of my earth"
+    },
+    {
+      "start": 24.27,
+      "end": 25.27,
+      "text": "hut."
+    },
+    {
+      "start": 25.27,
+      "end": 31.43,
+      "text": "I am just from the colonels, he said in reply to my questioning look. Tomorrow, our battalion"
+    },
+    {
+      "start": 31.43,
+      "end": 40.39,
+      "text": "is to move. Where? I asked. To En. The troops have been ordered to muster at that place."
+    },
+    {
+      "start": 40.39,
+      "end": 45.91,
+      "text": "And probably some expedition will be made from there, of course. In what direction?"
+    },
+    {
+      "start": 45.91,
+      "end": 50.39,
+      "text": "Thank you. I don't think. I tell you all I know. Last"
+    },
+    {
+      "start": 50.39,
+      "end": 55.95,
+      "text": "night a Tatar from the general came galloping up, brought orders for the battalion to march,"
+    },
+    {
+      "start": 55.95,
+      "end": 61.91,
+      "text": "taking two days' rations, but whither, why, how long, isn't for them to ask. Orders are"
+    },
+    {
+      "start": 61.91,
+      "end": 68.19,
+      "text": "to go, that's enough. Still, if they are going to take only two days' rations, it's"
+    },
+    {
+      "start": 68.19,
+      "end": 72.71,
+      "text": "likely the army will not stay longer. That's no argument at all.\""
+    },
+    {
+      "start": 72.71,
+      "end": 75.55,
+      "text": "\"'And how is that?' I asked with astonishment."
+    },
+    {
+      "start": 75.55,
+      "end": 80.03,
+      "text": "\"'This is the way of it. When they went against Dargi, they took a week's rations,"
+    },
+    {
+      "start": 80.03,
+      "end": 84.67,
+      "text": "but they spent almost a month.' \"'And can I go with you?' I asked, after"
+    },
+    {
+      "start": 84.67,
+      "end": 93.05,
+      "text": "a short silence. Yes, you can go, but my advice is, better not. Why run the risk? No, allow"
+    },
+    {
+      "start": 93.05,
+      "end": 98.51,
+      "text": "me to disregard your advice. I've been spending a whole month here for this very purpose of"
+    },
+    {
+      "start": 98.51,
+      "end": 105.11,
+      "text": "having a chance to see action, and you want me to let it have the go-by. All right, come"
+    },
+    {
+      "start": 105.11,
+      "end": 109.51,
+      "text": "with us. Only isn't it true that it would be better for you to stay behind. You could"
+    },
+    {
+      "start": 109.51,
+      "end": 115.83,
+      "text": "wait for us here. You could go hunting. But as to us, God knows what will become of us."
+    },
+    {
+      "start": 115.83,
+      "end": 120.71,
+      "text": "And that would be first rate,\" he said, in such a convincing tone that it seemed to"
+    },
+    {
+      "start": 120.71,
+      "end": 126.99,
+      "text": "me at the first moment that it would actually be first rate. Nevertheless, I said resolutely"
+    },
+    {
+      "start": 126.99,
+      "end": 129.75,
+      "text": "that I wouldn't stay behind for anything."
+    },
+    {
+      "start": 129.75,
+      "end": 134.75,
+      "text": "\"'And what have you to see there?' said the captain, still trying to dissuade me."
+    },
+    {
+      "start": 134.75,
+      "end": 140.11,
+      "text": "If you want to learn how battles are fought, read Mikhailovsky Danilevsky's description"
+    },
+    {
+      "start": 140.11,
+      "end": 146.83,
+      "text": "of war, a charming book. There it's all admirably described, where every corps stands,"
+    },
+    {
+      "start": 146.83,
+      "end": 151.63,
+      "text": "and how battles are fought. On the contrary, that does not interest me,\""
+    },
+    {
+      "start": 151.63,
+      "end": 157.39,
+      "text": "I replied. Well, now how is this? It simply means that you want to see how men kill each"
+    },
+    {
+      "start": 157.39,
+      "end": 164.23,
+      "text": "other, doesn't it? Here in 1832 there was a man like yourself, not in the regular service,"
+    },
+    {
+      "start": 164.23,
+      "end": 170.43,
+      "text": "a Spaniard, I think he was. He went on two expeditions with us, in a blue mantle or something"
+    },
+    {
+      "start": 170.43,
+      "end": 176.67,
+      "text": "of the sort, and so the young fellow was killed. Here, Batayushka, one is not surprised at"
+    },
+    {
+      "start": 176.67,
+      "end": 181.11,
+      "text": "any thing. Ashamed as I was at the captain's manifest"
+    },
+    {
+      "start": 181.11,
+      "end": 185.75,
+      "text": "disapprobation of my project, I did not attempt to argue him down."
+    },
+    {
+      "start": 185.75,
+      "end": 191.91,
+      "text": "Well, he was brave, wasn't he? God knows as to that. He always used to ride at the"
+    },
+    {
+      "start": 191.91,
+      "end": 198.07,
+      "text": "front, wherever there was firing there he was. So he must have been brave then, said I."
+    },
+    {
+      "start": 198.95,
+      "end": 203.19,
+      "text": "No, that doesn't signify bravery, his putting himself where he wasn't called."
+    },
+    {
+      "start": 204.15,
+      "end": 205.67,
+      "text": "What do you call bravery then?"
+    },
+    {
+      "start": 206.63,
+      "end": 212.31,
+      "text": "Bravery, bravery, repeated the captain, with the expression of a man to whom such a question"
+    },
+    {
+      "start": 212.31,
+      "end": 218.87,
+      "text": "presents itself for the first time. A brave man is one who conducts himself as he ought,"
+    },
+    {
+      "start": 218.87,
+      "end": 224.95,
+      "text": "said he, after a brief consideration. I remembered that Plato defined bravery as"
+    },
+    {
+      "start": 224.95,
+      "end": 230.31,
+      "text": "the knowledge of what one ought, and what one ought not to fear, and in spite of the triteness"
+    },
+    {
+      "start": 230.31,
+      "end": 235.51,
+      "text": "and obscurity in the terminology of the captain's definition, I thought that the fundamental"
+    },
+    {
+      "start": 235.51,
+      "end": 241.27,
+      "text": "conception of both was not so unlike as might at first sight appear, and that the captain's"
+    },
+    {
+      "start": 241.27,
+      "end": 246.23,
+      "text": "definition was even more correct than the Greek philosophers, for the reason that,"
+    },
+    {
+      "start": 246.23,
+      "end": 251.19,
+      "text": "if he could have expressed himself as Plato did, he would in all probability have said that that"
+    },
+    {
+      "start": 251.19,
+      "end": 256.87,
+      "text": "man is brave, who fears only what he ought to fear, and not what there is no need of fearing."
+    },
+    {
+      "start": 258.07,
+      "end": 260.63,
+      "text": "I was anxious to explain my thought to the captain."
+    },
+    {
+      "start": 261.43,
+      "end": 266.31,
+      "text": "Yes, I said, it seems to me that in every peril there is an alternative,"
+    },
+    {
+      "start": 266.31,
+      "end": 272.95,
+      "text": "and the alternative adopted under the influence of, say, the sentiment of duty, is bravery,"
+    },
+    {
+      "start": 272.95,
+      "end": 279.11,
+      "text": "but the alternative adopted under the influence of a lower sentiment is cowardice. Therefore,"
+    },
+    {
+      "start": 279.11,
+      "end": 286.23,
+      "text": "it is impossible to call a man brave who risks his life out of vanity or curiosity or greediness,"
+    },
+    {
+      "start": 286.23,
+      "end": 292.47,
+      "text": "and, vice versa, the man who under the influence of the virtuous sentiment of family obligation"
+    },
+    {
+      "start": 292.47,
+      "end": 297.11,
+      "text": "or simply from conviction avoids peril, cannot be called a coward."
+    },
+    {
+      "start": 297.91,
+      "end": 301.51,
+      "text": "The captain looked at me with a queer sort of expression while I was talking."
+    },
+    {
+      "start": 301.51,
+      "end": 307.63,
+      "text": "Well, now, I don't know how to reason this out with you,\" said he, filling his pipe,"
+    },
+    {
+      "start": 307.63,
+      "end": 313.23,
+      "text": "\"'but we have with us a junker, and he likes to philosophise. You talk with him.'"
+    },
+    {
+      "start": 313.23,
+      "end": 318.79,
+      "text": "He also writes poetry. I had only become intimate with the captain in the Caucasus,"
+    },
+    {
+      "start": 318.79,
+      "end": 324.63,
+      "text": "but I had known him before in Russia. His mother, Maria Ivanovna Klopova, the owner"
+    },
+    {
+      "start": 324.63,
+      "end": 330.47,
+      "text": "of a small landed estate, lives about two vests from my home. Before I went to the"
+    },
+    {
+      "start": 330.47,
+      "end": 336.39,
+      "text": "Caucasus I visited her. The old lady was greatly delighted that I was going to see her pashinka,"
+    },
+    {
+      "start": 336.39,
+      "end": 342.31,
+      "text": "thus she called the old grey-haired captain, and, like a living letter, could tell him about"
+    },
+    {
+      "start": 342.31,
+      "end": 348.55,
+      "text": "her circumstances, and give him a little message. Having made me eat my fill of a glorious pie"
+    },
+    {
+      "start": 348.55,
+      "end": 353.91,
+      "text": "and roast chicken, Maria Ivanovna went to her sleeping-room and came back with a rather"
+    },
+    {
+      "start": 353.91,
+      "end": 358.87,
+      "text": "large black relic bag, to which was attached some kind of silken ribbon."
+    },
+    {
+      "start": 359.91,
+      "end": 364.87,
+      "text": "Here is this image of our mother intercessor from the September festival, she said,"
+    },
+    {
+      "start": 364.87,
+      "end": 370.07,
+      "text": "kissing the picture of the Divine Mother attached to the cross and putting it into my hand."
+    },
+    {
+      "start": 371.03,
+      "end": 377.51,
+      "text": "Please give it to him, Batiushka. You see, when he went to the Kaikas I had a te deum sung"
+    },
+    {
+      "start": 377.51,
+      "end": 382.79,
+      "text": "and made a vow that if he should be safe and sound I would order this image of the"
+    },
+    {
+      "start": 382.79,
+      "end": 389.19,
+      "text": "divine mother. And here it is, seventeen years that the Matushka and the saints have had him"
+    },
+    {
+      "start": 389.19,
+      "end": 394.63,
+      "text": "in their keeping. Not once has he been wounded, and what battles he has been in, as it seems."
+    },
+    {
+      "start": 395.35,
+      "end": 401.83,
+      "text": "When Mikaylo, who was with him, told me about it, my hair actually stood on end. You see,"
+    },
+    {
+      "start": 401.83,
+      "end": 405.91,
+      "text": "all that I know about him I have to hear from others. He never writes me anything"
+    },
+    {
+      "start": 405.91,
+      "end": 409.27,
+      "text": "about his doings, my dove. He is afraid of frightening me.\""
+    },
+    {
+      "start": 409.27,
+      "end": 415.03,
+      "text": "I had already heard in the Caucasus, but not from the captain himself, that he had been"
+    },
+    {
+      "start": 415.03,
+      "end": 420.31,
+      "text": "severely wounded four times, and, as was to be expected, he had not written his mother"
+    },
+    {
+      "start": 420.31,
+      "end": 423.39,
+      "text": "about his wounds any more than about his campaigns."
+    },
+    {
+      "start": 423.39,
+      "end": 430.55,
+      "text": "Now let him wear this holy image, she continued. I bless him with it. The most holy intercessor"
+    },
+    {
+      "start": 430.55,
+      "end": 436.13,
+      "text": "protect him, especially in battle, may she always look after him. And so tell him,"
+    },
+    {
+      "start": 436.13,
+      "end": 442.29,
+      "text": "dear friend, that thy mother gave thee this message. I promised faithfully to fulfil her commission."
+    },
+    {
+      "start": 442.85,
+      "end": 447.73,
+      "text": "I know you will be fond of him, of my Pashinka,\" the old lady continued,"
+    },
+    {
+      "start": 447.73,
+      "end": 452.85,
+      "text": "\"'He is such a splendid fellow. Would you believe me? Not a year goes by without his"
+    },
+    {
+      "start": 452.85,
+      "end": 458.29,
+      "text": "sending me money, and he also helps Anushka, my daughter, and all from his wages alone."
+    },
+    {
+      "start": 459.09,
+      "end": 464.21,
+      "text": "Truly I shall always thank God,' she concluded, with tears in her eyes,"
+    },
+    {
+      "start": 464.21,
+      "end": 469.25,
+      "text": "that he has given me such a child. Does he write you often? I asked."
+    },
+    {
+      "start": 470.29,
+      "end": 475.33,
+      "text": "Rarely, Batyushka, not more than once a year, and sometimes when he sends money"
+    },
+    {
+      "start": 475.33,
+      "end": 481.57,
+      "text": "he writes a little word, and sometimes he doesn't. If I don't write you, Momenka, he says,"
+    },
+    {
+      "start": 481.57,
+      "end": 486.85,
+      "text": "it means that I'm alive and well, but if anything should happen, which God forbid,"
+    },
+    {
+      "start": 486.85,
+      "end": 491.89,
+      "text": "then they will write you for me. When I gave the captain his mother's gift,"
+    },
+    {
+      "start": 491.89,
+      "end": 497.49,
+      "text": "It was in my room. He asked me for some wrapping paper, carefully tied it up and put it away."
+    },
+    {
+      "start": 498.13,
+      "end": 503.65,
+      "text": "I gave him many details of his mother's life. The captain was silent. When I had finished,"
+    },
+    {
+      "start": 503.65,
+      "end": 507.33,
+      "text": "he went into a corner and took a very long time in filling his pipe."
+    },
+    {
+      "start": 508.21,
+      "end": 513.81,
+      "text": "Yes, she's a fine old lady, said he from the corner in a rather choked voice."
+    },
+    {
+      "start": 514.37,
+      "end": 521.49,
+      "text": "God grant that we may meet again. Great love and grief were expressed in these simple words."
+    },
+    {
+      "start": 521.89,
+      "end": 524.93,
+      "text": "Why do you serve here?\" I asked."
+    },
+    {
+      "start": 524.93,
+      "end": 529.81,
+      "text": "\"'Have to serve,\" he replied with decision, and double pay means a good deal for our"
+    },
+    {
+      "start": 529.81,
+      "end": 532.97,
+      "text": "brother, who is a poor man."
+    },
+    {
+      "start": 532.97,
+      "end": 538.37,
+      "text": "The captain lived economically. He did not play cards, he rarely drank to excess, and"
+    },
+    {
+      "start": 538.37,
+      "end": 543.45,
+      "text": "he smoked ordinary tobacco, which from some inexplicable reason he did not call by its"
+    },
+    {
+      "start": 543.45,
+      "end": 550.29,
+      "text": "usual name, but Sambro Talicheski Tabak. The captain had pleased me even before this."
+    },
+    {
+      "start": 550.29,
+      "end": 555.01,
+      "text": "He had one of those simple, calm Russian faces, and looked you straight in the eye"
+    },
+    {
+      "start": 555.01,
+      "end": 561.89,
+      "text": "agreeably and easily. But after this conversation, I felt a genuine respect for him."
+    },
+    {
+      "start": 561.89,
+      "end": 564.97,
+      "text": "2. At four o'clock on the morning of the next"
+    },
+    {
+      "start": 564.97,
+      "end": 570.57,
+      "text": "day the captain came riding up to my door. He had on an old, well-worn coat without"
+    },
+    {
+      "start": 570.57,
+      "end": 578.13,
+      "text": "epaulettes, wide lesbian trousers, a round, white, Circassian cap, with drooping lambskin-dyed"
+    },
+    {
+      "start": 578.13,
+      "end": 584.37,
+      "text": "yellow and an ugly-looking Asiatic sabre across his shoulder. The little white horse on which"
+    },
+    {
+      "start": 584.37,
+      "end": 589.73,
+      "text": "he rode came with head down and mincing gait and kept switching his slender tail."
+    },
+    {
+      "start": 590.45,
+      "end": 595.73,
+      "text": "In spite of the fact that the good captain's figure was neither very warlike nor very handsome,"
+    },
+    {
+      "start": 595.73,
+      "end": 599.89,
+      "text": "yet there was in it such an expression of goodwill toward everyone around him"
+    },
+    {
+      "start": 599.89,
+      "end": 605.09,
+      "text": "that it inspired involuntary respect. I did not keep him waiting a minute,"
+    },
+    {
+      "start": 605.09,
+      "end": 609.49,
+      "text": "but immediately mounted, and we rode off together from the gate of the fortress."
+    },
+    {
+      "start": 610.05,
+      "end": 615.81,
+      "text": "The battalion was already two hundred Saljans ahead of us, and had the appearance of some black,"
+    },
+    {
+      "start": 615.81,
+      "end": 622.21,
+      "text": "solid body in motion. It was possible to make out that it was infantry, only from the circumstance"
+    },
+    {
+      "start": 622.21,
+      "end": 627.73,
+      "text": "that while the bayonets appeared like long, dense needles, occasionally there came to the ear the"
+    },
+    {
+      "start": 627.73,
+      "end": 634.53,
+      "text": "sounds of a soldier's song, the drum, and a charming tenor, the leader of the sixth company,"
+    },
+    {
+      "start": 634.53,
+      "end": 640.61,
+      "text": "a song which I had more than once enjoyed at the fort. The road ran through the midst of a deep,"
+    },
+    {
+      "start": 640.61,
+      "end": 646.85,
+      "text": "wide ravine, or bulker, as it is called in the Caucasian dialect, along the banks of a small"
+    },
+    {
+      "start": 646.85,
+      "end": 653.65,
+      "text": "river, which at this time was playing, that is, was having a freshet. Flocks of wild pigeons"
+    },
+    {
+      "start": 653.65,
+      "end": 659.33,
+      "text": "hovered around it, now settling on the rocky shore, now wheeling about in mid-air in swift"
+    },
+    {
+      "start": 659.33,
+      "end": 665.17,
+      "text": "circles and disappearing from sight. The sun was not yet visible, but the summit of the"
+    },
+    {
+      "start": 665.17,
+      "end": 671.25,
+      "text": "bulker on the right began to grow luminous. The grey and white-coloured crags, the greenish"
+    },
+    {
+      "start": 671.25,
+      "end": 677.69,
+      "text": "yellow moss wet with dew, the clumps of different kinds of wild thorn, stood out extraordinarily"
+    },
+    {
+      "start": 677.69,
+      "end": 683.85,
+      "text": "distinct and rotund in the polluted golden light of the sunrise. On the other hand,"
+    },
+    {
+      "start": 683.85,
+      "end": 690.05,
+      "text": "The ravine, hidden in thick mist which rolled up like smoke in varying volumes, was damp"
+    },
+    {
+      "start": 690.05,
+      "end": 697.97,
+      "text": "and dark, and gave the impression of an indistinguishable mixture of colours, pale lilac, almost purple,"
+    },
+    {
+      "start": 697.97,
+      "end": 700.09,
+      "text": "dark green and white."
+    },
+    {
+      "start": 700.09,
+      "end": 705.57,
+      "text": "Directly in front of us, against the dark blue of the horizon, with startling distinctness,"
+    },
+    {
+      "start": 705.57,
+      "end": 710.85,
+      "text": "appeared the dazzling white, silent masses of the snow-capped mountains with their marvellous"
+    },
+    {
+      "start": 710.85,
+      "end": 717.81,
+      "text": "shadows and outlines exquisite even in the smallest details. Crickets, grasshoppers,"
+    },
+    {
+      "start": 717.81,
+      "end": 722.65,
+      "text": "and a thousand other insects were awake in the tall grass, and filled the air with their"
+    },
+    {
+      "start": 722.65,
+      "end": 728.57,
+      "text": "sharp, incessant clatter. It seemed as though a numberless multitude of tiny bells were"
+    },
+    {
+      "start": 728.57,
+      "end": 734.57,
+      "text": "jingling in our very ears. The atmosphere was alive with waters, with foliage, with"
+    },
+    {
+      "start": 734.57,
+      "end": 740.37,
+      "text": "mist, in a word had all the life of a beautiful early summer morning."
+    },
+    {
+      "start": 740.37,
+      "end": 745.93,
+      "text": "The captain struck a light and began to puff at his pipe. The fragrance of Sambrotalichesky"
+    },
+    {
+      "start": 745.93,
+      "end": 752.41,
+      "text": "Tabak and of the punk struck me as extremely pleasant. We rode along the side of the road"
+    },
+    {
+      "start": 752.41,
+      "end": 757.63,
+      "text": "so as to overtake the infantry as quickly as possible. The captain seemed more serious"
+    },
+    {
+      "start": 757.63,
+      "end": 763.45,
+      "text": "than usual. He did not take his Dagestan pipe from his mouth, and at every step he dug his"
+    },
+    {
+      "start": 763.45,
+      "end": 768.93,
+      "text": "heels into his horse's legs as the little beast, capering from one side to the other,"
+    },
+    {
+      "start": 768.93,
+      "end": 775.17,
+      "text": "laid out a scarcely noticeable dark green track through the damp, tall grass. Up from"
+    },
+    {
+      "start": 775.17,
+      "end": 780.05,
+      "text": "under his very feet, with its shrill cry, and that drumming of the wings that is so"
+    },
+    {
+      "start": 780.05,
+      "end": 785.49,
+      "text": "sure to startle the huntsman in spite of himself, flew the pheasant and slowly winged"
+    },
+    {
+      "start": 785.49,
+      "end": 791.25,
+      "text": "its flight on high. The captain paid him not the slightest attention. We had almost"
+    },
+    {
+      "start": 791.25,
+      "end": 796.25,
+      "text": "overtaken the battalion when behind us was heard the sound of a galloping horse, and"
+    },
+    {
+      "start": 796.25,
+      "end": 801.33,
+      "text": "In an instant there rode by us a very handsome young fellow in an officer's coat and a"
+    },
+    {
+      "start": 801.33,
+      "end": 807.81,
+      "text": "tall white Circassian cap. As he caught up with us he smiled, bowed to the captain,"
+    },
+    {
+      "start": 807.81,
+      "end": 813.41,
+      "text": "and waved his whip. I only had time to notice that he sat in the saddle and held the bridle"
+    },
+    {
+      "start": 813.41,
+      "end": 820.53,
+      "text": "with peculiar grace, and that he had beautiful dark eyes, a finely cut nose, and a moustache"
+    },
+    {
+      "start": 820.53,
+      "end": 825.53,
+      "text": "just beginning to grow. I was particularly attracted by the way in which he could not"
+    },
+    {
+      "start": 825.53,
+      "end": 831.31,
+      "text": "help smiling, as if to impress it upon us that we were friends of his. If by nothing"
+    },
+    {
+      "start": 831.31,
+      "end": 836.15,
+      "text": "else than his smile, one would have known that he was still very young."
+    },
+    {
+      "start": 836.15,
+      "end": 841.95,
+      "text": "\"'And now, where is he going?' grumbled the captain with a look of dissatisfaction,"
+    },
+    {
+      "start": 841.95,
+      "end": 844.15,
+      "text": "not taking his pipe from his mouth."
+    },
+    {
+      "start": 844.15,
+      "end": 846.23,
+      "text": "\"'Who is that?' I asked."
+    },
+    {
+      "start": 846.23,
+      "end": 851.47,
+      "text": "\"'Ensen Alainen, a subaltern officer of my company. Only last month he came from"
+    },
+    {
+      "start": 851.47,
+      "end": 857.23,
+      "text": "school of cadets. This is the first time that he's going into action, I suppose,\" said I."
+    },
+    {
+      "start": 858.11,
+      "end": 862.35,
+      "text": "And so he is overjoyed, replied the captain thoughtfully, shaking his head."
+    },
+    {
+      "start": 862.91,
+      "end": 869.23,
+      "text": "It's youth. And why shouldn't he be glad? I can see that for a young officer this must be very"
+    },
+    {
+      "start": 869.23,
+      "end": 875.63,
+      "text": "interesting. The captain said nothing for two minutes. And that's why I say it's youth,"
+    },
+    {
+      "start": 875.63,
+      "end": 880.67,
+      "text": "he continued in a deep tone. What is there to rejoice in, when there's nothing to see?"
+    },
+    {
+      "start": 880.67,
+      "end": 886.35,
+      "text": "3. Here when one goes off and one doesn't find any pleasure in it. Here, let us suppose"
+    },
+    {
+      "start": 886.35,
+      "end": 891.87,
+      "text": "there are twenty of us officers going. Some of us will be either killed or wounded. That's"
+    },
+    {
+      "start": 891.87,
+      "end": 898.39,
+      "text": "likely. Today, my turn, tomorrow his, the next day, somebody else's. So what is there"
+    },
+    {
+      "start": 898.39,
+      "end": 900.39,
+      "text": "to rejoice in?"
+    },
+    {
+      "start": 900.39,
+      "end": 906.15,
+      "text": "3. Scarcely had the bright sun risen above the mountains and begun to shine into the"
+    },
+    {
+      "start": 906.15,
+      "end": 912.59,
+      "text": "valley where we were riding, when the undulating clouds of mist scattered and it grew warm."
+    },
+    {
+      "start": 912.59,
+      "end": 918.71,
+      "text": "The soldiers with guns and knapsacks on their backs marched slowly along the dusty road."
+    },
+    {
+      "start": 918.71,
+      "end": 923.61,
+      "text": "In the ranks were frequently heard mallow Russian dialogues and laughter. A few old"
+    },
+    {
+      "start": 923.61,
+      "end": 928.61,
+      "text": "soldiers in white linen coats, for the most part non-commissioned officers, marched along"
+    },
+    {
+      "start": 928.61,
+      "end": 934.23,
+      "text": "the roadside with their pipes, engaged in earnest conversation. The triple rows of"
+    },
+    {
+      "start": 934.23,
+      "end": 940.31,
+      "text": "heavily laden wagons advanced step by step and raised a thick dust which hung motionless."
+    },
+    {
+      "start": 941.11,
+      "end": 946.31,
+      "text": "The mounted officers rode in advance, a few jiggeted, as they say in the Caucasus,"
+    },
+    {
+      "start": 946.31,
+      "end": 951.91,
+      "text": "that is, applying the whip to their horses, they spurred them on to make four or five leaps"
+    },
+    {
+      "start": 951.91,
+      "end": 957.35,
+      "text": "and then rained them in suddenly, pulling the head back. Others listened to the song-singers"
+    },
+    {
+      "start": 957.35,
+      "end": 963.11,
+      "text": "who notwithstanding the heat and the oppressive air indefatigably tuned up one song after another."
+    },
+    {
+      "start": 963.11,
+      "end": 969.91,
+      "text": "A hundred sergeants in advance of the infantry, on a great white horse, surrounded by mounted"
+    },
+    {
+      "start": 969.91,
+      "end": 976.27,
+      "text": "tatars, rode a tall, handsome officer in Asiatic costume, known to the regiment as a man of"
+    },
+    {
+      "start": 976.27,
+      "end": 982.67,
+      "text": "reckless valor, one who cuts anyone straight in the eyes. He wore a black tatar half-coat"
+    },
+    {
+      "start": 982.67,
+      "end": 988.55,
+      "text": "or bechmet, trimmed with silver braid, similar trousers, new leggings closely laced with"
+    },
+    {
+      "start": 988.55,
+      "end": 995.35,
+      "text": "chirazui as they call galoons in the Caucasus, and a tall, yellow Cherkessian cap worn jauntily"
+    },
+    {
+      "start": 995.35,
+      "end": 1001.75,
+      "text": "on the back of his head. On his breast and back were silver lacings. His powder flask and pistol"
+    },
+    {
+      "start": 1001.75,
+      "end": 1007.67,
+      "text": "were hung at his back, another pistol, and a dagger in a silver sheath depended from his belt."
+    },
+    {
+      "start": 1008.39,
+      "end": 1013.99,
+      "text": "Besides, all this was buckled on a sabre in a red Morocco sheath adorned with silver,"
+    },
+    {
+      "start": 1013.99,
+      "end": 1020.55,
+      "text": "and over the shoulder hung his musket in a black case. By his garb, his carriage, his manner,"
+    },
+    {
+      "start": 1020.55,
+      "end": 1026.15,
+      "text": "and indeed by every motion, it was manifest that his ambition was to ape the Tatars."
+    },
+    {
+      "start": 1026.95,
+      "end": 1031.03,
+      "text": "He was just saying something, in a language that I did not understand,"
+    },
+    {
+      "start": 1031.03,
+      "end": 1037.03,
+      "text": "to the Tatars who rode with him. But from the doubtful mocking glances which these latter gave"
+    },
+    {
+      "start": 1037.03,
+      "end": 1041.67,
+      "text": "each other, I came to the conclusion that they did not understand him either."
+    },
+    {
+      "start": 1041.67,
+      "end": 1047.39,
+      "text": "order. This was one of our young officers of the daredevil Jiget order, who get themselves"
+    },
+    {
+      "start": 1047.39,
+      "end": 1053.51,
+      "text": "up al-Amalinsky and Lermontov. These men look upon the Caucasus, as it were, through"
+    },
+    {
+      "start": 1053.51,
+      "end": 1059.83,
+      "text": "the prism of the heroes of our time, Mula-Neurov and others, and in all their activities are"
+    },
+    {
+      "start": 1059.83,
+      "end": 1065.55,
+      "text": "I directed not by their own inclinations, but by the example of these models. This"
+    },
+    {
+      "start": 1065.55,
+      "end": 1070.95,
+      "text": "lieutenant, for instance, was very likely fond of the society of well-bred women and"
+    },
+    {
+      "start": 1070.95,
+      "end": 1077.31,
+      "text": "man of importance, generals, colonels, adjutants. I may even go so far as to believe that he"
+    },
+    {
+      "start": 1077.31,
+      "end": 1082.99,
+      "text": "was very fond of this society, because he was in the highest degree vainglorious. But"
+    },
+    {
+      "start": 1082.99,
+      "end": 1088.51,
+      "text": "he considered it his unfailing duty to show his rough side to all important people, although"
+    },
+    {
+      "start": 1088.51,
+      "end": 1094.39,
+      "text": "he offended them always more or less. And when any lady made her appearance at the fortress,"
+    },
+    {
+      "start": 1094.39,
+      "end": 1099.31,
+      "text": "then he considered it his duty to ride by her windows with his cronies, or kunaki as"
+    },
+    {
+      "start": 1099.31,
+      "end": 1104.99,
+      "text": "they are called in the dialect of the Caucasus, dressed in a red shirt, and nothing but chuviaki"
+    },
+    {
+      "start": 1104.99,
+      "end": 1110.27,
+      "text": "on his bare legs, and shouting and swearing at the top of his voice, but all this not"
+    },
+    {
+      "start": 1110.27,
+      "end": 1115.97,
+      "text": "only with the desire to insult her but also to show her what handsome white legs he had,"
+    },
+    {
+      "start": 1115.97,
+      "end": 1120.79,
+      "text": "and how easy it would be to fall in love with him if only he himself were willing."
+    },
+    {
+      "start": 1120.79,
+      "end": 1125.93,
+      "text": "Or he often went by at night with two or three friendly tatars to the mountains into"
+    },
+    {
+      "start": 1125.93,
+      "end": 1132.23,
+      "text": "ambush by the road, so as to take by surprise and kill hostile Tatars coming along. And"
+    },
+    {
+      "start": 1132.23,
+      "end": 1137.11,
+      "text": "though more than once, his heart told him that there was nothing brave in such a deed."
+    },
+    {
+      "start": 1137.11,
+      "end": 1142.19,
+      "text": "Yet he felt himself under obligations to inflict suffering upon people in whom he thought that"
+    },
+    {
+      "start": 1142.19,
+      "end": 1148.51,
+      "text": "he was disappointed, and whom he affected to hate and despise. He always carried two"
+    },
+    {
+      "start": 1148.51,
+      "end": 1154.83,
+      "text": "things\u2014an immense, holy image around his neck and a dagger above his shirt. He never"
+    },
+    {
+      "start": 1154.83,
+      "end": 1160.59,
+      "text": "took them off but even went to bed with them. He firmly believed that enemies surrounded him."
+    },
+    {
+      "start": 1160.59,
+      "end": 1165.71,
+      "text": "It was his greatest delight to argue that he was under obligations to wreak vengeance on someone"
+    },
+    {
+      "start": 1165.71,
+      "end": 1172.75,
+      "text": "and wash out insults in blood. He was persuaded that spite, vengeance, and hatred of the human"
+    },
+    {
+      "start": 1172.75,
+      "end": 1180.11,
+      "text": "race were the highest and most poetical of feelings. But his mistress, a Circassian girl-course,"
+    },
+    {
+      "start": 1180.11,
+      "end": 1185.39,
+      "text": "whom I happened afterwards to meet, said that he was the mildest and gentlest of men,"
+    },
+    {
+      "start": 1185.39,
+      "end": 1190.83,
+      "text": "and that every evening he wrote in his gloomy diary cast up his accounts on ruled paper,"
+    },
+    {
+      "start": 1190.83,
+      "end": 1197.23,
+      "text": "and got on his knees to say his prayers, and how much suffering he endured to seem to himself only"
+    },
+    {
+      "start": 1197.23,
+      "end": 1202.67,
+      "text": "what he desired to be, because his comrades and the soldiers could not comprehend him as he"
+    },
+    {
+      "start": 1202.67,
+      "end": 1209.63,
+      "text": "desired. Once, in one of his nocturnal expeditions with his Tatar friends, it happened that he put"
+    },
+    {
+      "start": 1209.63,
+      "end": 1215.59,
+      "text": "a bullet into the leg of a hostile Chechnitz and took him prisoner. This Chechnitz for"
+    },
+    {
+      "start": 1215.59,
+      "end": 1220.79,
+      "text": "seven weeks thereafter lived with the lieutenant. The lieutenant dressed his wound, waited"
+    },
+    {
+      "start": 1220.79,
+      "end": 1226.35,
+      "text": "on him as though he were his nearest friend, and when he was cured sent him home with gifts."
+    },
+    {
+      "start": 1226.35,
+      "end": 1230.87,
+      "text": "Afterwards, during an expedition when the lieutenant was retreating from the post,"
+    },
+    {
+      "start": 1230.87,
+      "end": 1235.63,
+      "text": "having been repulsed by the enemy, he heard someone call him by name, and his wounded"
+    },
+    {
+      "start": 1235.63,
+      "end": 1242.15,
+      "text": "Cunac strode out from among the hostile Tatars, and by signs asked him to do the same. The"
+    },
+    {
+      "start": 1242.15,
+      "end": 1247.03,
+      "text": "lieutenant went to meet his Cunac and shook hands with him. The mountaineers stood at"
+    },
+    {
+      "start": 1247.03,
+      "end": 1252.27,
+      "text": "some little distance and refrained from firing. But, as soon as the lieutenant turned his"
+    },
+    {
+      "start": 1252.27,
+      "end": 1258.87,
+      "text": "horse to go back, several shot at him, and one bullet grazed the small of his back."
+    },
+    {
+      "start": 1258.87,
+      "end": 1263.71,
+      "text": "Another time I myself saw a fire break out by night in the fortress, and two companies"
+    },
+    {
+      "start": 1263.71,
+      "end": 1270.03,
+      "text": "of soldiers were detailed to put it out. Amid the crowd, lighted up by the ruddy glare of"
+    },
+    {
+      "start": 1270.03,
+      "end": 1275.97,
+      "text": "the fire, suddenly appeared the tall form of the man on a coal-black horse. He forced"
+    },
+    {
+      "start": 1275.97,
+      "end": 1281.23,
+      "text": "his way through the crowd and rode straight to the fire. As soon as he came near, the"
+    },
+    {
+      "start": 1281.23,
+      "end": 1286.23,
+      "text": "lieutenant leaped from his horse and hastened into the house, which was all in flames on"
+    },
+    {
+      "start": 1286.23,
+      "end": 1292.87,
+      "text": "one side. At the end of five minutes he emerged with singed hair and burned sleeves,"
+    },
+    {
+      "start": 1292.87,
+      "end": 1299.51,
+      "text": "in his arms two doves which he had rescued from the flames. His name was Rosenkranz,"
+    },
+    {
+      "start": 1299.51,
+      "end": 1304.43,
+      "text": "but he often spoke of his ancestry, traced it back to the Varangians, and clearly showed"
+    },
+    {
+      "start": 1304.43,
+      "end": 1308.11,
+      "text": "that he and his forefathers were genuine Russians."
+    },
+    {
+      "start": 1308.11,
+      "end": 1314.39,
+      "text": "4. The sun had travelled half its course and was pouring down through the glowing atmosphere"
+    },
+    {
+      "start": 1314.39,
+      "end": 1321.23,
+      "text": "its fierce rays upon the parched earth. The dark blue sky was absolutely clear, only"
+    },
+    {
+      "start": 1321.23,
+      "end": 1327.71,
+      "text": "the bases of the snow-capped mountains began to clothe themselves in pale, lilac clouds."
+    },
+    {
+      "start": 1327.71,
+      "end": 1333.49,
+      "text": "The motionless atmosphere seemed to be full of some impalpable dust. It became intolerably"
+    },
+    {
+      "start": 1333.49,
+      "end": 1338.49,
+      "text": "hot. When the army came to a small brook that had overflowed half the road, a halt"
+    },
+    {
+      "start": 1338.49,
+      "end": 1344.13,
+      "text": "was called. The soldiers, stacking their arms, plunged into the stream. The commander"
+    },
+    {
+      "start": 1344.13,
+      "end": 1349.37,
+      "text": "of the battalion sat down in the shade, on a drum, and showing by his broad countenance"
+    },
+    {
+      "start": 1349.37,
+      "end": 1355.63,
+      "text": "the degree of his rank, made ready, in company with a few officers, to take lunch."
+    },
+    {
+      "start": 1355.63,
+      "end": 1360.57,
+      "text": "The captain lay on the grass under the company's transport wagon. The gallant lieutenant rose"
+    },
+    {
+      "start": 1360.57,
+      "end": 1365.89,
+      "text": "and crowns and some other young officers, spreading out their Caucasian mantles or berkey,"
+    },
+    {
+      "start": 1365.89,
+      "end": 1371.05,
+      "text": "threw themselves down, and began to carouse as was manifest by the flasks and bottles"
+    },
+    {
+      "start": 1371.05,
+      "end": 1376.05,
+      "text": "scattered around them, and by the extraordinary liveliness of their singers, who standing"
+    },
+    {
+      "start": 1376.05,
+      "end": 1382.33,
+      "text": "in a half-circle behind them, gave an accompaniment to the Caucasian dance-song sung by a lesbian"
+    },
+    {
+      "start": 1382.33,
+      "end": 1390.13,
+      "text": "girl. Shamil resolved to make a league. In the years gone by, Tri Rai, Ratat Tai, in"
+    },
+    {
+      "start": 1390.13,
+      "end": 1395.17,
+      "text": "the years gone by. Among these officers was also the young ensign who had passed us in"
+    },
+    {
+      "start": 1395.17,
+      "end": 1401.45,
+      "text": "the morning. He was very entertaining. His eyes gleamed, his tongue never grew weary."
+    },
+    {
+      "start": 1401.45,
+      "end": 1408.01,
+      "text": "he wanted to greet everyone and show his good will to them all. Poor lad! He did not know"
+    },
+    {
+      "start": 1408.01,
+      "end": 1412.89,
+      "text": "that in acting this way he might be ridiculous, that his frankness and the gentleness which"
+    },
+    {
+      "start": 1412.89,
+      "end": 1419.93,
+      "text": "he showed to everyone might win for him, not the love which he so much desired, but ridicule."
+    },
+    {
+      "start": 1419.93,
+      "end": 1424.97,
+      "text": "He did not know this either, that when at last, thoroughly heated, he threw himself down"
+    },
+    {
+      "start": 1424.97,
+      "end": 1430.71,
+      "text": "on his burka and leaned his head on his hand, letting his thick black curls fall over."
+    },
+    {
+      "start": 1430.71,
+      "end": 1436.67,
+      "text": "he was a very picture of beauty. Two officers crouched under a wagon and were playing cards"
+    },
+    {
+      "start": 1436.67,
+      "end": 1442.39,
+      "text": "on a hamper. I listened with curiosity to the talk of the soldiers and officers, and"
+    },
+    {
+      "start": 1442.39,
+      "end": 1447.95,
+      "text": "attentively watched the expression of their faces. But to tell the truth, in not one could"
+    },
+    {
+      "start": 1447.95,
+      "end": 1455.23,
+      "text": "I discover a shadow of that anxiety which I myself felt. Jokes, laughter, anecdotes,"
+    },
+    {
+      "start": 1455.23,
+      "end": 1461.21,
+      "text": "the universal carelessness and indifference to the coming peril. How impossible to suppose"
+    },
+    {
+      "start": 1461.21,
+      "end": 1468.09,
+      "text": "that it was not fated for some never again to pass that road."
+    },
+    {
+      "start": 1468.09,
+      "end": 1473.97,
+      "text": "5. At seven o'clock in the evening, dusty and weary, we entered the wide, fortified"
+    },
+    {
+      "start": 1473.97,
+      "end": 1479.97,
+      "text": "gate of Fort N. The sun was setting, and shed oblique rosy rays over the picturesque"
+    },
+    {
+      "start": 1479.97,
+      "end": 1484.49,
+      "text": "batteries and lofty walled gardens that surrounded the fortress, over the fields"
+    },
+    {
+      "start": 1484.49,
+      "end": 1489.77,
+      "text": "yellow for the harvest, and over the white clouds which, gathering around the snow-capped"
+    },
+    {
+      "start": 1489.77,
+      "end": 1495.61,
+      "text": "mountains, simulated their shapes, and formed a chain no less wonderful and beauteous."
+    },
+    {
+      "start": 1496.65,
+      "end": 1503.29,
+      "text": "A young half-moon, like a translucent cloud, shone above the horizon. In the native village"
+    },
+    {
+      "start": 1503.29,
+      "end": 1509.77,
+      "text": "or aul, situated near the gate, a tatar on the roof of a hut was calling the faithful to prayer."
+    },
+    {
+      "start": 1509.77,
+      "end": 1515.65,
+      "text": "there. The singers broke out with new zeal and energy. After resting and making my toilet"
+    },
+    {
+      "start": 1515.65,
+      "end": 1520.37,
+      "text": "I set out to call upon an adjutant who was an acquaintance of mine, to ask him to make"
+    },
+    {
+      "start": 1520.37,
+      "end": 1525.85,
+      "text": "my intention known to the general. On the way from the suburb where I was quartered"
+    },
+    {
+      "start": 1525.85,
+      "end": 1532.21,
+      "text": "I chanced to see a most unexpected spectacle in the fortress of N."
+    },
+    {
+      "start": 1532.21,
+      "end": 1537.69,
+      "text": "I was overtaken by a handsome two-seated vehicle in which I saw a stylish bonnet and"
+    },
+    {
+      "start": 1537.69,
+      "end": 1543.17,
+      "text": "heard French spoken. From the open window of the Commandant's house came floating"
+    },
+    {
+      "start": 1543.17,
+      "end": 1550.41,
+      "text": "the sounds of some Lizanka or Katanka. Polka played upon a wretched piano out of tune."
+    },
+    {
+      "start": 1550.41,
+      "end": 1555.57,
+      "text": "In the tavern which I was passing were sitting a number of clerks over their glasses of wine,"
+    },
+    {
+      "start": 1555.57,
+      "end": 1561.45,
+      "text": "with cigarettes in their hands, and I overheard one saying to another, Excuse me, but taking"
+    },
+    {
+      "start": 1561.45,
+      "end": 1569.37,
+      "text": "politics into consideration, Maria Grigoryevna is our first lady. A hump-backed Jew of sickly"
+    },
+    {
+      "start": 1569.37,
+      "end": 1574.97,
+      "text": "countenance, dressed in a dilapidated coat, was creeping along with a shrill, broken-down"
+    },
+    {
+      "start": 1574.97,
+      "end": 1582.25,
+      "text": "hand-organ, and over the whole suburb echoed the sounds of the finale of Lucia. Two women"
+    },
+    {
+      "start": 1582.25,
+      "end": 1587.21,
+      "text": "in rustling dresses with silk kerchiefs around their necks and bright-coloured sunshades"
+    },
+    {
+      "start": 1587.21,
+      "end": 1593.57,
+      "text": "in their hands hastened past me on the plank sidewalk. Two girls, one in pink, the other"
+    },
+    {
+      "start": 1593.57,
+      "end": 1598.89,
+      "text": "in a blue dress with uncovered heads, were standing on the terrace of a small house and"
+    },
+    {
+      "start": 1598.89,
+      "end": 1605.85,
+      "text": "effectively laughing with the obvious intention of attracting the notice of some passing officers."
+    },
+    {
+      "start": 1605.85,
+      "end": 1611.45,
+      "text": "Officers in new coats, white gloves, and glistening epaulettes were parading up and down the"
+    },
+    {
+      "start": 1611.45,
+      "end": 1617.37,
+      "text": "the streets and boulevards. I found my acquaintance on the lower floor of the General's house."
+    },
+    {
+      "start": 1617.37,
+      "end": 1622.33,
+      "text": "I had scarcely had time to explain to him my desire, and have his assurance that it"
+    },
+    {
+      "start": 1622.33,
+      "end": 1628.17,
+      "text": "could most likely be gratified, when the handsome carriage, which I had before seen, rattled"
+    },
+    {
+      "start": 1628.17,
+      "end": 1633.85,
+      "text": "past the window where I was sitting. From the carriage descended a tall, slender man,"
+    },
+    {
+      "start": 1633.85,
+      "end": 1639.23,
+      "text": "in uniform of the infantry service, and Major's epaulets, and came up to the General's"
+    },
+    {
+      "start": 1639.23,
+      "end": 1640.23,
+      "text": "James."
+    },
+    {
+      "start": 1640.23,
+      "end": 1646.73,
+      "text": "\"'Ah! pardon me, I beg of you,\" said the adjutant, rising from his place. It's absolutely"
+    },
+    {
+      "start": 1646.73,
+      "end": 1649.29,
+      "text": "necessary that I tell the general."
+    },
+    {
+      "start": 1649.29,
+      "end": 1652.05,
+      "text": "\"'Who is it that just came?' I asked."
+    },
+    {
+      "start": 1652.05,
+      "end": 1658.19,
+      "text": "\"'The Countess,' he replied, and donning his uniform coat hastened upstairs."
+    },
+    {
+      "start": 1658.19,
+      "end": 1662.75,
+      "text": "In the course of a few minutes there appeared on the steps a short but very handsome man"
+    },
+    {
+      "start": 1662.75,
+      "end": 1668.41,
+      "text": "in a coat without epaulettes and a white cross in his buttonhole. Behind him came"
+    },
+    {
+      "start": 1668.41,
+      "end": 1675.37,
+      "text": "the Major, the Adjutant, and two other officers. In his carriage, his voice in all his motions,"
+    },
+    {
+      "start": 1675.37,
+      "end": 1680.05,
+      "text": "the General showed that he had a very keen appreciation of his high importance."
+    },
+    {
+      "start": 1680.05,
+      "end": 1686.21,
+      "text": "\"'Bonsoir, madame-la-contess,' he said, extending his hand through the carriage window."
+    },
+    {
+      "start": 1686.21,
+      "end": 1691.69,
+      "text": "A dainty little hand in dog-skin glove took his hand, and a pretty smiling little visage"
+    },
+    {
+      "start": 1691.69,
+      "end": 1696.97,
+      "text": "under a yellow bonnet appeared in the window. From the conversation which lasted several"
+    },
+    {
+      "start": 1696.97,
+      "end": 1702.09,
+      "text": "minutes, I only heard, as I went by, the general saying in French with a smile,"
+    },
+    {
+      "start": 1702.97,
+      "end": 1708.01,
+      "text": "\"'You know that I have vowed to fight the infidels. Beware of becoming one.'\""
+    },
+    {
+      "start": 1708.73,
+      "end": 1710.81,
+      "text": "A laugh rang from the carriage."
+    },
+    {
+      "start": 1710.81,
+      "end": 1712.57,
+      "text": "\"'Adieu donc, ser general.\""
+    },
+    {
+      "start": 1713.53,
+      "end": 1718.57,
+      "text": "\"'N'en, au revoir,' said the general, returning to the steps of the staircase."
+    },
+    {
+      "start": 1718.57,
+      "end": 1721.61,
+      "text": "Don't forget that I have invited myself for tomorrow evening.\""
+    },
+    {
+      "start": 1722.49,
+      "end": 1723.85,
+      "text": "The carriage drove away."
+    },
+    {
+      "start": 1723.85,
+      "end": 1730.09,
+      "text": "Here is a man, said I to myself as I went home, who has everything that Russians strive"
+    },
+    {
+      "start": 1730.09,
+      "end": 1737.17,
+      "text": "after, rank, wealth, society, and this man, before a battle the outcome of which God only"
+    },
+    {
+      "start": 1737.17,
+      "end": 1742.49,
+      "text": "knows, jests with a pretty little woman and promises to drink tea with her on the next"
+    },
+    {
+      "start": 1742.49,
+      "end": 1749.01,
+      "text": "day, just as though he had met her at a ball. There, at that adjutance, I became acquainted"
+    },
+    {
+      "start": 1749.01,
+      "end": 1754.09,
+      "text": "with a man who still more surprised me. It was the young lieutenant of the Caye regiment"
+    },
+    {
+      "start": 1754.09,
+      "end": 1759.89,
+      "text": "who was distinguished for his almost feminine mildness and cowardice. He came to the adjutant"
+    },
+    {
+      "start": 1759.89,
+      "end": 1765.61,
+      "text": "to pour out his peevishness and ill-humour against those men who, he thought, were intriguing"
+    },
+    {
+      "start": 1765.61,
+      "end": 1771.09,
+      "text": "against him to keep him from taking part in the matter in hand. He declared that it"
+    },
+    {
+      "start": 1771.09,
+      "end": 1775.91,
+      "text": "was hateful to be treated so, that it was not doing as comrades ought, that he would"
+    },
+    {
+      "start": 1775.91,
+      "end": 1782.15,
+      "text": "remember him, and so forth. As soon as I saw the expression of his face, as soon as I heard"
+    },
+    {
+      "start": 1782.15,
+      "end": 1787.01,
+      "text": "the sound of his voice, I could not escape the conviction that he was not only not putting"
+    },
+    {
+      "start": 1787.01,
+      "end": 1792.83,
+      "text": "it on, but was deeply stirred and hurt, because he was not allowed to go against the chircus"
+    },
+    {
+      "start": 1792.83,
+      "end": 1798.83,
+      "text": "and expose himself to their fire. He was as much hurt as a child is hurt who is unjustly"
+    },
+    {
+      "start": 1798.83,
+      "end": 1802.83,
+      "text": "punished. I could not understand it at all."
+    },
+    {
+      "start": 1802.83,
+      "end": 1808.95,
+      "text": "At ten o'clock in the evening the troops were ordered to march. At half-past nine I"
+    },
+    {
+      "start": 1808.95,
+      "end": 1814.15,
+      "text": "mounted my horse, and started off to find the general, but on reflecting that he and"
+    },
+    {
+      "start": 1814.15,
+      "end": 1819.75,
+      "text": "his adjutant must be busy, I remained in the street, and tying my horse to a fence, sat"
+    },
+    {
+      "start": 1819.75,
+      "end": 1825.15,
+      "text": "down on the terrace to wait until the general should come. The heat and glare of the day"
+    },
+    {
+      "start": 1825.15,
+      "end": 1830.55,
+      "text": "had already vanished in the fresh night air, and the obscure light of the young moon,"
+    },
+    {
+      "start": 1830.55,
+      "end": 1837.05,
+      "text": "which, in folding around itself a pale, gleaming halo against the dark blue of the starry sky,"
+    },
+    {
+      "start": 1837.05,
+      "end": 1842.29,
+      "text": "was beginning to decline. Lights shone in the windows of the houses and in the chinks"
+    },
+    {
+      "start": 1842.29,
+      "end": 1847.61,
+      "text": "of the earth huts. The gracefully proportioned poplars in the gardens, standing out against"
+    },
+    {
+      "start": 1847.61,
+      "end": 1853.61,
+      "text": "the horizon from behind the earth huts, whose reed-thatched roofs gleamed pale in the moonlight,"
+    },
+    {
+      "start": 1853.61,
+      "end": 1859.57,
+      "text": "seemed still taller and blacker. The long shadows of the houses, of the trees, of"
+    },
+    {
+      "start": 1859.57,
+      "end": 1866.37,
+      "text": "the fences lay beautifully across the white, dusty road. In the river rang incessantly"
+    },
+    {
+      "start": 1866.37,
+      "end": 1872.37,
+      "text": "the voice of the frogs. In the streets were heard hurrying steps and sounds of voices"
+    },
+    {
+      "start": 1872.37,
+      "end": 1878.13,
+      "text": "and the galloping of horses. From the suburb came floating, now and again, the strains"
+    },
+    {
+      "start": 1878.13,
+      "end": 1884.67,
+      "text": "of the hand-organ, now the popular Russian air. The winds are blowing, now one of the"
+    },
+    {
+      "start": 1884.67,
+      "end": 1890.75,
+      "text": "Aurora waltzes. I will not tell what my thoughts were, in the first place, because I should"
+    },
+    {
+      "start": 1890.75,
+      "end": 1896.67,
+      "text": "be ashamed to confess to the melancholy ideas which without cessation arose in my mind,"
+    },
+    {
+      "start": 1896.67,
+      "end": 1902.27,
+      "text": "while all around me I perceived only gaiety and mirth, and in the second place because"
+    },
+    {
+      "start": 1902.27,
+      "end": 1907.63,
+      "text": "they have nothing to do with my story. I was so deeply engrossed in thought that"
+    },
+    {
+      "start": 1907.63,
+      "end": 1911.83,
+      "text": "I did not notice that the bell was ringing for eleven o'clock, and the general was"
+    },
+    {
+      "start": 1911.83,
+      "end": 1917.95,
+      "text": "riding past me with his sweet. The rearguard was just at the fortress gate. I galloped"
+    },
+    {
+      "start": 1917.95,
+      "end": 1924.39,
+      "text": "at full speed across the bridge amid a crush of cannon, caissons, military wagons, and"
+    },
+    {
+      "start": 1924.39,
+      "end": 1929.51,
+      "text": "commanding officers shouting at the top of their voices. After reaching the gate I rode"
+    },
+    {
+      "start": 1929.51,
+      "end": 1935.11,
+      "text": "at a brisk trot for almost a versed, past the army stretched out and silently moving"
+    },
+    {
+      "start": 1935.11,
+      "end": 1941.19,
+      "text": "through the darkness and overtook the general. As I made my way past the mounted artillery"
+    },
+    {
+      "start": 1941.19,
+      "end": 1946.79,
+      "text": "dragging their ordnance amid the cannon and officers, a German voice, like a disagreeable"
+    },
+    {
+      "start": 1946.79,
+      "end": 1952.79,
+      "text": "dissonance interrupting soft and majestic harmony, struck my ear. It screamed,"
+    },
+    {
+      "start": 1952.79,
+      "end": 1959.31,
+      "text": "Acting, kissed, bring a lin stock! And a soldier's voice replied, quick as a flash,"
+    },
+    {
+      "start": 1959.31,
+      "end": 1965.43,
+      "text": "Chevchenko, the lieutenant, asks for a light. The greater part of the sky had become enveloped"
+    },
+    {
+      "start": 1965.43,
+      "end": 1972.33,
+      "text": "in long, steel-grey clouds, here and there gleamed from between them the lustreless stars."
+    },
+    {
+      "start": 1972.33,
+      "end": 1978.03,
+      "text": "The moon was now sinking behind the near horizon of dark mountains which were on the right,"
+    },
+    {
+      "start": 1978.03,
+      "end": 1984.53,
+      "text": "and it shed on their summits a feeble, waning, half-light which contrasted sharply with the"
+    },
+    {
+      "start": 1984.53,
+      "end": 1991.37,
+      "text": "impenetrable darkness that marked their bases. The air was mild, and so still, that not"
+    },
+    {
+      "start": 1991.37,
+      "end": 1998.83,
+      "text": "a single grass blade, not a single mist wreath, moved. It became so dark that it was impossible"
+    },
+    {
+      "start": 1998.83,
+      "end": 2004.83,
+      "text": "to distinguish objects, even though very near at hand. On the side of the road there seemed"
+    },
+    {
+      "start": 2004.83,
+      "end": 2011.19,
+      "text": "to me sometimes to be rocks, sometimes animals, sometimes strange men, and I knew that they"
+    },
+    {
+      "start": 2011.19,
+      "end": 2016.15,
+      "text": "were bushes only when I heard them rustle and felt the coolness of the dew with which they"
+    },
+    {
+      "start": 2016.15,
+      "end": 2022.83,
+      "text": "were covered. In front of me I saw a dense, waving black shadow, behind which followed"
+    },
+    {
+      "start": 2022.83,
+      "end": 2029.31,
+      "text": "a few moving spots. This was the vanguard of cavalry and the general with his suite."
+    },
+    {
+      "start": 2029.31,
+      "end": 2034.59,
+      "text": "Between us moved another similar black mass, but this was not as high as the first. This"
+    },
+    {
+      "start": 2034.59,
+      "end": 2040.47,
+      "text": "was the infantry. Such silence reigned in the whole detachment that there could be plainly"
+    },
+    {
+      "start": 2040.47,
+      "end": 2047.43,
+      "text": "distinguished all the harmonious voices of the night, full of mysterious charm. The distant"
+    },
+    {
+      "start": 2047.43,
+      "end": 2054.15,
+      "text": "melancholy howls of jackals, sometimes like the wails of despair, sometimes like laughter,"
+    },
+    {
+      "start": 2054.15,
+      "end": 2060.55,
+      "text": "the monotonous ringing song of the cricket, the frog, the quail, a gradually approaching"
+    },
+    {
+      "start": 2060.55,
+      "end": 2066.35,
+      "text": "murmur, the cause of which I could not make clear to my own mind, and all those nocturnal,"
+    },
+    {
+      "start": 2066.35,
+      "end": 2073.39,
+      "text": "audible motions of nature which it is so impossible either to comprehend or define, unite into one"
+    },
+    {
+      "start": 2073.39,
+      "end": 2081.23,
+      "text": "complete, beautiful harmony which we call Silent Night. This silence was broken, or rather was"
+    },
+    {
+      "start": 2081.23,
+      "end": 2086.67,
+      "text": "unified, by the dull thud of the hooves, and the rustling of the tall grass through which the"
+    },
+    {
+      "start": 2086.67,
+      "end": 2092.59,
+      "text": "division was slowly moving. Occasionally, however, was heard in the ranks the ring of a heavy"
+    },
+    {
+      "start": 2092.59,
+      "end": 2100.03,
+      "text": "cannon, the sound of clashing bayonets, stifled conversation, and the snorting of a horse."
+    },
+    {
+      "start": 2100.03,
+      "end": 2105.59,
+      "text": "Nature breathed peacefully in beauty and power. Is it possible that people find no room to"
+    },
+    {
+      "start": 2105.59,
+      "end": 2111.71,
+      "text": "live together in this beautiful world, under this boundless, starry heaven? Is it possible"
+    },
+    {
+      "start": 2111.71,
+      "end": 2116.91,
+      "text": "that amid this bewitching nature, the soul of man can harbour the sentiments of hatred"
+    },
+    {
+      "start": 2116.91,
+      "end": 2122.81,
+      "text": "and revenge, or the passion for inflicting destruction upon his kind. All ugly feelings"
+    },
+    {
+      "start": 2122.81,
+      "end": 2128.51,
+      "text": "in the heart of man ought, it would seem, to vanish away in this intercourse with nature,"
+    },
+    {
+      "start": 2128.51,
+      "end": 2133.17,
+      "text": "with this immediate expression of beauty and goodness. Seven."
+    },
+    {
+      "start": 2133.17,
+      "end": 2138.09,
+      "text": "We had now been marching more than two hours. I began to feel chilly and to be overcome"
+    },
+    {
+      "start": 2138.09,
+      "end": 2144.49,
+      "text": "with drowsiness. In the darkness the same indistinct objects dimly appeared. At a little"
+    },
+    {
+      "start": 2144.49,
+      "end": 2150.85,
+      "text": "distance, the same black shadow, the same moving spots. Beside me was the cropper of"
+    },
+    {
+      "start": 2150.85,
+      "end": 2157.49,
+      "text": "a white horse, which switched his tail and swung his hind legs in wide curves. I could"
+    },
+    {
+      "start": 2157.49,
+      "end": 2162.97,
+      "text": "see a back in a white Circassian shirt, against which was outlined a carbine in its black"
+    },
+    {
+      "start": 2162.97,
+      "end": 2168.95,
+      "text": "case, and the handle of a pistol in an embroidered holster, the glow of a cigarette casting"
+    },
+    {
+      "start": 2168.95,
+      "end": 2176.07,
+      "text": "a gleam on a reddish moustache, a fur collar, and a hand in a chamois-skin glove. I leaned"
+    },
+    {
+      "start": 2176.07,
+      "end": 2182.47,
+      "text": "over my horse's neck, closed my eyes, and lost myself for a few minutes. Then suddenly"
+    },
+    {
+      "start": 2182.47,
+      "end": 2188.43,
+      "text": "the regular hoof-beat and rustling came into my consciousness again. I looked around,"
+    },
+    {
+      "start": 2188.43,
+      "end": 2192.95,
+      "text": "and it seemed to me as though I was standing still in one spot, and that the black shadow"
+    },
+    {
+      "start": 2192.95,
+      "end": 2198.51,
+      "text": "in front of me was moving down upon me, or else that the shadow stood still, and"
+    },
+    {
+      "start": 2198.51,
+      "end": 2204.43,
+      "text": "and I was rapidly riding down upon it. At one such moment I was more strongly than ever"
+    },
+    {
+      "start": 2204.43,
+      "end": 2210.55,
+      "text": "impressed by that incessantly approaching sound, the cause of which I could not fathom."
+    },
+    {
+      "start": 2210.55,
+      "end": 2216.51,
+      "text": "It was the roar of water. We were passing, though, a deep gulch, and coming close to"
+    },
+    {
+      "start": 2216.51,
+      "end": 2222.43,
+      "text": "a mountain river which at that season was in full flood. The roaring became louder, the"
+    },
+    {
+      "start": 2222.43,
+      "end": 2227.95,
+      "text": "damp grass grew taller and thicker, bushes were encountered in denser clumps, and the"
+    },
+    {
+      "start": 2227.95,
+      "end": 2233.91,
+      "text": "horizon narrowed itself down to closer limits. Now and then, in different places in the dark"
+    },
+    {
+      "start": 2233.91,
+      "end": 2239.67,
+      "text": "hollows of the mountains, bright fires flashed out and were immediately extinguished."
+    },
+    {
+      "start": 2239.67,
+      "end": 2244.43,
+      "text": "\"'Tell me, please, what are those fires?' I asked in a whisper of the tatar riding"
+    },
+    {
+      "start": 2244.43,
+      "end": 2245.63,
+      "text": "at my side."
+    },
+    {
+      "start": 2245.63,
+      "end": 2248.75,
+      "text": "\"'Don't you really know?' was his reply."
+    },
+    {
+      "start": 2248.75,
+      "end": 2250.35,
+      "text": "\"'No,' said I."
+    },
+    {
+      "start": 2250.35,
+      "end": 2254.51,
+      "text": "That is mountain-straw tied to a pole and the light is waved.\""
+    },
+    {
+      "start": 2254.51,
+      "end": 2256.01,
+      "text": "\"'What for?\""
+    },
+    {
+      "start": 2256.01,
+      "end": 2261.19,
+      "text": "\"'So that every man may know the Russian is coming. Now in the auls,' he added with"
+    },
+    {
+      "start": 2261.19,
+      "end": 2262.19,
+      "text": "a smile."
+    },
+    {
+      "start": 2262.19,
+      "end": 2268.15,
+      "text": "\"'Aye, aye, the Tommascha are flying about. Every sort of Kordomura will be hurried"
+    },
+    {
+      "start": 2268.15,
+      "end": 2273.53,
+      "text": "into the ravines. How do they know so soon in the mountains that the expedition is coming?'"
+    },
+    {
+      "start": 2273.53,
+      "end": 2274.53,
+      "text": "I asked."
+    },
+    {
+      "start": 2274.53,
+      "end": 2279.31,
+      "text": "\"'Aye. How can they help knowing? It's known everywhere. That's the kind of people"
+    },
+    {
+      "start": 2279.31,
+      "end": 2280.31,
+      "text": "we are.\""
+    },
+    {
+      "start": 2280.31,
+      "end": 2285.11,
+      "text": "\"'And so, Shamil is now getting ready to march out?\" I asked."
+    },
+    {
+      "start": 2285.11,
+      "end": 2286.11,
+      "text": "\"'York?\""
+    },
+    {
+      "start": 2286.11,
+      "end": 2289.95,
+      "text": "\"'No,\" he replied, shaking his head as a sign of negation."
+    },
+    {
+      "start": 2289.95,
+      "end": 2295.39,
+      "text": "Shamil will not march out. Shamil will send his naives, and he himself will look down"
+    },
+    {
+      "start": 2295.39,
+      "end": 2297.51,
+      "text": "from up yonder through his glass."
+    },
+    {
+      "start": 2297.51,
+      "end": 2300.19,
+      "text": "\"'But doesn't he live a long way off?\""
+    },
+    {
+      "start": 2300.19,
+      "end": 2305.55,
+      "text": "\"'Not a long way off. Here at your left, about ten verstes he will be.'\""
+    },
+    {
+      "start": 2305.55,
+      "end": 2307.91,
+      "text": "\"'How do you know that?' I inquired."
+    },
+    {
+      "start": 2307.91,
+      "end": 2309.27,
+      "text": "\"'Have you been there?'"
+    },
+    {
+      "start": 2309.27,
+      "end": 2313.91,
+      "text": "I've been there. All of us in the mountains have. And you have seen Shamil.\""
+    },
+    {
+      "start": 2314.79,
+      "end": 2320.87,
+      "text": "Peek! Shamil is not to be seen by us. A hundred, three hundred, a thousand murids"
+    },
+    {
+      "start": 2320.87,
+      "end": 2326.71,
+      "text": "surround him. Shamil will be in the midst of them, he said, with an expression of fawning civility."
+    },
+    {
+      "start": 2327.43,
+      "end": 2332.07,
+      "text": "Looking up in the air, it was possible to make out that the sky which had become clear again"
+    },
+    {
+      "start": 2332.07,
+      "end": 2337.51,
+      "text": "was lighter in the east, and the Pleiades were sinking down into the horizon. But in the"
+    },
+    {
+      "start": 2337.51,
+      "end": 2342.77,
+      "text": "the Gulch through which we were passing, it was humid and dark. Suddenly, a little in"
+    },
+    {
+      "start": 2342.77,
+      "end": 2348.43,
+      "text": "advance of us, from out the darkness, flashed a number of lights. At the same instant, with"
+    },
+    {
+      "start": 2348.43,
+      "end": 2353.95,
+      "text": "a ping some bullets whizzed by, and from out the silence that surrounded us from afar,"
+    },
+    {
+      "start": 2353.95,
+      "end": 2360.55,
+      "text": "arose the heavy, over-mastering roar of the guns. This was the vanguard of the enemy's"
+    },
+    {
+      "start": 2360.55,
+      "end": 2367.11,
+      "text": "pickets. The Tatars, of which it was composed, set up their war cry, shot at random, and"
+    },
+    {
+      "start": 2367.11,
+      "end": 2374.27,
+      "text": "led in all directions. Everything became silent again. The general summoned his interpreter."
+    },
+    {
+      "start": 2374.27,
+      "end": 2379.11,
+      "text": "The Tatar in a white Circassian dress hastened up to him, and the two held a rather long"
+    },
+    {
+      "start": 2379.11,
+      "end": 2383.31,
+      "text": "conversation in a sort of whisper and with many gestures."
+    },
+    {
+      "start": 2383.31,
+      "end": 2389.67,
+      "text": "\ufffdColonel Kasanov! Give orders to scatter the enemy!\ufffd said the general, in a low,"
+    },
+    {
+      "start": 2389.67,
+      "end": 2395.55,
+      "text": "deliberate, but distinct tone of voice. The division went down to the river. The Black"
+    },
+    {
+      "start": 2395.55,
+      "end": 2401.43,
+      "text": "mountain stood back from the pass. It was beginning to grow light. The arch of heaven,"
+    },
+    {
+      "start": 2401.43,
+      "end": 2407.67,
+      "text": "in which the pale, lustreless stars were barely visible, seemed to come closer. The dawn began"
+    },
+    {
+      "start": 2407.67,
+      "end": 2414.35,
+      "text": "to glow brightly in the east. A cool, penetrating breeze sprang up from the west, and a bright"
+    },
+    {
+      "start": 2414.35,
+      "end": 2421.75,
+      "text": "mist-like steam arose from the foaming river. Eight. The guide pointed out the ford, and"
+    },
+    {
+      "start": 2421.75,
+      "end": 2427.11,
+      "text": "The vanguard of cavalry, with the general and his suite immediately in its rear, began"
+    },
+    {
+      "start": 2427.11,
+      "end": 2433.01,
+      "text": "to cross the river. The water, which reached the horse's breasts, rushed with extraordinary"
+    },
+    {
+      "start": 2433.01,
+      "end": 2438.67,
+      "text": "violence among the white boulders, which in some places came to the top, and formed foaming,"
+    },
+    {
+      "start": 2438.67,
+      "end": 2444.15,
+      "text": "gurgling whirlpools around the horse's legs. The horses were frightened at the roar of"
+    },
+    {
+      "start": 2444.15,
+      "end": 2449.57,
+      "text": "the water, lifted their heads, pricked up their ears, but slowly and carefully picked"
+    },
+    {
+      "start": 2449.57,
+      "end": 2455.01,
+      "text": "their way against the stream along the uneven bottom. The riders held up their legs and"
+    },
+    {
+      "start": 2455.01,
+      "end": 2460.73,
+      "text": "firearms. The foot soldiers, literally in their shirts alone, lifting above the water"
+    },
+    {
+      "start": 2460.73,
+      "end": 2465.09,
+      "text": "their muskets to which were fastened their bundles of clothing, struggled against the"
+    },
+    {
+      "start": 2465.09,
+      "end": 2470.61,
+      "text": "force of the stream by clinging together, a score of men at a time, showing noticeable"
+    },
+    {
+      "start": 2470.61,
+      "end": 2477.21,
+      "text": "determination on their excited faces. The artillery men on horseback, with a loud shout,"
+    },
+    {
+      "start": 2477.21,
+      "end": 2482.85,
+      "text": "their horses into the water at full trot. The cannon and green-painted caissons, over"
+    },
+    {
+      "start": 2482.85,
+      "end": 2488.73,
+      "text": "which now and then the water came pouring, plunged with a clang over the rocky bottom."
+    },
+    {
+      "start": 2488.73,
+      "end": 2493.91,
+      "text": "But the noble Cossack horses, pulled with united effort, made the water foam, and with"
+    },
+    {
+      "start": 2493.91,
+      "end": 2498.45,
+      "text": "dripping tails and manes, emerged on the farther shore."
+    },
+    {
+      "start": 2498.45,
+      "end": 2502.81,
+      "text": "As soon as the crossing was affected, the general's face suddenly took on an expression"
+    },
+    {
+      "start": 2502.81,
+      "end": 2508.63,
+      "text": "of deliberation and seriousness. He wheeled his horse around, and at full gallop rode"
+    },
+    {
+      "start": 2508.63,
+      "end": 2514.65,
+      "text": "across the wide, forest-surrounded field which spread before us. The Cossack horses were"
+    },
+    {
+      "start": 2514.65,
+      "end": 2519.75,
+      "text": "scattered along the edge of the forest. In the forest appeals a man in Circassian dress"
+    },
+    {
+      "start": 2519.75,
+      "end": 2527.65,
+      "text": "and round cap, then a second and a third. One of the officers shouts, Those are Tatars!"
+    },
+    {
+      "start": 2527.65,
+      "end": 2533.87,
+      "text": "At this instant a puff of smoke came from behind a tree, a report, another. The quick"
+    },
+    {
+      "start": 2533.87,
+      "end": 2539.63,
+      "text": "volleys of our men drown out those of the enemy. Only occasionally a bullet, with long-drawn"
+    },
+    {
+      "start": 2539.63,
+      "end": 2545.01,
+      "text": "ping like the hum of a bee, flies by, and is the only proof that not all the shots"
+    },
+    {
+      "start": 2545.01,
+      "end": 2551.23,
+      "text": "are ours. Here the infantry at double quick, and with fixed bayonets, dash against the"
+    },
+    {
+      "start": 2551.23,
+      "end": 2556.83,
+      "text": "chain. One can hear the heavy reports of the guns, the metallic clash of grapeshot,"
+    },
+    {
+      "start": 2556.83,
+      "end": 2563.39,
+      "text": "The whiz of rockets, the crackling of musketry, the cavalry, the infantry converge from all"
+    },
+    {
+      "start": 2563.39,
+      "end": 2570.67,
+      "text": "sides on the wide field. The smoke from the guns, rockets, and firearms unites with the"
+    },
+    {
+      "start": 2570.67,
+      "end": 2576.91,
+      "text": "early mist arising from the dew-covered grass. Colonel Kasanov gallops up to the general"
+    },
+    {
+      "start": 2576.91,
+      "end": 2579.87,
+      "text": "and reigns in his horse while at full tilt."
+    },
+    {
+      "start": 2579.87,
+      "end": 2585.51,
+      "text": "\"'Your Excellency,' says he, lifting his hand to his cap, give orders for the cavalry"
+    },
+    {
+      "start": 2585.51,
+      "end": 2590.87,
+      "text": "to advance. The standards are coming, and he points with his whip to mounted Tatars,"
+    },
+    {
+      "start": 2590.87,
+      "end": 2596.71,
+      "text": "at the head of whom rode two men on white horses, with red and blue streamers on their lances."
+    },
+    {
+      "start": 2597.67,
+      "end": 2603.75,
+      "text": "All right, Ivan Mikhailovich, says the general. The Colonel wheels his horse round on the spot,"
+    },
+    {
+      "start": 2603.75,
+      "end": 2610.47,
+      "text": "draws his sabre and shouts, Hurrah! Hurrah! Hurrah! Hurrah! echoes from the ranks,"
+    },
+    {
+      "start": 2610.47,
+      "end": 2616.87,
+      "text": "and the cavalry dash after him. All look on with excitement. There is a standard, another,"
+    },
+    {
+      "start": 2616.87,
+      "end": 2623.03,
+      "text": "a third, a fourth. The enemy, not waiting the assault, fly into the forest and open"
+    },
+    {
+      "start": 2623.03,
+      "end": 2627.75,
+      "text": "a musket fire from behind the trees. The bullets fly more and more thickly."
+    },
+    {
+      "start": 2628.39,
+      "end": 2634.55,
+      "text": "Quelle Chamoncou de, exclaimed the general, as he easily rose in English fashion on his"
+    },
+    {
+      "start": 2634.55,
+      "end": 2637.75,
+      "text": "coal-black, slender-limbed little steed."
+    },
+    {
+      "start": 2637.75,
+      "end": 2643.43,
+      "text": "\ufffdSharmont!\ufffd replies the Major, who rolls his Rs like a Frenchman and whipping up his"
+    },
+    {
+      "start": 2643.43,
+      "end": 2648.35,
+      "text": "horse dashes after the General. \ufffdIt\ufffds a genuine pleasure to carry on war in such"
+    },
+    {
+      "start": 2648.35,
+      "end": 2653.63,
+      "text": "a fine country,\ufffd says he. \ufffdAnd above all in good company,\ufffd adds the General,"
+    },
+    {
+      "start": 2653.63,
+      "end": 2658.23,
+      "text": "still in French, with a pleasant smile. The Major bowed."
+    },
+    {
+      "start": 2658.23,
+      "end": 2663.15,
+      "text": "At this time a cannon-ball from the enemy comes flying by with a swift, disagreeable"
+    },
+    {
+      "start": 2663.15,
+      "end": 2669.43,
+      "text": "whiz and strikes something, immediately is heard the groan of a wounded man. This groan"
+    },
+    {
+      "start": 2669.43,
+      "end": 2676.03,
+      "text": "impresses me so painfully that the marshal picture instantly loses for me all its fascination."
+    },
+    {
+      "start": 2676.03,
+      "end": 2681.35,
+      "text": "But no one beside myself seems to be affected in the same way, the major smiles apparently"
+    },
+    {
+      "start": 2681.35,
+      "end": 2686.83,
+      "text": "with the greatest satisfaction. Another officer with perfect equanimity repeats the opening"
+    },
+    {
+      "start": 2686.83,
+      "end": 2691.67,
+      "text": "words of a speech. The general looks in the opposite direction, and with the most"
+    },
+    {
+      "start": 2691.67,
+      "end": 2694.47,
+      "text": "Tranquil Smile says something in French."
+    },
+    {
+      "start": 2694.47,
+      "end": 2698.05,
+      "text": "Will you give orders to reply to their heavy guns?"
+    },
+    {
+      "start": 2698.05,
+      "end": 2701.31,
+      "text": "asks the commander of the artillery, galloping up."
+    },
+    {
+      "start": 2701.31,
+      "end": 2706.71,
+      "text": "Yes, scare them a little, says the general carelessly, lighting a cigar."
+    },
+    {
+      "start": 2706.71,
+      "end": 2710.95,
+      "text": "The battery is unlimbered, and the cannonade begins."
+    },
+    {
+      "start": 2710.95,
+      "end": 2716.67,
+      "text": "The ground shakes under the report, the firing continues without cessation, and the smoke"
+    },
+    {
+      "start": 2716.67,
+      "end": 2722.83,
+      "text": "in which it is scarcely possible to distinguish those attending the guns, blinds the eyes."
+    },
+    {
+      "start": 2722.83,
+      "end": 2729.53,
+      "text": "The hour wall is battered down. Again, Colonel Kasanov dashes up, and at the General's command"
+    },
+    {
+      "start": 2729.53,
+      "end": 2734.99,
+      "text": "darts off to the owl. The war cry is heard again, and the cavalry disappears in the"
+    },
+    {
+      "start": 2734.99,
+      "end": 2741.19,
+      "text": "cloud of its own dust. The spectacle was truly grandiose. One thing only spoiled the"
+    },
+    {
+      "start": 2741.19,
+      "end": 2746.87,
+      "text": "general impression for me as a man who had no part in the affair and was wholly unwanted to it,"
+    },
+    {
+      "start": 2746.87,
+      "end": 2752.31,
+      "text": "and this was that there was too much of it, the motion and the animation and the shouts."
+    },
+    {
+      "start": 2753.19,
+      "end": 2758.31,
+      "text": "Involuntarily the comparison occurred to me of a man who in his haste would cut the air with a"
+    },
+    {
+      "start": 2758.31,
+      "end": 2764.87,
+      "text": "hatchet. Nine. The oil was already in the possession of our men, and not a soul of the"
+    },
+    {
+      "start": 2764.87,
+      "end": 2770.39,
+      "text": "enemy remained in it when the general with his sweet, to which I had joined myself, entered it."
+    },
+    {
+      "start": 2771.19,
+      "end": 2777.65,
+      "text": "The long, neat huts or sakli, with their flat earthen roofs and red chimneys, were situated"
+    },
+    {
+      "start": 2777.65,
+      "end": 2784.05,
+      "text": "on rough, rocky hills, between which ran a small river. On one side were seen the green"
+    },
+    {
+      "start": 2784.05,
+      "end": 2790.57,
+      "text": "gardens, shining in the clear sunlight, with monstrous pear trees and the plum trees,"
+    },
+    {
+      "start": 2790.57,
+      "end": 2797.03,
+      "text": "called luitia. The other side bristled with strange shadows, where stood the high perpendicular"
+    },
+    {
+      "start": 2797.03,
+      "end": 2803.19,
+      "text": "stones of a cemetery, and the tall wooden poles adorned at the ends with balls and very gated"
+    },
+    {
+      "start": 2803.19,
+      "end": 2809.33,
+      "text": "banners, these were the tombs of jigits. The army stood drawn up within the gates. After"
+    },
+    {
+      "start": 2809.33,
+      "end": 2815.07,
+      "text": "a moment the dragoons, the cossacks, the infantry, with evident joy, were let loose"
+    },
+    {
+      "start": 2815.07,
+      "end": 2822.11,
+      "text": "through the crooked streets, and the empty owl suddenly teemed with life. Here a roof"
+    },
+    {
+      "start": 2822.11,
+      "end": 2827.95,
+      "text": "is crushed in. The axe rings on the tough trees, and the plank door is broken down."
+    },
+    {
+      "start": 2827.95,
+      "end": 2833.71,
+      "text": "Their hay-ricks, fences, and huts are burning, and the dense smoke arises like a tower in"
+    },
+    {
+      "start": 2833.71,
+      "end": 2840.39,
+      "text": "the clear air. Here, a Cossack is carrying off sacks of flour and carpets. A soldier"
+    },
+    {
+      "start": 2840.39,
+      "end": 2845.99,
+      "text": "with a gay face lugs from a hut, a tin basin, and a dish-clout. Another with outstretched"
+    },
+    {
+      "start": 2845.99,
+      "end": 2851.95,
+      "text": "arms is trying to catch a couple of hens, which cackling furiously fly about the yard."
+    },
+    {
+      "start": 2851.95,
+      "end": 2856.95,
+      "text": "A third is going somewhere with a monstrous kungen or pitcher of milk and drinking as"
+    },
+    {
+      "start": 2856.95,
+      "end": 2863.27,
+      "text": "he goes, and when he has had his fill smashes it on the ground with a loud laugh. The battalion"
+    },
+    {
+      "start": 2863.27,
+      "end": 2868.81,
+      "text": "which I had accompanied from Fort Enne was also in the alle. The captain was sitting"
+    },
+    {
+      "start": 2868.81,
+      "end": 2873.79,
+      "text": "on the roof of a hut, and was puffing from his short little pipe-clouds of smoke of"
+    },
+    {
+      "start": 2873.79,
+      "end": 2879.23,
+      "text": "Sambratalicecki Tabak with such an indifferent expression of countenance that when I saw"
+    },
+    {
+      "start": 2879.23,
+      "end": 2884.23,
+      "text": "him, I forgot that I was in a hostile owl, and it seemed to me that I was actually at"
+    },
+    {
+      "start": 2884.23,
+      "end": 2885.87,
+      "text": "home with him."
+    },
+    {
+      "start": 2885.87,
+      "end": 2893.15,
+      "text": "Ah! and here you are, he said, as he caught sight of me. The tall form of Lieutenant Rosenkranz"
+    },
+    {
+      "start": 2893.15,
+      "end": 2898.71,
+      "text": "flashed here and there through the oll. Without a moment's pause he was engaged in carrying"
+    },
+    {
+      "start": 2898.71,
+      "end": 2905.19,
+      "text": "out orders, and he had the appearance of\u2014a man who had all he could do. I saw him coming"
+    },
+    {
+      "start": 2905.19,
+      "end": 2911.19,
+      "text": "out of a hut, his face full of triumph. Behind him two soldiers were dragging an old tatar"
+    },
+    {
+      "start": 2911.19,
+      "end": 2917.27,
+      "text": "with his arms tied. The old man, whose garb consisted merely of a many-coloured bechmet"
+    },
+    {
+      "start": 2917.27,
+      "end": 2923.75,
+      "text": "torn in tatters and ragged drawers, was so feeble that it seemed as if his bony arms,"
+    },
+    {
+      "start": 2923.75,
+      "end": 2928.95,
+      "text": "tightly tied behind his misshapen back, were almost falling from his shoulders,"
+    },
+    {
+      "start": 2928.95,
+      "end": 2935.35,
+      "text": "and his crooked bare legs moved with difficulty. His face, and even a part of his shaven head,"
+    },
+    {
+      "start": 2935.35,
+      "end": 2941.91,
+      "text": "were covered with deep wrinkles. His distorted, toothless mouth, encircled by grey clipped"
+    },
+    {
+      "start": 2941.91,
+      "end": 2947.43,
+      "text": "moustache and beard, incessantly mumbled as though whispering something. But his handsome"
+    },
+    {
+      "start": 2947.43,
+      "end": 2952.63,
+      "text": "eyes from which the lashes were gone still gleamed with fire, and clearly expressed"
+    },
+    {
+      "start": 2952.63,
+      "end": 2957.67,
+      "text": "an old man's indifference to life. Rosencrantz, through an interpreter,"
+    },
+    {
+      "start": 2957.67,
+      "end": 2960.31,
+      "text": "asked him why he had not gone with the others."
+    },
+    {
+      "start": 2960.31,
+      "end": 2964.91,
+      "text": "\ufffdWhere should I go?\ufffd he replied, calmly looking away."
+    },
+    {
+      "start": 2964.91,
+      "end": 2969.35,
+      "text": "\ufffdWhere the rest have gone?\ufffd suggested someone. \ufffdThe Jigits have gone to fight"
+    },
+    {
+      "start": 2969.35,
+      "end": 2974.51,
+      "text": "with the Russians, and I am an old man.\ufffd \ufffdAren\ufffdt you afraid of the Russians?\ufffd"
+    },
+    {
+      "start": 2974.51,
+      "end": 2980.35,
+      "text": "\ufffdWhat will the Russians do to me?\ufffd \ufffdI am an old man,\ufffd he repeated, carelessly"
+    },
+    {
+      "start": 2980.35,
+      "end": 2985.55,
+      "text": "glancing at the circle surrounding him. On the way back I saw this old man without"
+    },
+    {
+      "start": 2985.55,
+      "end": 2991.19,
+      "text": "a hat, with his hands still tied, jolting behind a mounted cossack, and he was looking"
+    },
+    {
+      "start": 2991.19,
+      "end": 2999.23,
+      "text": "about him with the same expression of unconcern. He was necessary in an exchange of prisoners."
+    },
+    {
+      "start": 2999.23,
+      "end": 3002.87,
+      "text": "I went to the staircase and crept up to where the captain was."
+    },
+    {
+      "start": 3002.87,
+      "end": 3007.83,
+      "text": "\"'Not many of the enemy, it seems,' I said to him, wishing to obtain his opinion"
+    },
+    {
+      "start": 3007.83,
+      "end": 3009.07,
+      "text": "about the affair."
+    },
+    {
+      "start": 3009.07,
+      "end": 3015.27,
+      "text": "\"'The enemy,' he repeated with surprise. There weren't any at all. Do you call these"
+    },
+    {
+      "start": 3015.27,
+      "end": 3020.59,
+      "text": "enemies. Here, when evening comes, you will see how we shall retreat. You will see how"
+    },
+    {
+      "start": 3020.59,
+      "end": 3025.63,
+      "text": "they will go with us. Won't they show themselves there?\" he added, pointing with his pipe"
+    },
+    {
+      "start": 3025.63,
+      "end": 3027.91,
+      "text": "to the forest which we had passed in the morning."
+    },
+    {
+      "start": 3027.91,
+      "end": 3033.03,
+      "text": "\"'What is that?\" I asked, anxiously, interrupting the captain, and drawing his"
+    },
+    {
+      "start": 3033.03,
+      "end": 3038.75,
+      "text": "attention to some Don Cossacks who were grouped around someone not far from us. Among them"
+    },
+    {
+      "start": 3038.75,
+      "end": 3042.95,
+      "text": "was heard something like the weeping of a child, and the words,"
+    },
+    {
+      "start": 3042.95,
+      "end": 3049.03,
+      "text": "Hey, don't cut. Hold on. You will be seen. Here's a knife. Give him the knife.\""
+    },
+    {
+      "start": 3050.07,
+      "end": 3053.75,
+      "text": "They are up to some mischief, the brute, said the captain indifferently."
+    },
+    {
+      "start": 3054.39,
+      "end": 3059.91,
+      "text": "But at this very instant, suddenly from around the corner came the handsome ensign with burning,"
+    },
+    {
+      "start": 3059.91,
+      "end": 3064.07,
+      "text": "horror-stricken face, and waving his hands rushed among the Cossacks."
+    },
+    {
+      "start": 3064.71,
+      "end": 3069.03,
+      "text": "Don't you move! Don't kill him! he cried in his boyish treble."
+    },
+    {
+      "start": 3069.03,
+      "end": 3074.51,
+      "text": "people. When the Cossack saw the officer, they started back, and allowed a little white"
+    },
+    {
+      "start": 3074.51,
+      "end": 3079.95,
+      "text": "goat to escape from their hands. The young Ensign was wholly taken aback, began to mutter"
+    },
+    {
+      "start": 3079.95,
+      "end": 3085.07,
+      "text": "something, and stood before them full of confusion. When he caught sight of the captain"
+    },
+    {
+      "start": 3085.07,
+      "end": 3090.19,
+      "text": "and me on the roof, he grew still redder in the face, and springing up the steps joined"
+    },
+    {
+      "start": 3090.19,
+      "end": 3091.19,
+      "text": "us."
+    },
+    {
+      "start": 3091.19,
+      "end": 3096.03,
+      "text": "I thought they were going to kill a child, he said with a timid smile."
+    },
+    {
+      "start": 3096.03,
+      "end": 3102.59,
+      "text": "X. The general had gone on ahead with the cavalry. The battalion with which I had come from Fort N."
+    },
+    {
+      "start": 3102.59,
+      "end": 3107.79,
+      "text": "remained in the rear guard. The companies under command of Captain Clopoff and Lieutenant"
+    },
+    {
+      "start": 3107.79,
+      "end": 3113.95,
+      "text": "Rosencrantz were retreating together. The captain's prediction was fully justified."
+    },
+    {
+      "start": 3113.95,
+      "end": 3118.43,
+      "text": "As soon as we had reached the narrow forest of which he had spoken, from both sides the"
+    },
+    {
+      "start": 3118.43,
+      "end": 3124.67,
+      "text": "mountaineers, mounted and on foot, began to show themselves incessantly, and so near that I could"
+    },
+    {
+      "start": 3124.67,
+      "end": 3130.55,
+      "text": "very distinctly see many crouching down, with muskets in their hands, and running from"
+    },
+    {
+      "start": 3130.55,
+      "end": 3136.11,
+      "text": "tree to tree. The captain took off his hat, and piously"
+    },
+    {
+      "start": 3136.11,
+      "end": 3142.49,
+      "text": "made the sign of the cross. A few old soldiers did the same. In the forest were heard shouts,"
+    },
+    {
+      "start": 3142.49,
+      "end": 3149.83,
+      "text": "the words, Yai, Giau, Urus, Yai. Dry, short musket reports followed in quick"
+    },
+    {
+      "start": 3149.83,
+      "end": 3155.99,
+      "text": "succession and bullets whizzed from both sides. Our men silently replied with rapid"
+    },
+    {
+      "start": 3155.99,
+      "end": 3161.91,
+      "text": "fire, only occasionally in the ranks were heard exclamations in the guise of directions."
+    },
+    {
+      "start": 3161.91,
+      "end": 3166.91,
+      "text": "He has stopped shooting there. He has a good chance behind the trees. We ought to have"
+    },
+    {
+      "start": 3166.91,
+      "end": 3172.51,
+      "text": "cannon and such expressions. The cannon were brought to bear on the range,"
+    },
+    {
+      "start": 3172.51,
+      "end": 3178.07,
+      "text": "and after a few discharges of grape the enemy apparently gave way, but after a little their"
+    },
+    {
+      "start": 3178.07,
+      "end": 3182.99,
+      "text": "fire became more and more violent with each step that the army took, and the shouts and"
+    },
+    {
+      "start": 3182.99,
+      "end": 3188.85,
+      "text": "war cries increased. We were scarcely three hundred sergeants from the owl, when the enemy's"
+    },
+    {
+      "start": 3188.85,
+      "end": 3195.71,
+      "text": "shot began to hail down upon us. I saw a ball with a thud strike one soldier dead. But why"
+    },
+    {
+      "start": 3195.71,
+      "end": 3201.85,
+      "text": "relate details of this terrible spectacle, when I myself would give much to forget it?"
+    },
+    {
+      "start": 3201.85,
+      "end": 3206.39,
+      "text": "Lieutenant Rosencrantz was firing his musket without a moment's cessation. With animating"
+    },
+    {
+      "start": 3206.39,
+      "end": 3210.87,
+      "text": "voice he was shouting to the soldiers and galloping at full speed from one end of the"
+    },
+    {
+      "start": 3210.87,
+      "end": 3216.39,
+      "text": "line to the other. He was slightly pale, and this was decidedly becoming to his martial"
+    },
+    {
+      "start": 3216.39,
+      "end": 3223.07,
+      "text": "countenance. The handsome ensign was in his element. His beautiful eyes gleamed with resolution."
+    },
+    {
+      "start": 3223.07,
+      "end": 3228.23,
+      "text": "His mouth was slightly parted with a smile. He was constantly riding up to the captain"
+    },
+    {
+      "start": 3228.23,
+      "end": 3230.71,
+      "text": "and asking permission to charge."
+    },
+    {
+      "start": 3230.71,
+      "end": 3233.87,
+      "text": "We'll drive them back,\" he said impulsively."
+    },
+    {
+      "start": 3233.87,
+      "end": 3236.27,
+      "text": "We'll drive them back surely."
+    },
+    {
+      "start": 3236.27,
+      "end": 3239.95,
+      "text": "No need of it, replied the captain gently."
+    },
+    {
+      "start": 3239.95,
+      "end": 3242.79,
+      "text": "We must get out of here."
+    },
+    {
+      "start": 3242.79,
+      "end": 3247.41,
+      "text": "The captain's company occupied the edge of the forest and was fully exposed to the"
+    },
+    {
+      "start": 3247.41,
+      "end": 3248.71,
+      "text": "enemy's fire."
+    },
+    {
+      "start": 3248.71,
+      "end": 3254.43,
+      "text": "The captain, in his well-worn coat and tattered cap, slackening the reins for his white trotter"
+    },
+    {
+      "start": 3254.43,
+      "end": 3259.11,
+      "text": "and clinging by his short stirrups, silently stayed in one place."
+    },
+    {
+      "start": 3259.11,
+      "end": 3263.39,
+      "text": "The soldiers were so well trained and did their work so accurately that there was no"
+    },
+    {
+      "start": 3263.39,
+      "end": 3268.95,
+      "text": "need of giving commands to them. Only now and then he raised his voice and shouted to"
+    },
+    {
+      "start": 3268.95,
+      "end": 3274.75,
+      "text": "those who exposed their heads. The captain's face was very far from Marshall, but such"
+    },
+    {
+      "start": 3274.75,
+      "end": 3279.55,
+      "text": "truth and simplicity were manifest in it that it impressed me profoundly."
+    },
+    {
+      "start": 3279.55,
+      "end": 3286.13,
+      "text": "\"'There is someone who is truly brave,' I said to myself involuntarily. He was almost"
+    },
+    {
+      "start": 3286.13,
+      "end": 3292.51,
+      "text": "exactly the same as I had always seen him\u2014the same tranquil motions, the same even voice,"
+    },
+    {
+      "start": 3292.51,
+      "end": 3298.27,
+      "text": "the same expression of frankness on his homely but honest face. But by his more than ordinarily"
+    },
+    {
+      "start": 3298.27,
+      "end": 3304.49,
+      "text": "keen glance it was possible to recognize him as a man who infallibly knew his business."
+    },
+    {
+      "start": 3304.49,
+      "end": 3308.83,
+      "text": "It is easy to say the same as always, but how different were the traits brought out"
+    },
+    {
+      "start": 3308.83,
+      "end": 3315.51,
+      "text": "in others? One tried to seem calmer, another rougher, a third gayer than usual. But by"
+    },
+    {
+      "start": 3315.51,
+      "end": 3321.33,
+      "text": "By the captain's face, it was manifest that he did not even understand how to seem."
+    },
+    {
+      "start": 3321.33,
+      "end": 3328.43,
+      "text": "The Frenchman who at Waterloo said, Lagarde Mer, mais ne saur en par, and other heroes,"
+    },
+    {
+      "start": 3328.43,
+      "end": 3333.71,
+      "text": "especially among the French, who have uttered notable sayings, were brave, and really uttered"
+    },
+    {
+      "start": 3333.71,
+      "end": 3335.35,
+      "text": "notable sayings."
+    },
+    {
+      "start": 3335.35,
+      "end": 3340.19,
+      "text": "But between their bravery and the bravery of the captain is this difference, that if"
+    },
+    {
+      "start": 3340.19,
+      "end": 3345.49,
+      "text": "If a great saying in regard to any subject came into my hero's mind, I believe that"
+    },
+    {
+      "start": 3345.49,
+      "end": 3349.69,
+      "text": "he would not have uttered it. In the first place, because he would have feared that in"
+    },
+    {
+      "start": 3349.69,
+      "end": 3355.45,
+      "text": "saying something great, he might spoil a great deed, and secondly, because when a man is"
+    },
+    {
+      "start": 3355.45,
+      "end": 3360.65,
+      "text": "conscious within himself of the power to do a great deed, there is no need of saying"
+    },
+    {
+      "start": 3360.65,
+      "end": 3367.45,
+      "text": "any thing at all. This, in my opinion, is the especial and lofty character of Russian"
+    },
+    {
+      "start": 3367.45,
+      "end": 3373.05,
+      "text": "bravery, and how, henceforth, can it fail to wound the Russian heart when among our"
+    },
+    {
+      "start": 3373.05,
+      "end": 3378.25,
+      "text": "young warriors one hears French platitudes, which have their vogue because they were the"
+    },
+    {
+      "start": 3378.25,
+      "end": 3383.93,
+      "text": "stock phrases of the old French nobility. Suddenly, from the direction in which the"
+    },
+    {
+      "start": 3383.93,
+      "end": 3389.77,
+      "text": "handsome ensign with his division was stationed, was heard a faint hurrah from the enemy."
+    },
+    {
+      "start": 3389.77,
+      "end": 3394.47,
+      "text": "Turning round at this shouting, I saw thirty soldiers who with muskets in their hands and"
+    },
+    {
+      "start": 3394.47,
+      "end": 3399.67,
+      "text": "knapsacks on their shoulders were going at double quick across the ploughed field. They"
+    },
+    {
+      "start": 3399.67,
+      "end": 3405.39,
+      "text": "stumbled but still pushed ahead and shouted. Leading them galloped the young ensign, waving"
+    },
+    {
+      "start": 3405.39,
+      "end": 3411.15,
+      "text": "his sabre. All were lost to sight in the forest. At the end of a few moments of shouting and"
+    },
+    {
+      "start": 3411.15,
+      "end": 3416.87,
+      "text": "clash of arms a frightened horse came dashing out of the woods and just at the edge soldiers"
+    },
+    {
+      "start": 3416.87,
+      "end": 3422.61,
+      "text": "were seen bearing the killed and wounded. Among the latter was the young ensign. Two"
+    },
+    {
+      "start": 3422.61,
+      "end": 3425.17,
+      "text": "Two soldiers carried him in their arms."
+    },
+    {
+      "start": 3425.17,
+      "end": 3430.17,
+      "text": "He was pale as a sheet, and his graceful head, where could be now detected only the shadow"
+    },
+    {
+      "start": 3430.17,
+      "end": 3435.89,
+      "text": "of that martial enthusiasm which inspired him, but a moment before was strangely drawn"
+    },
+    {
+      "start": 3435.89,
+      "end": 3439.89,
+      "text": "down between his shoulders and rested on his breast."
+    },
+    {
+      "start": 3439.89,
+      "end": 3446.61,
+      "text": "On his white shirt under his coat, which was torn open, could be seen a small blood stain."
+    },
+    {
+      "start": 3446.61,
+      "end": 3453.81,
+      "text": "Ugh! What a pity, I said in spite of myself, as I turned away from this heart-rending spectacle."
+    },
+    {
+      "start": 3453.81,
+      "end": 3459.73,
+      "text": "Indeed, it's too bad, said an old soldier, who with gloomy face stood beside me leaning"
+    },
+    {
+      "start": 3459.73,
+      "end": 3460.81,
+      "text": "on his musket."
+    },
+    {
+      "start": 3460.81,
+      "end": 3466.29,
+      "text": "He wasn't afraid of anything! How is this possible? he added, looking steadily at the"
+    },
+    {
+      "start": 3466.29,
+      "end": 3471.85,
+      "text": "wounded lad. Always foolish, and now he has to pay for it."
+    },
+    {
+      "start": 3471.85,
+      "end": 3476.29,
+      "text": "11. Four soldiers bore the ensign on a litter."
+    },
+    {
+      "start": 3476.29,
+      "end": 3481.53,
+      "text": "them followed a soldier from the suburb, leading a lean, founded horse laden with two green"
+    },
+    {
+      "start": 3481.53,
+      "end": 3487.33,
+      "text": "chests in which were the surgeon's implements. They were expecting the doctor. The officers"
+    },
+    {
+      "start": 3487.33,
+      "end": 3491.63,
+      "text": "hurried up to the litter and tried to encourage and comfort the wounded lad."
+    },
+    {
+      "start": 3491.63,
+      "end": 3497.27,
+      "text": "Well, brother Alainin, it'll be some time before you dance and make merry again, said"
+    },
+    {
+      "start": 3497.27,
+      "end": 3502.31,
+      "text": "Lieutenant Rosencrantz, coming up with a smile. He probably intended these words to"
+    },
+    {
+      "start": 3502.31,
+      "end": 3507.67,
+      "text": "sustain the handsome ensigns courage, but as could be easily seen from the coldly mournful"
+    },
+    {
+      "start": 3507.67,
+      "end": 3512.79,
+      "text": "expression in the eyes of the latter, these words did not produce the wished-for effect."
+    },
+    {
+      "start": 3513.59,
+      "end": 3518.79,
+      "text": "The captain also came up. He gazed earnestly at the wounded young fellow,"
+    },
+    {
+      "start": 3518.79,
+      "end": 3522.87,
+      "text": "and his always cold, calm face expressed heartfelt pity."
+    },
+    {
+      "start": 3523.67,
+      "end": 3528.71,
+      "text": "\"'How is it, my dear Anatoly Ivanovich,' said he, in a tone which rang with a deeper"
+    },
+    {
+      "start": 3528.71,
+      "end": 3533.11,
+      "text": "sympathy than I had expected from him, we see it's as God wills."
+    },
+    {
+      "start": 3533.91,
+      "end": 3538.63,
+      "text": "The wounded lad looked up, his pale face was lighted with a mournful smile."
+    },
+    {
+      "start": 3539.43,
+      "end": 3545.43,
+      "text": "Yes, I disobeyed you. Say rather, it was God's will, replied the captain."
+    },
+    {
+      "start": 3546.15,
+      "end": 3552.47,
+      "text": "The doctor, who had now arrived, took from his chest bandages, probes, and other instruments,"
+    },
+    {
+      "start": 3552.47,
+      "end": 3557.27,
+      "text": "and rolling up his sleeves with a reassuring smile, approached the sufferer."
+    },
+    {
+      "start": 3557.27,
+      "end": 3563.27,
+      "text": "So it seems they have been making a little hole through you, he said, in a tone of jesting"
+    },
+    {
+      "start": 3563.27,
+      "end": 3569.53,
+      "text": "unconcern. Let us have a look at the place.\" The ensign listened, but in the gaze which"
+    },
+    {
+      "start": 3569.53,
+      "end": 3575.15,
+      "text": "he fixed on the jolly doctor were expressed surprise and reproachfulness which the latter"
+    },
+    {
+      "start": 3575.15,
+      "end": 3581.35,
+      "text": "did not expect. He began to probe the wound and examine it from all sides, but at last"
+    },
+    {
+      "start": 3581.35,
+      "end": 3586.51,
+      "text": "The sufferer, losing his patience, pushed away his hand with a heavy groan."
+    },
+    {
+      "start": 3586.51,
+      "end": 3590.39,
+      "text": "\"'Let me be,' he said in an almost inaudible voice."
+    },
+    {
+      "start": 3590.39,
+      "end": 3592.43,
+      "text": "\"'It makes no difference."
+    },
+    {
+      "start": 3592.43,
+      "end": 3594.39,
+      "text": "I am dying.'\""
+    },
+    {
+      "start": 3594.39,
+      "end": 3598.55,
+      "text": "With these words he fell on his back, and five minutes later when I joined the group"
+    },
+    {
+      "start": 3598.55,
+      "end": 3602.63,
+      "text": "gathered about him and asked a soldier, how is the ensign?"
+    },
+    {
+      "start": 3602.63,
+      "end": 3605.51,
+      "text": "I was told, he has gone."
+    },
+    {
+      "start": 3605.51,
+      "end": 3606.83,
+      "text": "12."
+    },
+    {
+      "start": 3606.83,
+      "end": 3611.95,
+      "text": "It was late when the expedition, deploying in a broad column, entered the fortress with"
+    },
+    {
+      "start": 3611.95,
+      "end": 3613.07,
+      "text": "songs."
+    },
+    {
+      "start": 3613.07,
+      "end": 3618.67,
+      "text": "The sun had set behind the snow-covered mountain crest and was throwing its last rosy rays"
+    },
+    {
+      "start": 3618.67,
+      "end": 3625.05,
+      "text": "on the long, delicate clouds which stretched across the bright, polluted western sky."
+    },
+    {
+      "start": 3625.05,
+      "end": 3629.71,
+      "text": "The snow-capped mountains began to clothe themselves in purple mist."
+    },
+    {
+      "start": 3629.71,
+      "end": 3634.27,
+      "text": "Only their upper outlines were marked with extraordinary distinctness against the violet"
+    },
+    {
+      "start": 3634.27,
+      "end": 3636.35,
+      "text": "light of the sunset."
+    },
+    {
+      "start": 3636.35,
+      "end": 3642.41,
+      "text": "The clear moon, which had long been up, began to shed its light through the dark blue sky."
+    },
+    {
+      "start": 3642.41,
+      "end": 3648.65,
+      "text": "The green of the grass and of the trees changed to black and grew wet with dew."
+    },
+    {
+      "start": 3648.65,
+      "end": 3654.53,
+      "text": "The dark masses of the army with gradually increasing tumult advanced across the field."
+    },
+    {
+      "start": 3654.53,
+      "end": 3660.11,
+      "text": "From different sides were heard the sounds of cymbals, drums, and merry songs."
+    },
+    {
+      "start": 3660.11,
+      "end": 3665.17,
+      "text": "The leader of the sixth company sang out with full strength and full of feeling and"
+    },
+    {
+      "start": 3665.17,
+      "end": 3672.17,
+      "text": "The clear chest notes of the tenor were born afar through the translucent evening air."
+    }
+  ]
+}

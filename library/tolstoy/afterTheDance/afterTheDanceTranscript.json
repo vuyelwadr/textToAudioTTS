@@ -1,0 +1,1293 @@
+{
+  "audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/afterTheDance/video_work/afterTheDance_audio_16k.wav",
+  "model": "small.en",
+  "language": "en",
+  "duration": 1401.0453125,
+  "segments": [
+    {
+      "start": 8.46,
+      "end": 16.22,
+      "text": "After the Dance. A Short Story by Leo Tolstoy. And you say that a man cannot of himself understand"
+    },
+    {
+      "start": 16.22,
+      "end": 22.62,
+      "text": "what is good and evil, that it is all environment, that the environment swamps the man, but I"
+    },
+    {
+      "start": 22.62,
+      "end": 31.58,
+      "text": "believe it is all chance. Take my own case. Thus spoke our excellent friend, Ivan Vassilievich,"
+    },
+    {
+      "start": 31.58,
+      "end": 36.72,
+      "text": "after a conversation between us on the impossibility of improving individual character without a"
+    },
+    {
+      "start": 36.72,
+      "end": 42.58,
+      "text": "change of the conditions under which men live. Nobody had actually said that one could not"
+    },
+    {
+      "start": 42.58,
+      "end": 48.88,
+      "text": "of one's self understand good and evil. But it was a habit of Ivan Vasilovich to answer"
+    },
+    {
+      "start": 48.88,
+      "end": 54.34,
+      "text": "in this way, the thoughts aroused in his own mind by conversation, and to illustrate those"
+    },
+    {
+      "start": 54.34,
+      "end": 59.56,
+      "text": "thoughts by relating incidents in his own life. He often quite forgot the reason for"
+    },
+    {
+      "start": 59.56,
+      "end": 65.34,
+      "text": "his story in telling it, but he always told it with great sincerity and feeling. He did"
+    },
+    {
+      "start": 65.34,
+      "end": 71.7,
+      "text": "so now. Take my own case, my whole life was moulded, not by environment, but by something"
+    },
+    {
+      "start": 71.7,
+      "end": 72.7,
+      "text": "quite different.\""
+    },
+    {
+      "start": 72.7,
+      "end": 75.58,
+      "text": "\"'By what, then?\" we asked."
+    },
+    {
+      "start": 75.58,
+      "end": 80.74,
+      "text": "\"'Oh, that is a long story. I should have to tell you about a great many things to make"
+    },
+    {
+      "start": 80.74,
+      "end": 81.74,
+      "text": "you understand.'\""
+    },
+    {
+      "start": 81.74,
+      "end": 89.22,
+      "text": "\"'Well, tell us then.'\" Ivan Vassilievich thought a little and shook his head."
+    },
+    {
+      "start": 89.22,
+      "end": 94.86,
+      "text": "\"'My whole life,' he said, was changed in one night, or rather, morning.\""
+    },
+    {
+      "start": 94.86,
+      "end": 100.5,
+      "text": "Why, what happened? one of us asked. What happened was that I was very much in love."
+    },
+    {
+      "start": 100.5,
+      "end": 105.42,
+      "text": "I have been in love many times, but this was the most serious of all. It is a thing of"
+    },
+    {
+      "start": 105.42,
+      "end": 111.18,
+      "text": "the past. She has married daughters now. It was Vahrinka B."
+    },
+    {
+      "start": 111.18,
+      "end": 117.02,
+      "text": "Even Vasilovich mentioned her surname. Even at fifty she is remarkably handsome, but"
+    },
+    {
+      "start": 117.02,
+      "end": 124.3,
+      "text": "in her youth, at eighteen, she was exquisite, tall, slender, graceful, and stately."
+    },
+    {
+      "start": 124.3,
+      "end": 130.7,
+      "text": "Yes, stately is the word. She held herself very erect, by instinct, as it were, and carried her"
+    },
+    {
+      "start": 130.7,
+      "end": 136.3,
+      "text": "head high, and that together with her beauty and height gave her a queenly air in spite of being"
+    },
+    {
+      "start": 136.3,
+      "end": 143.02,
+      "text": "thin, even bony, one might say. It might indeed have been deterring had it not been for her smile,"
+    },
+    {
+      "start": 143.02,
+      "end": 149.02,
+      "text": "which was always gay and cordial, and for the charming light in her eyes, and for her youthful"
+    },
+    {
+      "start": 149.02,
+      "end": 154.26,
+      "text": "sweetness. What an entrancing description you give, Ivan"
+    },
+    {
+      "start": 154.26,
+      "end": 159.34,
+      "text": "Vasilievich. Description, indeed. I could not possibly"
+    },
+    {
+      "start": 159.34,
+      "end": 164.26,
+      "text": "describe her so that you could appreciate her. But that does not matter. What I am going"
+    },
+    {
+      "start": 164.26,
+      "end": 170.26,
+      "text": "to tell you happened in the forties. I was at that time a student in a provincial university."
+    },
+    {
+      "start": 170.26,
+      "end": 174.66,
+      "text": "I don't know whether it was a good thing or no, but we had no political clubs, no"
+    },
+    {
+      "start": 174.66,
+      "end": 179.66,
+      "text": "No theories in our universities, then. We were simply young and spent our time as young"
+    },
+    {
+      "start": 179.66,
+      "end": 186.54,
+      "text": "men do, studying and amusing ourselves. I was a very gay, lively, careless fellow, and"
+    },
+    {
+      "start": 186.54,
+      "end": 191.98,
+      "text": "had plenty of money, too. I had a fine horse and used to go to bargaining with the young"
+    },
+    {
+      "start": 191.98,
+      "end": 197.7,
+      "text": "ladies. Skating had not yet come into fashion. I went to drinking parties with my comrades."
+    },
+    {
+      "start": 197.7,
+      "end": 202.58,
+      "text": "In those days we drank nothing but champagne. If we had no champagne we drank nothing at"
+    },
+    {
+      "start": 202.58,
+      "end": 207.86,
+      "text": "all. We never drank vodka, as they do now. Evening parties and balls were my favorite"
+    },
+    {
+      "start": 207.86,
+      "end": 212.22,
+      "text": "amusements. I danced well, and was not an ugly fellow."
+    },
+    {
+      "start": 212.22,
+      "end": 216.38,
+      "text": "Come! There is no need to be modest,\" interrupted a lady near him."
+    },
+    {
+      "start": 216.38,
+      "end": 222.06,
+      "text": "\"'We have seen your photograph. Not ugly, indeed. You were a handsome fellow.'\""
+    },
+    {
+      "start": 222.06,
+      "end": 228.38,
+      "text": "\"'Handsome, if you like. That does not matter. When my love for her was at its strongest,"
+    },
+    {
+      "start": 228.38,
+      "end": 233.48,
+      "text": "On the last day of the carnival I was at a ball at the provincial marshals, a good-natured"
+    },
+    {
+      "start": 233.48,
+      "end": 239.72,
+      "text": "old man, rich and hospitable, and a court chamberlain. The guests were welcomed by"
+    },
+    {
+      "start": 239.72,
+      "end": 245.6,
+      "text": "his wife, who was as good-natured as himself. She was dressed in puce-coloured velvet,"
+    },
+    {
+      "start": 245.6,
+      "end": 251.04,
+      "text": "and had a diamond diadem on her forehead, and her plump, old white shoulders and bosom"
+    },
+    {
+      "start": 251.04,
+      "end": 257.42,
+      "text": "were bare like the portraits of Empress Elizabeth, the daughter of Peter the Great."
+    },
+    {
+      "start": 257.42,
+      "end": 262.62,
+      "text": "It was a delightful ball. It was a splendid room, with a gallery for the orchestra, which"
+    },
+    {
+      "start": 262.62,
+      "end": 268.78,
+      "text": "was famous at the time, and consisted of serfs belonging to a musical landowner. The refreshments"
+    },
+    {
+      "start": 268.78,
+      "end": 274.46,
+      "text": "were magnificent, and the champagne flowed in rivers. Though I was fond of champagne,"
+    },
+    {
+      "start": 274.46,
+      "end": 280.06,
+      "text": "I did not drink that night, because without it I was drunk with love. But I made up for"
+    },
+    {
+      "start": 280.06,
+      "end": 286.26,
+      "text": "it by dancing waltzes and pokers till I was ready to drop, of course, whenever possible,"
+    },
+    {
+      "start": 286.26,
+      "end": 293.1,
+      "text": "with Varenka. She wore a white dress with a pink sash, white shoes, and white kid gloves,"
+    },
+    {
+      "start": 293.1,
+      "end": 299.98,
+      "text": "which did not quite reach to her thin, pointed elbows. A disgusting engineer named Anissimov"
+    },
+    {
+      "start": 299.98,
+      "end": 305.66,
+      "text": "robbed me of the Mazurka with her. To this day I cannot forgive him. He asked her for"
+    },
+    {
+      "start": 305.66,
+      "end": 309.66,
+      "text": "the dance the minute she arrived, while I had driven to the hairdressers to get a"
+    },
+    {
+      "start": 309.66,
+      "end": 315.58,
+      "text": "pair of gloves and was late. So I did not dance the Mazurka with her, but with a German"
+    },
+    {
+      "start": 315.58,
+      "end": 320.7,
+      "text": "girl to whom I had previously paid a little attention. But I am afraid I did not behave"
+    },
+    {
+      "start": 320.7,
+      "end": 326.26,
+      "text": "very politely to her that evening. I hardly spoke or looked at her and saw nothing but"
+    },
+    {
+      "start": 326.26,
+      "end": 332.86,
+      "text": "the tall, slender figure in a white dress, with a pink sash, a flushed, beaming, dimpled"
+    },
+    {
+      "start": 332.86,
+      "end": 340.3,
+      "text": "face, and sweet, kind eyes. I was not alone. They were all looking at her with admiration,"
+    },
+    {
+      "start": 340.3,
+      "end": 345.74,
+      "text": "The men and women alike, although she outshone all of them, they could not help admiring"
+    },
+    {
+      "start": 345.74,
+      "end": 349.18,
+      "text": "her. Although I was not nominally her partner for"
+    },
+    {
+      "start": 349.18,
+      "end": 354.24,
+      "text": "the Mazooka, I did as a matter of fact dance nearly the whole time with her. She always"
+    },
+    {
+      "start": 354.24,
+      "end": 359.68,
+      "text": "came forward boldly the whole length of the room to pick me out. I flew to meet her without"
+    },
+    {
+      "start": 359.68,
+      "end": 364.9,
+      "text": "waiting to be chosen, and she thanked me with a smile for my intuition. When I was"
+    },
+    {
+      "start": 364.9,
+      "end": 368.88,
+      "text": "brought up to her with somebody else, and she guessed wrongly, she took the other"
+    },
+    {
+      "start": 368.88,
+      "end": 375.0,
+      "text": "man's hand with a shrug of her slim shoulders, and smiled at me regretfully."
+    },
+    {
+      "start": 375.0,
+      "end": 380.12,
+      "text": "Whenever there was a waltz figure in the Mazooka, I waltzed with her for a long time, and breathing"
+    },
+    {
+      "start": 380.12,
+      "end": 387.04,
+      "text": "fast and smiling she would say, encore, and I went on waltzing and waltzing as though"
+    },
+    {
+      "start": 387.04,
+      "end": 389.8,
+      "text": "unconscious of any bodily existence."
+    },
+    {
+      "start": 389.8,
+      "end": 394.96,
+      "text": "Come now, how could you be unconscious of it with your arm round her waist?"
+    },
+    {
+      "start": 394.96,
+      "end": 399.9,
+      "text": "You must have been conscious, not only of your own existence, but of hers,\" said one"
+    },
+    {
+      "start": 399.9,
+      "end": 401.74,
+      "text": "of the party."
+    },
+    {
+      "start": 401.74,
+      "end": 405.02,
+      "text": "Even Vassilovich cried out, almost shouting in anger,"
+    },
+    {
+      "start": 405.02,
+      "end": 408.1,
+      "text": "\"'There you are, moderns all over."
+    },
+    {
+      "start": 408.1,
+      "end": 410.74,
+      "text": "Nowadays you think of nothing but the body."
+    },
+    {
+      "start": 410.74,
+      "end": 412.62,
+      "text": "It was different in our day."
+    },
+    {
+      "start": 412.62,
+      "end": 416.82,
+      "text": "The more I was in love, the less corporeal was she in my eyes."
+    },
+    {
+      "start": 416.82,
+      "end": 419.92,
+      "text": "Nowadays, you think of nothing but the body."
+    },
+    {
+      "start": 419.92,
+      "end": 421.9,
+      "text": "It was different in our day."
+    },
+    {
+      "start": 421.9,
+      "end": 426.28,
+      "text": "The more I was in love, the less corporeal was she in my eyes."
+    },
+    {
+      "start": 426.28,
+      "end": 431.24,
+      "text": "Nowadays you set legs, ankles, and I don't know what."
+    },
+    {
+      "start": 431.24,
+      "end": 433.94,
+      "text": "You undress the women you are in love with."
+    },
+    {
+      "start": 433.94,
+      "end": 438.88,
+      "text": "In my eyes, as Alphonse Carr said, and he was a good writer."
+    },
+    {
+      "start": 438.88,
+      "end": 443.32,
+      "text": "The one I loved was always draped in robes of bronze."
+    },
+    {
+      "start": 443.32,
+      "end": 445.08,
+      "text": "We never thought of doing so."
+    },
+    {
+      "start": 445.08,
+      "end": 449.16,
+      "text": "We tried to veil her nakedness, like Noah's good-natured son."
+    },
+    {
+      "start": 449.16,
+      "end": 456.14,
+      "text": "Oh, well, you can't understand. Don't pay any attention to him. Go on!\" said one"
+    },
+    {
+      "start": 456.14,
+      "end": 457.14,
+      "text": "of them."
+    },
+    {
+      "start": 457.14,
+      "end": 462.18,
+      "text": "Well, I danced for the most part with her, and did not notice how time was passing. The"
+    },
+    {
+      "start": 462.18,
+      "end": 467.78,
+      "text": "musicians kept playing the same Mazurka tunes over and over again in desperate exhaustion."
+    },
+    {
+      "start": 467.78,
+      "end": 471.04,
+      "text": "You know what it is towards the end of a ball."
+    },
+    {
+      "start": 471.04,
+      "end": 475.78,
+      "text": "Papas and mamas were already getting up from the card tables in the drawing-room in expectation"
+    },
+    {
+      "start": 475.78,
+      "end": 480.9,
+      "text": "of supper, the men servants were running to and fro bringing in things. It was nearly"
+    },
+    {
+      "start": 480.9,
+      "end": 486.28,
+      "text": "three o'clock. I had to make the most of the last minutes. I chose her again for the"
+    },
+    {
+      "start": 486.28,
+      "end": 490.82,
+      "text": "Mazurka, and for the hundredth time we danced across the room."
+    },
+    {
+      "start": 490.82,
+      "end": 496.1,
+      "text": "The quadrille after supper is mine, I said, taking her to her place."
+    },
+    {
+      "start": 496.1,
+      "end": 500.78,
+      "text": "Of course, if I am not carried off home, she said with a smile."
+    },
+    {
+      "start": 500.78,
+      "end": 506.3,
+      "text": "\"'I won't give you up,\" I said. \"'Give me my fan, anyhow,\"' she answered."
+    },
+    {
+      "start": 506.3,
+      "end": 511.3,
+      "text": "\"'I'm so sorry to part with it,' I said, handing her a cheap white fan."
+    },
+    {
+      "start": 511.3,
+      "end": 516.7,
+      "text": "\"'Well, here's something to console you,' she said, plucking a feather out of the fan"
+    },
+    {
+      "start": 516.7,
+      "end": 522.16,
+      "text": "and giving it to me. I took the feather and could only express my rapture and gratitude"
+    },
+    {
+      "start": 522.16,
+      "end": 529.38,
+      "text": "with my eyes. I was not only pleased and gay, I was happy, delighted. I was good,"
+    },
+    {
+      "start": 529.38,
+      "end": 536.04,
+      "text": "I was not myself, but some being not of this earth, knowing nothing of evil. I hid the"
+    },
+    {
+      "start": 536.04,
+      "end": 541.02,
+      "text": "feather in my glove and stood there unable to tear myself away from her."
+    },
+    {
+      "start": 541.02,
+      "end": 546.94,
+      "text": "\"'Look! They are urging father to dance,' she said to me, pointing to the tall, stately"
+    },
+    {
+      "start": 546.94,
+      "end": 552.02,
+      "text": "figure of her father, a colonel with silver epaulettes, who was standing in the doorway"
+    },
+    {
+      "start": 552.02,
+      "end": 553.58,
+      "text": "with some ladies."
+    },
+    {
+      "start": 553.58,
+      "end": 559.7,
+      "text": "Varenka, come here!\" exclaimed our hostess, the lady with the diamond f\u00e9ronnier and with"
+    },
+    {
+      "start": 559.7,
+      "end": 566.22,
+      "text": "shoulders like Elizabeth in a loud voice. Varenka went to the door, and I followed her."
+    },
+    {
+      "start": 566.22,
+      "end": 571.46,
+      "text": "\"'Persuede your father to dance the Mazurka with you, Mashaire. Do please Peter Valdis"
+    },
+    {
+      "start": 571.46,
+      "end": 577.3,
+      "text": "Lavovich,' she said, turning to the Colonel. Varenka's father was a very handsome, well-preserved"
+    },
+    {
+      "start": 577.3,
+      "end": 583.4,
+      "text": "old man. He had a good colour, moustaches curled in the style of Nicholas Rumtoon,"
+    },
+    {
+      "start": 583.4,
+      "end": 589.8,
+      "text": "white whiskers which met the moustaches. His hair was combed onto his forehead, and a bright smile,"
+    },
+    {
+      "start": 589.8,
+      "end": 595.96,
+      "text": "like his daughter's, was on his lips and in his eyes. He was splendidly set up, with a broad,"
+    },
+    {
+      "start": 595.96,
+      "end": 602.6,
+      "text": "military chest, on which he wore some decorations, and he had powerful shoulders and long, slim legs."
+    },
+    {
+      "start": 603.24,
+      "end": 608.28,
+      "text": "He was that ultra-military type produced by the discipline of Emperor Nicholas the Fan."
+    },
+    {
+      "start": 608.28,
+      "end": 614.6,
+      "text": "When we approached the door, the Colonel was just refusing to dance, saying that he had quite"
+    },
+    {
+      "start": 614.6,
+      "end": 620.52,
+      "text": "forgotten how, but at that instant he smiled, swung his arm gracefully around to the left,"
+    },
+    {
+      "start": 620.52,
+      "end": 626.52,
+      "text": "drew his sword from its sheath, handed it to an obliging young man who stood near and smoothed"
+    },
+    {
+      "start": 626.52,
+      "end": 632.6,
+      "text": "his suede glove on his right hand. Everything must be done according to rule, he said with"
+    },
+    {
+      "start": 632.6,
+      "end": 638.24,
+      "text": "a smile. He took the hand of his daughter and stood one quarter turned, waiting for"
+    },
+    {
+      "start": 638.24,
+      "end": 644.04,
+      "text": "the music. At the first sound of the Mazuka he stamped one foot smartly, through the"
+    },
+    {
+      "start": 644.04,
+      "end": 651.0,
+      "text": "other forward, and, at first slowly and smoothly, then buoyantly and impetuously, with stamping"
+    },
+    {
+      "start": 651.0,
+      "end": 657.32,
+      "text": "of feet and clicking of boots, his tall, imposing figure moved the length of the room. Varinka"
+    },
+    {
+      "start": 657.32,
+      "end": 664.12,
+      "text": "swayed gracefully beside him, rhythmically and easily, making her steps short or long,"
+    },
+    {
+      "start": 664.12,
+      "end": 669.24,
+      "text": "with her little feet in their white satin slippers. All the people in the room followed"
+    },
+    {
+      "start": 669.24,
+      "end": 675.24,
+      "text": "every movement of the couple. As for me, I not only admired, I regarded them within"
+    },
+    {
+      "start": 675.24,
+      "end": 681.28,
+      "text": "raptured sympathy. I was particularly impressed with the old gentleman's boots. They were"
+    },
+    {
+      "start": 681.28,
+      "end": 686.48,
+      "text": "not the modern, pointed affairs, but were made of cheap leather, squared-toed, and"
+    },
+    {
+      "start": 686.48,
+      "end": 691.66,
+      "text": "evidently built by the regimental cobbler. In order that his daughter might dress and"
+    },
+    {
+      "start": 691.66,
+      "end": 698.16,
+      "text": "go out in society, he did not buy fashionable boots, but wore home-made ones, I thought,"
+    },
+    {
+      "start": 698.16,
+      "end": 703.22,
+      "text": "and his square toes seemed to me most touching. It was obvious that in his time he had been"
+    },
+    {
+      "start": 703.22,
+      "end": 708.54,
+      "text": "a good dancer, but now he was too heavy, and his legs had not spring enough for all the"
+    },
+    {
+      "start": 708.54,
+      "end": 714.58,
+      "text": "beautiful steps he tried to take. Still, he contrived to go twice round the room. When"
+    },
+    {
+      "start": 714.58,
+      "end": 719.26,
+      "text": "Then at the end, standing with legs apart, he suddenly clicked his feet together and"
+    },
+    {
+      "start": 719.26,
+      "end": 725.38,
+      "text": "fell on one knee, a bit heavily, and she danced gracefully around him, smiling and adjusting"
+    },
+    {
+      "start": 725.38,
+      "end": 731.1,
+      "text": "her skirt. The whole room applauded. Rising with an effort, he tenderly took"
+    },
+    {
+      "start": 731.1,
+      "end": 735.68,
+      "text": "his daughter's face between his hands. He kissed her on the forehead, and brought her"
+    },
+    {
+      "start": 735.68,
+      "end": 741.14,
+      "text": "to me, under the impression that I was her partner for the Mazurka. I said I was not."
+    },
+    {
+      "start": 741.14,
+      "end": 746.42,
+      "text": "Well, never mind. Just go around the room once with her,\" he said, smiling kindly,"
+    },
+    {
+      "start": 746.42,
+      "end": 751.2,
+      "text": "as he replaced his sword in the sheath. As the contents of a bottle flow readily when"
+    },
+    {
+      "start": 751.2,
+      "end": 756.52,
+      "text": "the first drop has been poured, so my love for Varinka seemed to set free the whole force"
+    },
+    {
+      "start": 756.52,
+      "end": 762.56,
+      "text": "of loving within me. In surrounding her, it embraced the world. I loved the hostess"
+    },
+    {
+      "start": 762.56,
+      "end": 768.64,
+      "text": "with her diadem and her shoulders like Elizabeth, and her husband and her guests and her footmen,"
+    },
+    {
+      "start": 768.64,
+      "end": 774.48,
+      "text": "and even the engineer Anissimov who felt peevish towards me. As for Varinka's father,"
+    },
+    {
+      "start": 774.48,
+      "end": 779.92,
+      "text": "with his home-made boots and his kind smile, so like her own, I felt a sort of tenderness"
+    },
+    {
+      "start": 779.92,
+      "end": 785.8,
+      "text": "for him that was almost rapture. After supper, I danced the promised quadrille"
+    },
+    {
+      "start": 785.8,
+      "end": 791.44,
+      "text": "with her, and though I had been infinitely happy before, I grew still happier every"
+    },
+    {
+      "start": 791.44,
+      "end": 795.16,
+      "text": "moment. We did not speak of love. I neither asked"
+    },
+    {
+      "start": 795.16,
+      "end": 800.56,
+      "text": "myself nor her whether she loved me. It was quite enough to know that I loved her, and"
+    },
+    {
+      "start": 800.56,
+      "end": 806.14,
+      "text": "I had only one fear that something might come to interfere with my great joy."
+    },
+    {
+      "start": 806.14,
+      "end": 812.1,
+      "text": "When I went home, and began to undress for the night, I found it quite out of the question."
+    },
+    {
+      "start": 812.1,
+      "end": 816.18,
+      "text": "Held the little feather out of her fan in my hand, and one of her gloves which she"
+    },
+    {
+      "start": 816.18,
+      "end": 821.66,
+      "text": "gave me when I helped her into the carriage after her mother. Looking at these things,"
+    },
+    {
+      "start": 821.66,
+      "end": 827.02,
+      "text": "And without closing my eyes, I could see her before me, as she was for an instant, when"
+    },
+    {
+      "start": 827.02,
+      "end": 832.82,
+      "text": "she had to choose between two partners. She tried to guess what kind of person was represented"
+    },
+    {
+      "start": 832.82,
+      "end": 839.18,
+      "text": "in me, and I could hear her sweet voice as she said, Pride, am I right? And merrily"
+    },
+    {
+      "start": 839.18,
+      "end": 843.5,
+      "text": "gave me her hand. At supper she took the first sip from my"
+    },
+    {
+      "start": 843.5,
+      "end": 849.06,
+      "text": "glass of champagne, looking at me over the rim with her caressing glance. But, plainest"
+    },
+    {
+      "start": 849.06,
+      "end": 854.9,
+      "text": "of all, I could see her as she danced with her father, gliding along beside him and looking"
+    },
+    {
+      "start": 854.9,
+      "end": 862.3,
+      "text": "at the admiring observers with pride and happiness. He and she were united in my mind in one rush"
+    },
+    {
+      "start": 862.3,
+      "end": 868.5,
+      "text": "of pathetic tenderness. I was living then with my brother, who has since died. He disliked"
+    },
+    {
+      "start": 868.5,
+      "end": 873.98,
+      "text": "going out, and never went to dances, and besides, he was busy preparing for his last"
+    },
+    {
+      "start": 873.98,
+      "end": 880.7,
+      "text": "university examinations, and was leading a very regular life. He was asleep. I looked"
+    },
+    {
+      "start": 880.7,
+      "end": 886.28,
+      "text": "at him, his head buried in the pillow and half covered with the quilt, and I affectionately"
+    },
+    {
+      "start": 886.28,
+      "end": 891.86,
+      "text": "pitied him, pitied him for his ignorance of the bliss I was experiencing. Our serf"
+    },
+    {
+      "start": 891.86,
+      "end": 897.74,
+      "text": "Petrucia had met me with a candle, ready to undress me, but I sent him away. His sleepy"
+    },
+    {
+      "start": 897.74,
+      "end": 903.56,
+      "text": "face and tousled hair seemed to me so touching. Trying not to make a noise, I went to my"
+    },
+    {
+      "start": 903.56,
+      "end": 911.24,
+      "text": "room on tiptoe and sat down on my bed. No, I was too happy. I could not sleep. Besides,"
+    },
+    {
+      "start": 911.24,
+      "end": 917.44,
+      "text": "it was too hot in the rooms. Without taking off my uniform I went quietly into the hall,"
+    },
+    {
+      "start": 917.44,
+      "end": 922.96,
+      "text": "put on my overcoat, opened the front door, and stepped out into the street. It was after"
+    },
+    {
+      "start": 922.96,
+      "end": 927.68,
+      "text": "four when I had left the ball. Going home and stopping there a while had occupied two"
+    },
+    {
+      "start": 927.68,
+      "end": 934.2,
+      "text": "hours, so by the time I went out it was dawn. It was regular carnival weather, foggy, and"
+    },
+    {
+      "start": 934.2,
+      "end": 940.2,
+      "text": "the road full of water-soaked snow just melting and water dripping from the eaves."
+    },
+    {
+      "start": 940.2,
+      "end": 945.36,
+      "text": "Varenka's family lived on the edge of town near a large field, one end of which was a"
+    },
+    {
+      "start": 945.36,
+      "end": 951.24,
+      "text": "parade ground, and the other end was a boarding school for young ladies. I passed through"
+    },
+    {
+      "start": 951.24,
+      "end": 956.1,
+      "text": "our empty little street and came to the main thoroughfare, where I met pedestrians and"
+    },
+    {
+      "start": 956.1,
+      "end": 962.66,
+      "text": "sledges laden with wood, the runners grating the road. The horses swung with regular paces"
+    },
+    {
+      "start": 962.66,
+      "end": 967.86,
+      "text": "beneath their shining yokes, their backs covered with straw mats, and their heads wet with"
+    },
+    {
+      "start": 967.86,
+      "end": 973.38,
+      "text": "rain, while the drivers, in enormous boots, splashed through the mud beside the sledges."
+    },
+    {
+      "start": 974.02,
+      "end": 979.7,
+      "text": "All this, the very horses themselves, seemed to me stimulating and fascinating,"
+    },
+    {
+      "start": 979.7,
+      "end": 984.1,
+      "text": "full of suggestion. When I approached the field near their house,"
+    },
+    {
+      "start": 984.1,
+      "end": 990.42,
+      "text": "I saw at one end of it, in the direction of the parade ground, something very huge and black,"
+    },
+    {
+      "start": 990.42,
+      "end": 996.58,
+      "text": "and I heard sounds of fife and drum proceeding from it. My heart had been full of song,"
+    },
+    {
+      "start": 996.58,
+      "end": 1002.42,
+      "text": "and I had heard in imagination the tune of the Mazurka, but this was very harsh music."
+    },
+    {
+      "start": 1002.42,
+      "end": 1009.22,
+      "text": "It was not pleasant. What can that be? I thought, and went towards the sound by a slippery path"
+    },
+    {
+      "start": 1009.22,
+      "end": 1014.98,
+      "text": "through the centre of the field. Walking about a hundred paces I began to distinguish many black"
+    },
+    {
+      "start": 1014.98,
+      "end": 1020.9,
+      "text": "objects through the mist. They were evidently soldiers. It is probably a drill, I thought."
+    },
+    {
+      "start": 1020.9,
+      "end": 1026.5,
+      "text": "So I went along in that direction in company with a blacksmith, who wore a dirty coat and an apron,"
+    },
+    {
+      "start": 1026.5,
+      "end": 1031.86,
+      "text": "and was carrying something. He walked ahead of me as we approached the place. The soldiers in"
+    },
+    {
+      "start": 1031.86,
+      "end": 1037.14,
+      "text": "black uniforms stood in two rows, facing each other motionless, their guns at rest."
+    },
+    {
+      "start": 1037.14,
+      "end": 1043.64,
+      "text": "Behind them stood the fiefs and drums, incessantly repeating the same unpleasant tune."
+    },
+    {
+      "start": 1043.64,
+      "end": 1048.48,
+      "text": "What are they doing? I asked the blacksmith, who halted at my side."
+    },
+    {
+      "start": 1048.48,
+      "end": 1052.88,
+      "text": "A tartar is being beaten through the ranks for his attempt to desert,"
+    },
+    {
+      "start": 1052.88,
+      "end": 1058.12,
+      "text": "said the blacksmith in an angry tone as he looked intently at the far end of the line."
+    },
+    {
+      "start": 1058.12,
+      "end": 1063.8,
+      "text": "I looked in the same direction and saw between the files something horrid approaching me."
+    },
+    {
+      "start": 1063.8,
+      "end": 1069.96,
+      "text": "The thing that approached was a man, stripped to the waist, fastened with cords to the guns"
+    },
+    {
+      "start": 1069.96,
+      "end": 1075.88,
+      "text": "of two soldiers who were leading him. At his side, an officer in overcoat and cap was walking,"
+    },
+    {
+      "start": 1075.88,
+      "end": 1081.32,
+      "text": "whose figure had a familiar look. The victim advanced under the blows that rained upon him"
+    },
+    {
+      "start": 1081.32,
+      "end": 1088.04,
+      "text": "from both sides, his whole body plunging, his feet dragging through the snow. Now he threw"
+    },
+    {
+      "start": 1088.04,
+      "end": 1094.4,
+      "text": "himself backward, and the sub-altons who led him thrust him forward. Now he fell forward,"
+    },
+    {
+      "start": 1094.4,
+      "end": 1100.2,
+      "text": "and they pulled him up short, while ever at his side marched the tall officer with firm"
+    },
+    {
+      "start": 1100.2,
+      "end": 1107.12,
+      "text": "and nervous pace. It was Veronica's father with his rosy face and white moustache. At"
+    },
+    {
+      "start": 1107.12,
+      "end": 1113.36,
+      "text": "each stroke the man, as if amazed, turned his face, grimacing with pain, towards the"
+    },
+    {
+      "start": 1113.36,
+      "end": 1119.12,
+      "text": "side whence the blow came, and showing his white teeth repeated the same words over and"
+    },
+    {
+      "start": 1119.12,
+      "end": 1125.24,
+      "text": "over. But I could only hear what the words were when he came quite near. He did not speak"
+    },
+    {
+      "start": 1125.24,
+      "end": 1132.24,
+      "text": "them, he sobbed them out, Brothers, have mercy on me, brothers, have mercy on me. But the"
+    },
+    {
+      "start": 1132.24,
+      "end": 1137.88,
+      "text": "brothers had no mercy, and when the procession came close to me, I saw how a soldier who"
+    },
+    {
+      "start": 1137.88,
+      "end": 1143.16,
+      "text": "stood opposite me, took a firm step forward, and lifting his stick with a whir, brought"
+    },
+    {
+      "start": 1143.16,
+      "end": 1149.36,
+      "text": "it down upon the man's back. The man plunged forward, but the sub-altons pulled him back,"
+    },
+    {
+      "start": 1149.36,
+      "end": 1153.88,
+      "text": "and another blow came down from the other side, then from this side, and then from"
+    },
+    {
+      "start": 1153.88,
+      "end": 1159.56,
+      "text": "the other. The Colonel marched beside him, and looking now at his feet, and now at the"
+    },
+    {
+      "start": 1159.56,
+      "end": 1165.44,
+      "text": "man, inhaled the air, puffed out his cheeks, and breathed it out between his protruded"
+    },
+    {
+      "start": 1165.44,
+      "end": 1171.08,
+      "text": "lips. When they passed the place where I stood, I caught a glimpse between the two files of"
+    },
+    {
+      "start": 1171.08,
+      "end": 1177.12,
+      "text": "the back of the man that was being punished. It was something so many coloured, wet, red,"
+    },
+    {
+      "start": 1177.12,
+      "end": 1181.24,
+      "text": "unnatural, that I could hardly believe it was a human body."
+    },
+    {
+      "start": 1181.24,
+      "end": 1184.8,
+      "text": "My God! muttered the blacksmith."
+    },
+    {
+      "start": 1184.8,
+      "end": 1190.44,
+      "text": "The procession moved farther away. The blows continued to rain upon the writhing, falling"
+    },
+    {
+      "start": 1190.44,
+      "end": 1195.9,
+      "text": "soldier, the fiefs shrilled and the drums beat, and the tall, imposing figure of the"
+    },
+    {
+      "start": 1195.9,
+      "end": 1202.5,
+      "text": "Colonel moved alongside the man just as before. Then, suddenly, the Colonel stopped and rapidly"
+    },
+    {
+      "start": 1202.5,
+      "end": 1204.5,
+      "text": "approached a man in the ranks."
+    },
+    {
+      "start": 1204.5,
+      "end": 1209.06,
+      "text": "\"'I'll teach you to hit him gently,' I heard his furious voice say."
+    },
+    {
+      "start": 1209.06,
+      "end": 1212.24,
+      "text": "\"'Will you pat him like that? Will you?\""
+    },
+    {
+      "start": 1212.24,
+      "end": 1217.54,
+      "text": "And I saw how his strong hand in the suede glove struck the weak, bloodless, terrified"
+    },
+    {
+      "start": 1217.54,
+      "end": 1222.26,
+      "text": "soldier for not bringing down his stick with sufficient strength on the red neck of the"
+    },
+    {
+      "start": 1222.26,
+      "end": 1223.26,
+      "text": "tartar."
+    },
+    {
+      "start": 1223.26,
+      "end": 1229.74,
+      "text": "\ufffdBring new sticks!\ufffd he cried, and looking round, he saw me. Assuming an air of not"
+    },
+    {
+      "start": 1229.74,
+      "end": 1236.18,
+      "text": "knowing me and with a ferocious angry frown, he hastily turned away. I felt so utterly"
+    },
+    {
+      "start": 1236.18,
+      "end": 1241.66,
+      "text": "ashamed that I didn't know where to look. It was as if I had been detected in a disgraceful"
+    },
+    {
+      "start": 1241.66,
+      "end": 1243.02,
+      "text": "act."
+    },
+    {
+      "start": 1243.02,
+      "end": 1248.74,
+      "text": "I dropped my eyes and quickly I hurried home. All the way I had the drums beating and the"
+    },
+    {
+      "start": 1248.74,
+      "end": 1255.22,
+      "text": "fife whistling in my ears, and I heard the words, Brothers, have mercy on me, or will"
+    },
+    {
+      "start": 1255.22,
+      "end": 1262.46,
+      "text": "you pat him? Will you? My heart was full of physical disgust that was almost sickness,"
+    },
+    {
+      "start": 1262.46,
+      "end": 1267.46,
+      "text": "so much so that I halted several times on my way, for I had the feeling that I was going"
+    },
+    {
+      "start": 1267.46,
+      "end": 1272.66,
+      "text": "to be really sick from all the horrors that possessed me at that sight. I do not remember"
+    },
+    {
+      "start": 1272.66,
+      "end": 1278.2,
+      "text": "how I got home and got to bed. But the moment I was about to fall asleep I heard and saw"
+    },
+    {
+      "start": 1278.2,
+      "end": 1284.56,
+      "text": "again all that had happened, and I sprang up. Evidently he knows something I do not"
+    },
+    {
+      "start": 1284.56,
+      "end": 1291.46,
+      "text": "know, I thought about the Colonel. If I knew what he knows I should certainly grasp, understand,"
+    },
+    {
+      "start": 1291.46,
+      "end": 1296.84,
+      "text": "what I have just seen, and it would not cause me such suffering. But however much"
+    },
+    {
+      "start": 1296.84,
+      "end": 1301.72,
+      "text": "I thought about it, I could not understand the thing that the Colonel knew. It was"
+    },
+    {
+      "start": 1301.72,
+      "end": 1306.6,
+      "text": "evening before I could get to sleep, and then only after calling on a friend and drinking"
+    },
+    {
+      "start": 1306.6,
+      "end": 1311.2,
+      "text": "till I was quite drunk. Do you think I had come to the conclusion that the deed I had"
+    },
+    {
+      "start": 1311.2,
+      "end": 1317.12,
+      "text": "witnessed was wicked? Oh, no! Since it was done with such assurance and was recognised"
+    },
+    {
+      "start": 1317.12,
+      "end": 1322.96,
+      "text": "by every one as indispensable, they doubtless knew something which I did not know. So I"
+    },
+    {
+      "start": 1322.96,
+      "end": 1329.16,
+      "text": "thought, and tried to understand. But no matter. I could never understand it, then"
+    },
+    {
+      "start": 1329.16,
+      "end": 1334.72,
+      "text": "or afterwards. And not being able to grasp it, I could not enter the service as I had"
+    },
+    {
+      "start": 1334.72,
+      "end": 1339.8,
+      "text": "intended. I don't mean only the military service, I did not enter the civil service"
+    },
+    {
+      "start": 1339.8,
+      "end": 1344.64,
+      "text": "either, and so I have been of no use whatever, as you can see.\""
+    },
+    {
+      "start": 1344.64,
+      "end": 1350.88,
+      "text": "\"'Yes, we know how useless you've been,' said one of us. Tell us, rather, how many"
+    },
+    {
+      "start": 1350.88,
+      "end": 1354.92,
+      "text": "people would be of any use at all if it hadn't been for you.\""
+    },
+    {
+      "start": 1354.92,
+      "end": 1360.88,
+      "text": "Oh, that's utter nonsense,\" said Ivan Vassilievich with genuine annoyance."
+    },
+    {
+      "start": 1360.88,
+      "end": 1364.84,
+      "text": "Well, and what about the love affair?"
+    },
+    {
+      "start": 1364.84,
+      "end": 1371.44,
+      "text": "My love, it decreased from that day, when, as often happened, she looked dreamy and meditative,"
+    },
+    {
+      "start": 1371.44,
+      "end": 1376.44,
+      "text": "I instantly recollected the Colonel on the parade ground, and I felt so awkward and"
+    },
+    {
+      "start": 1376.44,
+      "end": 1382.28,
+      "text": "uncomfortable that I began to see her less frequently, so my love came to naught."
+    },
+    {
+      "start": 1382.28,
+      "end": 1388.04,
+      "text": "Yes, such chances arise and they alter and direct a man's whole life, he said in Summing"
+    },
+    {
+      "start": 1388.04,
+      "end": 1388.76,
+      "text": "Up."
+    }
+  ]
+}

@@ -1,0 +1,622 @@
+{
+  "source_epub": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/1984/1984_George Orwell_liber3.epub",
+  "output": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/1984/1984.txt",
+  "characters": 560087,
+  "words": 99359,
+  "blocks": 1317,
+  "headings": [
+    "Nineteen Eighty-Four",
+    "George Orwell",
+    "Part I",
+    "Chapter I",
+    "Chapter II",
+    "Chapter III",
+    "Chapter IV",
+    "Chapter V",
+    "Chapter VI",
+    "Chapter VII",
+    "Chapter VIII",
+    "Part II",
+    "Chapter I",
+    "Chapter II",
+    "Chapter III",
+    "Chapter IV",
+    "Chapter V",
+    "Chapter VI",
+    "Chapter VII",
+    "Chapter VIII",
+    "Chapter IX",
+    "Part III",
+    "Chapter I",
+    "Chapter II",
+    "Chapter III",
+    "Chapter IV",
+    "Chapter V",
+    "Chapter VI",
+    "THE END"
+  ],
+  "sections": [
+    {
+      "href": "content/Orwell - 1984 - 0451524934_split_0_split_001.html",
+      "block_count": 387
+    },
+    {
+      "href": "content/Orwell - 1984 - 0451524934_split_1.html",
+      "block_count": 0
+    },
+    {
+      "href": "content/Orwell - 1984 - 0451524934_split_2.html",
+      "block_count": 253
+    },
+    {
+      "href": "content/Orwell - 1984 - 0451524934_split_3.html",
+      "block_count": 253
+    },
+    {
+      "href": "content/Orwell - 1984 - 0451524934_split_4.html",
+      "block_count": 0
+    },
+    {
+      "href": "content/Orwell - 1984 - 0451524934_split_5.html",
+      "block_count": 435
+    }
+  ],
+  "stopped_at": {
+    "href": "content/Orwell - 1984 - 0451524934_split_5.html",
+    "text": "THE END",
+    "reason": "first_the_end"
+  },
+  "merged_fragment_count": 13,
+  "merged_fragment_samples": [
+    {
+      "previous_tail": "DOWN WITH BIG BROTHER DOWN WITH BIG BROTHER DOWN WITH BIG BROTHER DOWN WITH BIG BROTHER DOWN WITH BIG BROTHER",
+      "current_head": "over and over again, filling half a page.",
+      "href": "content/Orwell - 1984 - 0451524934_split_0_split_001.html"
+    },
+    {
+      "previous_tail": "To the future or to the past, to a time when thought is free, when men are",
+      "current_head": "different from one another and do not live alone --to a time when truth exists and",
+      "href": "content/Orwell - 1984 - 0451524934_split_0_split_001.html"
+    },
+    {
+      "previous_tail": "me when thought is free, when men are different from one another and do not live alone --to a time when truth exists and",
+      "current_head": "what is done cannot be undone:",
+      "href": "content/Orwell - 1984 - 0451524934_split_0_split_001.html"
+    },
+    {
+      "previous_tail": "Sometimes it was buttons, sometimes it was darning wool, sometimes it was shoelaces; at present it was razor blades. You",
+      "current_head": "could only get hold of them, if at all, by scrounging more or less furtively on the “free” market.",
+      "href": "content/Orwell - 1984 - 0451524934_split_0_split_001.html"
+    },
+    {
+      "previous_tail": " you have more freedomnow than you had in those days? Are you treated more like a human being? In the old days, the rich",
+      "current_head": "people, the people at the top--”",
+      "href": "content/Orwell - 1984 - 0451524934_split_0_split_001.html"
+    },
+    {
+      "previous_tail": "‘Oranges and lemons, say the bells of St. Clement’s, You owe me three farthings, say the bells of St. Martin’s--’",
+      "current_head": "there, now, that’s as far as I can get. A farthing, that was a small copper coin, looked something like",
+      "href": "content/Orwell - 1984 - 0451524934_split_0_split_001.html"
+    },
+    {
+      "previous_tail": " St. Martin’s--’ there, now, that’s as far as I can get. A farthing, that was a small copper coin, looked something like",
+      "current_head": "a cent.”",
+      "href": "content/Orwell - 1984 - 0451524934_split_0_split_001.html"
+    },
+    {
+      "previous_tail": "sling, not noticeable at a distance because it was of the same colour as her overalls. Probably she had crushed her hand",
+      "current_head": "while swinging round one of the big kaleidoscopes on which the plots of novels were “roughed in”. It was a common accide",
+      "href": "content/Orwell - 1984 - 0451524934_split_2.html"
+    },
+    {
+      "previous_tail": "’t leave a baby alone for two minutes. It’s the great huge brown ones that do it. And the nasty thing is that the brutes",
+      "current_head": "always--”",
+      "href": "content/Orwell - 1984 - 0451524934_split_2.html"
+    },
+    {
+      "previous_tail": "Syme had vanished. A morning came, and he was missing from work: a few thoughtless",
+      "current_head": "people commented on his absence. On the next day nobody mentioned him. On the third day Winston went into the vestibule ",
+      "href": "content/Orwell - 1984 - 0451524934_split_2.html"
+    },
+    {
+      "previous_tail": "ng up here and there --small groups of people banding themselves together, and gradually growing, and even leaving a few",
+      "current_head": "records behind, so that the next generations can carry on where we leave off.”",
+      "href": "content/Orwell - 1984 - 0451524934_split_3.html"
+    },
+    {
+      "previous_tail": " her. She dumped her brown tool-bag on the floor and flung herself into his arms. It was more than a week since they had",
+      "current_head": "seen one another.",
+      "href": "content/Orwell - 1984 - 0451524934_split_3.html"
+    },
+    {
+      "previous_tail": "e could remember it, as one remembers a vivid experience at some period of one’s life when one was in effect a different",
+      "current_head": "person.",
+      "href": "content/Orwell - 1984 - 0451524934_split_5.html"
+    }
+  ],
+  "word_repair_count": 738,
+  "word_repair_samples": [
+    {
+      "repair": "ofthe -> of the",
+      "count": 9
+    },
+    {
+      "repair": "itwas -> it was",
+      "count": 5
+    },
+    {
+      "repair": "withthe -> with the",
+      "count": 4
+    },
+    {
+      "repair": "Timesof -> Times of",
+      "count": 4
+    },
+    {
+      "repair": "inthe -> in the",
+      "count": 4
+    },
+    {
+      "repair": "outof -> out of",
+      "count": 4
+    },
+    {
+      "repair": "hehad -> he had",
+      "count": 3
+    },
+    {
+      "repair": "hecould -> he could",
+      "count": 3
+    },
+    {
+      "repair": "thoughthe -> though the",
+      "count": 2
+    },
+    {
+      "repair": "theyll -> they ll",
+      "count": 2
+    },
+    {
+      "repair": "Timesand -> Times and",
+      "count": 2
+    },
+    {
+      "repair": "aback -> a back",
+      "count": 2
+    },
+    {
+      "repair": "Itwas -> It was",
+      "count": 2
+    },
+    {
+      "repair": "youhad -> you had",
+      "count": 2
+    },
+    {
+      "repair": "thejus -> the jus",
+      "count": 2
+    },
+    {
+      "repair": "theoriginal -> the original",
+      "count": 2
+    },
+    {
+      "repair": "thathe -> that he",
+      "count": 2
+    },
+    {
+      "repair": "Onthe -> On the",
+      "count": 2
+    },
+    {
+      "repair": "inhis -> in his",
+      "count": 2
+    },
+    {
+      "repair": "thismoment -> this moment",
+      "count": 2
+    },
+    {
+      "repair": "fromthe -> from the",
+      "count": 2
+    },
+    {
+      "repair": "Hehad -> He had",
+      "count": 2
+    },
+    {
+      "repair": "Therewas -> There was",
+      "count": 2
+    },
+    {
+      "repair": "ofhuman -> of human",
+      "count": 2
+    },
+    {
+      "repair": "thatyou -> that you",
+      "count": 2
+    },
+    {
+      "repair": "seemedto -> seemed to",
+      "count": 2
+    },
+    {
+      "repair": "enteringalong -> entering along",
+      "count": 1
+    },
+    {
+      "repair": "thesingle -> the single",
+      "count": 1
+    },
+    {
+      "repair": "Policeplugged -> Police plugged",
+      "count": 1
+    },
+    {
+      "repair": "Youhad -> You had",
+      "count": 1
+    },
+    {
+      "repair": "placeimpossible -> place impossible",
+      "count": 1
+    },
+    {
+      "repair": "thelonger -> the longer",
+      "count": 1
+    },
+    {
+      "repair": "intoordinary -> into ordinary",
+      "count": 1
+    },
+    {
+      "repair": "toget -> to get",
+      "count": 1
+    },
+    {
+      "repair": "nothingwritten -> nothing written",
+      "count": 1
+    },
+    {
+      "repair": "asecond -> a second",
+      "count": 1
+    },
+    {
+      "repair": "ofwhat -> of what",
+      "count": 1
+    },
+    {
+      "repair": "listento -> listen to",
+      "count": 1
+    },
+    {
+      "repair": "blanknessof -> blankness of",
+      "count": 1
+    },
+    {
+      "repair": "ofrefugees -> of refugees",
+      "count": 1
+    },
+    {
+      "repair": "agreat -> a great",
+      "count": 1
+    },
+    {
+      "repair": "wallowingalong -> wallowing along",
+      "count": 1
+    },
+    {
+      "repair": "wasfull -> was full",
+      "count": 1
+    },
+    {
+      "repair": "letin -> let in",
+      "count": 1
+    },
+    {
+      "repair": "childrenwith -> children with",
+      "count": 1
+    },
+    {
+      "repair": "withfright -> with fright",
+      "count": 1
+    },
+    {
+      "repair": "thewoman -> the woman",
+      "count": 1
+    },
+    {
+      "repair": "bulletsoff -> bullets off",
+      "count": 1
+    },
+    {
+      "repair": "wentall -> went all",
+      "count": 1
+    },
+    {
+      "repair": "theair -> the air",
+      "count": 1
+    },
+    {
+      "repair": "applausefrom -> applause from",
+      "count": 1
+    },
+    {
+      "repair": "afuss -> a fuss",
+      "count": 1
+    },
+    {
+      "repair": "infront -> in front",
+      "count": 1
+    },
+    {
+      "repair": "toher -> to her",
+      "count": 1
+    },
+    {
+      "repair": "whathad -> what had",
+      "count": 1
+    },
+    {
+      "repair": "decidedto -> decided to",
+      "count": 1
+    },
+    {
+      "repair": "onone -> on one",
+      "count": 1
+    },
+    {
+      "repair": "teethon -> teeth on",
+      "count": 1
+    },
+    {
+      "repair": "thescreen -> the screen",
+      "count": 1
+    },
+    {
+      "repair": "apainful -> a painful",
+      "count": 1
+    },
+    {
+      "repair": "resembledthe -> resembled the",
+      "count": 1
+    },
+    {
+      "repair": "influencenever -> influence never",
+      "count": 1
+    },
+    {
+      "repair": "asthe -> as the",
+      "count": 1
+    },
+    {
+      "repair": "northe -> nor the",
+      "count": 1
+    },
+    {
+      "repair": "bookwas -> book was",
+      "count": 1
+    },
+    {
+      "repair": "theirplaces -> their places",
+      "count": 1
+    },
+    {
+      "repair": "mouthwas -> mouth was",
+      "count": 1
+    },
+    {
+      "repair": "oneobject -> one object",
+      "count": 1
+    },
+    {
+      "repair": "realizedwhyit -> realized why it",
+      "count": 1
+    },
+    {
+      "repair": "relieffrom -> relief from",
+      "count": 1
+    },
+    {
+      "repair": "atremulous -> a tremulous",
+      "count": 1
+    },
+    {
+      "repair": "thegeneral -> the general",
+      "count": 1
+    },
+    {
+      "repair": "tocontrol -> to control",
+      "count": 1
+    },
+    {
+      "repair": "heknew -> he knew",
+      "count": 1
+    },
+    {
+      "repair": "asinscrutable -> as inscrutable",
+      "count": 1
+    },
+    {
+      "repair": "imaginedeverything -> imagined everything",
+      "count": 1
+    },
+    {
+      "repair": "dangerouseven -> dangerous even",
+      "count": 1
+    },
+    {
+      "repair": "caredown -> care down",
+      "count": 1
+    },
+    {
+      "repair": "heatingsystem -> heating system",
+      "count": 1
+    },
+    {
+      "repair": "wholebuilding -> whole building",
+      "count": 1
+    },
+    {
+      "repair": "Inanother -> In another",
+      "count": 1
+    },
+    {
+      "repair": "completelyunquestioning -> completely unquestioning",
+      "count": 1
+    },
+    {
+      "repair": "thebetter -> the better",
+      "count": 1
+    },
+    {
+      "repair": "wasthe -> was the",
+      "count": 1
+    },
+    {
+      "repair": "stillrubbing -> still rubbing",
+      "count": 1
+    },
+    {
+      "repair": "bydegrees -> by degrees",
+      "count": 1
+    },
+    {
+      "repair": "thestagnant -> the stagnant",
+      "count": 1
+    },
+    {
+      "repair": "Malabarfront -> Malabar front",
+      "count": 1
+    },
+    {
+      "repair": "endurefor -> endure for",
+      "count": 1
+    },
+    {
+      "repair": "bombswould -> bombs would",
+      "count": 1
+    },
+    {
+      "repair": "butannihilation -> but annihilation",
+      "count": 1
+    },
+    {
+      "repair": "aspossible -> as possible",
+      "count": 1
+    },
+    {
+      "repair": "anddeposited -> and deposited",
+      "count": 1
+    },
+    {
+      "repair": "alwayssilent -> always silent",
+      "count": 1
+    },
+    {
+      "repair": "complexsorrows -> complex sorrows",
+      "count": 1
+    },
+    {
+      "repair": "andsmooth -> and smooth",
+      "count": 1
+    },
+    {
+      "repair": "itsgrace -> its grace",
+      "count": 1
+    },
+    {
+      "repair": "Itemptied -> It emptied",
+      "count": 1
+    },
+    {
+      "repair": "varicoseulcer -> varicose ulcer",
+      "count": 1
+    },
+    {
+      "repair": "Onetwo -> One two",
+      "count": 1
+    },
+    {
+      "repair": "orperhaps -> or perhaps",
+      "count": 1
+    },
+    {
+      "repair": "Italso -> It also",
+      "count": 1
+    },
+    {
+      "repair": "everadmitted -> ever admitted",
+      "count": 1
+    },
+    {
+      "repair": "inalliance -> in alliance",
+      "count": 1
+    },
+    {
+      "repair": "wheredid -> where did",
+      "count": 1
+    },
+    {
+      "repair": "Partyslogan -> Party slogan",
+      "count": 1
+    },
+    {
+      "repair": "andthat -> and that",
+      "count": 1
+    },
+    {
+      "repair": "forgetit -> forget it",
+      "count": 1
+    },
+    {
+      "repair": "actuallydestroyed -> actually destroyed",
+      "count": 1
+    },
+    {
+      "repair": "wasnot -> was not",
+      "count": 1
+    },
+    {
+      "repair": "whattheyhave -> what they have",
+      "count": 1
+    },
+    {
+      "repair": "theright -> the right",
+      "count": 1
+    },
+    {
+      "repair": "intricateand -> intricate and",
+      "count": 1
+    },
+    {
+      "repair": "actualoutput -> actual output",
+      "count": 1
+    },
+    {
+      "repair": "speakwritten -> speak written",
+      "count": 1
+    },
+    {
+      "repair": "bedevoured -> be devoured",
+      "count": 1
+    },
+    {
+      "repair": "Timeshad -> Times had",
+      "count": 1
+    },
+    {
+      "repair": "norwas -> nor was",
+      "count": 1
+    },
+    {
+      "repair": "Timeswhich -> Times which",
+      "count": 1
+    },
+    {
+      "repair": "changesin -> changes in",
+      "count": 1
+    }
+  ],
+  "forbidden_backmatter_matches": [],
+  "sha256": "adf82ac1d2a9a26734ebc1286da44750a778d7914962a0ecd50d9c8b5d54e6de"
+}

@@ -1,0 +1,3988 @@
+{
+  "audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/lostOnTheSteppeTheSnowstorm/video_work/lostOnTheSteppeTheSnowstorm_audio_16k.wav",
+  "model": "small.en",
+  "language": "en",
+  "duration": 4361.5573125,
+  "segments": [
+    {
+      "start": 8.14,
+      "end": 20.82,
+      "text": "1. At seven o'clock in the evening, having taken my tea, I started from a station, the"
+    },
+    {
+      "start": 20.82,
+      "end": 24.98,
+      "text": "name of which I have quite forgotten, though I remember that it was somewhere in the region"
+    },
+    {
+      "start": 24.98,
+      "end": 31.18,
+      "text": "of the Don Cossacks, not far from Novocherkask. It was already dark when I took my seat in"
+    },
+    {
+      "start": 31.18,
+      "end": 37.34,
+      "text": "the sledge next to Alyoska and wrapped myself in my fur coat and the robes. Back of the station"
+    },
+    {
+      "start": 37.34,
+      "end": 43.02,
+      "text": "house, it seemed warm and calm. Though it was not snowing, not a single star was to"
+    },
+    {
+      "start": 43.02,
+      "end": 49.78,
+      "text": "be seen overhead, and the sky it seemed remarkably low and black, in contrast with the clear,"
+    },
+    {
+      "start": 49.78,
+      "end": 55.54,
+      "text": "snowy expanse stretching out before us. We had scarcely passed by the black forms of"
+    },
+    {
+      "start": 55.54,
+      "end": 60.86,
+      "text": "the windmills, one of which was awkwardly waving its huge wings, and had left the station"
+    },
+    {
+      "start": 60.86,
+      "end": 66.34,
+      "text": "behind us, when I perceived that the road was growing rougher and more drifted. The"
+    },
+    {
+      "start": 66.34,
+      "end": 71.06,
+      "text": "Wind began to blow more fiercely on the left and to toss the horses' manes and tails"
+    },
+    {
+      "start": 71.06,
+      "end": 77.02,
+      "text": "to one side, and obstinately to lift and carry away the snow stirred up by the runners"
+    },
+    {
+      "start": 77.02,
+      "end": 83.16,
+      "text": "and hooves. The little bell rang with a muffled sound. A draft of cold air forced its way"
+    },
+    {
+      "start": 83.16,
+      "end": 88.08,
+      "text": "through the opening in my sleeves to my very back, and the inspector's advice came into"
+    },
+    {
+      "start": 88.08,
+      "end": 93.54,
+      "text": "my head that I had better not go farther lest I wander all night and freeze to death"
+    },
+    {
+      "start": 93.54,
+      "end": 94.54,
+      "text": "on the road."
+    },
+    {
+      "start": 94.54,
+      "end": 99.98,
+      "text": "\"'Won't you get us lost,' said I to the driver, but as I got no answer I put the"
+    },
+    {
+      "start": 99.98,
+      "end": 101.94,
+      "text": "question more explicitly."
+    },
+    {
+      "start": 101.94,
+      "end": 105.22,
+      "text": "\"'Say, shall we reach the station, driver?"
+    },
+    {
+      "start": 105.22,
+      "end": 106.86,
+      "text": "We shan't lose our way.'\""
+    },
+    {
+      "start": 106.86,
+      "end": 111.18,
+      "text": "\"'God knows,' was his reply, but he did not turn his head."
+    },
+    {
+      "start": 111.18,
+      "end": 113.94,
+      "text": "\"'You see what kind of going we have."
+    },
+    {
+      "start": 113.94,
+      "end": 115.98,
+      "text": "No road to be seen."
+    },
+    {
+      "start": 115.98,
+      "end": 116.98,
+      "text": "Great heavens.'\""
+    },
+    {
+      "start": 116.98,
+      "end": 119.26,
+      "text": "\"'Be good enough to tell me."
+    },
+    {
+      "start": 119.26,
+      "end": 121.38,
+      "text": "Do you hope to reach the station or not?'"
+    },
+    {
+      "start": 121.38,
+      "end": 122.38,
+      "text": "I insisted."
+    },
+    {
+      "start": 122.38,
+      "end": 128.18,
+      "text": "Shall we get there? Must get there,\" said the driver, and he muttered something else,"
+    },
+    {
+      "start": 128.18,
+      "end": 133.56,
+      "text": "which I could not hear for the wind. I did not wish to turn about, but the idea of wandering"
+    },
+    {
+      "start": 133.56,
+      "end": 139.14,
+      "text": "all night in the cold and snow over the perfectly shelterless steppe, which made up this part"
+    },
+    {
+      "start": 139.14,
+      "end": 145.66,
+      "text": "of the Don Cossack land, was very unpleasant. Moreover, notwithstanding the fact that I"
+    },
+    {
+      "start": 145.66,
+      "end": 151.86,
+      "text": "could not, by reason of the darkness, see him very well, my driver, somehow, did not"
+    },
+    {
+      "start": 151.86,
+      "end": 158.18,
+      "text": "please me, nor inspire any confidence. He sat exactly in the middle, with his legs in,"
+    },
+    {
+      "start": 158.18,
+      "end": 165.22,
+      "text": "and not on one side. His stature was too great, his voice expressed indolence. His cap,"
+    },
+    {
+      "start": 165.22,
+      "end": 171.54,
+      "text": "not like those usually worn by his class, was large and loose on all sides. Besides,"
+    },
+    {
+      "start": 171.54,
+      "end": 177.14,
+      "text": "he did not manage his horses in the proper way, but held the reins in both hands, just like the"
+    },
+    {
+      "start": 177.14,
+      "end": 183.7,
+      "text": "lackey who sat on the box, behind the coachman, and chiefly I did not believe in him, because"
+    },
+    {
+      "start": 183.7,
+      "end": 190.02,
+      "text": "he had his ears wrapped up in a handkerchief. In a word he did not please me, and it seemed"
+    },
+    {
+      "start": 190.02,
+      "end": 196.98,
+      "text": "as if that crooked, sinister back looming before me boded nothing good. In my opinion"
+    },
+    {
+      "start": 196.98,
+      "end": 202.26,
+      "text": "it would be better to turn about, said Alioshka to me. Fine thing it would be to be lost."
+    },
+    {
+      "start": 202.26,
+      "end": 208.7,
+      "text": "Great heavens, see what a snowstorm's coming. No road in sight. It blinds one's eyes."
+    },
+    {
+      "start": 208.7,
+      "end": 213.7,
+      "text": "Great heavens, repeated the driver. We had not been gone a quarter of an hour"
+    },
+    {
+      "start": 213.7,
+      "end": 217.38,
+      "text": "when the driver stopped the horses, handed the reins to Alyoska,"
+    },
+    {
+      "start": 217.38,
+      "end": 221.5,
+      "text": "awkwardly liberated his legs from the seat, and went to search for the road,"
+    },
+    {
+      "start": 221.5,
+      "end": 226.74,
+      "text": "crunching over the snow in his great boots. What is it? Where are you going?"
+    },
+    {
+      "start": 226.74,
+      "end": 230.34,
+      "text": "Are we lost? I asked. But the driver made no reply,"
+    },
+    {
+      "start": 230.34,
+      "end": 235.3,
+      "text": "but, turning his face away from the wind which cut his eyes, marched off from the sledge."
+    },
+    {
+      "start": 236.18,
+      "end": 239.06,
+      "text": "Well, how is it? I repeated when he returned."
+    },
+    {
+      "start": 240.02,
+      "end": 245.54,
+      "text": "Nothing at all, said he to me impatiently, and with vexation, as though I were to blame"
+    },
+    {
+      "start": 245.54,
+      "end": 251.46,
+      "text": "for his missing the road. And again, slowly wrapping up his big legs in the robe, he gathered"
+    },
+    {
+      "start": 251.46,
+      "end": 257.38,
+      "text": "the reins in his stiffened mittens. What's to be done? I asked as we started off again."
+    },
+    {
+      "start": 257.38,
+      "end": 263.62,
+      "text": "What's to be done? We shall go as God leads.\" And we drove along in the same dog trot over"
+    },
+    {
+      "start": 263.62,
+      "end": 269.38,
+      "text": "what was evidently an untrodden waste, sometimes sinking in deep, mealy snow,"
+    },
+    {
+      "start": 269.38,
+      "end": 276.42,
+      "text": "sometimes gliding over crisp, unbroken crust. Although it was cold, the snow kept melting"
+    },
+    {
+      "start": 276.42,
+      "end": 282.98,
+      "text": "quickly on my collar. The low-flying snow clouds increased, and occasionally the dry snowflakes"
+    },
+    {
+      "start": 282.98,
+      "end": 288.62,
+      "text": "began to fall. It was clear that we were going out of our way, because after keeping on for"
+    },
+    {
+      "start": 288.62,
+      "end": 293.06,
+      "text": "a quarter of an hour more, we saw no sign of a versed post."
+    },
+    {
+      "start": 293.06,
+      "end": 297.82,
+      "text": "\"'Well, what do you think about it now?' I asked of the driver once more."
+    },
+    {
+      "start": 297.82,
+      "end": 302.46,
+      "text": "\"'Shall we get to the station?' \"'Which one? We should go back if we let the"
+    },
+    {
+      "start": 302.46,
+      "end": 308.6,
+      "text": "horses have their way. They will take us. But, as for the next one, that's a problem."
+    },
+    {
+      "start": 308.6,
+      "end": 312.88,
+      "text": "Only we might perish.' \"'Well then, let us go back,' said"
+    },
+    {
+      "start": 312.88,
+      "end": 318.8,
+      "text": "eye. And, indeed, how is it? Shall we turn about?\" repeated the driver."
+    },
+    {
+      "start": 318.8,
+      "end": 324.8,
+      "text": "Yes, yes, turn back. The driver shook the reins. The horses started off more rapidly,"
+    },
+    {
+      "start": 324.8,
+      "end": 329.92,
+      "text": "and though I did not notice that we had turned around, the wind changed, and soon, through the"
+    },
+    {
+      "start": 329.92,
+      "end": 336.64,
+      "text": "snow, appeared the windmills. The driver's good spirits returned, and he began to be communicative."
+    },
+    {
+      "start": 336.64,
+      "end": 342.68,
+      "text": "Lately, said he, in just such a snowstorm some people coming from that same station"
+    },
+    {
+      "start": 342.68,
+      "end": 347.88,
+      "text": "lost their way. Yes, they spent the night in the Hayrix and barely managed to get here"
+    },
+    {
+      "start": 347.88,
+      "end": 353.32,
+      "text": "in the morning. Thanks to the Hayrix they were rescued. If it had not been for them"
+    },
+    {
+      "start": 353.32,
+      "end": 359.48,
+      "text": "they would have frozen to death. It was so cold. And one froze his foot and died three"
+    },
+    {
+      "start": 359.48,
+      "end": 364.6,
+      "text": "weeks afterwards. But now you see it's not cold and it's"
+    },
+    {
+      "start": 364.6,
+      "end": 368.6,
+      "text": "Throwing less windy, I said. Couldn't we go on?"
+    },
+    {
+      "start": 368.6,
+      "end": 373.76,
+      "text": "It's warm enough, but it's snowing. Now going back, it seems easier. But it's snowing"
+    },
+    {
+      "start": 373.76,
+      "end": 378.8,
+      "text": "hard. Might go on if you were a courier or something, but this is for your own sake. What"
+    },
+    {
+      "start": 378.8,
+      "end": 383.76,
+      "text": "kind of a joke would that be if a passenger froze to death? How then could I be answerable"
+    },
+    {
+      "start": 383.76,
+      "end": 385.36,
+      "text": "to your grace?"
+    },
+    {
+      "start": 385.36,
+      "end": 386.36,
+      "text": "Two."
+    },
+    {
+      "start": 386.36,
+      "end": 391.28,
+      "text": "At this moment we heard behind us the bells of a troika which was rapidly overtaking"
+    },
+    {
+      "start": 391.28,
+      "end": 392.28,
+      "text": "us."
+    },
+    {
+      "start": 392.28,
+      "end": 398.52,
+      "text": "A courier's bell, said my driver. There's one such for every station. And, in fact,"
+    },
+    {
+      "start": 398.52,
+      "end": 404.16,
+      "text": "the bell of the courier's troika, the sound of which now came clearly to me on the wind,"
+    },
+    {
+      "start": 404.16,
+      "end": 411.54,
+      "text": "was peculiarly beautiful\u2014clear, sonorous, deep, and jangling a little. As I then knew,"
+    },
+    {
+      "start": 411.54,
+      "end": 416.56,
+      "text": "this was a huntsman's team. Three bells, one large one in the centre, with the crimson"
+    },
+    {
+      "start": 416.56,
+      "end": 423.16,
+      "text": "tone, as it is called, and two small ones tuned in thirds. The sound of this triad and"
+    },
+    {
+      "start": 423.16,
+      "end": 428.44,
+      "text": "the tinkling fifth ringing through the air was extraordinarily effective and strangely"
+    },
+    {
+      "start": 428.44,
+      "end": 430.96,
+      "text": "pleasant in this dark desert step."
+    },
+    {
+      "start": 430.96,
+      "end": 435.96,
+      "text": "\"'The Porsche is coming,' said my driver, when the foremost of the three Troikas drew"
+    },
+    {
+      "start": 435.96,
+      "end": 437.72,
+      "text": "up in line with ours."
+    },
+    {
+      "start": 437.72,
+      "end": 443.24,
+      "text": "\"'Well, how is the road? Is it possible to go on?' he cried to the last of the"
+    },
+    {
+      "start": 443.24,
+      "end": 449.48,
+      "text": "drivers, but the Yamshik only shouted to his horses and made no reply."
+    },
+    {
+      "start": 449.48,
+      "end": 452.68,
+      "text": "The sound of the bells quickly died away on the wind,"
+    },
+    {
+      "start": 452.68,
+      "end": 455.76,
+      "text": "almost as soon as the post team passed us."
+    },
+    {
+      "start": 455.76,
+      "end": 458.56,
+      "text": "Of course, my driver felt ashamed."
+    },
+    {
+      "start": 458.56,
+      "end": 461.2,
+      "text": "Well, you shall go, Baron, he said to me."
+    },
+    {
+      "start": 461.2,
+      "end": 465.28,
+      "text": "People have made their way through, now their tracks will be fresh."
+    },
+    {
+      "start": 465.28,
+      "end": 468.2,
+      "text": "I agreed, and once more we faced the wind and"
+    },
+    {
+      "start": 468.2,
+      "end": 471.16,
+      "text": "began to crawl along on the deep snow."
+    },
+    {
+      "start": 471.16,
+      "end": 475.48,
+      "text": "I kept my eyes on one side on the road, so that we should not get off the track that"
+    },
+    {
+      "start": 475.48,
+      "end": 481.52,
+      "text": "had been made by the other sledges. For two versts the tracks were clearly visible, then"
+    },
+    {
+      "start": 481.52,
+      "end": 487.44,
+      "text": "there. Began to be only a slight irregularity where the runners had gone, and soon I really"
+    },
+    {
+      "start": 487.44,
+      "end": 492.28,
+      "text": "could no longer distinguish whether it was the track or merely a layer of snow heaped"
+    },
+    {
+      "start": 492.28,
+      "end": 497.88,
+      "text": "up. My eyes grew weary of gazing at the monotonous stretch of snow under the runners,"
+    },
+    {
+      "start": 497.88,
+      "end": 503.62,
+      "text": "and I began to look ahead. The third verse-post we had already seen, but the fourth we could"
+    },
+    {
+      "start": 503.62,
+      "end": 509.82,
+      "text": "not find at all. As before, we went in the teeth of the wind, and with the wind, and"
+    },
+    {
+      "start": 509.82,
+      "end": 515.92,
+      "text": "to the right, and to the left, and finally we reached such a state that the driver declared"
+    },
+    {
+      "start": 515.92,
+      "end": 520.46,
+      "text": "that we must have turned off to the right. I declared that we must have turned off to"
+    },
+    {
+      "start": 520.46,
+      "end": 526.0,
+      "text": "the left, and Alyoska was sure that we ought to go back. Again, we stopped a number"
+    },
+    {
+      "start": 526.0,
+      "end": 532.36,
+      "text": "of times, the driver uncoiled his long legs and crawled along trying to find the road,"
+    },
+    {
+      "start": 532.36,
+      "end": 537.84,
+      "text": "but all in vain. I also got out once to see whether it were the road or something else"
+    },
+    {
+      "start": 537.84,
+      "end": 543.88,
+      "text": "that attracted my attention. But I had scarcely taken six steps with difficulty against the"
+    },
+    {
+      "start": 543.88,
+      "end": 549.92,
+      "text": "wind, and convinced myself that we were surrounded by the same monotonous white heaps of snow,"
+    },
+    {
+      "start": 549.92,
+      "end": 555.96,
+      "text": "and that the road existed only in my imagination when I lost sight of the sledge. I shouted,"
+    },
+    {
+      "start": 555.96,
+      "end": 563.52,
+      "text": "Yamshchik, Alyoshka. But my voice, I felt how the wind tore it right out of my mouth"
+    },
+    {
+      "start": 563.52,
+      "end": 568.84,
+      "text": "and carried it in a twinkling far from me. I went in the direction where the sledge had"
+    },
+    {
+      "start": 568.84,
+      "end": 575.96,
+      "text": "been. The sledge was not there. I went to the right. Not there, either. I am ashamed"
+    },
+    {
+      "start": 575.96,
+      "end": 581.4,
+      "text": "to recollect what a loud, penetrating, and even rather despairing voice I summoned to"
+    },
+    {
+      "start": 581.4,
+      "end": 588.02,
+      "text": "shout once more, Yum's chick! And there he was, two steps away. His black figure,"
+    },
+    {
+      "start": 588.02,
+      "end": 594.06,
+      "text": "with his whip and his huge cap hanging down on one side, suddenly loomed up before me."
+    },
+    {
+      "start": 594.06,
+      "end": 595.64,
+      "text": "He led me to the sledge."
+    },
+    {
+      "start": 595.64,
+      "end": 603.72,
+      "text": "Thank the Lord, it's still warm, said he, to perish with the cold, awful, great heavens."
+    },
+    {
+      "start": 603.72,
+      "end": 608.76,
+      "text": "Let the horses find their own way. Let us turn back, said I, as I took my place in"
+    },
+    {
+      "start": 608.76,
+      "end": 614.6,
+      "text": "the sledge. Won't they take us back? Hey, driver! They ought to.\""
+    },
+    {
+      "start": 614.6,
+      "end": 619.36,
+      "text": "He gave the horses the reins, cracked his whip three times over the saddle of the shaft"
+    },
+    {
+      "start": 619.36,
+      "end": 625.46,
+      "text": "horse, and again we started off at haphazard. We went for half an hour. Suddenly before"
+    },
+    {
+      "start": 625.46,
+      "end": 630.72,
+      "text": "us again I heard the well-known bell of the hunting establishment and the other two, but"
+    },
+    {
+      "start": 630.72,
+      "end": 636.16,
+      "text": "now they were coming toward us. It was the same three troikas, which had already deposited"
+    },
+    {
+      "start": 636.16,
+      "end": 642.36,
+      "text": "the mail and, with a change of horses attached behind, were returning to the station. The"
+    },
+    {
+      "start": 642.36,
+      "end": 648.0,
+      "text": "courier's troika, with powerful horses with the hunting bell, quickly dashed ahead. A"
+    },
+    {
+      "start": 648.0,
+      "end": 653.74,
+      "text": "single driver sat in it on the driver's seat and was shouting vigorously. Behind him,"
+    },
+    {
+      "start": 653.74,
+      "end": 658.74,
+      "text": "in the middle one of the empty troikas, were two other drivers, and their loud and hilarious"
+    },
+    {
+      "start": 658.74,
+      "end": 664.8,
+      "text": "talk could be heard. One of them was smoking a pipe, and the spark, brightened by the"
+    },
+    {
+      "start": 664.8,
+      "end": 670.52,
+      "text": "wind, lighted up a part of his face. As I looked at them, I felt ashamed that I was"
+    },
+    {
+      "start": 670.52,
+      "end": 675.68,
+      "text": "afraid to go on, and my driver doubtless had the same feeling, because we both said with"
+    },
+    {
+      "start": 675.68,
+      "end": 681.92,
+      "text": "one voice, Let us follow them. Three. My driver, without waiting for the last"
+    },
+    {
+      "start": 681.92,
+      "end": 688.68,
+      "text": "troika to pass, began awkwardly to turn around, and the thills hit the horses attached behind."
+    },
+    {
+      "start": 688.68,
+      "end": 692.8,
+      "text": "One of the troika teams shied, tore away the reins and galloped off."
+    },
+    {
+      "start": 692.8,
+      "end": 698.24,
+      "text": "Hey there, you squint-eyed devil! Don't you see where you're turning? Running people down,"
+    },
+    {
+      "start": 698.24,
+      "end": 702.44,
+      "text": "you devil!\" In a hoarse, discordant voice scolded one"
+    },
+    {
+      "start": 702.44,
+      "end": 708.88,
+      "text": "of the drivers, a short, little old man, as I judged by his voice and expression. He sprang"
+    },
+    {
+      "start": 708.88,
+      "end": 714.32,
+      "text": "hastily out of the hindmost sledge where he had been sitting and started to run after the"
+    },
+    {
+      "start": 714.32,
+      "end": 720.6,
+      "text": "horses, still continuing roughly and violently to vilify my yam's cheek. But the horses"
+    },
+    {
+      "start": 720.6,
+      "end": 726.28,
+      "text": "did not come back. The driver ran after them, and in one instant both horses and driver"
+    },
+    {
+      "start": 726.28,
+      "end": 730.4,
+      "text": "were lost from sight in the white mist of the storm."
+    },
+    {
+      "start": 730.4,
+      "end": 736.52,
+      "text": "Vah-see-lee! Bring the bay-horse here! Can't catch him! So-oh-oh! echoed his voice in"
+    },
+    {
+      "start": 736.52,
+      "end": 742.44,
+      "text": "the distance. One of the drivers, a very tall fellow, got out of his sledge. Silently"
+    },
+    {
+      "start": 742.44,
+      "end": 747.24,
+      "text": "un-hitched his troika, mounted one of the horses by the breaching, and crunching over"
+    },
+    {
+      "start": 747.24,
+      "end": 753.2,
+      "text": "the snow in a clumsy gallop, disappeared in the same direction. Our own troika, with the"
+    },
+    {
+      "start": 753.2,
+      "end": 758.88,
+      "text": "two others, followed on over the step, behind the couriers which dashed ahead in full trot,"
+    },
+    {
+      "start": 758.88,
+      "end": 759.88,
+      "text": "jingling its bell."
+    },
+    {
+      "start": 759.88,
+      "end": 764.72,
+      "text": "\"'How is it? He'll get him,' said my driver, referring to the one who had gone"
+    },
+    {
+      "start": 764.72,
+      "end": 769.48,
+      "text": "to catch the horses. If that mare didn't find the horses, she wouldn't be good for"
+    },
+    {
+      "start": 769.48,
+      "end": 774.64,
+      "text": "much, you know. She'd wander off, so that, she'd get lost.\""
+    },
+    {
+      "start": 774.64,
+      "end": 778.84,
+      "text": "From the moment that my driver had the company of other teams he became more hilarious and"
+    },
+    {
+      "start": 778.84,
+      "end": 784.36,
+      "text": "talkative, and as I had no desire to sleep, I did not fail as a matter of course to make"
+    },
+    {
+      "start": 784.36,
+      "end": 790.28,
+      "text": "the most of it. I took pains to ask him about his home and his family, and soon learned"
+    },
+    {
+      "start": 790.28,
+      "end": 795.72,
+      "text": "that he was a fellow countryman of mine from Tula, a peasant belonging to a noble family"
+    },
+    {
+      "start": 795.72,
+      "end": 800.92,
+      "text": "from the village of Kirpichnoe, that they had very little land, and the grain had"
+    },
+    {
+      "start": 800.92,
+      "end": 806.08,
+      "text": "entirely ceased to grow owing to the cholera, that he and one of his brothers had stayed"
+    },
+    {
+      "start": 806.08,
+      "end": 811.78,
+      "text": "at home and a third had gone as a soldier, that since Christmas they had lacked bread"
+    },
+    {
+      "start": 811.78,
+      "end": 816.16,
+      "text": "and had been obliged to work out, that his younger brother had kept the farm because"
+    },
+    {
+      "start": 816.16,
+      "end": 821.72,
+      "text": "he was married, but that he himself was a widower, that his villagers every year came"
+    },
+    {
+      "start": 821.72,
+      "end": 827.44,
+      "text": "here to exercise the trade of yamshchik or driver, that, though he had not come as a"
+    },
+    {
+      "start": 827.44,
+      "end": 833.52,
+      "text": "regular driver, yet he was in the postal service, so as to help his brother. That he earned there,"
+    },
+    {
+      "start": 833.52,
+      "end": 838.56,
+      "text": "thanks to God, a hundred and twenty paper rubles a year, of which he sent a hundred"
+    },
+    {
+      "start": 838.56,
+      "end": 844.96,
+      "text": "to his family, and that it would be good living. But the Kuel Iirs were very wild beasts,"
+    },
+    {
+      "start": 844.96,
+      "end": 850.24,
+      "text": "and the people here were impudent. Now, what was that driver scolding about?"
+    },
+    {
+      "start": 850.24,
+      "end": 855.44,
+      "text": "Great heavens! Did I mean to lose his horses for him? Did I treat him in a mean way?"
+    },
+    {
+      "start": 855.44,
+      "end": 859.52,
+      "text": "and why did he go galloping off after him? They'd have come in of their own accord."
+    },
+    {
+      "start": 860.08,
+      "end": 865.12,
+      "text": "Anyway, it would be better for the horses to freeze to death than for him to get lost,"
+    },
+    {
+      "start": 865.12,
+      "end": 871.92,
+      "text": "said the pious Mujic. What is that black thing I see coming? I asked, pointing to some dark"
+    },
+    {
+      "start": 871.92,
+      "end": 878.08,
+      "text": "object in front of us. That's a baggage train. Splendid wheeling, he added, as he came up with"
+    },
+    {
+      "start": 878.08,
+      "end": 884.8,
+      "text": "the huge, matte-covered vans on wheels following one after the other. See, not a soul to be"
+    },
+    {
+      "start": 884.8,
+      "end": 890.88,
+      "text": "seen. All asleep. The wise horse knows. You won't drive her from the road, never."
+    },
+    {
+      "start": 891.52,
+      "end": 895.12,
+      "text": "We've driven in that same way. So we know,\" he added."
+    },
+    {
+      "start": 896.0,
+      "end": 901.92,
+      "text": "It was indeed strange to see the huge vans covered with snow from the matted tops to the wheels"
+    },
+    {
+      "start": 901.92,
+      "end": 908.32,
+      "text": "moving along absolutely alone. Only the front corner of the snow-covered mat would be lifted"
+    },
+    {
+      "start": 908.32,
+      "end": 914.32,
+      "text": "by two fingers, and for a moment a cap would peer out as our bells jingled past the train."
+    },
+    {
+      "start": 914.8,
+      "end": 920.56,
+      "text": "A great, pie-balled horse, stretching out his neck and straining his back, walked with"
+    },
+    {
+      "start": 920.56,
+      "end": 926.2,
+      "text": "measured pace over the drifted road, monotonously shaking his shaggy head under the whitened"
+    },
+    {
+      "start": 926.2,
+      "end": 931.2,
+      "text": "bellbow and pricking up one snow-covered ear as we went by."
+    },
+    {
+      "start": 931.2,
+      "end": 936.44,
+      "text": "After we had gone still another half-hour, the driver once more turned to me."
+    },
+    {
+      "start": 936.44,
+      "end": 940.12,
+      "text": "\"'Well, what do you think, Baron? Are we getting along well?'"
+    },
+    {
+      "start": 940.12,
+      "end": 946.4,
+      "text": "I don't know,\" I said, before the wind blew in our faces, but now we go right along"
+    },
+    {
+      "start": 946.4,
+      "end": 947.4,
+      "text": "with it."
+    },
+    {
+      "start": 947.4,
+      "end": 949.32,
+      "text": "No, we shan't get there."
+    },
+    {
+      "start": 949.32,
+      "end": 954.76,
+      "text": "We are off the track,\" he said in conclusion, with perfect equanimity."
+    },
+    {
+      "start": 954.76,
+      "end": 961.04,
+      "text": "It was evident that though he was very timid, yet, as death in company with others is pleasant,"
+    },
+    {
+      "start": 961.04,
+      "end": 966.0,
+      "text": "he was perfectly content to die now that there were a number of us, and he was not obliged"
+    },
+    {
+      "start": 966.0,
+      "end": 969.9,
+      "text": "to take the lead and be responsible."
+    },
+    {
+      "start": 969.9,
+      "end": 974.46,
+      "text": "He coolly made observations on the mistakes of the head driver, as though it were not"
+    },
+    {
+      "start": 974.46,
+      "end": 980.46,
+      "text": "of the least consequence to himself. In fact, I had noticed that sometimes the front troika"
+    },
+    {
+      "start": 980.46,
+      "end": 986.18,
+      "text": "appeared on my right, and again, on my left. It seemed to me, too, that we were making"
+    },
+    {
+      "start": 986.18,
+      "end": 992.7,
+      "text": "a circle in very small space. However, it might be that it was an ocular deception,"
+    },
+    {
+      "start": 992.7,
+      "end": 997.02,
+      "text": "just as sometimes it seemed as if the front troika were climbing up a mountain, or were"
+    },
+    {
+      "start": 997.02,
+      "end": 1003.74,
+      "text": "going along a slope, or down a mountain, even when the step was everywhere perfectly level."
+    },
+    {
+      "start": 1003.74,
+      "end": 1008.34,
+      "text": "After we had gone on a little while longer, I saw, as it seemed to me at a distance, on"
+    },
+    {
+      "start": 1008.34,
+      "end": 1014.3,
+      "text": "the very horizon, a long, black, moving line. But it quickly became plain to me that it"
+    },
+    {
+      "start": 1014.3,
+      "end": 1019.82,
+      "text": "was the same baggage train which we had passed. In exactly the same way, the snow covered"
+    },
+    {
+      "start": 1019.82,
+      "end": 1025.18,
+      "text": "the creaking wheels, several of which did not turn. In exactly the same way, the men"
+    },
+    {
+      "start": 1025.18,
+      "end": 1031.26,
+      "text": "were sleeping under the matted tops, and likewise the pie-balled leader, swelling out his nostrils,"
+    },
+    {
+      "start": 1031.26,
+      "end": 1033.9,
+      "text": "snuffed out the road, and pricked back his ears."
+    },
+    {
+      "start": 1034.86,
+      "end": 1039.26,
+      "text": "\"'See? We've gone round in a circle. We've gone round in a circle."
+    },
+    {
+      "start": 1039.26,
+      "end": 1044.46,
+      "text": "Here's the same baggage train again,' exclaimed my driver, in a discontented tone."
+    },
+    {
+      "start": 1045.18,
+      "end": 1049.42,
+      "text": "The Kueleir's horses are good ones, so it makes no difference to him,"
+    },
+    {
+      "start": 1049.42,
+      "end": 1054.06,
+      "text": "even if he does go on a wild goose chase. But ours will get tired out if"
+    },
+    {
+      "start": 1054.06,
+      "end": 1058.3,
+      "text": "we have to spend the whole night here.\" He had an attack of coughing."
+    },
+    {
+      "start": 1058.94,
+      "end": 1061.58,
+      "text": "Should we go back, Baron, owing to the mistake?"
+    },
+    {
+      "start": 1062.22,
+      "end": 1065.34,
+      "text": "No! Why? We shall come out somewhere!"
+    },
+    {
+      "start": 1065.34,
+      "end": 1070.94,
+      "text": "Come out where? We shall have to spend the night in the step. How it's snowing! Great heavens!"
+    },
+    {
+      "start": 1071.74,
+      "end": 1076.3,
+      "text": "Although it was clear to me that the head driver had lost both the road and the direction,"
+    },
+    {
+      "start": 1076.3,
+      "end": 1080.38,
+      "text": "and yet was not hunting for the road, but was singing at the top of his voice"
+    },
+    {
+      "start": 1080.38,
+      "end": 1085.5,
+      "text": "and letting his horses take their own speed, and so I did not like to part company from them."
+    },
+    {
+      "start": 1086.46,
+      "end": 1092.38,
+      "text": "Follow them, said I. The yamshchik drove on, but followed them less willingly than before,"
+    },
+    {
+      "start": 1092.38,
+      "end": 1098.46,
+      "text": "and no longer had anything to say to me. Four. The storm became more and more violent,"
+    },
+    {
+      "start": 1098.46,
+      "end": 1104.86,
+      "text": "and the snow fell dry and fine. It seemed as if we were in danger of freezing. My nose and cheeks"
+    },
+    {
+      "start": 1104.86,
+      "end": 1110.78,
+      "text": "began to tingle. More frequently the draft of cold air insinuated itself under my furs,"
+    },
+    {
+      "start": 1110.78,
+      "end": 1116.3,
+      "text": "and it became necessary to bundle up warmer. Sometimes the sledges bumped on the bare,"
+    },
+    {
+      "start": 1116.3,
+      "end": 1122.22,
+      "text": "icy crust from which the snow had been blown away. As I had already gone six hundred versts"
+    },
+    {
+      "start": 1122.22,
+      "end": 1127.66,
+      "text": "without sleeping under roof, and though I felt great interest in the outcome of our wanderings,"
+    },
+    {
+      "start": 1127.66,
+      "end": 1135.02,
+      "text": "my eyes closed in spite of me, and I drowsed. Once, when I opened my eyes, I was struck,"
+    },
+    {
+      "start": 1135.02,
+      "end": 1140.3,
+      "text": "as it seemed to me at the first moment, by a bright light, gleaming over the white plain."
+    },
+    {
+      "start": 1141.1,
+      "end": 1147.5,
+      "text": "The horizon widened considerably, the lowering black sky suddenly lifted up on all sides,"
+    },
+    {
+      "start": 1147.5,
+      "end": 1153.1,
+      "text": "the white slanting lines of the falling snow became visible, the shapes of the head troikas"
+    },
+    {
+      "start": 1153.1,
+      "end": 1157.82,
+      "text": "stood out clearly, and when I looked up, it seemed to me at the first moment that the"
+    },
+    {
+      "start": 1157.82,
+      "end": 1164.2,
+      "text": "clouds had scattered and that only the falling snow veiled the stars. At the moment that"
+    },
+    {
+      "start": 1164.2,
+      "end": 1169.74,
+      "text": "I awoke from my drowse, the moon came out, and cast through the tenuous clouds and the"
+    },
+    {
+      "start": 1169.74,
+      "end": 1177.5,
+      "text": "falling snow her cold, bright beams. I saw clearly my sledge, horses, driver, and the"
+    },
+    {
+      "start": 1177.5,
+      "end": 1183.58,
+      "text": "three troikas plowing on in front, the first, the couriers, in which still sat on the box"
+    },
+    {
+      "start": 1183.58,
+      "end": 1189.18,
+      "text": "the one Yamshchik driving at a hard trot, the second in which rode the two drivers,"
+    },
+    {
+      "start": 1189.18,
+      "end": 1194.18,
+      "text": "who let. The horses go at their own pace, and had made a shelter out of a camel's hair"
+    },
+    {
+      "start": 1194.18,
+      "end": 1198.86,
+      "text": "coat behind which they still smoked their pipes as could be seen by the sparks glowing"
+    },
+    {
+      "start": 1198.86,
+      "end": 1204.14,
+      "text": "in their direction, and the third, in which no one was visible, for the Yamshchik was"
+    },
+    {
+      "start": 1204.14,
+      "end": 1209.9,
+      "text": "comfortably sleeping in the middle. The leading driver, however, while I was napping had several"
+    },
+    {
+      "start": 1209.9,
+      "end": 1216.14,
+      "text": "times halted his horses, and attempted to find the road. Then, while we stopped, the howling of"
+    },
+    {
+      "start": 1216.14,
+      "end": 1222.06,
+      "text": "the wind became more audible, and the monstrous heaps of snow piling through the atmosphere seemed"
+    },
+    {
+      "start": 1222.06,
+      "end": 1227.42,
+      "text": "more tremendous. By the aid of the moonlight which made its way through the storm, I could"
+    },
+    {
+      "start": 1227.42,
+      "end": 1233.14,
+      "text": "could see the driver's short figure whip in hand examining the snow before him, moving"
+    },
+    {
+      "start": 1233.14,
+      "end": 1238.82,
+      "text": "back and forth in the misty light, again coming back to the sledge and springing sideways"
+    },
+    {
+      "start": 1238.82,
+      "end": 1244.58,
+      "text": "on the seat. And then again I heard above the monotonous whistling of the wind, the"
+    },
+    {
+      "start": 1244.58,
+      "end": 1250.32,
+      "text": "comfortable, clear jingling and melody of the bells. When the head driver crept out"
+    },
+    {
+      "start": 1250.32,
+      "end": 1256.18,
+      "text": "to find the marks of the road or the hayrics, each time was heard the lively, self-confident"
+    },
+    {
+      "start": 1256.18,
+      "end": 1260.18,
+      "text": "voice of one of the Yamsh cheeks in the second sledge, shouting,"
+    },
+    {
+      "start": 1260.18,
+      "end": 1265.54,
+      "text": "Hey, Ignashka, you turned off too much to the left. Strike off to the right into the storm."
+    },
+    {
+      "start": 1266.18,
+      "end": 1271.7,
+      "text": "Or why are you going round in a circle? Keep straight ahead as the snow flies."
+    },
+    {
+      "start": 1271.7,
+      "end": 1277.14,
+      "text": "Follow the snow, then you'll hit it. Or take the right, take the right,"
+    },
+    {
+      "start": 1277.14,
+      "end": 1284.1,
+      "text": "old man. There's something black. It must be a post. Or what are you getting lost for?"
+    },
+    {
+      "start": 1284.1,
+      "end": 1289.38,
+      "text": "Why are you getting lost? Unhitch the pie-balled horse and let him find the road for you."
+    },
+    {
+      "start": 1289.38,
+      "end": 1292.18,
+      "text": "He'll do it every time. That would be the best way.\""
+    },
+    {
+      "start": 1293.22,
+      "end": 1298.5,
+      "text": "The man who was so free with his advice not only did not offer to unhitch his off-horse"
+    },
+    {
+      "start": 1298.5,
+      "end": 1303.94,
+      "text": "or go himself across the snow to hunt for the road, but did not even put his nose outside of"
+    },
+    {
+      "start": 1303.94,
+      "end": 1309.62,
+      "text": "his shelter coat, and when Ignashka, the leader, in reply to one of his proffers of advice,"
+    },
+    {
+      "start": 1309.62,
+      "end": 1314.42,
+      "text": "shouted to him to come and take the forward place, since he knew the road so well."
+    },
+    {
+      "start": 1314.42,
+      "end": 1318.26,
+      "text": "The mentor replied that when he came to drive a courier's sledge,"
+    },
+    {
+      "start": 1318.26,
+      "end": 1321.7,
+      "text": "then he would take the lead, and never once miss the road."
+    },
+    {
+      "start": 1322.58,
+      "end": 1327.94,
+      "text": "But our horses wouldn't go straight through a snowdrift, he shouted. They ain't the right kind."
+    },
+    {
+      "start": 1328.98,
+      "end": 1333.78,
+      "text": "Then don't you worry yourselves, replied Ignashka, gaily whistling to his horses."
+    },
+    {
+      "start": 1333.78,
+      "end": 1339.86,
+      "text": "The Yamschick, who sat in the same sledge with the mentor, said nothing at all to Ignashka,"
+    },
+    {
+      "start": 1339.86,
+      "end": 1344.58,
+      "text": "and paid no attention to the difficulty, though he was not yet asleep, as I concluded"
+    },
+    {
+      "start": 1344.58,
+      "end": 1349.94,
+      "text": "by his pipe which still glowed, and because, when we halted, I heard his measured voice"
+    },
+    {
+      "start": 1349.94,
+      "end": 1356.66,
+      "text": "in uninterrupted flow. He was telling a story. Once only, when Ignashka for the sixth or"
+    },
+    {
+      "start": 1356.66,
+      "end": 1361.26,
+      "text": "seventh time came to a stop, it seemed to vex him because his comfort in travelling"
+    },
+    {
+      "start": 1361.26,
+      "end": 1366.98,
+      "text": "was disturbed, and he shouted, \u00ecStopping again! He\u00eds missing the road on purpose! Call"
+    },
+    {
+      "start": 1366.98,
+      "end": 1372.18,
+      "text": "this a snowstorm!\u00ee The surveyor himself could not find the road. He would let the horses"
+    },
+    {
+      "start": 1372.18,
+      "end": 1377.98,
+      "text": "find it. \u00ecWe shall freeze to death here. Just let him go on regardless.\u00ee \u00ecWhat!"
+    },
+    {
+      "start": 1377.98,
+      "end": 1383.14,
+      "text": "Don\u00edt you know a posh tellian froze to death last winter?\u00ee shouted my driver. All this"
+    },
+    {
+      "start": 1383.14,
+      "end": 1387.94,
+      "text": "time the driver of the third troika had not been heard from, but once while we were"
+    },
+    {
+      "start": 1387.94,
+      "end": 1394.32,
+      "text": "stopping, the mentor shouted, Philip! Ha! Philip! and, not getting any response, remarked,"
+    },
+    {
+      "start": 1394.32,
+      "end": 1398.74,
+      "text": "can he have frozen to death? Ignashka, you go and look."
+    },
+    {
+      "start": 1398.74,
+      "end": 1404.82,
+      "text": "Ignashka, who was responsible for all, went to his sledge and began to shake the sleeper."
+    },
+    {
+      "start": 1404.82,
+      "end": 1411.14,
+      "text": "See what drink has done for him. Tell us if you are frozen to death, said he, shaking"
+    },
+    {
+      "start": 1411.14,
+      "end": 1415.38,
+      "text": "him. The sleeper grunted a little and then began to scold."
+    },
+    {
+      "start": 1415.38,
+      "end": 1421.06,
+      "text": "\"'Live enough, fellows,\" said Ignashka, and again started ahead, and once more we"
+    },
+    {
+      "start": 1421.06,
+      "end": 1427.02,
+      "text": "drove on, and with such rapidity that the little brown off-horse in my three-span,"
+    },
+    {
+      "start": 1427.02,
+      "end": 1431.86,
+      "text": "which was constantly whipping himself with his tail, did not once interrupt his awkward"
+    },
+    {
+      "start": 1431.86,
+      "end": 1441.13,
+      "text": "gallop. Five. It was already about midnight, I judge, when the little old man and Vasili,"
+    },
+    {
+      "start": 1441.13,
+      "end": 1446.69,
+      "text": "who had gone in search of the runaway horses, rejoined us. They had caught the horses,"
+    },
+    {
+      "start": 1446.69,
+      "end": 1451.81,
+      "text": "had now overtaken us, but how in the world they had accomplished this in the thick, blinding"
+    },
+    {
+      "start": 1451.81,
+      "end": 1458.19,
+      "text": "snowstorm in the midst of the bare step was more than I could comprehend. The little old"
+    },
+    {
+      "start": 1458.19,
+      "end": 1463.81,
+      "text": "man, with his elbows and legs flying, came trotting up on the shaft-horse, the two other"
+    },
+    {
+      "start": 1463.81,
+      "end": 1469.45,
+      "text": "horses he had caught by the collars. It was impossible to lead them in the snowstorm."
+    },
+    {
+      "start": 1469.45,
+      "end": 1473.01,
+      "text": "When they had caught up with me, he began to scold at my driver."
+    },
+    {
+      "start": 1473.01,
+      "end": 1479.31,
+      "text": "You see, you cross-eyed devil, you\u2014 Oh, Uncle Mitrich! cried the talkative fellow"
+    },
+    {
+      "start": 1479.31,
+      "end": 1484.33,
+      "text": "in the second sledge. You were live! Come along where we are!\""
+    },
+    {
+      "start": 1484.33,
+      "end": 1489.73,
+      "text": "The old man did not answer him, but continued to scold. When he had satisfied himself,"
+    },
+    {
+      "start": 1489.73,
+      "end": 1491.89,
+      "text": "he rejoined the second sledge."
+    },
+    {
+      "start": 1491.89,
+      "end": 1497.01,
+      "text": "\"'Get them all!' was asked him. Why, of course we did.\""
+    },
+    {
+      "start": 1497.01,
+      "end": 1501.25,
+      "text": "And his small figure leaped up and down on the horse's back as he went off at full"
+    },
+    {
+      "start": 1501.25,
+      "end": 1506.85,
+      "text": "trot. Then he sprang down into the snow and without stopping caught up with the sledge"
+    },
+    {
+      "start": 1506.85,
+      "end": 1512.85,
+      "text": "and sat in it, with his legs hanging over the side. The tall Vasily, just as before,"
+    },
+    {
+      "start": 1512.85,
+      "end": 1517.97,
+      "text": "took his place in perfect silence in the front sledge with Ignashka, and then the two began"
+    },
+    {
+      "start": 1517.97,
+      "end": 1519.81,
+      "text": "to look for the road together."
+    },
+    {
+      "start": 1519.81,
+      "end": 1525.33,
+      "text": "What a spitfire! Great heavens! muttered my driver."
+    },
+    {
+      "start": 1525.33,
+      "end": 1529.77,
+      "text": "For a long time after this we drove on without stopping, over the white waste, in"
+    },
+    {
+      "start": 1529.77,
+      "end": 1535.93,
+      "text": "the cold, polluted and wavering light of the snowstorm. When I opened my eyes, there before"
+    },
+    {
+      "start": 1535.93,
+      "end": 1542.53,
+      "text": "me rose the same clumsy, snow-covered cap, the same low dugar or bellbow, under which,"
+    },
+    {
+      "start": 1542.53,
+      "end": 1547.37,
+      "text": "between the leavened reins tightly stretched, there moved always at the same distance the"
+    },
+    {
+      "start": 1547.37,
+      "end": 1552.97,
+      "text": "head of the shaft-horse, with the black mane blown to one side by the wind. And I could"
+    },
+    {
+      "start": 1552.97,
+      "end": 1558.53,
+      "text": "see, above his back, the brown off-horse on the right, with his short braided tail"
+    },
+    {
+      "start": 1558.53,
+      "end": 1564.37,
+      "text": "and the wiffle-tree sometimes knocking against the dasher of the sleigh. If I looked below,"
+    },
+    {
+      "start": 1564.37,
+      "end": 1570.05,
+      "text": "then I saw the scurrying snow stirred up by the runners and constantly tossed and borne by the"
+    },
+    {
+      "start": 1570.05,
+      "end": 1576.93,
+      "text": "wind to one side. In front of me, always at the same distance, glided the other troika's. To"
+    },
+    {
+      "start": 1576.93,
+      "end": 1583.89,
+      "text": "left and right, all was white and bewildering. Vainly the eye sought for any new object. Neither"
+    },
+    {
+      "start": 1583.89,
+      "end": 1590.27,
+      "text": "the versed post, nor hairic, nor fence was to be seen, nothing at all. Everywhere, all"
+    },
+    {
+      "start": 1590.27,
+      "end": 1597.15,
+      "text": "was white, white, and fluctuating. Now the horizon seems to be indistinguishable distant,"
+    },
+    {
+      "start": 1597.15,
+      "end": 1602.87,
+      "text": "then it comes down within two steps on every side. Now suddenly a high white wall grows"
+    },
+    {
+      "start": 1602.87,
+      "end": 1608.07,
+      "text": "up on the right, and accompanies the course of the sledges, then it suddenly vanishes,"
+    },
+    {
+      "start": 1608.07,
+      "end": 1615.03,
+      "text": "grows up in front, only to glide on in advance, farther and farther away, and disappear again."
+    },
+    {
+      "start": 1615.03,
+      "end": 1620.95,
+      "text": "As I look up, it seems light. At the first moment I imagine that through the mist I see"
+    },
+    {
+      "start": 1620.95,
+      "end": 1627.55,
+      "text": "the stars, but the stars, as I gaze, flee into deeper and deeper depths, and I see"
+    },
+    {
+      "start": 1627.55,
+      "end": 1634.79,
+      "text": "only the snow falling into face and eyes, and the collar of my fur coat. The sky has"
+    },
+    {
+      "start": 1634.79,
+      "end": 1641.99,
+      "text": "everywhere one tone of light, one tone of white, colourless, monotonous, and constantly shifting."
+    },
+    {
+      "start": 1642.79,
+      "end": 1649.27,
+      "text": "The wind seems to vary. At one moment it blows into my face and flings the snow into my eyes."
+    },
+    {
+      "start": 1649.27,
+      "end": 1655.51,
+      "text": "The next it goes to one side and peevishly tosses the collar of my shoeba over my head"
+    },
+    {
+      "start": 1655.51,
+      "end": 1660.79,
+      "text": "and insultingly slaps me in the face with it. Then it finds some crevice behind"
+    },
+    {
+      "start": 1660.79,
+      "end": 1666.55,
+      "text": "and plays a tune upon it. I hear the soft, unceasing crunching of the hooves and the"
+    },
+    {
+      "start": 1666.55,
+      "end": 1672.23,
+      "text": "runners on the snow, and the muffled tinkling of the bells as we speed over the deep snow."
+    },
+    {
+      "start": 1672.95,
+      "end": 1678.55,
+      "text": "Only occasionally when we drive against the wind and glide over the bare, frozen crust,"
+    },
+    {
+      "start": 1678.55,
+      "end": 1684.15,
+      "text": "I can clearly distinguish Ignat's energetic whistling and the full chords of the chime"
+    },
+    {
+      "start": 1684.15,
+      "end": 1689.75,
+      "text": "with the resounding, jarring fifth, and these sounds break suddenly and comfortingly"
+    },
+    {
+      "start": 1689.75,
+      "end": 1696.23,
+      "text": "upon the melancholy character of the desert, and then again rings monotonously with unendurable"
+    },
+    {
+      "start": 1696.23,
+      "end": 1702.39,
+      "text": "fidelity of execution, the whole of that motive which involuntarily coincides with my thoughts."
+    },
+    {
+      "start": 1702.95,
+      "end": 1708.31,
+      "text": "One of my feet began to feel cold, and when I turned round so as to protect it better,"
+    },
+    {
+      "start": 1708.31,
+      "end": 1715.43,
+      "text": "the snow which covered my collar and my cap sifted down my neck and made me shiver. But still,"
+    },
+    {
+      "start": 1715.43,
+      "end": 1726.0,
+      "text": "I was, for the most, comfortable in my warm shoeba, and drowsiness overcame me. Six. Things"
+    },
+    {
+      "start": 1726.0,
+      "end": 1731.52,
+      "text": "remembered, and things conceived mixed and mingled with wonderful quickness in my imagination."
+    },
+    {
+      "start": 1732.64,
+      "end": 1736.24,
+      "text": "The mentor who is always shouting from the second sledge,"
+    },
+    {
+      "start": 1736.24,
+      "end": 1742.32,
+      "text": "what kind of a man must he be? Probably red-haired, thick-set, with short legs,"
+    },
+    {
+      "start": 1742.32,
+      "end": 1747.28,
+      "text": "a man somewhat like Feodor Philippich our old butler, is what I say to myself."
+    },
+    {
+      "start": 1747.76,
+      "end": 1752.48,
+      "text": "And here I see the staircase of our great house, and five of the house servants who"
+    },
+    {
+      "start": 1752.48,
+      "end": 1758.56,
+      "text": "with towels with heavy steps carry the piano forte from the L. I see Fyodor Felipech with"
+    },
+    {
+      "start": 1758.56,
+      "end": 1763.76,
+      "text": "the sleeves of his nankeen coat tucked up, carrying one of the pedals, and going in"
+    },
+    {
+      "start": 1763.76,
+      "end": 1769.68,
+      "text": "advance unbolting the door, taking hold of the doorknob here, there pushing a little,"
+    },
+    {
+      "start": 1769.68,
+      "end": 1776.08,
+      "text": "now crawling under the legs. He is here, there, and everywhere, crying with an anxious"
+    },
+    {
+      "start": 1776.08,
+      "end": 1782.04,
+      "text": "voice continually, \ufffdLook out. Take more weight. You there in front. Be careful. You there"
+    },
+    {
+      "start": 1782.04,
+      "end": 1787.12,
+      "text": "at the tail end. Up, up, up. Don\ufffdt hit the door. There, there.\ufffd"
+    },
+    {
+      "start": 1787.12,
+      "end": 1792.28,
+      "text": "\ufffdExcuse me, Feodor Philippic. There ain\ufffdt enough of us,\ufffd says the gardener timidly,"
+    },
+    {
+      "start": 1792.28,
+      "end": 1796.6,
+      "text": "crushed up against the balustrade, and all red with exertion, lifting one end of the"
+    },
+    {
+      "start": 1796.6,
+      "end": 1802.6,
+      "text": "grand with all his remaining strength. But Feodor Philippic does not hold his peace."
+    },
+    {
+      "start": 1802.6,
+      "end": 1808.5,
+      "text": "And what does it mean? I ask myself. Does he think that he is of any use, that he is"
+    },
+    {
+      "start": 1808.5,
+      "end": 1813.54,
+      "text": "indispensable for the work in hand, or is he simply glad that God has given him this"
+    },
+    {
+      "start": 1813.54,
+      "end": 1819.94,
+      "text": "self-confident persuasive eloquence and takes enjoyment in squandering it?"
+    },
+    {
+      "start": 1819.94,
+      "end": 1826.12,
+      "text": "And I somehow see the pond, the weary servants, who up to their knees in the water drag the"
+    },
+    {
+      "start": 1826.12,
+      "end": 1832.64,
+      "text": "heavy net, and again, Feodor Philippowich, shouting to everybody, walking up and down"
+    },
+    {
+      "start": 1832.64,
+      "end": 1837.76,
+      "text": "on the bank, and only now and then venturing to the brink, taking with his hand the golden"
+    },
+    {
+      "start": 1837.76,
+      "end": 1843.0,
+      "text": "carp, and letting the dirty water run out from his watering pot, so as to fill it up"
+    },
+    {
+      "start": 1843.0,
+      "end": 1849.92,
+      "text": "with fresh. But here it is, mid-day, in the month of July. Across the newly-moaned"
+    },
+    {
+      "start": 1849.92,
+      "end": 1856.08,
+      "text": "turf of the lawn, under the burning perpendicular rays of the sun, I seem to be going somewhere."
+    },
+    {
+      "start": 1856.08,
+      "end": 1863.86,
+      "text": "I am still very young. I am free from yearnings, free from desires. I am going to the pond,"
+    },
+    {
+      "start": 1863.86,
+      "end": 1868.7,
+      "text": "to my own favourite spot between the rose bushes and the birch-tree alley, and I shall"
+    },
+    {
+      "start": 1868.7,
+      "end": 1875.58,
+      "text": "lie down and nap. Keen is the sensation that I have as I lie down, and look across the"
+    },
+    {
+      "start": 1875.58,
+      "end": 1881.5,
+      "text": "red thorny stems of the rose bushes upon the dark ground with its dry grass, and on"
+    },
+    {
+      "start": 1881.5,
+      "end": 1888.74,
+      "text": "the gleaming bright blue mirror of the pond. It is a sensation of a peculiarly simple self-contentment"
+    },
+    {
+      "start": 1888.74,
+      "end": 1894.68,
+      "text": "and melancholy. All around me is so lovely, and this loveliness has such a powerful effect"
+    },
+    {
+      "start": 1894.68,
+      "end": 1899.94,
+      "text": "upon me that it seems to me as if I myself were good, and the one thing that vexes me"
+    },
+    {
+      "start": 1899.94,
+      "end": 1906.1,
+      "text": "is that no one is there to admire me. It is hot. I try to go to sleep for comfort's"
+    },
+    {
+      "start": 1906.1,
+      "end": 1913.0,
+      "text": "sake. But the flies, the unendurable flies, even here give me no rest. They begin to swarm"
+    },
+    {
+      "start": 1913.0,
+      "end": 1919.42,
+      "text": "around me, and obstinately, insolently as it. Were, heavy as cherry stones, jump from"
+    },
+    {
+      "start": 1919.42,
+      "end": 1925.1,
+      "text": "my forehead to my hands. A bee buzzes near me in the sunbeam. Yellow-winged butterflies"
+    },
+    {
+      "start": 1925.1,
+      "end": 1932.22,
+      "text": "fly wearily from flower to flower. I gaze up. It pains my eyes. The sun shines too"
+    },
+    {
+      "start": 1932.22,
+      "end": 1937.18,
+      "text": "too bright through the light foliage of the bushy birch tree, gracefully waving its branches"
+    },
+    {
+      "start": 1937.18,
+      "end": 1943.94,
+      "text": "high above my head, and it grows hotter still. I cover my face with my handkerchief. It becomes"
+    },
+    {
+      "start": 1943.94,
+      "end": 1950.22,
+      "text": "stifling, and the flies seem to stick to my hands, on which the perspiration stands."
+    },
+    {
+      "start": 1950.22,
+      "end": 1955.64,
+      "text": "In the rosebush the sparrows twitter under the thick leaves. One hops to the ground almost"
+    },
+    {
+      "start": 1955.64,
+      "end": 1960.62,
+      "text": "within my reach, makes two or three faints to peck energetically at the ground, and after"
+    },
+    {
+      "start": 1960.62,
+      "end": 1966.82,
+      "text": "making the little twigs crackle and chirping gaily, flies away from the bushes. Another"
+    },
+    {
+      "start": 1966.82,
+      "end": 1973.8,
+      "text": "also hops to the ground, wags his little tail, looks around, and, like an arrow, flies off"
+    },
+    {
+      "start": 1973.8,
+      "end": 1978.5,
+      "text": "twittering after the first. At the pond I heard the blows of the pounder on the wet"
+    },
+    {
+      "start": 1978.5,
+      "end": 1985.8,
+      "text": "clothes, and the noise re-echoes and is carried far away, down along the shore. I hear laughter"
+    },
+    {
+      "start": 1985.8,
+      "end": 1991.16,
+      "text": "and talking, and the splashing of bathers. The breath of the wind sweeps the tops of the"
+    },
+    {
+      "start": 1991.16,
+      "end": 1997.6,
+      "text": "birches far above my head and bends them down again. I hear it moving the grass, and now"
+    },
+    {
+      "start": 1997.6,
+      "end": 2003.46,
+      "text": "the leaves of the rosebushes toss and rustle on their stems. And now, lifting the corner"
+    },
+    {
+      "start": 2003.46,
+      "end": 2010.72,
+      "text": "of my handkerchief, it tickles my sweaty face and pours in upon me in a cooling current."
+    },
+    {
+      "start": 2010.72,
+      "end": 2015.94,
+      "text": "Through the opening where the handkerchief is lifted, a fly finds his way, and timidly"
+    },
+    {
+      "start": 2015.94,
+      "end": 2023.68,
+      "text": "buzzes around my moist mouth. A dry twig begins to make itself felt under my back. No, it"
+    },
+    {
+      "start": 2023.68,
+      "end": 2030.16,
+      "text": "becomes unendurable. I must get it out. But now, around the clump of bushes, I hear the"
+    },
+    {
+      "start": 2030.16,
+      "end": 2033.94,
+      "text": "sound of footsteps and the frightened voice of a woman."
+    },
+    {
+      "start": 2033.94,
+      "end": 2042.34,
+      "text": "mercy on me, what's to be done, and no man anywhere! What's the matter?\" I ask, running out into the sun,"
+    },
+    {
+      "start": 2042.34,
+      "end": 2047.54,
+      "text": "as a serving woman, screaming, hurries past me. She merely glances at me,"
+    },
+    {
+      "start": 2047.54,
+      "end": 2053.94,
+      "text": "wrings her hands, and hurries along faster. And here comes also the seventy-year-old matriona,"
+    },
+    {
+      "start": 2053.94,
+      "end": 2059.7,
+      "text": "holding her handkerchief to her head, with her hair all in disorder, and hopping along with her"
+    },
+    {
+      "start": 2059.7,
+      "end": 2066.02,
+      "text": "lame leg in woollen stockings. Two girls come running, hand in hand, and a ten-year-old"
+    },
+    {
+      "start": 2066.02,
+      "end": 2070.74,
+      "text": "boy in his father's jacket runs behind, clinging to the linen petticoat of one of them."
+    },
+    {
+      "start": 2071.62,
+      "end": 2080.1,
+      "text": "What has happened? I ask of them. Amojik drowned. Where? In the pond. Who is he? One of ours?"
+    },
+    {
+      "start": 2081.14,
+      "end": 2087.78,
+      "text": "No, a tramp. The coachman Ivan, bustling about in his big boots over the moaned grass,"
+    },
+    {
+      "start": 2087.78,
+      "end": 2094.5,
+      "text": "and the fat, overseer Yakov, all out of breath, come hurrying to the pond, and I follow after them."
+    },
+    {
+      "start": 2095.22,
+      "end": 2101.54,
+      "text": "I experience the feeling which says to me, now jump in and pull the Mujic out and save him,"
+    },
+    {
+      "start": 2101.54,
+      "end": 2105.06,
+      "text": "and all will admire you, which was exactly what I wanted."
+    },
+    {
+      "start": 2106.1,
+      "end": 2110.66,
+      "text": "Where is he? Where? I asked of the throng of domestics gathered on the shore."
+    },
+    {
+      "start": 2111.38,
+      "end": 2116.66,
+      "text": "Over there in the deepest part, on the other shore, almost at the baths, says the laundress,"
+    },
+    {
+      "start": 2116.66,
+      "end": 2122.26,
+      "text": "stowing away the wet linen on her yoke. I see him dive. There he comes up again,"
+    },
+    {
+      "start": 2122.26,
+      "end": 2126.1,
+      "text": "then he sinks a second time and comes up again, and then he cries,"
+    },
+    {
+      "start": 2126.1,
+      "end": 2130.98,
+      "text": "I'm drowning, help! And then he goes down again, and then a lot of bubbles,"
+    },
+    {
+      "start": 2130.98,
+      "end": 2136.58,
+      "text": "and while I am looking on, the Muzik gets drowned, and so I give the alarm,"
+    },
+    {
+      "start": 2136.58,
+      "end": 2142.98,
+      "text": "Help! A Muzik is drowning! And the laundress, lifting the yoke upon her shoulder,"
+    },
+    {
+      "start": 2142.98,
+      "end": 2147.54,
+      "text": "turning to one side, goes along the narrow footpath away from the pond."
+    },
+    {
+      "start": 2148.66,
+      "end": 2154.18,
+      "text": "\"'See! What a shame!\" says Yakov Ivanov, the overseer, in a despairing voice."
+    },
+    {
+      "start": 2154.9,
+      "end": 2158.66,
+      "text": "\"'Now there'll be a rumpus with the police court. We'll have enough of it.'\""
+    },
+    {
+      "start": 2160.02,
+      "end": 2164.98,
+      "text": "One Mujic with a scythe makes his way through the throng of peasant women,"
+    },
+    {
+      "start": 2164.98,
+      "end": 2170.58,
+      "text": "children and old men gathered round the shore, and hanging the scythe on the limb of a willow,"
+    },
+    {
+      "start": 2170.58,
+      "end": 2172.74,
+      "text": "leisurely takes off his clothes."
+    },
+    {
+      "start": 2172.74,
+      "end": 2178.42,
+      "text": "\"'Where was it? Where was he drowned?\" I keep asking, having still the desire to"
+    },
+    {
+      "start": 2178.42,
+      "end": 2184.26,
+      "text": "jump in and do something extraordinary. They point out to me the smooth surface of the"
+    },
+    {
+      "start": 2184.26,
+      "end": 2189.46,
+      "text": "pond, which is now and then just ruffled by the puffs of the breeze. It is incomprehensible"
+    },
+    {
+      "start": 2189.46,
+      "end": 2196.18,
+      "text": "how he came to drown, for the water lies so smooth, beautiful and calm above him, shining"
+    },
+    {
+      "start": 2196.18,
+      "end": 2201.82,
+      "text": "golden in the midday sun, and it seems to me that I could not do anything or surprise"
+    },
+    {
+      "start": 2201.82,
+      "end": 2207.96,
+      "text": "anyone the more as I am a very poor swimmer. But the Mujik is now pulling his shirt over"
+    },
+    {
+      "start": 2207.96,
+      "end": 2215.38,
+      "text": "his head and instantly throws himself into the water. All look at him with hope and anxiety."
+    },
+    {
+      "start": 2215.38,
+      "end": 2220.18,
+      "text": "After going into the water up to his neck, the Mujik turns back and puts on his shirt"
+    },
+    {
+      "start": 2220.18,
+      "end": 2226.78,
+      "text": "again. He knows not how to swim. People keep coming down to the shore, the throng grows"
+    },
+    {
+      "start": 2226.78,
+      "end": 2233.1,
+      "text": "larger and larger, the women cling to each other, but no one brings any help. Those who"
+    },
+    {
+      "start": 2233.1,
+      "end": 2240.54,
+      "text": "have just come offer advice and groan, fear and despair are stamped on all faces. Of those"
+    },
+    {
+      "start": 2240.54,
+      "end": 2246.02,
+      "text": "who had come first, some have sat down, or stand wearily on the grass, others have gone"
+    },
+    {
+      "start": 2246.02,
+      "end": 2252.66,
+      "text": "back to their work. The old Matriona asks her daughter whether she shut the oven door."
+    },
+    {
+      "start": 2252.66,
+      "end": 2258.22,
+      "text": "The small boy in his father's jacket industriously flings stones into the water, and now from"
+    },
+    {
+      "start": 2258.22,
+      "end": 2263.1,
+      "text": "the house down the hill comes Trasorca, the butler's dog, barking and looking at the"
+    },
+    {
+      "start": 2263.1,
+      "end": 2269.74,
+      "text": "stupid people, and low. There is Feodor's tall figure hurrying from the hilltop and"
+    },
+    {
+      "start": 2269.74,
+      "end": 2273.06,
+      "text": "shouting something as he comes out from behind the rose bushes."
+    },
+    {
+      "start": 2273.06,
+      "end": 2279.78,
+      "text": "What are you standing there for? he shouts, taking off his coat as he runs. A man drowning,"
+    },
+    {
+      "start": 2279.78,
+      "end": 2283.5,
+      "text": "and there you are standing around. Give us a rope.\""
+    },
+    {
+      "start": 2283.5,
+      "end": 2289.02,
+      "text": "All look at Feodor with hope and fear, while he, leaning his hand on the shoulder of one"
+    },
+    {
+      "start": 2289.02,
+      "end": 2293.42,
+      "text": "of the men's servants, pries off his left boot with the toe of the right."
+    },
+    {
+      "start": 2293.42,
+      "end": 2298.98,
+      "text": "There it was, where the people are standing, there at the right of the willows, Fyodor"
+    },
+    {
+      "start": 2298.98,
+      "end": 2305.94,
+      "text": "Which right there says someone to him. I know it, he replies, and knitting his brows, probably"
+    },
+    {
+      "start": 2305.94,
+      "end": 2310.82,
+      "text": "as a rebuke to the manifestations of modesty visible among the women, he takes off his"
+    },
+    {
+      "start": 2310.82,
+      "end": 2316.38,
+      "text": "shirt and baptismal cross, handing them to the gardener boy who stands officiously near"
+    },
+    {
+      "start": 2316.38,
+      "end": 2321.34,
+      "text": "him, and then stepping energetically across the moaned grass comes to the pond."
+    },
+    {
+      "start": 2321.34,
+      "end": 2327.42,
+      "text": "Trasorca, unable to explain the reason for his master's rapid motions, stands irresolute"
+    },
+    {
+      "start": 2327.42,
+      "end": 2333.18,
+      "text": "near the crowd, and noisily eats a few grass-blades on the shore, then looks questioningly at"
+    },
+    {
+      "start": 2333.18,
+      "end": 2339.72,
+      "text": "his master, and suddenly with a joyous bark plunges after him into the water. At first"
+    },
+    {
+      "start": 2339.72,
+      "end": 2346.58,
+      "text": "nothing can be seen except foam and splashing water which reached even to us. But soon"
+    },
+    {
+      "start": 2346.58,
+      "end": 2351.58,
+      "text": "the butler, gracefully spreading his arms in long strokes, and with regular motion"
+    },
+    {
+      "start": 2351.58,
+      "end": 2355.66,
+      "text": "lifting and sinking his back, swims across to the other shore."
+    },
+    {
+      "start": 2355.66,
+      "end": 2361.26,
+      "text": "Trasorca, however, gurgling in the water, hastily returns, shakes himself near the"
+    },
+    {
+      "start": 2361.26,
+      "end": 2366.62,
+      "text": "crowd, and rolls over on his back upon the shore. While the butler is swimming to the"
+    },
+    {
+      "start": 2366.62,
+      "end": 2372.62,
+      "text": "other side, two coachmen hasten to the willows with a net fastened to a stake. The butler,"
+    },
+    {
+      "start": 2372.62,
+      "end": 2379.18,
+      "text": "for some reason, lifts up his hands, dives once, twice, three times, each time spewing"
+    },
+    {
+      "start": 2379.18,
+      "end": 2384.62,
+      "text": "from his mouth a stream of water, gracefully shaking his long hair, and paying no heed"
+    },
+    {
+      "start": 2384.62,
+      "end": 2390.44,
+      "text": "to the questions which are showered upon him from all sides. At last he comes to the shore,"
+    },
+    {
+      "start": 2390.44,
+      "end": 2395.62,
+      "text": "and so far as I can see, arranges for the disposition of the net. They haul out the"
+    },
+    {
+      "start": 2395.62,
+      "end": 2401.4,
+      "text": "net, but it contains nothing except slime and a few small carp flopping in it. They"
+    },
+    {
+      "start": 2401.4,
+      "end": 2406.66,
+      "text": "have just cast the net once more as I reach that side. The voice of the butler giving"
+    },
+    {
+      "start": 2406.66,
+      "end": 2412.42,
+      "text": "directions, the water dripping from the wet rope and the sighs of dismay, alone break"
+    },
+    {
+      "start": 2412.42,
+      "end": 2418.22,
+      "text": "the silence. The wet rope stretches to the right wing, covers up more and more of the"
+    },
+    {
+      "start": 2418.22,
+      "end": 2421.78,
+      "text": "grass, slowly emerges farther and farther out of the water."
+    },
+    {
+      "start": 2421.78,
+      "end": 2428.74,
+      "text": "\"'Now pull all together, friends. Once more,' cries the butler's voice. The net appears,"
+    },
+    {
+      "start": 2428.74,
+      "end": 2430.18,
+      "text": "dripping with water."
+    },
+    {
+      "start": 2430.18,
+      "end": 2435.94,
+      "text": "\"'There's something! It comes heavy, fellows,' says someone's voice. And here the wings"
+    },
+    {
+      "start": 2435.94,
+      "end": 2441.22,
+      "text": "with two or three carp flapping in them, wetting and crushing down the grass, are drawn to"
+    },
+    {
+      "start": 2441.22,
+      "end": 2446.66,
+      "text": "shore. And through the delicate strata of the agitated depths of the waters, something"
+    },
+    {
+      "start": 2446.66,
+      "end": 2452.22,
+      "text": "white gleams in the tightly stretched net. Not loud, but plainly audible amid the dead"
+    },
+    {
+      "start": 2452.22,
+      "end": 2455.62,
+      "text": "silence a sigh of horror passes over the throng."
+    },
+    {
+      "start": 2455.62,
+      "end": 2461.46,
+      "text": "\"'Pull it up on the dry land! Pull it up, friends!' says the butler's resolute voice,"
+    },
+    {
+      "start": 2461.46,
+      "end": 2465.78,
+      "text": "and the drowned man is pulled up across the moaned burdocks and other weeds to the shelter"
+    },
+    {
+      "start": 2465.78,
+      "end": 2472.82,
+      "text": "of the willows, and here I see my good old aunty in her silk dress. I see her lilac sunshade with"
+    },
+    {
+      "start": 2472.82,
+      "end": 2478.26,
+      "text": "its fringe, which somehow is incongruous with this picture of death terrible in its very"
+    },
+    {
+      "start": 2478.26,
+      "end": 2485.3,
+      "text": "simplicity, and her face ready this moment to be convulsed with sobs. I realise the disappointment"
+    },
+    {
+      "start": 2485.3,
+      "end": 2491.22,
+      "text": "expressed on her face, because it is impossible to use the arnica, and I recall the sickening"
+    },
+    {
+      "start": 2491.22,
+      "end": 2497.86,
+      "text": "melancholy feeling that I have when she says, with the simple egoism of love, Come, my dear."
+    },
+    {
+      "start": 2497.86,
+      "end": 2503.62,
+      "text": "Ah! how terrible this is! And here you always go in swimming by yourself."
+    },
+    {
+      "start": 2504.74,
+      "end": 2509.14,
+      "text": "I remember how bright and hot the sun shines on the dry ground,"
+    },
+    {
+      "start": 2509.14,
+      "end": 2513.38,
+      "text": "crumpling under the feet, how it gleams on the mirror of the pond,"
+    },
+    {
+      "start": 2513.38,
+      "end": 2519.22,
+      "text": "how the plump carp flap on the bank, how the schools of fish stir the smooth surface"
+    },
+    {
+      "start": 2519.22,
+      "end": 2524.9,
+      "text": "in the middle of the pond, how high in the air a hawk hangs watching the ducklings which,"
+    },
+    {
+      "start": 2524.9,
+      "end": 2530.28,
+      "text": "quacking and spattering, swim through the reeds toward the centre, how the white, tumulous"
+    },
+    {
+      "start": 2530.28,
+      "end": 2535.88,
+      "text": "thunder-clouds gather on the horizon, how the mud, brought up by the net, is scattered"
+    },
+    {
+      "start": 2535.88,
+      "end": 2541.4,
+      "text": "over the bank, and how, as I come to the dyke, I again hear the blows of the clothes"
+    },
+    {
+      "start": 2541.4,
+      "end": 2547.0,
+      "text": "pounders at work along the pond. But the clothes pounder has a ringing sound. Two"
+    },
+    {
+      "start": 2547.0,
+      "end": 2554.2,
+      "text": "Two clothes-pounders, as it were, ring together, making a chord. And this sound torments, pains"
+    },
+    {
+      "start": 2554.2,
+      "end": 2560.12,
+      "text": "me, the more as I know that this clothes-pounder is a bell, and Feodor Philippic does not cease"
+    },
+    {
+      "start": 2560.12,
+      "end": 2566.56,
+      "text": "to ring it, and this clothes-pounder, like an instrument of torture, squeezes my leg,"
+    },
+    {
+      "start": 2566.56,
+      "end": 2573.28,
+      "text": "which is freezing. I fall into deep sleep. I was waked by what seemed to me our very"
+    },
+    {
+      "start": 2573.28,
+      "end": 2578.04,
+      "text": "rapid progress, and by two voices speaking close to me."
+    },
+    {
+      "start": 2578.04,
+      "end": 2584.28,
+      "text": "Say, Ignat, Ignat, says the voice of my driver. You take my passenger. You've got to go"
+    },
+    {
+      "start": 2584.28,
+      "end": 2588.24,
+      "text": "anyway. It's only wasted labor for me. You take him."
+    },
+    {
+      "start": 2588.24,
+      "end": 2593.88,
+      "text": "Ignat's voice near me replies, What fun would it be for me to answer for a passenger?"
+    },
+    {
+      "start": 2593.88,
+      "end": 2600.46,
+      "text": "Will you treat me to a half pint of brandy? Now, a half pint! Call it a glass."
+    },
+    {
+      "start": 2600.46,
+      "end": 2608.14,
+      "text": "The idea? A glass! cries the other voice. Bother my horses for a glass of vodka.\""
+    },
+    {
+      "start": 2608.14,
+      "end": 2614.36,
+      "text": "I open my eyes. Still the same unendurable whirling snowflakes dazzling me, the same"
+    },
+    {
+      "start": 2614.36,
+      "end": 2620.6,
+      "text": "drivers and horses, but next me I see some sledge or other. My driver has caught up with"
+    },
+    {
+      "start": 2620.6,
+      "end": 2626.76,
+      "text": "Ignat, and for some time we have been going side by side. Not withstanding the fact"
+    },
+    {
+      "start": 2626.76,
+      "end": 2632.28,
+      "text": "the voice from the other sledge advises not to take less than the half-pint, Ignat suddenly"
+    },
+    {
+      "start": 2632.28,
+      "end": 2639.4,
+      "text": "reigns up his troika. Change the things. Just your good luck. You'll give me the brandy when"
+    },
+    {
+      "start": 2639.4,
+      "end": 2646.44,
+      "text": "we meet tomorrow. Have you got much luggage? My driver, with unwonted liveliness, leaps into"
+    },
+    {
+      "start": 2646.44,
+      "end": 2653.64,
+      "text": "the snow, makes me a bow, and begs me to change into Ignat's sledge. I am perfectly willing."
+    },
+    {
+      "start": 2653.64,
+      "end": 2659.48,
+      "text": "But evidently the pious little Muchek is so delighted that he must needs express to everyone"
+    },
+    {
+      "start": 2659.48,
+      "end": 2665.64,
+      "text": "his gratefulness and pleasure. He bows to me, to Alyoshka, to Ignashka, and thanks us."
+    },
+    {
+      "start": 2666.68,
+      "end": 2672.52,
+      "text": "Well now, thank the Lord! What a scheme this is! Heavens and earth! We have been going half"
+    },
+    {
+      "start": 2672.52,
+      "end": 2677.88,
+      "text": "the night, don't know ourselves where we are. He will take you, sir, but my horses are all"
+    },
+    {
+      "start": 2677.88,
+      "end": 2684.04,
+      "text": "beat out. And he transfers the luggage with vigorous activity. When it was moved I got"
+    },
+    {
+      "start": 2684.04,
+      "end": 2689.16,
+      "text": "into the other sledge in spite of the wind which almost carried me away. The sledge,"
+    },
+    {
+      "start": 2689.16,
+      "end": 2694.2,
+      "text": "especially on that side toward which was spread the coat as a protection against the wind,"
+    },
+    {
+      "start": 2694.2,
+      "end": 2700.44,
+      "text": "for the two Yamshchik's was quarter buried in the snow. But behind the coat it was warm and"
+    },
+    {
+      "start": 2700.44,
+      "end": 2706.2,
+      "text": "cosy. The little old man was lying with his legs hanging over, and the story-teller was still"
+    },
+    {
+      "start": 2706.2,
+      "end": 2712.52,
+      "text": "spinning his yarn. At that very same time, when the General in the King's name, you know,"
+    },
+    {
+      "start": 2712.52,
+      "end": 2717.88,
+      "text": "comes to Maria, you know, in the darkness. At this same time, Maria says to him,"
+    },
+    {
+      "start": 2718.44,
+      "end": 2723.96,
+      "text": "General, I do not need you, and I cannot love you, and you know, you are not my lover,"
+    },
+    {
+      "start": 2723.96,
+      "end": 2729.24,
+      "text": "but my lover is the Prince himself. At this very time, he was going on to say,"
+    },
+    {
+      "start": 2729.24,
+      "end": 2734.04,
+      "text": "but catching sight of me, he kept silence for a time, and began to puff at his pipe."
+    },
+    {
+      "start": 2734.04,
+      "end": 2739.84,
+      "text": "Well, Baron, you missed the story, didn't you?\" said the other, whom I have called"
+    },
+    {
+      "start": 2739.84,
+      "end": 2740.84,
+      "text": "the mentor."
+    },
+    {
+      "start": 2740.84,
+      "end": 2747.64,
+      "text": "Yes, but you are finally provided for behind here, said I. Out of sheer dullness, have"
+    },
+    {
+      "start": 2747.64,
+      "end": 2753.36,
+      "text": "to keep ourselves from thinking. But say, don't you know where we are now?\""
+    },
+    {
+      "start": 2753.36,
+      "end": 2757.24,
+      "text": "This question, as it seemed to me, did not please the Jamsjaks."
+    },
+    {
+      "start": 2757.24,
+      "end": 2762.64,
+      "text": "Who can tell where we are? Maybe we are going to the kalmaks,\" replied the mentor."
+    },
+    {
+      "start": 2762.64,
+      "end": 2765.32,
+      "text": "\"'But what are we going to do?' I asked."
+    },
+    {
+      "start": 2765.32,
+      "end": 2769.84,
+      "text": "\"'What are we going to do? Well, we are going, and we'll keep on going,' he said"
+    },
+    {
+      "start": 2769.84,
+      "end": 2771.48,
+      "text": "in a fretful tone."
+    },
+    {
+      "start": 2771.48,
+      "end": 2776.8,
+      "text": "\"'Well, what will keep us from getting lost? Besides, the horses will get tired in"
+    },
+    {
+      "start": 2776.8,
+      "end": 2779.16,
+      "text": "the snow. What then?'"
+    },
+    {
+      "start": 2779.16,
+      "end": 2783.16,
+      "text": "\"'Well, nothing. But we may freeze to death.'"
+    },
+    {
+      "start": 2783.16,
+      "end": 2788.92,
+      "text": "Of course we may, because we don't see any hay-ricks just now. But we may come, you know,"
+    },
+    {
+      "start": 2788.92,
+      "end": 2792.6,
+      "text": "to the kalmucks. First thing, we must look at the snow.\""
+    },
+    {
+      "start": 2792.6,
+      "end": 2797.16,
+      "text": "\"'But you aren't afraid of freezing to death, are you, Baron?\" asked the little"
+    },
+    {
+      "start": 2797.16,
+      "end": 2803.04,
+      "text": "old man with quavering voice. Not withstanding that he was making sport of me, as it were,"
+    },
+    {
+      "start": 2803.04,
+      "end": 2805.68,
+      "text": "it was plain that he was trembling all over."
+    },
+    {
+      "start": 2805.68,
+      "end": 2809.44,
+      "text": "\"'Yes, it is growing very cold,' I replied."
+    },
+    {
+      "start": 2809.44,
+      "end": 2813.0,
+      "text": "\"'Ech, Baron! You ought to do like me. No, no."
+    },
+    {
+      "start": 2813.0,
+      "end": 2816.12,
+      "text": "Stamp up and down, that will warm you up.\""
+    },
+    {
+      "start": 2816.12,
+      "end": 2820.24,
+      "text": "\"'Do it the first thing when you get to the sledge,' said the mentor."
+    },
+    {
+      "start": 2820.24,
+      "end": 2821.24,
+      "text": "\"'Seven.'"
+    },
+    {
+      "start": 2821.24,
+      "end": 2826.6,
+      "text": "\"'If you please, already,' shouted Alyoska from the front sledge."
+    },
+    {
+      "start": 2826.6,
+      "end": 2831.84,
+      "text": "The storm was so violent that only by violent exertion, leaning far forward and holding"
+    },
+    {
+      "start": 2831.84,
+      "end": 2836.8,
+      "text": "down the folds of my cloak with both hands, was I able to make my way through the whirling"
+    },
+    {
+      "start": 2836.8,
+      "end": 2842.48,
+      "text": "snow drifting before the wind under my very feet over the short distance between me and"
+    },
+    {
+      "start": 2842.48,
+      "end": 2847.88,
+      "text": "the sledge. My former driver was still on his knees in the middle of the empty sledge, but"
+    },
+    {
+      "start": 2847.88,
+      "end": 2853.4,
+      "text": "when he saw me going, he took off his big cap, the wind angrily tossing up his hair,"
+    },
+    {
+      "start": 2853.4,
+      "end": 2858.2,
+      "text": "and asked me for a fee. Apparently he did not expect me to give it to him, because my"
+    },
+    {
+      "start": 2858.2,
+      "end": 2864.52,
+      "text": "refusal did not affront him in the least. He even thanked me, waved his cap, and said,"
+    },
+    {
+      "start": 2864.52,
+      "end": 2870.52,
+      "text": "Well, good luck to you, sir. And picking up the reins and clucking to the horses turned"
+    },
+    {
+      "start": 2870.52,
+      "end": 2877.56,
+      "text": "from us. Immediately Ignashka straightened his back and shouted to his horses."
+    },
+    {
+      "start": 2877.56,
+      "end": 2883.4,
+      "text": "Again the sound of crunching hooves, voices, bells, took the place of the howling wind"
+    },
+    {
+      "start": 2883.4,
+      "end": 2888.84,
+      "text": "which was chiefly audible when we stood still. For a quarter of an hour after my transfer"
+    },
+    {
+      "start": 2888.84,
+      "end": 2894.36,
+      "text": "I did not sleep, and I diverted my mind by contemplating the form of my new driver and"
+    },
+    {
+      "start": 2894.36,
+      "end": 2900.68,
+      "text": "horses. Ignashka was youthful in appearance, was constantly jumping up, cracking his whip"
+    },
+    {
+      "start": 2900.68,
+      "end": 2906.12,
+      "text": "over the horses, shouting out, changing from one leg to the other, and leaning forward"
+    },
+    {
+      "start": 2906.12,
+      "end": 2911.12,
+      "text": "to fix the breaching for the shaft horse, which was always slipping to one side. The"
+    },
+    {
+      "start": 2911.12,
+      "end": 2917.0,
+      "text": "man was not tall in stature, but well built, as it seemed. Over his unlined sheepskin"
+    },
+    {
+      "start": 2917.0,
+      "end": 2922.92,
+      "text": "coat he wore an ungurdled cloak, the collar of which was turned back, leaving his neck"
+    },
+    {
+      "start": 2922.92,
+      "end": 2928.6,
+      "text": "perfectly bare. His boots were of leather, not felt, and he wore a small cap which he"
+    },
+    {
+      "start": 2928.6,
+      "end": 2934.12,
+      "text": "constantly took off and straightened. In all his motions was manifest not only energy,"
+    },
+    {
+      "start": 2934.12,
+      "end": 2938.76,
+      "text": "but much more, as it seemed to me, the desire to keep his energy alive."
+    },
+    {
+      "start": 2939.48,
+      "end": 2944.84,
+      "text": "Moreover, the farther we went, the more frequently he settled himself on his seat,"
+    },
+    {
+      "start": 2944.84,
+      "end": 2950.52,
+      "text": "changed the position of his legs, and addressed himself to Alyoska and me. It seemed to me that"
+    },
+    {
+      "start": 2950.52,
+      "end": 2956.76,
+      "text": "he was afraid of losing his spirits, and there was good reason. Though the horses were excellent,"
+    },
+    {
+      "start": 2956.76,
+      "end": 2961.96,
+      "text": "the road at each step grew heavier and heavier, and it was noticeable that the horse's strength"
+    },
+    {
+      "start": 2961.96,
+      "end": 2968.12,
+      "text": "was flagging. It was already necessary to use the whip, and the shaft-horse, a good big,"
+    },
+    {
+      "start": 2968.12,
+      "end": 2974.2,
+      "text": "shaggy animal, stumbled once or twice, though immediately, as if frightened, it sprang forward"
+    },
+    {
+      "start": 2974.2,
+      "end": 2979.4,
+      "text": "and tossed up its shaggy head almost to the bell itself. The right-off horse, which I could"
+    },
+    {
+      "start": 2979.4,
+      "end": 2985.0,
+      "text": "not help watching, had a long leather breaching adorned with tassels, slipping and sliding to"
+    },
+    {
+      "start": 2985.0,
+      "end": 2991.0,
+      "text": "the left, and kept dropping the traces, and required the whip. But being naturally a good"
+    },
+    {
+      "start": 2991.0,
+      "end": 2997.16,
+      "text": "and even zealous horse seemed to be vexed at his own weakness, and angrily tossed his head,"
+    },
+    {
+      "start": 2997.16,
+      "end": 3004.44,
+      "text": "as if asking to be driven. Indeed, it was terrible to see how, as the storm and cold increased,"
+    },
+    {
+      "start": 3004.44,
+      "end": 3010.68,
+      "text": "the horses grew weak, the road became worse, and we really did not know where we were or where we"
+    },
+    {
+      "start": 3010.68,
+      "end": 3017.8,
+      "text": "were going, whether to a station or to any shelter whatsoever. And strange and ridiculous it was to"
+    },
+    {
+      "start": 3017.8,
+      "end": 3023.72,
+      "text": "hear the bells jingling so merrily and carelessly, and Ignatka shouting so energetically and"
+    },
+    {
+      "start": 3023.72,
+      "end": 3029.16,
+      "text": "delightfully as though it were a sunny Christmas noon, and we were hurrying to a festival along"
+    },
+    {
+      "start": 3029.16,
+      "end": 3034.0,
+      "text": "the village street, and stranger than all it was to think that we were always riding"
+    },
+    {
+      "start": 3034.0,
+      "end": 3039.96,
+      "text": "and riding rapidly away from the place where we had been. Ignat began to sing some song"
+    },
+    {
+      "start": 3039.96,
+      "end": 3046.24,
+      "text": "in a horrible falsetto, but so loud, and with such stops, during which he whistled, that"
+    },
+    {
+      "start": 3046.24,
+      "end": 3049.24,
+      "text": "it was weird to listen to, and made one melancholy."
+    },
+    {
+      "start": 3049.24,
+      "end": 3050.24,
+      "text": "\u2014\u2014"
+    },
+    {
+      "start": 3050.24,
+      "end": 3051.24,
+      "text": "\u2014\u2014"
+    },
+    {
+      "start": 3051.24,
+      "end": 3052.24,
+      "text": "\u2014\u2014"
+    },
+    {
+      "start": 3052.24,
+      "end": 3053.24,
+      "text": "\u2014\u2014"
+    },
+    {
+      "start": 3053.24,
+      "end": 3054.24,
+      "text": "\u2014\u2014"
+    },
+    {
+      "start": 3054.24,
+      "end": 3055.24,
+      "text": "\u2014\u2014"
+    },
+    {
+      "start": 3055.24,
+      "end": 3056.24,
+      "text": "\u2014\u2014"
+    },
+    {
+      "start": 3056.24,
+      "end": 3057.24,
+      "text": "\u2014\u2014"
+    },
+    {
+      "start": 3057.24,
+      "end": 3064.68,
+      "text": "or when. Ignat rained up. Again, silence only broken by the wailing and whistling of the wind,"
+    },
+    {
+      "start": 3064.68,
+      "end": 3070.36,
+      "text": "while the snow began to pile up, rustling on the sledge. The mentor drove up to us."
+    },
+    {
+      "start": 3070.36,
+      "end": 3073.72,
+      "text": "Well, what is it? Say, where are you going?"
+    },
+    {
+      "start": 3074.36,
+      "end": 3079.96,
+      "text": "Who knows? Are your feet frozen, that you stamp so? They're frozen off."
+    },
+    {
+      "start": 3080.84,
+      "end": 3085.0,
+      "text": "Well, you ought to go this way. The way you were going means starvation."
+    },
+    {
+      "start": 3085.0,
+      "end": 3089.08,
+      "text": "not even a calmuk there. Get out, and it will warm your legs.\""
+    },
+    {
+      "start": 3090.12,
+      "end": 3096.12,
+      "text": "All right, hold the horses. There. And Ignat stumped off in the direction indicated."
+    },
+    {
+      "start": 3096.76,
+      "end": 3101.24,
+      "text": "Have to keep looking all the time. Have to get out and hunt, then you find the way."
+    },
+    {
+      "start": 3101.8,
+      "end": 3107.32,
+      "text": "But this way's a crazy way to go, said the mentor. See how tired the horses are."
+    },
+    {
+      "start": 3108.68,
+      "end": 3113.64,
+      "text": "All the time that Ignat was gone, and it was so long that I actually began to be afraid that"
+    },
+    {
+      "start": 3113.64,
+      "end": 3119.88,
+      "text": "he had lost his way, the mentor kept talking to me in a self-confident, easy tone, telling me how"
+    },
+    {
+      "start": 3119.88,
+      "end": 3125.72,
+      "text": "it was necessary to behave in a snowstorm. How much better it was to unhitch one of the horses"
+    },
+    {
+      "start": 3125.72,
+      "end": 3131.64,
+      "text": "and let her go as God Almighty should direct, how sometimes you can see the stars occasionally,"
+    },
+    {
+      "start": 3131.64,
+      "end": 3136.44,
+      "text": "and how, if he had taken the front place, we should have been at the station long before."
+    },
+    {
+      "start": 3136.44,
+      "end": 3143.64,
+      "text": "Well, how is it?\" he asked, as Ignat came back, plowing with difficulty knee-deep in"
+    },
+    {
+      "start": 3143.64,
+      "end": 3144.64,
+      "text": "snow."
+    },
+    {
+      "start": 3144.64,
+      "end": 3150.96,
+      "text": "\"'Not so bad. I found a Kalmuck camp,' replied the driver, out of breath."
+    },
+    {
+      "start": 3150.96,
+      "end": 3155.04,
+      "text": "\"'Still, I don't know where we are. It must be that we have been going toward"
+    },
+    {
+      "start": 3155.04,
+      "end": 3158.48,
+      "text": "Prollgofsky Forest. We must turn to the left.'"
+    },
+    {
+      "start": 3158.48,
+      "end": 3163.6,
+      "text": "\"'Why worry? It must be the camp just behind our station,' replied the mentor."
+    },
+    {
+      "start": 3163.6,
+      "end": 3165.36,
+      "text": "\"'I tell you it isn't.'"
+    },
+    {
+      "start": 3165.36,
+      "end": 3171.04,
+      "text": "Well, I've seen it, and so I know. If it isn't that, then it's Tamoshevskoye."
+    },
+    {
+      "start": 3171.04,
+      "end": 3175.52,
+      "text": "You must turn to the right, and soon we'll be on the big bridge. Eight verse.\""
+    },
+    {
+      "start": 3176.56,
+      "end": 3181.28,
+      "text": "Say what you will. Tainso, I have seen it, said Ignat angrily."
+    },
+    {
+      "start": 3181.28,
+      "end": 3184.56,
+      "text": "Ah! What's that? I'm a Yamshik as much as you are."
+    },
+    {
+      "start": 3185.28,
+      "end": 3190.8,
+      "text": "Fine, Yamshik. You go ahead, then. Why should I go ahead? But I know.\""
+    },
+    {
+      "start": 3190.8,
+      "end": 3197.1,
+      "text": "Ignat was evidently angry. Without replying, he climbed to his seat and drove on."
+    },
+    {
+      "start": 3197.1,
+      "end": 3203.18,
+      "text": "You see how cold one's feet get. No way to warm them, said he to Alyoska,"
+    },
+    {
+      "start": 3203.18,
+      "end": 3208.18,
+      "text": "pounding his feet more and more frequently and brushing and shaking off the snow which"
+    },
+    {
+      "start": 3208.18,
+      "end": 3213.14,
+      "text": "had got into his bootlegs. I felt an uncontrollable desire to sleep."
+    },
+    {
+      "start": 3213.14,
+      "end": 3219.3,
+      "text": "Eight. Can it be that I'm going to freeze to death? I asked myself as I dropped off."
+    },
+    {
+      "start": 3219.3,
+      "end": 3226.3,
+      "text": "Death, they say, always begins with drowsiness. It's much better to drown than freeze to"
+    },
+    {
+      "start": 3226.3,
+      "end": 3232.3,
+      "text": "death than they would pull me out of the net. However, it makes no difference whether one"
+    },
+    {
+      "start": 3232.3,
+      "end": 3238.34,
+      "text": "drowns or freezes to death. If only this stake did not stick into my back so I might"
+    },
+    {
+      "start": 3238.34,
+      "end": 3243.58,
+      "text": "forget myself. For a second I lost consciousness. How will"
+    },
+    {
+      "start": 3243.58,
+      "end": 3249.76,
+      "text": "all this end? I suddenly ask myself in thought, for a moment opening my eyes, and gazing at"
+    },
+    {
+      "start": 3249.76,
+      "end": 3255.08,
+      "text": "the white expanse. How will it end? If we don't find some hay-ricks, and the horses"
+    },
+    {
+      "start": 3255.08,
+      "end": 3261.54,
+      "text": "get winded, as it seems likely they will be very soon, we shall all freeze to death."
+    },
+    {
+      "start": 3261.54,
+      "end": 3266.9,
+      "text": "I confess that, though I was afraid, I had a desire for something extraordinarily tragic"
+    },
+    {
+      "start": 3266.9,
+      "end": 3271.86,
+      "text": "to happen to us, and this was stronger than the small fear. It seemed to me that"
+    },
+    {
+      "start": 3271.86,
+      "end": 3278.02,
+      "text": "would not be unpleasant if at morning the horses themselves should bring us, half frozen, to some"
+    },
+    {
+      "start": 3278.02,
+      "end": 3285.14,
+      "text": "far-off, unknown village, where some of us might even perish of the cold. And while I have this"
+    },
+    {
+      "start": 3285.14,
+      "end": 3291.94,
+      "text": "thought, my imagination works with extraordinary clearness and rapidity. The horses become weary,"
+    },
+    {
+      "start": 3291.94,
+      "end": 3298.02,
+      "text": "the snow grows deeper and deeper, and now only the ears and the bellbow are visible."
+    },
+    {
+      "start": 3298.02,
+      "end": 3304.82,
+      "text": "But suddenly Ignashka appears on horseback, driving his troika past us. We beseech him,"
+    },
+    {
+      "start": 3304.82,
+      "end": 3312.42,
+      "text": "we shout to him to take us. But the wind carries away our voices, we have no voices left. Ignashka"
+    },
+    {
+      "start": 3312.42,
+      "end": 3318.18,
+      "text": "laughs at us, shouts to his horses, whistles, and passes out of our sight in some deep,"
+    },
+    {
+      "start": 3318.18,
+      "end": 3324.98,
+      "text": "snow-covered ravine. A little old man climbs upon a horse, flaps his elbows, and tries to gallop"
+    },
+    {
+      "start": 3324.98,
+      "end": 3331.12,
+      "text": "after him, but he cannot stir from the place. My old driver, with his great cap, throws"
+    },
+    {
+      "start": 3331.12,
+      "end": 3335.76,
+      "text": "himself upon him, drags him to the ground, and tramples him into the snow."
+    },
+    {
+      "start": 3335.76,
+      "end": 3342.82,
+      "text": "\"'You're a wizard,' he cries. \"'You're a Spitfire. We are all lost on your account.'\""
+    },
+    {
+      "start": 3342.82,
+      "end": 3348.28,
+      "text": "But the little old man flings a snowball at his head. He is no longer a little old man,"
+    },
+    {
+      "start": 3348.28,
+      "end": 3354.92,
+      "text": "but only a hare, and bounds away from us. All the dogs bound after him. The mentor"
+    },
+    {
+      "start": 3354.92,
+      "end": 3360.12,
+      "text": "is now the butler, tells us to sit around in a circle, that nothing will happen to us if we"
+    },
+    {
+      "start": 3360.12,
+      "end": 3368.28,
+      "text": "protect ourselves with snow. It will be warm. In fact, it is warm and cozy. Our only trouble"
+    },
+    {
+      "start": 3368.28,
+      "end": 3374.6,
+      "text": "is thirst. I get out my travelling case. I offer everyone rum and sugar and drink myself with"
+    },
+    {
+      "start": 3374.6,
+      "end": 3380.52,
+      "text": "great satisfaction. The storyteller spins some yarn about the rainbow, and over our heads is"
+    },
+    {
+      "start": 3380.52,
+      "end": 3387.56,
+      "text": "is a roof of snow and a rainbow. Now, each of you, I say, make a chamber in the snow"
+    },
+    {
+      "start": 3387.56,
+      "end": 3396.04,
+      "text": "and go to sleep. The snow is soft and warm, like wool. I make myself a room, and I'm"
+    },
+    {
+      "start": 3396.04,
+      "end": 3400.96,
+      "text": "just going into it, but Feodor Filipewicz, who has caught a glimpse of my money in my"
+    },
+    {
+      "start": 3400.96,
+      "end": 3407.48,
+      "text": "travelling case, says, Hold, give me your money, you won't need it when you're dead,"
+    },
+    {
+      "start": 3407.48,
+      "end": 3413.68,
+      "text": "seizes me by the leg. I hand him the money, asking him only to let me go, but they will"
+    },
+    {
+      "start": 3413.68,
+      "end": 3419.8,
+      "text": "not believe that it is all my money, and they are going to kill me. I seize the old man's"
+    },
+    {
+      "start": 3419.8,
+      "end": 3425.6,
+      "text": "hand, and with indescribable pleasure kiss it. The old man's hand is tender and soft."
+    },
+    {
+      "start": 3425.6,
+      "end": 3430.44,
+      "text": "At first he takes it away from me, but afterwards he lets me have it, and even caresses me"
+    },
+    {
+      "start": 3430.44,
+      "end": 3437.66,
+      "text": "with his other hand. Nevertheless, Feodor Philippic comes near and threatens me. I hasten"
+    },
+    {
+      "start": 3437.66,
+      "end": 3443.18,
+      "text": "to my chamber. It is not a chamber, but a long white corridor, and someone pulls back"
+    },
+    {
+      "start": 3443.18,
+      "end": 3449.96,
+      "text": "on my leg. I tear myself away. In the hand of the man who holds me back remain my trousers"
+    },
+    {
+      "start": 3449.96,
+      "end": 3456.98,
+      "text": "and a part of my skin. But I feel only cold and ashamed, all the more ashamed because"
+    },
+    {
+      "start": 3456.98,
+      "end": 3463.06,
+      "text": "my auntie with her sunshade, and homeopathic pellets, comes arm in arm with the drowned"
+    },
+    {
+      "start": 3463.06,
+      "end": 3470.34,
+      "text": "man to meet me. They smile, but do not understand the signs that I make to them. I fling myself"
+    },
+    {
+      "start": 3470.34,
+      "end": 3475.82,
+      "text": "after the sledge. My feet glide over the snow, but the little old man follows after"
+    },
+    {
+      "start": 3475.82,
+      "end": 3482.26,
+      "text": "me, flapping his elbows. He comes close to me, but I hear just in front of me two church"
+    },
+    {
+      "start": 3482.26,
+      "end": 3487.86,
+      "text": "bells, and I know that I shall be safe when I reach them. The church bells ring nearer"
+    },
+    {
+      "start": 3487.86,
+      "end": 3492.7,
+      "text": "and nearer, but the little old man has caught up with me and falls with his body across"
+    },
+    {
+      "start": 3492.7,
+      "end": 3500.1,
+      "text": "my face so that I can scarcely hear the bells. Once more I seize his hand and begin to kiss"
+    },
+    {
+      "start": 3500.1,
+      "end": 3505.34,
+      "text": "it. But the little old man is no longer the little old man, but the drowned man, and"
+    },
+    {
+      "start": 3505.34,
+      "end": 3510.54,
+      "text": "He cries, Ignashka, hold on, here are Akhmet's herex, just look."
+    },
+    {
+      "start": 3511.58,
+      "end": 3514.94,
+      "text": "That is strange to hear. No, I would rather wake up."
+    },
+    {
+      "start": 3515.58,
+      "end": 3521.18,
+      "text": "I open my eyes. The wind is flapping the tails of Alyoshka's cloak into my face."
+    },
+    {
+      "start": 3521.18,
+      "end": 3526.86,
+      "text": "My knees are uncovered. We are going over the bare crust, and the triad of the bells"
+    },
+    {
+      "start": 3526.86,
+      "end": 3533.42,
+      "text": "rings pleasantly through the air with its dominant fifth. I look, expecting to see the herex,"
+    },
+    {
+      "start": 3533.42,
+      "end": 3539.74,
+      "text": "but instead of hairics, now that my eyes are wide open, I see something like a house with a balcony"
+    },
+    {
+      "start": 3539.74,
+      "end": 3545.5,
+      "text": "and the crenellated walls of a fortress. I feel very little interest in seeing this house and"
+    },
+    {
+      "start": 3545.5,
+      "end": 3551.02,
+      "text": "fortress. My desire is much stronger to see the white corridor where I had been walking,"
+    },
+    {
+      "start": 3551.02,
+      "end": 3555.66,
+      "text": "to hear the sound of the church bells and to kiss the little old man's hand."
+    },
+    {
+      "start": 3555.66,
+      "end": 3563.5,
+      "text": "And again I close my eyes and sleep. Nine. I sleep sound. But all the time I can hear"
+    },
+    {
+      "start": 3563.5,
+      "end": 3569.26,
+      "text": "the chords of the bells, and in my dream I can see a dog barking and jumping after me,"
+    },
+    {
+      "start": 3569.26,
+      "end": 3574.54,
+      "text": "then the organ, one stop of which I seem to draw out, then the French poem which I am"
+    },
+    {
+      "start": 3574.54,
+      "end": 3579.64,
+      "text": "composing. Then it seems to me that this triad is some instrument of torture with which"
+    },
+    {
+      "start": 3579.64,
+      "end": 3585.54,
+      "text": "my right foot is constantly compressed. This was so severe that I woke up, and opening"
+    },
+    {
+      "start": 3585.54,
+      "end": 3590.82,
+      "text": "my eyes I rubbed my leg. It was beginning to grow numb with cold."
+    },
+    {
+      "start": 3590.82,
+      "end": 3596.84,
+      "text": "The night was as before light, melancholy, white. The sledge and its passengers were"
+    },
+    {
+      "start": 3596.84,
+      "end": 3601.92,
+      "text": "still shaken by the same motion. There was Ignashka sitting on one side and stamping"
+    },
+    {
+      "start": 3601.92,
+      "end": 3607.52,
+      "text": "his feet. There was the off-horse as before, straining her neck, lifting her feet as she"
+    },
+    {
+      "start": 3607.52,
+      "end": 3612.6,
+      "text": "trotted over the deep snow, the tassel slipping along the reins and whipping against the"
+    },
+    {
+      "start": 3612.6,
+      "end": 3618.68,
+      "text": "horse's belly, the head of the shaft horse with the waving mane alternately pulling and loosening"
+    },
+    {
+      "start": 3618.68,
+      "end": 3624.68,
+      "text": "the reins attached to the bellbow as it nodded up and down. But all this was covered and hidden with"
+    },
+    {
+      "start": 3624.68,
+      "end": 3631.48,
+      "text": "snow far more than before. The snow was whirled about in front of us and covered up our runners"
+    },
+    {
+      "start": 3631.48,
+      "end": 3636.76,
+      "text": "and reached above the horse's knees and fell thick and fast on our collars and caps."
+    },
+    {
+      "start": 3636.76,
+      "end": 3642.86,
+      "text": "The wind blew now from the right, now from the left, and played with the collar and tails"
+    },
+    {
+      "start": 3642.86,
+      "end": 3649.58,
+      "text": "of Ignashka's cloak, the mane of the horses, and howled above the bellbow and the shafts."
+    },
+    {
+      "start": 3649.58,
+      "end": 3655.34,
+      "text": "It had become fearfully cold, and I had scarcely lifted my head out of my collar, as the frosty"
+    },
+    {
+      "start": 3655.34,
+      "end": 3663.48,
+      "text": "dry snow made its way, rustling, into my eyelids, nose, and mouth, and ran down my neck."
+    },
+    {
+      "start": 3663.48,
+      "end": 3670.84,
+      "text": "around all was white, light, and snowy, nothing anywhere except a melancholy light and the"
+    },
+    {
+      "start": 3670.84,
+      "end": 3677.14,
+      "text": "snow. I felt a sensation of real terror. Alyoska was sitting cross-legged in the very"
+    },
+    {
+      "start": 3677.14,
+      "end": 3683.68,
+      "text": "depths of the sledge. His whole back was covered with a thick deposit of snow. Ignashka still"
+    },
+    {
+      "start": 3683.68,
+      "end": 3690.08,
+      "text": "kept up his spirits. He kept constantly pulling at the reins, stamping and pounding his feet."
+    },
+    {
+      "start": 3690.08,
+      "end": 3696.46,
+      "text": "The bell also sounded strange. The horses sometimes snorted but plunged along more quietly, though"
+    },
+    {
+      "start": 3696.46,
+      "end": 3702.46,
+      "text": "they stumbled more and more often. Ignashka again sprang up, swung his mittens, and began"
+    },
+    {
+      "start": 3702.46,
+      "end": 3708.86,
+      "text": "to sing in his clear, strong voice. Not ceasing to sing, he stopped the troika, tossed the"
+    },
+    {
+      "start": 3708.86,
+      "end": 3714.96,
+      "text": "reins on the dasher, and got out. The wind howled madly, the snow as though shoveled"
+    },
+    {
+      "start": 3714.96,
+      "end": 3721.56,
+      "text": "down was dashed upon the folds of my furs. I looked around. The third Troika was nowhere"
+    },
+    {
+      "start": 3721.56,
+      "end": 3728.24,
+      "text": "to be seen. It had stopped somewhere. Next the second Troika, in a mist of snow, could"
+    },
+    {
+      "start": 3728.24,
+      "end": 3733.4,
+      "text": "be seen the little old man making his way with long strides."
+    },
+    {
+      "start": 3733.4,
+      "end": 3738.2,
+      "text": "Ignashka went three steps from the sledge, sat down in the snow, took off his girdle,"
+    },
+    {
+      "start": 3738.2,
+      "end": 3740.2,
+      "text": "and began to remove his boots."
+    },
+    {
+      "start": 3740.2,
+      "end": 3747.08,
+      "text": "What are you going to do? I asked. Must change my boots. This leg is frozen solid, he replied,"
+    },
+    {
+      "start": 3747.08,
+      "end": 3752.08,
+      "text": "and went on with his work. It was cold for me to keep my neck out of my collar to watch"
+    },
+    {
+      "start": 3752.08,
+      "end": 3758.24,
+      "text": "what he was doing. I sat straight, looking at the off-horse which, with leg spread, stood"
+    },
+    {
+      "start": 3758.24,
+      "end": 3764.24,
+      "text": "feebly switching its snow-covered tail. The thump which Ignat gave the sledge as he clambered"
+    },
+    {
+      "start": 3764.24,
+      "end": 3766.52,
+      "text": "to his place, startled me."
+    },
+    {
+      "start": 3766.52,
+      "end": 3769.52,
+      "text": "\"'Well, where are we now?' I asked."
+    },
+    {
+      "start": 3769.52,
+      "end": 3772.16,
+      "text": "\"'Are we getting anywhere in the world?'"
+    },
+    {
+      "start": 3772.16,
+      "end": 3777.8,
+      "text": "\"'Don't you worry. We shall get there,' he replied. Now my feet are thoroughly warm"
+    },
+    {
+      "start": 3777.8,
+      "end": 3780.08,
+      "text": "since I changed them.\""
+    },
+    {
+      "start": 3780.08,
+      "end": 3786.04,
+      "text": "And he drove on. The bells jingled, the sledge again began to rock, and the wind whistled"
+    },
+    {
+      "start": 3786.04,
+      "end": 3792.16,
+      "text": "under the runners, and once more we struggled to swim through the limitless ocean of snow."
+    },
+    {
+      "start": 3792.16,
+      "end": 3799.68,
+      "text": "10. I sunk into a sound sleep. When Alyoshka awoke me by punching me in the leg, and I"
+    },
+    {
+      "start": 3799.68,
+      "end": 3805.8,
+      "text": "opened my eyes, it was morning. It seemed even colder than it had been during the night."
+    },
+    {
+      "start": 3805.8,
+      "end": 3811.36,
+      "text": "There was nothing to be seen but snow, but a strong dry wind still swept the powdery"
+    },
+    {
+      "start": 3811.36,
+      "end": 3816.16,
+      "text": "snow across the field and especially under the hooves of the horses and the runners"
+    },
+    {
+      "start": 3816.16,
+      "end": 3822.52,
+      "text": "of the sledge. The sky on the right toward the east was of a deep purple colour, but"
+    },
+    {
+      "start": 3822.52,
+      "end": 3827.96,
+      "text": "the bright reddish-orange rays of the sunrise kept growing more and more clearly defined"
+    },
+    {
+      "start": 3827.96,
+      "end": 3834.36,
+      "text": "in it. Above our heads, between the hurrying white clouds, scarcely tinged as yet, gleamed"
+    },
+    {
+      "start": 3834.36,
+      "end": 3842.28,
+      "text": "the sickly blue of the sky. In the west the clouds were bright, light, and fluctuating."
+    },
+    {
+      "start": 3842.28,
+      "end": 3850.8,
+      "text": "around as far as the eye could see, lay the snow, white and deep, in sharply defined strata."
+    },
+    {
+      "start": 3850.8,
+      "end": 3856.72,
+      "text": "Everywhere could be seen gray hillocks where lay the fine, dry, powdery snow. Nothing was"
+    },
+    {
+      "start": 3856.72,
+      "end": 3863.54,
+      "text": "to be seen, not even the shadow of a sledge, nor of a human being, nor of a beast."
+    },
+    {
+      "start": 3863.54,
+      "end": 3868.76,
+      "text": "The outline and color of the driver's back and of the horses began to stand out clear"
+    },
+    {
+      "start": 3868.76,
+      "end": 3875.08,
+      "text": "and sharp against the white background. The rim of Ignashka's dark blue cap, his collar,"
+    },
+    {
+      "start": 3875.08,
+      "end": 3880.76,
+      "text": "his hair, and even his boots, were white. The sledge was perfectly covered. The whole"
+    },
+    {
+      "start": 3880.76,
+      "end": 3887.64,
+      "text": "right side, and the mane of the brown shaft-horse were plastered with snow. The legs of my off-horse"
+    },
+    {
+      "start": 3887.64,
+      "end": 3892.36,
+      "text": "were thick with it up to the knee, and the whole of the shaggy right flank had the same"
+    },
+    {
+      "start": 3892.36,
+      "end": 3897.94,
+      "text": "sticky covering. The tassel leaped up and down in some sort of rhythm, the structure"
+    },
+    {
+      "start": 3897.94,
+      "end": 3903.38,
+      "text": "of which it would not be easy to represent. And the off-horse also kept to it in her gate,"
+    },
+    {
+      "start": 3903.38,
+      "end": 3909.38,
+      "text": "only by the gaunt belly rising and sinking and by the hanging ears could it be seen how tired she"
+    },
+    {
+      "start": 3909.38,
+      "end": 3916.58,
+      "text": "was. Only one new object attracted the attention. This was a versed post, from which the snow had"
+    },
+    {
+      "start": 3916.58,
+      "end": 3922.5,
+      "text": "been blown away, leaving it clear to the ground and making a perfect mountain on one side,"
+    },
+    {
+      "start": 3922.5,
+      "end": 3927.14,
+      "text": "while the wind was still sweeping it across and drifting it from one side to the other."
+    },
+    {
+      "start": 3927.94,
+      "end": 3932.26,
+      "text": "It was odd to me to think that we had gone the whole night without change of horses,"
+    },
+    {
+      "start": 3932.26,
+      "end": 3936.9,
+      "text": "not knowing for twelve hours where we were, and not coming to our destination,"
+    },
+    {
+      "start": 3936.9,
+      "end": 3942.5,
+      "text": "and yet not really missing the road. Our bells seemed to sound more cheerful than ever."
+    },
+    {
+      "start": 3943.22,
+      "end": 3950.1,
+      "text": "Ignat buttoned his coat up and began to shout again. Behind us snorted the horses and jingled"
+    },
+    {
+      "start": 3950.1,
+      "end": 3955.46,
+      "text": "the bells of the Troika that carried the little old man and the mentor, but the one who was"
+    },
+    {
+      "start": 3955.46,
+      "end": 3962.1,
+      "text": "asleep had wandered away from us somewhere on the step. After going half a-versed farther,"
+    },
+    {
+      "start": 3962.1,
+      "end": 3968.98,
+      "text": "we came upon the fresh, and as yet unobliterated, traces of a sledge and troika, and occasionally"
+    },
+    {
+      "start": 3968.98,
+      "end": 3974.34,
+      "text": "drops of blood caused by the whip on the horse's side, could be seen."
+    },
+    {
+      "start": 3974.34,
+      "end": 3980.42,
+      "text": "\"'That was Philip. See, he's got in ahead of us,' said Ignashka. And here appears"
+    },
+    {
+      "start": 3980.42,
+      "end": 3985.86,
+      "text": "a little house with a sign, alone by itself, near the road, standing in the midst of the"
+    },
+    {
+      "start": 3985.86,
+      "end": 3992.38,
+      "text": "snow which covers it almost to the roof. Near the inn stands a troika of grey horses, their"
+    },
+    {
+      "start": 3992.38,
+      "end": 3998.98,
+      "text": "hair rough with sweat, with wide-spread legs and drooping heads. At the door the snow is"
+    },
+    {
+      "start": 3998.98,
+      "end": 4004.42,
+      "text": "shovelled away, and the shovel is standing in it, but it still falls from the roof,"
+    },
+    {
+      "start": 4004.42,
+      "end": 4008.8,
+      "text": "and the roaring wind whirls the snow around."
+    },
+    {
+      "start": 4008.8,
+      "end": 4014.24,
+      "text": "from the door at the sound of our bells, comes a big, ruddy, red-headed driver, with a glass"
+    },
+    {
+      "start": 4014.24,
+      "end": 4020.52,
+      "text": "of wine in his hand, and shouts something. Ignashka turns to me, and asks permission"
+    },
+    {
+      "start": 4020.52,
+      "end": 4025.84,
+      "text": "to stop. Then, for the first time, I fairly see his face."
+    },
+    {
+      "start": 4025.84,
+      "end": 4031.78,
+      "text": "11. His features were not dark, dry, and regular, as I had reason to expect from his"
+    },
+    {
+      "start": 4031.78,
+      "end": 4038.42,
+      "text": "hair and build. His face was round, jolly, with a snub nose and a big mouth, and clear"
+    },
+    {
+      "start": 4038.42,
+      "end": 4045.58,
+      "text": "shining eyes, blue and round. His cheeks and neck were like well-worn cloth, his eyebrows,"
+    },
+    {
+      "start": 4045.58,
+      "end": 4051.3,
+      "text": "his long eyelashes, and the beard which evenly covered the lower part of his face were crusted"
+    },
+    {
+      "start": 4051.3,
+      "end": 4057.98,
+      "text": "thick with snow and perfectly white. The distance to the station was all of a half-versed,"
+    },
+    {
+      "start": 4057.98,
+      "end": 4058.98,
+      "text": "and we stopped."
+    },
+    {
+      "start": 4058.98,
+      "end": 4061.74,
+      "text": "\"'Only be quick about it,' I said."
+    },
+    {
+      "start": 4061.74,
+      "end": 4067.74,
+      "text": "\"'Just a minute,' replied Ignashka, springing down from his seat and going up to Philip."
+    },
+    {
+      "start": 4067.74,
+      "end": 4072.98,
+      "text": "Let us have it, brother,\" said he, taking the glass in his right hand, and throwing"
+    },
+    {
+      "start": 4072.98,
+      "end": 4078.76,
+      "text": "his mitten and whip down on the snow, tipping back his head, he drank down at a gulp the"
+    },
+    {
+      "start": 4078.76,
+      "end": 4085.24,
+      "text": "glass of vodka. The innkeeper, who must have been a discharged Cossack, came, with a bottle"
+    },
+    {
+      "start": 4085.24,
+      "end": 4087.5,
+      "text": "in his hand, out of the door."
+    },
+    {
+      "start": 4087.5,
+      "end": 4094.44,
+      "text": "Who have you got there? he asked. The tall Vasili, a lean, blonde mousique with a goatee,"
+    },
+    {
+      "start": 4094.44,
+      "end": 4100.3,
+      "text": "and the fat mentor with white eyebrows and a thick white beard framing his ruddy face"
+    },
+    {
+      "start": 4100.3,
+      "end": 4106.0,
+      "text": "came up and also drank a glass. The little old man joined the group of drinkers, but"
+    },
+    {
+      "start": 4106.0,
+      "end": 4111.4,
+      "text": "no one offered him anything, and he went off again to his horses, fastened behind,"
+    },
+    {
+      "start": 4111.4,
+      "end": 4116.54,
+      "text": "and began to stroke one of them on the back and side. The little old man was pretty much"
+    },
+    {
+      "start": 4116.54,
+      "end": 4122.8,
+      "text": "what I had imagined him to be\u2014small, ugly, with wrinkled, strongly marked features,"
+    },
+    {
+      "start": 4122.8,
+      "end": 4128.0,
+      "text": "A thin little beard, a sharp nose, and worn yellow teeth."
+    },
+    {
+      "start": 4128.0,
+      "end": 4133.6,
+      "text": "He wore a driver's cap, perfectly new, but his sheepskin jacket was old, soiled with"
+    },
+    {
+      "start": 4133.6,
+      "end": 4138.82,
+      "text": "oil and torn on the shoulders and flaps, and did not cover his knees or his hempen"
+    },
+    {
+      "start": 4138.82,
+      "end": 4142.46,
+      "text": "trousers tucked into his huge felt boots."
+    },
+    {
+      "start": 4142.46,
+      "end": 4148.16,
+      "text": "He himself was bent and frowned all the time, and with trembling lips and limbs, tramped"
+    },
+    {
+      "start": 4148.16,
+      "end": 4151.0,
+      "text": "around his sledge in his efforts to keep warm."
+    },
+    {
+      "start": 4151.0,
+      "end": 4156.04,
+      "text": "Well, Mitrich, you ought to have a drink. It would warm you up,\" said the mentor to"
+    },
+    {
+      "start": 4156.04,
+      "end": 4157.04,
+      "text": "him."
+    },
+    {
+      "start": 4157.04,
+      "end": 4162.48,
+      "text": "Mitrich gave a start. He arranged the horse's harness, straightened the bell-bow, and then"
+    },
+    {
+      "start": 4162.48,
+      "end": 4163.88,
+      "text": "came to me."
+    },
+    {
+      "start": 4163.88,
+      "end": 4169.88,
+      "text": "\"'Say, Baron,\" said he, taking his cap off from his white hair and bowing very low,"
+    },
+    {
+      "start": 4169.88,
+      "end": 4174.56,
+      "text": "\"'All night long we have been wandering together. We have found the road. We would"
+    },
+    {
+      "start": 4174.56,
+      "end": 4179.44,
+      "text": "seem to deserve a bit of a drink. Isn't that so, sir, your eminence? Just enough"
+    },
+    {
+      "start": 4179.44,
+      "end": 4185.78,
+      "text": "to get warmed. He added with an obsequious smile. I gave him a quarter ruble. The innkeeper"
+    },
+    {
+      "start": 4185.78,
+      "end": 4191.04,
+      "text": "brought out a glass of vodka and handed it to the old man. He laid aside his mitten and"
+    },
+    {
+      "start": 4191.04,
+      "end": 4197.1,
+      "text": "whip and took the glass in his small dark hand, bony and somewhat bluish, but strangely"
+    },
+    {
+      "start": 4197.1,
+      "end": 4202.34,
+      "text": "enough he could not control his thumb. Before he had lifted the glass to his lips he dropped"
+    },
+    {
+      "start": 4202.34,
+      "end": 4207.26,
+      "text": "it in the snow, spilling the wine. All the drivers burst out laughing."
+    },
+    {
+      "start": 4207.26,
+      "end": 4212.82,
+      "text": "See, Meetsrich, too, is half frozen like. He can't hold his wine.\""
+    },
+    {
+      "start": 4212.82,
+      "end": 4218.28,
+      "text": "But Meetsrich was greatly vexed because he had spilt the wine. They brought him, however,"
+    },
+    {
+      "start": 4218.28,
+      "end": 4223.72,
+      "text": "another glass, and poured it into his mouth. He immediately became jolly, went into the"
+    },
+    {
+      "start": 4223.72,
+      "end": 4230.64,
+      "text": "inn, lighted his pipe, began to show his yellow worn teeth, and to scold at every word. After"
+    },
+    {
+      "start": 4230.64,
+      "end": 4236.64,
+      "text": "they had taken their last drinks, the drivers came back to their troikas, and we set off."
+    },
+    {
+      "start": 4236.64,
+      "end": 4242.72,
+      "text": "The snow kept growing whiter and brighter till it made one's eyes ache to look at it."
+    },
+    {
+      "start": 4242.72,
+      "end": 4247.88,
+      "text": "The orange-coloured reddish streaks stretched brighter and brighter, higher and higher,"
+    },
+    {
+      "start": 4247.88,
+      "end": 4252.88,
+      "text": "across the heavens. Now the red circle of the sun appeared on the horizon through the"
+    },
+    {
+      "start": 4252.88,
+      "end": 4259.72,
+      "text": "bluish clouds. The blue sky came out in constantly increasing brilliancy and depth. On the road"
+    },
+    {
+      "start": 4259.72,
+      "end": 4265.32,
+      "text": "around the station the tracks were clear, distinct, and yellow. In some places were"
+    },
+    {
+      "start": 4265.32,
+      "end": 4271.56,
+      "text": "cradle-holes. In the frosty, bracing atmosphere there was a pleasant exhilaration and freshness."
+    },
+    {
+      "start": 4272.12,
+      "end": 4278.04,
+      "text": "My troika glided along very swiftly. The head of the shaft-horse and the neck with the mane"
+    },
+    {
+      "start": 4278.04,
+      "end": 4283.16,
+      "text": "tossing up to the bell-bow constantly made the same quick, swinging motions under the"
+    },
+    {
+      "start": 4283.16,
+      "end": 4288.68,
+      "text": "hunting bell, the tongue of which no longer struck but scraped around the rim. The good"
+    },
+    {
+      "start": 4288.68,
+      "end": 4294.44,
+      "text": "side-horses, in friendly rivalry tugging at the frozen, twisted traces, energetically"
+    },
+    {
+      "start": 4294.44,
+      "end": 4300.44,
+      "text": "galloped on, the tassels striking against their ribs and necks. Occasionally the off-horse"
+    },
+    {
+      "start": 4300.44,
+      "end": 4305.56,
+      "text": "would plunge into some drift and kick up the snow, filling the eyes with the fine powder."
+    },
+    {
+      "start": 4306.2,
+      "end": 4311.88,
+      "text": "Ignashka kept shouting in his gay tenor. The runners creaked over the dry, frosty snow."
+    },
+    {
+      "start": 4312.52,
+      "end": 4318.92,
+      "text": "Behind us, with a loud festival sound, rang the two sledge chimes, and the voices of the drivers,"
+    },
+    {
+      "start": 4318.92,
+      "end": 4326.2,
+      "text": "made jolly by wine could be heard. I looked back. The grey, shaggy side-horses arching their necks,"
+    },
+    {
+      "start": 4326.2,
+      "end": 4331.88,
+      "text": "regularly puffing out the breath with their curved bits, galloped over the snow. Philip"
+    },
+    {
+      "start": 4331.88,
+      "end": 4337.4,
+      "text": "was flourishing his whip and adjusting his cap. The little old man, with his legs hanging out,"
+    },
+    {
+      "start": 4337.4,
+      "end": 4342.28,
+      "text": "was reclining as before in the middle of his sledge. At the end of two minutes,"
+    },
+    {
+      "start": 4342.28,
+      "end": 4347.0,
+      "text": "the sledge scraped against the boards of the well-cleared entrance of the station house,"
+    },
+    {
+      "start": 4347.0,
+      "end": 4351.4,
+      "text": "and Ignashka turned to me, his jolly face covered with snow,"
+    },
+    {
+      "start": 4351.4,
+      "end": 4354.12,
+      "text": "where his breath had turned to ice and said,"
+    },
+    {
+      "start": 4354.12,
+      "end": 4355.64,
+      "text": "Here we are, Baron!"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Chapter 1: Opening the Room
+
+When scripts, inputs, and outputs are mixed together, even a small task feels heavier than it should. A cleaner workspace makes the next step visible.
+
+Chapter 2: Why Chapters Matter
+
+Headings mark a new idea. Paragraph breaks preserve pace. When a video renderer keeps both signals visible, the page feels like a document instead of a wall of text.
+
+Chapter 3: Closing the Loop
+
+If the website can turn this text into speech and the video can scroll it cleanly, then the full pipeline is working end to end.

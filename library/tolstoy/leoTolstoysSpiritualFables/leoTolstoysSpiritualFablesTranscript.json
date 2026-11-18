@@ -1,0 +1,638 @@
+{
+  "audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/leoTolstoysSpiritualFables/video_work/leoTolstoysSpiritualFables_audio_16k.wav",
+  "model": "small.en",
+  "language": "en",
+  "duration": 703.3813125,
+  "segments": [
+    {
+      "start": 5.1,
+      "end": 11.42,
+      "text": "Leo Tolstoy's Spiritual Fables. Based on his refashioning of Folk stories from Ancient"
+    },
+    {
+      "start": 11.42,
+      "end": 12.42,
+      "text": "India."
+    },
+    {
+      "start": 12.42,
+      "end": 18.7,
+      "text": "1. The Head and Tail of the Serpent. The serpent's tail was disputing with the"
+    },
+    {
+      "start": 18.7,
+      "end": 24.18,
+      "text": "serpent's head as to which should go first. The head said, You cannot go first. You have"
+    },
+    {
+      "start": 24.18,
+      "end": 31.56,
+      "text": "no eyes or ears. The tail replied, But at all events I have the strength to make you go."
+    },
+    {
+      "start": 31.56,
+      "end": 37.86,
+      "text": "If I wanted, I could twine around a tree, and you could not stir. The head said, Let"
+    },
+    {
+      "start": 37.86,
+      "end": 43.8,
+      "text": "us part company. And the tail tore itself away from the head, and crawled away in its"
+    },
+    {
+      "start": 43.8,
+      "end": 49.24,
+      "text": "own direction. But as soon as it had left the head, it came upon a cranny, and fell"
+    },
+    {
+      "start": 49.24,
+      "end": 54.72,
+      "text": "into it. Two. Fine threads. A man bade a spinner spin"
+    },
+    {
+      "start": 54.72,
+      "end": 60.36,
+      "text": "fine threads. The spinner spun fine threads, but the man declared that the threads were"
+    },
+    {
+      "start": 60.36,
+      "end": 66.12,
+      "text": "not good, and that he wished the very finest of fine threads. The spinner said,"
+    },
+    {
+      "start": 66.12,
+      "end": 70.04,
+      "text": "If these are not fine enough for you, then here are some others that will suit you."
+    },
+    {
+      "start": 70.76,
+      "end": 77.4,
+      "text": "And she pointed to a bare spot. The man declared that he could not see them. The spinner replied,"
+    },
+    {
+      "start": 77.4,
+      "end": 82.2,
+      "text": "The fact that you cannot see them proves that they are very fine. I can't see them myself."
+    },
+    {
+      "start": 83.24,
+      "end": 89.08,
+      "text": "The fool was rejoiced and ordered some more of the same thread and paid down the money for it."
+    },
+    {
+      "start": 90.36,
+      "end": 97.56,
+      "text": "3. The Division of the Inheritance. A father had two sons. He said to them,"
+    },
+    {
+      "start": 97.56,
+      "end": 103.64,
+      "text": "I am dying. Divide everything equally. When the father was dead, the sons could not make"
+    },
+    {
+      "start": 103.64,
+      "end": 108.76,
+      "text": "the division without quarrelling. They went to a neighbour to help them decide. The neighbour"
+    },
+    {
+      "start": 108.76,
+      "end": 114.28,
+      "text": "asked them what their father had commanded them to do. They replied, he commanded us to make"
+    },
+    {
+      "start": 114.28,
+      "end": 120.04,
+      "text": "equal shares of everything. Then, said the neighbour, tear all the raiment in two,"
+    },
+    {
+      "start": 120.04,
+      "end": 124.28,
+      "text": "break all the utensils in two, cut all the livestock in two."
+    },
+    {
+      "start": 125.24,
+      "end": 129.4,
+      "text": "The brothers took the neighbour's advice, and at the end neither had anything."
+    },
+    {
+      "start": 130.04,
+      "end": 134.44,
+      "text": "Four. The monkey. A man went into the woods."
+    },
+    {
+      "start": 134.44,
+      "end": 139.8,
+      "text": "He felled a tree and began to cut it in pieces. He lifted the end of the tree on the stump,"
+    },
+    {
+      "start": 139.8,
+      "end": 145.96,
+      "text": "sat astride upon it, and began to soar. Then he drove a wedge into the cleft, and began to"
+    },
+    {
+      "start": 145.96,
+      "end": 152.36,
+      "text": "soar farther along. Then he removed the wedge, and put it in the new place. A monkey was sitting"
+    },
+    {
+      "start": 152.36,
+      "end": 158.12,
+      "text": "on a tree, watching him. When the man lay down to sleep, the monkey got astride of the tree and"
+    },
+    {
+      "start": 158.12,
+      "end": 163.48,
+      "text": "began to soar, but when he took out the wedge, the tree closed together again and nipped his"
+    },
+    {
+      "start": 163.48,
+      "end": 169.84,
+      "text": "tail. He began to struggle and squeal. The man awoke, knocked the monkey down, and tied"
+    },
+    {
+      "start": 169.84,
+      "end": 177.94,
+      "text": "him with a rope. 5. The Monkey and the Peas"
+    },
+    {
+      "start": 177.94,
+      "end": 183.1,
+      "text": "A monkey was carrying two handfuls of peas. One little pea dropped out. He tried to pick"
+    },
+    {
+      "start": 183.1,
+      "end": 187.7,
+      "text": "it up and spilled twenty. He tried to pick up the twenty and spilled them all. Then"
+    },
+    {
+      "start": 187.7,
+      "end": 193.1,
+      "text": "he lost his temper, scattered the peas in all directions, and ran away."
+    },
+    {
+      "start": 193.1,
+      "end": 198.82,
+      "text": "6. The Milch Cow A man had a cow. Every day she gave a pail"
+    },
+    {
+      "start": 198.82,
+      "end": 204.78,
+      "text": "of milk. The man invited some guests. In order to get more milk he did not milk the cow for"
+    },
+    {
+      "start": 204.78,
+      "end": 210.6,
+      "text": "ten days. He thought that on the tenth day the cow would give him ten pails of milk,"
+    },
+    {
+      "start": 210.6,
+      "end": 215.26,
+      "text": "but the cow's milk had dried up and she gave less milk than ever before."
+    },
+    {
+      "start": 215.26,
+      "end": 222.91,
+      "text": "7. The Duck and the Moon A duck was floating down the river. She had"
+    },
+    {
+      "start": 222.91,
+      "end": 228.47,
+      "text": "been hunting for a fish, and all day long she had not found one. When night came, she"
+    },
+    {
+      "start": 228.47,
+      "end": 233.55,
+      "text": "saw the moon in the water, and thought that it was a fish, and she dived down to catch"
+    },
+    {
+      "start": 233.55,
+      "end": 239.45,
+      "text": "the moon. The other duck saw this, and began to make sport of her. From that time forth"
+    },
+    {
+      "start": 239.45,
+      "end": 244.35,
+      "text": "the duck began to be ashamed and lose courage, so that whenever she saw a fish under the"
+    },
+    {
+      "start": 244.35,
+      "end": 251.73,
+      "text": "water, she would not seize it, and so she died of starvation."
+    },
+    {
+      "start": 251.73,
+      "end": 254.37,
+      "text": "The Wolf in the Dust"
+    },
+    {
+      "start": 254.37,
+      "end": 261.83,
+      "text": "A wolf was anxious to steal a sheep from the flock and went to the leeward so that the"
+    },
+    {
+      "start": 261.83,
+      "end": 265.67,
+      "text": "dust from the flock might cover him. The shepherd dog saw him and said,"
+    },
+    {
+      "start": 265.67,
+      "end": 270.31,
+      "text": "It's no use, wolf, for you to go in the dust. It will spoil your eyes."
+    },
+    {
+      "start": 270.31,
+      "end": 277.11,
+      "text": "But the wolf replied, It is very unfortunate, doggy. My eyes were spoiled long ago,"
+    },
+    {
+      "start": 277.11,
+      "end": 282.39,
+      "text": "but they say that the dust from a flock of sheep is an excellent remedy for the eyes."
+    },
+    {
+      "start": 282.39,
+      "end": 293.33,
+      "text": "The mouse under the granary. A mouse lived under a granary. In the granary floor was a little hole,"
+    },
+    {
+      "start": 293.33,
+      "end": 298.61,
+      "text": "and the grain slipped down through the hole. The mouse's life was happy, but the desire"
+    },
+    {
+      "start": 298.61,
+      "end": 304.65,
+      "text": "came over her to make a show of her life. She gnawed a larger hole and invited other mice."
+    },
+    {
+      "start": 304.65,
+      "end": 309.97,
+      "text": "Come, said she, and have a feast. There will be food enough for all."
+    },
+    {
+      "start": 309.97,
+      "end": 315.97,
+      "text": "hole. But after she had brought the mice, she discovered that there was no hole at all."
+    },
+    {
+      "start": 315.97,
+      "end": 320.77,
+      "text": "The farmer had noticed the big hole in the floor and closed it up."
+    },
+    {
+      "start": 320.77,
+      "end": 326.91,
+      "text": "10. The Very Best Pair A gentleman sent his servant to buy the very"
+    },
+    {
+      "start": 326.91,
+      "end": 332.95,
+      "text": "best pairs. The servant went to the shop and asked for pairs. The merchant gave them"
+    },
+    {
+      "start": 332.95,
+      "end": 339.45,
+      "text": "to him, but the servant said, No, give me your very best pairs."
+    },
+    {
+      "start": 339.45,
+      "end": 344.21,
+      "text": "The merchant said, taste one, you will find that they are delicious."
+    },
+    {
+      "start": 344.21,
+      "end": 350.13,
+      "text": "How can I know, exclaimed the servant, that they are all delicious, if I taste only one?"
+    },
+    {
+      "start": 350.13,
+      "end": 354.13,
+      "text": "So he bit a little out of each pair and took them to his master."
+    },
+    {
+      "start": 354.13,
+      "end": 356.57,
+      "text": "Then his master dismissed him."
+    },
+    {
+      "start": 356.57,
+      "end": 357.57,
+      "text": "11."
+    },
+    {
+      "start": 357.57,
+      "end": 362.73,
+      "text": "The Falcon and the Cock A falcon became tame and would fly to his"
+    },
+    {
+      "start": 362.73,
+      "end": 364.69,
+      "text": "master's hand whenever he called."
+    },
+    {
+      "start": 364.69,
+      "end": 370.07,
+      "text": "The cock was afraid of the master, and screamed when he came near him. And the falcon said"
+    },
+    {
+      "start": 370.07,
+      "end": 376.59,
+      "text": "to the cock, You cocks have no sense of gratitude, what a race of slaves you are. As soon as"
+    },
+    {
+      "start": 376.59,
+      "end": 382.71,
+      "text": "you are hungry, you go to your master. It is a very different thing with us wild birds."
+    },
+    {
+      "start": 382.71,
+      "end": 388.11,
+      "text": "We are strong, and we can fly faster than all others, and we are not afraid of men,"
+    },
+    {
+      "start": 388.11,
+      "end": 392.85,
+      "text": "but we go of our own accord and perch on their hands when they call us. We remember"
+    },
+    {
+      "start": 392.85,
+      "end": 399.49,
+      "text": "they have given us food. And the cock said, You do not run away from men, because you never saw"
+    },
+    {
+      "start": 399.49,
+      "end": 409.12,
+      "text": "a falcon roasted, but many a time have we seen cocks roasted. Twelve. The jackals and the"
+    },
+    {
+      "start": 409.12,
+      "end": 414.4,
+      "text": "elephant. The jackals had eaten all the carrion in the forest, and there was nothing left for them"
+    },
+    {
+      "start": 414.4,
+      "end": 420.72,
+      "text": "to devour. Now there was an aged jackal, and he devised a plan to get food. He went to the"
+    },
+    {
+      "start": 420.72,
+      "end": 425.92,
+      "text": "elephant, and said, We used to have a tsar, but he became spoiled."
+    },
+    {
+      "start": 425.92,
+      "end": 429.76,
+      "text": "He would lay such tasks on us that it was impossible to do them."
+    },
+    {
+      "start": 429.76,
+      "end": 435.4,
+      "text": "We wish to elect another tsar, and my people have sent me to beg you to become our tsar."
+    },
+    {
+      "start": 435.4,
+      "end": 441.48,
+      "text": "We live well, whatever you wish, that we will do, and we will honour you in all respects."
+    },
+    {
+      "start": 441.48,
+      "end": 445.18,
+      "text": "Come, let us go to our empire."
+    },
+    {
+      "start": 445.18,
+      "end": 448.34,
+      "text": "The elephant consented and followed the jackal."
+    },
+    {
+      "start": 448.34,
+      "end": 450.56,
+      "text": "The jackal led him into a bog."
+    },
+    {
+      "start": 450.56,
+      "end": 456.06,
+      "text": "When the elephant began to sink, the jackal said, Now order whatever you desire and we"
+    },
+    {
+      "start": 456.06,
+      "end": 460.36,
+      "text": "will do it. The elephant said, I command you to pull"
+    },
+    {
+      "start": 460.36,
+      "end": 466.78,
+      "text": "me out of here. The jackal laughed and said, Seize my tail with your proboscis and I will"
+    },
+    {
+      "start": 466.78,
+      "end": 473.42,
+      "text": "instantly pull you out. The elephant replied, Can you pull me out with your tail?"
+    },
+    {
+      "start": 473.42,
+      "end": 478.58,
+      "text": "But the jackal demanded, Why then did you order anything that was impossible to do?"
+    },
+    {
+      "start": 478.58,
+      "end": 482.94,
+      "text": "We drove away our first Tsar for the very reason that he laid impossible commands on"
+    },
+    {
+      "start": 482.94,
+      "end": 489.7,
+      "text": "us. When the elephant had perished in the swamp, the jackals came and ate him up."
+    },
+    {
+      "start": 489.7,
+      "end": 496.42,
+      "text": "13. The heron, the fishes, and the crab. A heron lived by a pond and was beginning to"
+    },
+    {
+      "start": 496.42,
+      "end": 501.38,
+      "text": "grow old. She was no longer strong enough to catch fish, so she began to plan how she"
+    },
+    {
+      "start": 501.38,
+      "end": 505.14,
+      "text": "might contrive to get a living, and she said to the fishes,"
+    },
+    {
+      "start": 505.14,
+      "end": 509.78,
+      "text": "Fishes, you have not the least idea what a misfortune is threatening you. I have heard"
+    },
+    {
+      "start": 509.78,
+      "end": 514.98,
+      "text": "some men say that they are going to drain the pond and catch all of you. I happen to"
+    },
+    {
+      "start": 514.98,
+      "end": 520.1,
+      "text": "know that beyond this mountain is a nice little pond. I would help you to get there,"
+    },
+    {
+      "start": 520.1,
+      "end": 523.3,
+      "text": "but I am now in years. It is hard for me to fly.\""
+    },
+    {
+      "start": 524.26,
+      "end": 528.98,
+      "text": "The fishes began to beseech the heron to help them. The heron replied,"
+    },
+    {
+      "start": 528.98,
+      "end": 534.02,
+      "text": "I will do my best for you. I will carry you over. But I cannot do it all at once,"
+    },
+    {
+      "start": 534.02,
+      "end": 539.54,
+      "text": "only one at a time.\" And so the fishes were delighted. They all said,"
+    },
+    {
+      "start": 539.54,
+      "end": 546.02,
+      "text": "Carry me, carry me. And the heron began to carry them. She would take up one at a time,"
+    },
+    {
+      "start": 546.02,
+      "end": 551.7,
+      "text": "carry him off to a field, and feast on him. In this way she ate up many fishes."
+    },
+    {
+      "start": 552.42,
+      "end": 558.66,
+      "text": "Now there lived in the pond an aged crab. When the heron began to carry off the fishes,"
+    },
+    {
+      "start": 558.66,
+      "end": 562.34,
+      "text": "he suspected the true state of affairs, and he said,"
+    },
+    {
+      "start": 562.34,
+      "end": 566.74,
+      "text": "Well, now, Heron, take me also to your new settlement."
+    },
+    {
+      "start": 567.7,
+      "end": 572.82,
+      "text": "The Heron seized the crab and flew off with him. As soon as she reached the field,"
+    },
+    {
+      "start": 572.82,
+      "end": 578.42,
+      "text": "she was going to drop the crab. But the crab, seeing the bones of the fishes on the field,"
+    },
+    {
+      "start": 578.42,
+      "end": 583.54,
+      "text": "clasped his claws around the Heron's neck and strangled her, and then he crawled back"
+    },
+    {
+      "start": 583.54,
+      "end": 590.74,
+      "text": "to the pond and told the fishes. 14. The water sprite and the pearl. A man was"
+    },
+    {
+      "start": 590.74,
+      "end": 596.1,
+      "text": "sailing in a boat and dropped a precious pearl into the sea. The man returned to land and"
+    },
+    {
+      "start": 596.1,
+      "end": 602.98,
+      "text": "took a pail and began to scoop up the water and pour it on the shore. For three days unwearingly"
+    },
+    {
+      "start": 602.98,
+      "end": 609.38,
+      "text": "he scooped and poured. On the fourth day a water sprite came up out of the water and asked,"
+    },
+    {
+      "start": 609.38,
+      "end": 617.9,
+      "text": "asked, Why art thou scooping? The man replied, I am scooping because I have lost a pearl."
+    },
+    {
+      "start": 617.9,
+      "end": 624.02,
+      "text": "The water sprite asked, Are you going to stop before long? The man replied, When I have"
+    },
+    {
+      "start": 624.02,
+      "end": 629.98,
+      "text": "scooped the sea dry then I shall stop. Then the water sprite returned into the depths and"
+    },
+    {
+      "start": 629.98,
+      "end": 634.18,
+      "text": "brought up the very same pearl and gave it to the man."
+    },
+    {
+      "start": 634.18,
+      "end": 638.58,
+      "text": "15. The Blind Man and the Milk"
+    },
+    {
+      "start": 638.58,
+      "end": 644.42,
+      "text": "One blind from birth asked a man who could see, What colour is milk? The man who could"
+    },
+    {
+      "start": 644.42,
+      "end": 649.26,
+      "text": "see replied, The colour of milk is like white paper."
+    },
+    {
+      "start": 649.26,
+      "end": 655.34,
+      "text": "The blind man asked, This colour, then, rustles in the hands like paper."
+    },
+    {
+      "start": 655.34,
+      "end": 661.14,
+      "text": "The man who could see replied, No, it is white, like white flower."
+    },
+    {
+      "start": 661.14,
+      "end": 666.46,
+      "text": "The blind man asked, then it is soft and friable like flower, is it?"
+    },
+    {
+      "start": 666.46,
+      "end": 672.3,
+      "text": "The man who could see replied, no, it is simply white, like a rabbit."
+    },
+    {
+      "start": 672.3,
+      "end": 677.78,
+      "text": "The blind man asked, then it is downy and soft, like a rabbit, is it?"
+    },
+    {
+      "start": 677.78,
+      "end": 684.46,
+      "text": "The man who could see replied, no, white is a colour exactly like snow."
+    },
+    {
+      "start": 684.46,
+      "end": 688.42,
+      "text": "The blind man asked, then it is cold like snow, is it?"
+    },
+    {
+      "start": 688.42,
+      "end": 692.62,
+      "text": "And in spite of all the comparisons which the man who could see made, still the blind"
+    },
+    {
+      "start": 692.62,
+      "end": 696.62,
+      "text": "man was wholly unable to comprehend what the colour of milk really was."
+    }
+  ]
+}

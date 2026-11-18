@@ -1,0 +1,19 @@
+{
+  "item": {
+    "index": 21,
+    "video_id": "2EfL1iNj04Y",
+    "title": "Magical Tales/Fables from Leo Tolstoy, draw from the Ancient and Mysterious East.",
+    "duration": 753,
+    "url": "https://www.youtube.com/watch?v=2EfL1iNj04Y",
+    "slug": "magicalTalesFables"
+  },
+  "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/magicalTalesFables",
+  "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/magicalTalesFables/raw_audio/magicalTalesFables.webm",
+  "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/magicalTalesFables/video_work/magicalTalesFables_audio_16k.wav",
+  "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/magicalTalesFables/magicalTalesFablesTranscript.json",
+  "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/magicalTalesFables/magicalTalesFablesTranscript.txt",
+  "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/magicalTalesFables/magicalTalesFables.txt",
+  "chunks": 12,
+  "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/magicalTalesFables/video_work/magicalTalesFables_chunk_audio_joined.wav",
+  "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/magicalTalesFables/magicalTalesFables_neuralsurfer.mp4"
+}

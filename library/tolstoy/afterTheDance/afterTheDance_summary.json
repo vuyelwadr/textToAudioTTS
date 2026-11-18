@@ -1,0 +1,19 @@
+{
+  "item": {
+    "index": 25,
+    "video_id": "7KDw-svo2VU",
+    "title": "After the Dance. Leo Tolstoy's Short Story about Fate, Romance, Chance, and Love.",
+    "duration": 1402,
+    "url": "https://www.youtube.com/watch?v=7KDw-svo2VU",
+    "slug": "afterTheDance"
+  },
+  "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/afterTheDance",
+  "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/afterTheDance/raw_audio/afterTheDance.webm",
+  "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/afterTheDance/video_work/afterTheDance_audio_16k.wav",
+  "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/afterTheDance/afterTheDanceTranscript.json",
+  "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/afterTheDance/afterTheDanceTranscript.txt",
+  "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/afterTheDance/afterTheDance.txt",
+  "chunks": 22,
+  "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/afterTheDance/video_work/afterTheDance_chunk_audio_joined.wav",
+  "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/afterTheDance/afterTheDance_neuralsurfer.mp4"
+}

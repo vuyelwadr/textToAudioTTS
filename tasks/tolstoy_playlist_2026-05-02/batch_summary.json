@@ -1,0 +1,382 @@
+[
+  {
+    "item": {
+      "index": 3,
+      "video_id": "JByLK7HGdmo",
+      "title": "Spiritual Insights. Excerpts from Leo Tolstoy's own Diary.",
+      "duration": 1304,
+      "url": "https://www.youtube.com/watch?v=JByLK7HGdmo",
+      "slug": "spiritualInsights"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/spiritualInsights",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/spiritualInsights/raw_audio/spiritualInsights.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/spiritualInsights/video_work/spiritualInsights_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/spiritualInsights/spiritualInsightsTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/spiritualInsights/spiritualInsightsTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/spiritualInsights/spiritualInsights.txt",
+    "chunks": 21,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/spiritualInsights/video_work/spiritualInsights_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/spiritualInsights/spiritualInsights_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 4,
+      "video_id": "ARBz804DeFw",
+      "title": "THE FORGED COUPON.  A Story of Sin and Then Redemption.  Leo Tolstoy",
+      "duration": 8990,
+      "url": "https://www.youtube.com/watch?v=ARBz804DeFw",
+      "slug": "theForgedCoupon"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theForgedCoupon",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theForgedCoupon/raw_audio/theForgedCoupon.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theForgedCoupon/video_work/theForgedCoupon_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theForgedCoupon/theForgedCouponTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theForgedCoupon/theForgedCouponTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theForgedCoupon/theForgedCoupon.txt",
+    "chunks": 143,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theForgedCoupon/video_work/theForgedCoupon_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theForgedCoupon/theForgedCoupon_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 5,
+      "video_id": "6ynYAFMveRM",
+      "title": "The Invaders.  A Short Story by Leo Tolstoy",
+      "duration": 3688,
+      "url": "https://www.youtube.com/watch?v=6ynYAFMveRM",
+      "slug": "theInvaders"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theInvaders",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theInvaders/raw_audio/theInvaders.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theInvaders/video_work/theInvaders_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theInvaders/theInvadersTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theInvaders/theInvadersTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theInvaders/theInvaders.txt",
+    "chunks": 58,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theInvaders/video_work/theInvaders_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theInvaders/theInvaders_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 7,
+      "video_id": "uUo-YY4WQEM",
+      "title": "Esarhaddon, King of Assyria. A Spiritual Story by Leo Tolstoy.",
+      "duration": 852,
+      "url": "https://www.youtube.com/watch?v=uUo-YY4WQEM",
+      "slug": "esarhaddonKingOfAssyria"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/esarhaddonKingOfAssyria",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/esarhaddonKingOfAssyria/raw_audio/esarhaddonKingOfAssyria.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/esarhaddonKingOfAssyria/video_work/esarhaddonKingOfAssyria_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/esarhaddonKingOfAssyria/esarhaddonKingOfAssyriaTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/esarhaddonKingOfAssyria/esarhaddonKingOfAssyriaTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/esarhaddonKingOfAssyria/esarhaddonKingOfAssyria.txt",
+    "chunks": 14,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/esarhaddonKingOfAssyria/video_work/esarhaddonKingOfAssyria_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/esarhaddonKingOfAssyria/esarhaddonKingOfAssyria_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 9,
+      "video_id": "GGv9PghX9u8",
+      "title": "\"Thou shalt not kill.\" An Insightful Essay by Leo Tolstoy",
+      "duration": 967,
+      "url": "https://www.youtube.com/watch?v=GGv9PghX9u8",
+      "slug": "thouShaltNotKill"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/thouShaltNotKill",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/thouShaltNotKill/raw_audio/thouShaltNotKill.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/thouShaltNotKill/video_work/thouShaltNotKill_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/thouShaltNotKill/thouShaltNotKillTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/thouShaltNotKill/thouShaltNotKillTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/thouShaltNotKill/thouShaltNotKill.txt",
+    "chunks": 15,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/thouShaltNotKill/video_work/thouShaltNotKill_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/thouShaltNotKill/thouShaltNotKill_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 12,
+      "video_id": "051zFuoPXmQ",
+      "title": "\"First Step\". An Insightful Essay on Compassion by Leo Tolstoy",
+      "duration": 1322,
+      "url": "https://www.youtube.com/watch?v=051zFuoPXmQ",
+      "slug": "firstStep"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/firstStep",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/firstStep/raw_audio/firstStep.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/firstStep/video_work/firstStep_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/firstStep/firstStepTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/firstStep/firstStepTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/firstStep/firstStep.txt",
+    "chunks": 21,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/firstStep/video_work/firstStep_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/firstStep/firstStep_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 13,
+      "video_id": "1g2C81xhsKg",
+      "title": "The Hermit's Temptation. \"Mammon or God?\" A Spiritual Short Story by Leo Tolstoy.",
+      "duration": 1111,
+      "url": "https://www.youtube.com/watch?v=1g2C81xhsKg",
+      "slug": "theHermitsTemptationMammonOrGod"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theHermitsTemptationMammonOrGod",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theHermitsTemptationMammonOrGod/raw_audio/theHermitsTemptationMammonOrGod.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theHermitsTemptationMammonOrGod/video_work/theHermitsTemptationMammonOrGod_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theHermitsTemptationMammonOrGod/theHermitsTemptationMammonOrGodTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theHermitsTemptationMammonOrGod/theHermitsTemptationMammonOrGodTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theHermitsTemptationMammonOrGod/theHermitsTemptationMammonOrGod.txt",
+    "chunks": 18,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theHermitsTemptationMammonOrGod/video_work/theHermitsTemptationMammonOrGod_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theHermitsTemptationMammonOrGod/theHermitsTemptationMammonOrGod_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 14,
+      "video_id": "Jnac4yfyI10",
+      "title": "Leo Tolstoy. A Brief Glimpse of His Life and Work.",
+      "duration": 3723,
+      "url": "https://www.youtube.com/watch?v=Jnac4yfyI10",
+      "slug": "aBriefGlimpseOfHisLifeAndWork"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aBriefGlimpseOfHisLifeAndWork",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aBriefGlimpseOfHisLifeAndWork/raw_audio/aBriefGlimpseOfHisLifeAndWork.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aBriefGlimpseOfHisLifeAndWork/video_work/aBriefGlimpseOfHisLifeAndWork_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aBriefGlimpseOfHisLifeAndWork/aBriefGlimpseOfHisLifeAndWorkTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aBriefGlimpseOfHisLifeAndWork/aBriefGlimpseOfHisLifeAndWorkTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aBriefGlimpseOfHisLifeAndWork/aBriefGlimpseOfHisLifeAndWork.txt",
+    "chunks": 59,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aBriefGlimpseOfHisLifeAndWork/video_work/aBriefGlimpseOfHisLifeAndWork_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aBriefGlimpseOfHisLifeAndWork/aBriefGlimpseOfHisLifeAndWork_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 15,
+      "video_id": "L6aFtojvzZc",
+      "title": "The Dream of a Young King. Leo Tolstoy's \"The Young Csar.\"",
+      "duration": 1919,
+      "url": "https://www.youtube.com/watch?v=L6aFtojvzZc",
+      "slug": "theDreamOfAYoungKing"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDreamOfAYoungKing",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDreamOfAYoungKing/raw_audio/theDreamOfAYoungKing.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDreamOfAYoungKing/video_work/theDreamOfAYoungKing_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDreamOfAYoungKing/theDreamOfAYoungKingTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDreamOfAYoungKing/theDreamOfAYoungKingTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDreamOfAYoungKing/theDreamOfAYoungKing.txt",
+    "chunks": 30,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDreamOfAYoungKing/video_work/theDreamOfAYoungKing_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDreamOfAYoungKing/theDreamOfAYoungKing_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 16,
+      "video_id": "NNv1T-V3EKA",
+      "title": "A Spark Neglected Burns the House. A Short Story by Leo Tolstoy.",
+      "duration": 2156,
+      "url": "https://www.youtube.com/watch?v=NNv1T-V3EKA",
+      "slug": "aSparkNeglectedBurnsTheHouse"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aSparkNeglectedBurnsTheHouse",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aSparkNeglectedBurnsTheHouse/raw_audio/aSparkNeglectedBurnsTheHouse.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aSparkNeglectedBurnsTheHouse/video_work/aSparkNeglectedBurnsTheHouse_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aSparkNeglectedBurnsTheHouse/aSparkNeglectedBurnsTheHouseTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aSparkNeglectedBurnsTheHouse/aSparkNeglectedBurnsTheHouseTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aSparkNeglectedBurnsTheHouse/aSparkNeglectedBurnsTheHouse.txt",
+    "chunks": 35,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aSparkNeglectedBurnsTheHouse/video_work/aSparkNeglectedBurnsTheHouse_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aSparkNeglectedBurnsTheHouse/aSparkNeglectedBurnsTheHouse_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 17,
+      "video_id": "XP4P-fGq4OE",
+      "title": "The Kreutzer Sonata: Leo Tolstoy's Classic and Famous Novella",
+      "duration": 12373,
+      "url": "https://www.youtube.com/watch?v=XP4P-fGq4OE",
+      "slug": "theKreutzerSonata"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theKreutzerSonata",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theKreutzerSonata/raw_audio/theKreutzerSonata.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theKreutzerSonata/video_work/theKreutzerSonata_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theKreutzerSonata/theKreutzerSonataTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theKreutzerSonata/theKreutzerSonataTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theKreutzerSonata/theKreutzerSonata.txt",
+    "chunks": 197,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theKreutzerSonata/video_work/theKreutzerSonata_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theKreutzerSonata/theKreutzerSonata_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 18,
+      "video_id": "emn3Hq977BU",
+      "title": "\"A Talk with a Wayfarer\" and a Transformation. A Short Story by Leo Tolstoy",
+      "duration": 268,
+      "url": "https://www.youtube.com/watch?v=emn3Hq977BU",
+      "slug": "aTalkWithAWayfarerAndATransformation"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aTalkWithAWayfarerAndATransformation",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aTalkWithAWayfarerAndATransformation/raw_audio/aTalkWithAWayfarerAndATransformation.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aTalkWithAWayfarerAndATransformation/video_work/aTalkWithAWayfarerAndATransformation_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aTalkWithAWayfarerAndATransformation/aTalkWithAWayfarerAndATransformationTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aTalkWithAWayfarerAndATransformation/aTalkWithAWayfarerAndATransformationTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aTalkWithAWayfarerAndATransformation/aTalkWithAWayfarerAndATransformation.txt",
+    "chunks": 5,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aTalkWithAWayfarerAndATransformation/video_work/aTalkWithAWayfarerAndATransformation_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aTalkWithAWayfarerAndATransformation/aTalkWithAWayfarerAndATransformation_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 19,
+      "video_id": "rtsA8xSSymg",
+      "title": "The Disgraced Officer. Leo Tolstoy's \"An Old Acquaintance \".",
+      "duration": 3811,
+      "url": "https://www.youtube.com/watch?v=rtsA8xSSymg",
+      "slug": "theDisgracedOfficer"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDisgracedOfficer",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDisgracedOfficer/raw_audio/theDisgracedOfficer.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDisgracedOfficer/video_work/theDisgracedOfficer_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDisgracedOfficer/theDisgracedOfficerTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDisgracedOfficer/theDisgracedOfficerTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDisgracedOfficer/theDisgracedOfficer.txt",
+    "chunks": 61,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDisgracedOfficer/video_work/theDisgracedOfficer_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDisgracedOfficer/theDisgracedOfficer_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 20,
+      "video_id": "0Fdh08msVoE",
+      "title": "Leo Tolstoy\u2019s Spiritual Fables. Based on his refashioning of Folk stories from Ancient India.",
+      "duration": 704,
+      "url": "https://www.youtube.com/watch?v=0Fdh08msVoE",
+      "slug": "leoTolstoysSpiritualFables"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/leoTolstoysSpiritualFables",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/leoTolstoysSpiritualFables/raw_audio/leoTolstoysSpiritualFables.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/leoTolstoysSpiritualFables/video_work/leoTolstoysSpiritualFables_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/leoTolstoysSpiritualFables/leoTolstoysSpiritualFablesTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/leoTolstoysSpiritualFables/leoTolstoysSpiritualFablesTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/leoTolstoysSpiritualFables/leoTolstoysSpiritualFables.txt",
+    "chunks": 12,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/leoTolstoysSpiritualFables/video_work/leoTolstoysSpiritualFables_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/leoTolstoysSpiritualFables/leoTolstoysSpiritualFables_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 21,
+      "video_id": "2EfL1iNj04Y",
+      "title": "Magical Tales/Fables from Leo Tolstoy, draw from the Ancient and Mysterious East.",
+      "duration": 753,
+      "url": "https://www.youtube.com/watch?v=2EfL1iNj04Y",
+      "slug": "magicalTalesFables"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/magicalTalesFables",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/magicalTalesFables/raw_audio/magicalTalesFables.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/magicalTalesFables/video_work/magicalTalesFables_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/magicalTalesFables/magicalTalesFablesTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/magicalTalesFables/magicalTalesFablesTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/magicalTalesFables/magicalTalesFables.txt",
+    "chunks": 12,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/magicalTalesFables/video_work/magicalTalesFables_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/magicalTalesFables/magicalTalesFables_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 22,
+      "video_id": "386aJ0yMYi0",
+      "title": "Lost on the Steppe, the Snowstorm. A harrowing short story by Leo Tolstoy",
+      "duration": 4362,
+      "url": "https://www.youtube.com/watch?v=386aJ0yMYi0",
+      "slug": "lostOnTheSteppeTheSnowstorm"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/lostOnTheSteppeTheSnowstorm",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/lostOnTheSteppeTheSnowstorm/raw_audio/lostOnTheSteppeTheSnowstorm.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/lostOnTheSteppeTheSnowstorm/video_work/lostOnTheSteppeTheSnowstorm_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/lostOnTheSteppeTheSnowstorm/lostOnTheSteppeTheSnowstormTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/lostOnTheSteppeTheSnowstorm/lostOnTheSteppeTheSnowstormTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/lostOnTheSteppeTheSnowstorm/lostOnTheSteppeTheSnowstorm.txt",
+    "chunks": 70,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/lostOnTheSteppeTheSnowstorm/video_work/lostOnTheSteppeTheSnowstorm_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/lostOnTheSteppeTheSnowstorm/lostOnTheSteppeTheSnowstorm_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 23,
+      "video_id": "3i9UkNKourk",
+      "title": "Recollections of a Billiard Marker: An Insightful Short Story into Human Nature by Leo Tolstoy",
+      "duration": 2466,
+      "url": "https://www.youtube.com/watch?v=3i9UkNKourk",
+      "slug": "recollectionsOfABilliardMarker"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/recollectionsOfABilliardMarker",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/recollectionsOfABilliardMarker/raw_audio/recollectionsOfABilliardMarker.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/recollectionsOfABilliardMarker/video_work/recollectionsOfABilliardMarker_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/recollectionsOfABilliardMarker/recollectionsOfABilliardMarkerTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/recollectionsOfABilliardMarker/recollectionsOfABilliardMarkerTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/recollectionsOfABilliardMarker/recollectionsOfABilliardMarker.txt",
+    "chunks": 39,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/recollectionsOfABilliardMarker/video_work/recollectionsOfABilliardMarker_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/recollectionsOfABilliardMarker/recollectionsOfABilliardMarker_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 24,
+      "video_id": "5ySqXd0kMDs",
+      "title": "Exiled in Siberia: A Dramatic Short Story by Leo Tolstoy",
+      "duration": 1107,
+      "url": "https://www.youtube.com/watch?v=5ySqXd0kMDs",
+      "slug": "exiledInSiberia"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/exiledInSiberia",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/exiledInSiberia/raw_audio/exiledInSiberia.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/exiledInSiberia/video_work/exiledInSiberia_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/exiledInSiberia/exiledInSiberiaTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/exiledInSiberia/exiledInSiberiaTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/exiledInSiberia/exiledInSiberia.txt",
+    "chunks": 18,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/exiledInSiberia/video_work/exiledInSiberia_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/exiledInSiberia/exiledInSiberia_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 25,
+      "video_id": "7KDw-svo2VU",
+      "title": "After the Dance. Leo Tolstoy's Short Story about Fate, Romance, Chance, and Love.",
+      "duration": 1402,
+      "url": "https://www.youtube.com/watch?v=7KDw-svo2VU",
+      "slug": "afterTheDance"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/afterTheDance",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/afterTheDance/raw_audio/afterTheDance.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/afterTheDance/video_work/afterTheDance_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/afterTheDance/afterTheDanceTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/afterTheDance/afterTheDanceTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/afterTheDance/afterTheDance.txt",
+    "chunks": 22,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/afterTheDance/video_work/afterTheDance_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/afterTheDance/afterTheDance_neuralsurfer.mp4"
+  },
+  {
+    "item": {
+      "index": 26,
+      "video_id": "HbM3Pk8t_fE",
+      "title": "The Captive in the Caucasus. A Short Story by Leo Tolstoy",
+      "duration": 4034,
+      "url": "https://www.youtube.com/watch?v=HbM3Pk8t_fE",
+      "slug": "theCaptiveInTheCaucasus"
+    },
+    "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theCaptiveInTheCaucasus",
+    "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theCaptiveInTheCaucasus/raw_audio/theCaptiveInTheCaucasus.webm",
+    "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theCaptiveInTheCaucasus/video_work/theCaptiveInTheCaucasus_audio_16k.wav",
+    "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theCaptiveInTheCaucasus/theCaptiveInTheCaucasusTranscript.json",
+    "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theCaptiveInTheCaucasus/theCaptiveInTheCaucasusTranscript.txt",
+    "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theCaptiveInTheCaucasus/theCaptiveInTheCaucasus.txt",
+    "chunks": 64,
+    "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theCaptiveInTheCaucasus/video_work/theCaptiveInTheCaucasus_chunk_audio_joined.wav",
+    "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theCaptiveInTheCaucasus/theCaptiveInTheCaucasus_neuralsurfer.mp4"
+  }
+]

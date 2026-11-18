@@ -1,0 +1,1737 @@
+{
+  "version": 2,
+  "writtenAt": 1777684123316,
+  "toolAggregates": {
+    "bash": {
+      "tool": "bash",
+      "count": 230,
+      "successCount": 230,
+      "failureCount": 0,
+      "totalDuration": 3584851
+    },
+    "read": {
+      "tool": "read",
+      "count": 64,
+      "successCount": 64,
+      "failureCount": 0,
+      "totalDuration": 542
+    },
+    "session-context_memory_workspace_overview": {
+      "tool": "session-context_memory_workspace_overview",
+      "count": 1,
+      "successCount": 0,
+      "failureCount": 1,
+      "totalDuration": 31837
+    },
+    "session-context_memory_dossier": {
+      "tool": "session-context_memory_dossier",
+      "count": 2,
+      "successCount": 0,
+      "failureCount": 2,
+      "totalDuration": 50905
+    },
+    "session-context_codex_recent_messages": {
+      "tool": "session-context_codex_recent_messages",
+      "count": 1,
+      "successCount": 0,
+      "failureCount": 1,
+      "totalDuration": 236
+    },
+    "todowrite": {
+      "tool": "todowrite",
+      "count": 1,
+      "successCount": 1,
+      "failureCount": 0,
+      "totalDuration": 2
+    },
+    "write": {
+      "tool": "write",
+      "count": 12,
+      "successCount": 12,
+      "failureCount": 0,
+      "totalDuration": 83
+    },
+    "grep": {
+      "tool": "grep",
+      "count": 16,
+      "successCount": 16,
+      "failureCount": 0,
+      "totalDuration": 317
+    },
+    "glob": {
+      "tool": "glob",
+      "count": 3,
+      "successCount": 3,
+      "failureCount": 0,
+      "totalDuration": 73
+    },
+    "edit": {
+      "tool": "edit",
+      "count": 18,
+      "successCount": 18,
+      "failureCount": 0,
+      "totalDuration": 124
+    }
+  },
+  "activeAgent": {
+    "ses_21abea0acffeRGUJzxq5pu31aQ": "nvidia-coder"
+  },
+  "delegationChains": {},
+  "agentSessions": {
+    "ses_21abea0acffeRGUJzxq5pu31aQ": {
+      "agentName": "nvidia-coder",
+      "lastToolCallTime": 1777684123309,
+      "lastAgentEventTime": 1777667759972,
+      "delegationActive": true,
+      "activeInvocationId": 24,
+      "lastInvocationIdByAgent": {
+        "coder": 24
+      },
+      "windows": {
+        "coder:24": {
+          "id": 24,
+          "agentName": "coder",
+          "startedAtMs": 1777682423703,
+          "toolCalls": 30,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777684123315,
+          "recentToolCalls": [
+            {
+              "tool": "bash",
+              "argsHash": 5871665308878346000,
+              "timestamp": 1777682699613
+            },
+            {
+              "tool": "bash",
+              "argsHash": 11125889011455037000,
+              "timestamp": 1777682728434
+            },
+            {
+              "tool": "bash",
+              "argsHash": 10910088095441822000,
+              "timestamp": 1777682753115
+            },
+            {
+              "tool": "bash",
+              "argsHash": 8340426925817100000,
+              "timestamp": 1777682817273
+            },
+            {
+              "tool": "bash",
+              "argsHash": 3253343564920917000,
+              "timestamp": 1777682846589
+            },
+            {
+              "tool": "bash",
+              "argsHash": 7043766890847691000,
+              "timestamp": 1777682879278
+            },
+            {
+              "tool": "grep",
+              "argsHash": 13149017602246138000,
+              "timestamp": 1777682935615
+            },
+            {
+              "tool": "read",
+              "argsHash": 8687856626091779000,
+              "timestamp": 1777682960436
+            },
+            {
+              "tool": "read",
+              "argsHash": 3602729030835136000,
+              "timestamp": 1777683020679
+            },
+            {
+              "tool": "write",
+              "argsHash": 1814574045127385600,
+              "timestamp": 1777683084712
+            },
+            {
+              "tool": "bash",
+              "argsHash": 13895968611297317000,
+              "timestamp": 1777683111279
+            },
+            {
+              "tool": "bash",
+              "argsHash": 13122085277573368000,
+              "timestamp": 1777683185982
+            },
+            {
+              "tool": "bash",
+              "argsHash": 1088736772440289900,
+              "timestamp": 1777683228759
+            },
+            {
+              "tool": "bash",
+              "argsHash": 13887523235742194000,
+              "timestamp": 1777683259284
+            },
+            {
+              "tool": "bash",
+              "argsHash": 7362482906045232000,
+              "timestamp": 1777683997536
+            },
+            {
+              "tool": "bash",
+              "argsHash": 5666037884641188000,
+              "timestamp": 1777684030819
+            },
+            {
+              "tool": "bash",
+              "argsHash": 1523527794439345000,
+              "timestamp": 1777684071276
+            },
+            {
+              "tool": "bash",
+              "argsHash": 11355703592318010000,
+              "timestamp": 1777684098155
+            },
+            {
+              "tool": "read",
+              "argsHash": 12595131079172479000,
+              "timestamp": 1777684123263
+            },
+            {
+              "tool": "read",
+              "argsHash": 16304060539862290000,
+              "timestamp": 1777684123309
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:23": {
+          "id": 23,
+          "agentName": "coder",
+          "startedAtMs": 1777682180555,
+          "toolCalls": 7,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777682416880,
+          "recentToolCalls": [
+            {
+              "tool": "edit",
+              "argsHash": 10444836532138980000,
+              "timestamp": 1777682237627
+            },
+            {
+              "tool": "grep",
+              "argsHash": 7903363565632332000,
+              "timestamp": 1777682284570
+            },
+            {
+              "tool": "read",
+              "argsHash": 7942503549266048000,
+              "timestamp": 1777682312036
+            },
+            {
+              "tool": "read",
+              "argsHash": 15056585306669976000,
+              "timestamp": 1777682337100
+            },
+            {
+              "tool": "read",
+              "argsHash": 3535333618903442400,
+              "timestamp": 1777682362161
+            },
+            {
+              "tool": "read",
+              "argsHash": 14169786454384525000,
+              "timestamp": 1777682392903
+            },
+            {
+              "tool": "grep",
+              "argsHash": 15636406957592383000,
+              "timestamp": 1777682416852
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:22": {
+          "id": 22,
+          "agentName": "coder",
+          "startedAtMs": 1777681506935,
+          "toolCalls": 18,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777682059854,
+          "recentToolCalls": [
+            {
+              "tool": "read",
+              "argsHash": 6619762711779862000,
+              "timestamp": 1777681574752
+            },
+            {
+              "tool": "bash",
+              "argsHash": 4752707480146308000,
+              "timestamp": 1777681576449
+            },
+            {
+              "tool": "read",
+              "argsHash": 1131551567950100000,
+              "timestamp": 1777681615754
+            },
+            {
+              "tool": "grep",
+              "argsHash": 6656942497329475000,
+              "timestamp": 1777681633081
+            },
+            {
+              "tool": "read",
+              "argsHash": 6410932478867746000,
+              "timestamp": 1777681649559
+            },
+            {
+              "tool": "grep",
+              "argsHash": 13049431162289795000,
+              "timestamp": 1777681672131
+            },
+            {
+              "tool": "read",
+              "argsHash": 10487893047320211000,
+              "timestamp": 1777681688092
+            },
+            {
+              "tool": "read",
+              "argsHash": 2535336619237775400,
+              "timestamp": 1777681720113
+            },
+            {
+              "tool": "grep",
+              "argsHash": 1907681625627561500,
+              "timestamp": 1777681750250
+            },
+            {
+              "tool": "read",
+              "argsHash": 16571850761837117000,
+              "timestamp": 1777681766130
+            },
+            {
+              "tool": "write",
+              "argsHash": 12313033276103560000,
+              "timestamp": 1777681910357
+            },
+            {
+              "tool": "edit",
+              "argsHash": 4044474188411212000,
+              "timestamp": 1777681929574
+            },
+            {
+              "tool": "bash",
+              "argsHash": 11442564835919840000,
+              "timestamp": 1777681946945
+            },
+            {
+              "tool": "bash",
+              "argsHash": 5828052766313638000,
+              "timestamp": 1777682019341
+            },
+            {
+              "tool": "bash",
+              "argsHash": 16027396593175704000,
+              "timestamp": 1777682039408
+            },
+            {
+              "tool": "read",
+              "argsHash": 7715914057783935000,
+              "timestamp": 1777682057395
+            },
+            {
+              "tool": "read",
+              "argsHash": 7595811441026129000,
+              "timestamp": 1777682059716
+            },
+            {
+              "tool": "read",
+              "argsHash": 13992563990319188000,
+              "timestamp": 1777682059847
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:21": {
+          "id": 21,
+          "agentName": "coder",
+          "startedAtMs": 1777681072512,
+          "toolCalls": 4,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777681293706,
+          "recentToolCalls": [
+            {
+              "tool": "write",
+              "argsHash": 16815408955455980000,
+              "timestamp": 1777681207591
+            },
+            {
+              "tool": "bash",
+              "argsHash": 15464097397862003000,
+              "timestamp": 1777681238065
+            },
+            {
+              "tool": "bash",
+              "argsHash": 4265551769016790500,
+              "timestamp": 1777681247989
+            },
+            {
+              "tool": "bash",
+              "argsHash": 16087337403800373000,
+              "timestamp": 1777681257820
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:20": {
+          "id": 20,
+          "agentName": "coder",
+          "startedAtMs": 1777681067838,
+          "toolCalls": 0,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777681067838,
+          "recentToolCalls": [],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:19": {
+          "id": 19,
+          "agentName": "coder",
+          "startedAtMs": 1777680270054,
+          "toolCalls": 13,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777681030834,
+          "recentToolCalls": [
+            {
+              "tool": "bash",
+              "argsHash": 1083029780639936800,
+              "timestamp": 1777680897809
+            },
+            {
+              "tool": "bash",
+              "argsHash": 5929791487802678000,
+              "timestamp": 1777680941842
+            },
+            {
+              "tool": "bash",
+              "argsHash": 4313427086310554000,
+              "timestamp": 1777680942889
+            },
+            {
+              "tool": "bash",
+              "argsHash": 10739137401801138000,
+              "timestamp": 1777680956262
+            },
+            {
+              "tool": "bash",
+              "argsHash": 14765693718935132000,
+              "timestamp": 1777680957171
+            },
+            {
+              "tool": "bash",
+              "argsHash": 17594981086793066000,
+              "timestamp": 1777680969609
+            },
+            {
+              "tool": "read",
+              "argsHash": 1329222030731104800,
+              "timestamp": 1777680970851
+            },
+            {
+              "tool": "bash",
+              "argsHash": 16150963680689195000,
+              "timestamp": 1777680998272
+            },
+            {
+              "tool": "bash",
+              "argsHash": 13937834117535082000,
+              "timestamp": 1777681000104
+            },
+            {
+              "tool": "bash",
+              "argsHash": 14917879973620730000,
+              "timestamp": 1777681018693
+            },
+            {
+              "tool": "bash",
+              "argsHash": 18273729861236523000,
+              "timestamp": 1777681019491
+            },
+            {
+              "tool": "read",
+              "argsHash": 12246146003750940000,
+              "timestamp": 1777681030593
+            },
+            {
+              "tool": "read",
+              "argsHash": 8662000693151815000,
+              "timestamp": 1777681030828
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:18": {
+          "id": 18,
+          "agentName": "coder",
+          "startedAtMs": 1777680267619,
+          "toolCalls": 0,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777680267619,
+          "recentToolCalls": [],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:17": {
+          "id": 17,
+          "agentName": "coder",
+          "startedAtMs": 1777680256120,
+          "toolCalls": 0,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777680256120,
+          "recentToolCalls": [],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:16": {
+          "id": 16,
+          "agentName": "coder",
+          "startedAtMs": 1777680244581,
+          "toolCalls": 0,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777680244581,
+          "recentToolCalls": [],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:15": {
+          "id": 15,
+          "agentName": "coder",
+          "startedAtMs": 1777680227377,
+          "toolCalls": 1,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777680227377,
+          "recentToolCalls": [
+            {
+              "tool": "bash",
+              "argsHash": 2339731348247059500,
+              "timestamp": 1777680233785
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:14": {
+          "id": 14,
+          "agentName": "coder",
+          "startedAtMs": 1777679588790,
+          "toolCalls": 26,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777680216136,
+          "recentToolCalls": [
+            {
+              "tool": "bash",
+              "argsHash": 17304366085470177000,
+              "timestamp": 1777679832312
+            },
+            {
+              "tool": "edit",
+              "argsHash": 4273717142115277000,
+              "timestamp": 1777679851550
+            },
+            {
+              "tool": "bash",
+              "argsHash": 345336593882838400,
+              "timestamp": 1777679869004
+            },
+            {
+              "tool": "edit",
+              "argsHash": 11027162997557460000,
+              "timestamp": 1777679890454
+            },
+            {
+              "tool": "bash",
+              "argsHash": 17990847339605369000,
+              "timestamp": 1777679909234
+            },
+            {
+              "tool": "grep",
+              "argsHash": 3962055788012296700,
+              "timestamp": 1777679926994
+            },
+            {
+              "tool": "edit",
+              "argsHash": 9448824122641224000,
+              "timestamp": 1777679948028
+            },
+            {
+              "tool": "edit",
+              "argsHash": 3443924365266481700,
+              "timestamp": 1777679966421
+            },
+            {
+              "tool": "bash",
+              "argsHash": 4454393442257140700,
+              "timestamp": 1777679989692
+            },
+            {
+              "tool": "read",
+              "argsHash": 14221169006054540000,
+              "timestamp": 1777680006496
+            },
+            {
+              "tool": "edit",
+              "argsHash": 2308888859983411700,
+              "timestamp": 1777680030568
+            },
+            {
+              "tool": "bash",
+              "argsHash": 6334079378765762000,
+              "timestamp": 1777680050061
+            },
+            {
+              "tool": "edit",
+              "argsHash": 17987736838989000000,
+              "timestamp": 1777680070084
+            },
+            {
+              "tool": "bash",
+              "argsHash": 1278848071193723400,
+              "timestamp": 1777680089298
+            },
+            {
+              "tool": "read",
+              "argsHash": 12690269532680876000,
+              "timestamp": 1777680118504
+            },
+            {
+              "tool": "edit",
+              "argsHash": 7849399656284668000,
+              "timestamp": 1777680137463
+            },
+            {
+              "tool": "bash",
+              "argsHash": 18375787442276354000,
+              "timestamp": 1777680157426
+            },
+            {
+              "tool": "edit",
+              "argsHash": 2272348903875181800,
+              "timestamp": 1777680178388
+            },
+            {
+              "tool": "bash",
+              "argsHash": 9029848375820298000,
+              "timestamp": 1777680196281
+            },
+            {
+              "tool": "edit",
+              "argsHash": 18157682287620037000,
+              "timestamp": 1777680216132
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:13": {
+          "id": 13,
+          "agentName": "coder",
+          "startedAtMs": 1777679574755,
+          "toolCalls": 0,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777679583174,
+          "recentToolCalls": [],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:12": {
+          "id": 12,
+          "agentName": "coder",
+          "startedAtMs": 1777678896223,
+          "toolCalls": 3,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777679389818,
+          "recentToolCalls": [
+            {
+              "tool": "write",
+              "argsHash": 566248450928685250,
+              "timestamp": 1777679296510
+            },
+            {
+              "tool": "write",
+              "argsHash": 11966464161029247000,
+              "timestamp": 1777679389814
+            },
+            {
+              "tool": "bash",
+              "argsHash": 5831003636871401000,
+              "timestamp": 1777679418684
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:11": {
+          "id": 11,
+          "agentName": "coder",
+          "startedAtMs": 1777678257712,
+          "toolCalls": 7,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777678506896,
+          "recentToolCalls": [
+            {
+              "tool": "bash",
+              "argsHash": 3388138510924186000,
+              "timestamp": 1777678288668
+            },
+            {
+              "tool": "bash",
+              "argsHash": 4339897850992052000,
+              "timestamp": 1777678300417
+            },
+            {
+              "tool": "grep",
+              "argsHash": 14190426266608423000,
+              "timestamp": 1777678335813
+            },
+            {
+              "tool": "read",
+              "argsHash": 10492118702512167000,
+              "timestamp": 1777678347617
+            },
+            {
+              "tool": "read",
+              "argsHash": 8209469542644993000,
+              "timestamp": 1777678368816
+            },
+            {
+              "tool": "write",
+              "argsHash": 12662942871362986000,
+              "timestamp": 1777678506892
+            },
+            {
+              "tool": "bash",
+              "argsHash": 3766649940226002400,
+              "timestamp": 1777678524062
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:10": {
+          "id": 10,
+          "agentName": "coder",
+          "startedAtMs": 1777677911008,
+          "toolCalls": 10,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777678134488,
+          "recentToolCalls": [
+            {
+              "tool": "bash",
+              "argsHash": 9431143188864532000,
+              "timestamp": 1777677934663
+            },
+            {
+              "tool": "bash",
+              "argsHash": 8146150455206735000,
+              "timestamp": 1777677951325
+            },
+            {
+              "tool": "bash",
+              "argsHash": 13528585742169813000,
+              "timestamp": 1777677959668
+            },
+            {
+              "tool": "bash",
+              "argsHash": 9806267304730173000,
+              "timestamp": 1777677970735
+            },
+            {
+              "tool": "bash",
+              "argsHash": 8964708668841018000,
+              "timestamp": 1777677987881
+            },
+            {
+              "tool": "bash",
+              "argsHash": 1423017581652721400,
+              "timestamp": 1777678003160
+            },
+            {
+              "tool": "bash",
+              "argsHash": 17130542864198770000,
+              "timestamp": 1777678018461
+            },
+            {
+              "tool": "bash",
+              "argsHash": 15718010320815931000,
+              "timestamp": 1777678033592
+            },
+            {
+              "tool": "bash",
+              "argsHash": 15102205438112893000,
+              "timestamp": 1777678051947
+            },
+            {
+              "tool": "bash",
+              "argsHash": 226276735453380900,
+              "timestamp": 1777678066993
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:9": {
+          "id": 9,
+          "agentName": "coder",
+          "startedAtMs": 1777677604736,
+          "toolCalls": 5,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777677863939,
+          "recentToolCalls": [
+            {
+              "tool": "bash",
+              "argsHash": 14928654650536757000,
+              "timestamp": 1777677608236
+            },
+            {
+              "tool": "bash",
+              "argsHash": 13759933112846313000,
+              "timestamp": 1777677623822
+            },
+            {
+              "tool": "bash",
+              "argsHash": 8240881517788861000,
+              "timestamp": 1777677841996
+            },
+            {
+              "tool": "bash",
+              "argsHash": 5432663470157418000,
+              "timestamp": 1777677863928
+            },
+            {
+              "tool": "bash",
+              "argsHash": 4314386311747171000,
+              "timestamp": 1777677882436
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:8": {
+          "id": 8,
+          "agentName": "coder",
+          "startedAtMs": 1777677031764,
+          "toolCalls": 21,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777677594453,
+          "recentToolCalls": [
+            {
+              "tool": "read",
+              "argsHash": 17626002703656446000,
+              "timestamp": 1777677091268
+            },
+            {
+              "tool": "bash",
+              "argsHash": 18141519121084443000,
+              "timestamp": 1777677105549
+            },
+            {
+              "tool": "grep",
+              "argsHash": 4857645716479161000,
+              "timestamp": 1777677107198
+            },
+            {
+              "tool": "bash",
+              "argsHash": 3758373359087922000,
+              "timestamp": 1777677126456
+            },
+            {
+              "tool": "grep",
+              "argsHash": 823216951846513700,
+              "timestamp": 1777677127495
+            },
+            {
+              "tool": "bash",
+              "argsHash": 16535177053524015000,
+              "timestamp": 1777677148132
+            },
+            {
+              "tool": "bash",
+              "argsHash": 1086298488261582100,
+              "timestamp": 1777677150478
+            },
+            {
+              "tool": "bash",
+              "argsHash": 17980268868038425000,
+              "timestamp": 1777677173753
+            },
+            {
+              "tool": "bash",
+              "argsHash": 15912384813742150000,
+              "timestamp": 1777677189627
+            },
+            {
+              "tool": "bash",
+              "argsHash": 15841636880849037000,
+              "timestamp": 1777677377664
+            },
+            {
+              "tool": "write",
+              "argsHash": 18318078956315615000,
+              "timestamp": 1777677468014
+            },
+            {
+              "tool": "bash",
+              "argsHash": 8221358887135288000,
+              "timestamp": 1777677476081
+            },
+            {
+              "tool": "bash",
+              "argsHash": 9139741585513540000,
+              "timestamp": 1777677497323
+            },
+            {
+              "tool": "bash",
+              "argsHash": 16577926403710632000,
+              "timestamp": 1777677505359
+            },
+            {
+              "tool": "bash",
+              "argsHash": 11725871977983020000,
+              "timestamp": 1777677532042
+            },
+            {
+              "tool": "bash",
+              "argsHash": 8941305618908672000,
+              "timestamp": 1777677545392
+            },
+            {
+              "tool": "bash",
+              "argsHash": 14934561385386496000,
+              "timestamp": 1777677554580
+            },
+            {
+              "tool": "bash",
+              "argsHash": 5562440129570834000,
+              "timestamp": 1777677567981
+            },
+            {
+              "tool": "bash",
+              "argsHash": 1076785465681616100,
+              "timestamp": 1777677578513
+            },
+            {
+              "tool": "bash",
+              "argsHash": 12883917493479993000,
+              "timestamp": 1777677594431
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:7": {
+          "id": 7,
+          "agentName": "coder",
+          "startedAtMs": 1777673859916,
+          "toolCalls": 28,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777674820744,
+          "recentToolCalls": [
+            {
+              "tool": "bash",
+              "argsHash": 5756049783533279000,
+              "timestamp": 1777674642047
+            },
+            {
+              "tool": "bash",
+              "argsHash": 10141107362781886000,
+              "timestamp": 1777674649646
+            },
+            {
+              "tool": "bash",
+              "argsHash": 18163503606616875000,
+              "timestamp": 1777674660606
+            },
+            {
+              "tool": "bash",
+              "argsHash": 15147333278132392000,
+              "timestamp": 1777674671581
+            },
+            {
+              "tool": "bash",
+              "argsHash": 8977629601755033000,
+              "timestamp": 1777674683186
+            },
+            {
+              "tool": "bash",
+              "argsHash": 10308282910964204000,
+              "timestamp": 1777674692727
+            },
+            {
+              "tool": "bash",
+              "argsHash": 184072044945865200,
+              "timestamp": 1777674703066
+            },
+            {
+              "tool": "bash",
+              "argsHash": 16711399528725199000,
+              "timestamp": 1777674711323
+            },
+            {
+              "tool": "bash",
+              "argsHash": 8717779167275868000,
+              "timestamp": 1777674722506
+            },
+            {
+              "tool": "bash",
+              "argsHash": 15188893368051767000,
+              "timestamp": 1777674731969
+            },
+            {
+              "tool": "bash",
+              "argsHash": 1155777424713367000,
+              "timestamp": 1777674743197
+            },
+            {
+              "tool": "bash",
+              "argsHash": 4241183321222176300,
+              "timestamp": 1777674755392
+            },
+            {
+              "tool": "bash",
+              "argsHash": 7399903003831714000,
+              "timestamp": 1777674766710
+            },
+            {
+              "tool": "edit",
+              "argsHash": 12903701449878673000,
+              "timestamp": 1777674779956
+            },
+            {
+              "tool": "edit",
+              "argsHash": 5324043730473810000,
+              "timestamp": 1777674781522
+            },
+            {
+              "tool": "bash",
+              "argsHash": 15167996719187352000,
+              "timestamp": 1777674791286
+            },
+            {
+              "tool": "bash",
+              "argsHash": 2320120767737766400,
+              "timestamp": 1777674798507
+            },
+            {
+              "tool": "bash",
+              "argsHash": 6580964587168179000,
+              "timestamp": 1777674806184
+            },
+            {
+              "tool": "bash",
+              "argsHash": 17783714374681172000,
+              "timestamp": 1777674813072
+            },
+            {
+              "tool": "bash",
+              "argsHash": 6460227582474541000,
+              "timestamp": 1777674820282
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:6": {
+          "id": 6,
+          "agentName": "coder",
+          "startedAtMs": 1777671289335,
+          "toolCalls": 22,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777671603868,
+          "recentToolCalls": [
+            {
+              "tool": "write",
+              "argsHash": 13353641294030332000,
+              "timestamp": 1777671436795
+            },
+            {
+              "tool": "grep",
+              "argsHash": 15381040480254691000,
+              "timestamp": 1777671450735
+            },
+            {
+              "tool": "bash",
+              "argsHash": 17495724586666285000,
+              "timestamp": 1777671452039
+            },
+            {
+              "tool": "glob",
+              "argsHash": 17259607821852660000,
+              "timestamp": 1777671457532
+            },
+            {
+              "tool": "grep",
+              "argsHash": 16586955292913822000,
+              "timestamp": 1777671463873
+            },
+            {
+              "tool": "read",
+              "argsHash": 12115129162269166000,
+              "timestamp": 1777671470304
+            },
+            {
+              "tool": "read",
+              "argsHash": 54050891295937710,
+              "timestamp": 1777671476745
+            },
+            {
+              "tool": "read",
+              "argsHash": 1743038586852278300,
+              "timestamp": 1777671483725
+            },
+            {
+              "tool": "read",
+              "argsHash": 10603149691326317000,
+              "timestamp": 1777671490219
+            },
+            {
+              "tool": "grep",
+              "argsHash": 16320176812163959000,
+              "timestamp": 1777671500303
+            },
+            {
+              "tool": "edit",
+              "argsHash": 14874272343487460000,
+              "timestamp": 1777671514605
+            },
+            {
+              "tool": "edit",
+              "argsHash": 15489225769713949000,
+              "timestamp": 1777671525227
+            },
+            {
+              "tool": "edit",
+              "argsHash": 7499692517971304000,
+              "timestamp": 1777671534452
+            },
+            {
+              "tool": "edit",
+              "argsHash": 9259669017343000000,
+              "timestamp": 1777671541915
+            },
+            {
+              "tool": "bash",
+              "argsHash": 10510008284378294000,
+              "timestamp": 1777671549686
+            },
+            {
+              "tool": "bash",
+              "argsHash": 5701517200229564000,
+              "timestamp": 1777671558142
+            },
+            {
+              "tool": "bash",
+              "argsHash": 6774563060364422000,
+              "timestamp": 1777671566851
+            },
+            {
+              "tool": "bash",
+              "argsHash": 128290876489816130,
+              "timestamp": 1777671574929
+            },
+            {
+              "tool": "bash",
+              "argsHash": 7702403901693863000,
+              "timestamp": 1777671582243
+            },
+            {
+              "tool": "bash",
+              "argsHash": 7224196465240030000,
+              "timestamp": 1777671603322
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:5": {
+          "id": 5,
+          "agentName": "coder",
+          "startedAtMs": 1777670944830,
+          "toolCalls": 23,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777671275174,
+          "recentToolCalls": [
+            {
+              "tool": "read",
+              "argsHash": 7940479476160310000,
+              "timestamp": 1777670984957
+            },
+            {
+              "tool": "read",
+              "argsHash": 4800549869022797000,
+              "timestamp": 1777671004903
+            },
+            {
+              "tool": "bash",
+              "argsHash": 10877198543377994000,
+              "timestamp": 1777671006326
+            },
+            {
+              "tool": "write",
+              "argsHash": 12820219950723398000,
+              "timestamp": 1777671095794
+            },
+            {
+              "tool": "read",
+              "argsHash": 8881712814125520000,
+              "timestamp": 1777671173088
+            },
+            {
+              "tool": "read",
+              "argsHash": 16411461992924795000,
+              "timestamp": 1777671175856
+            },
+            {
+              "tool": "read",
+              "argsHash": 12280513533157628000,
+              "timestamp": 1777671176815
+            },
+            {
+              "tool": "read",
+              "argsHash": 7542461532222780000,
+              "timestamp": 1777671186837
+            },
+            {
+              "tool": "grep",
+              "argsHash": 4712321227130705000,
+              "timestamp": 1777671187770
+            },
+            {
+              "tool": "read",
+              "argsHash": 1599150838801973200,
+              "timestamp": 1777671197317
+            },
+            {
+              "tool": "read",
+              "argsHash": 5641809076982333000,
+              "timestamp": 1777671200333
+            },
+            {
+              "tool": "read",
+              "argsHash": 15321029676672720000,
+              "timestamp": 1777671200844
+            },
+            {
+              "tool": "read",
+              "argsHash": 5522283416347785000,
+              "timestamp": 1777671210459
+            },
+            {
+              "tool": "read",
+              "argsHash": 7233770700365335000,
+              "timestamp": 1777671211036
+            },
+            {
+              "tool": "read",
+              "argsHash": 1730577881109778200,
+              "timestamp": 1777671229572
+            },
+            {
+              "tool": "read",
+              "argsHash": 2836621209976645000,
+              "timestamp": 1777671237114
+            },
+            {
+              "tool": "grep",
+              "argsHash": 5321441438248402000,
+              "timestamp": 1777671251340
+            },
+            {
+              "tool": "read",
+              "argsHash": 15166798709344207000,
+              "timestamp": 1777671258370
+            },
+            {
+              "tool": "grep",
+              "argsHash": 18038168059614482000,
+              "timestamp": 1777671266133
+            },
+            {
+              "tool": "read",
+              "argsHash": 13456976764145030000,
+              "timestamp": 1777671275167
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:4": {
+          "id": 4,
+          "agentName": "coder",
+          "startedAtMs": 1777670278387,
+          "toolCalls": 34,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777670771657,
+          "recentToolCalls": [
+            {
+              "tool": "bash",
+              "argsHash": 6673528715807236000,
+              "timestamp": 1777670537162
+            },
+            {
+              "tool": "bash",
+              "argsHash": 4275326604989725000,
+              "timestamp": 1777670543828
+            },
+            {
+              "tool": "bash",
+              "argsHash": 7508628474441424000,
+              "timestamp": 1777670546267
+            },
+            {
+              "tool": "bash",
+              "argsHash": 5421274877020815000,
+              "timestamp": 1777670569202
+            },
+            {
+              "tool": "bash",
+              "argsHash": 10092028724561530000,
+              "timestamp": 1777670573785
+            },
+            {
+              "tool": "bash",
+              "argsHash": 4484004031722422300,
+              "timestamp": 1777670591472
+            },
+            {
+              "tool": "bash",
+              "argsHash": 9132393279556580000,
+              "timestamp": 1777670597109
+            },
+            {
+              "tool": "bash",
+              "argsHash": 5979503239634439000,
+              "timestamp": 1777670603282
+            },
+            {
+              "tool": "bash",
+              "argsHash": 5960309630316305000,
+              "timestamp": 1777670624757
+            },
+            {
+              "tool": "bash",
+              "argsHash": 18062852824360215000,
+              "timestamp": 1777670631423
+            },
+            {
+              "tool": "bash",
+              "argsHash": 349519505698753600,
+              "timestamp": 1777670635360
+            },
+            {
+              "tool": "bash",
+              "argsHash": 13935255278752119000,
+              "timestamp": 1777670663552
+            },
+            {
+              "tool": "bash",
+              "argsHash": 14070074017287672000,
+              "timestamp": 1777670670908
+            },
+            {
+              "tool": "bash",
+              "argsHash": 8352264030907361000,
+              "timestamp": 1777670677689
+            },
+            {
+              "tool": "bash",
+              "argsHash": 671039707183492000,
+              "timestamp": 1777670699048
+            },
+            {
+              "tool": "bash",
+              "argsHash": 11025228008065227000,
+              "timestamp": 1777670702377
+            },
+            {
+              "tool": "bash",
+              "argsHash": 1053935435777012600,
+              "timestamp": 1777670706701
+            },
+            {
+              "tool": "bash",
+              "argsHash": 12750041914847160000,
+              "timestamp": 1777670729149
+            },
+            {
+              "tool": "bash",
+              "argsHash": 9587016809572966000,
+              "timestamp": 1777670732978
+            },
+            {
+              "tool": "bash",
+              "argsHash": 13140249288792932000,
+              "timestamp": 1777670737368
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:3": {
+          "id": 3,
+          "agentName": "coder",
+          "startedAtMs": 1777668641821,
+          "toolCalls": 52,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777669184154,
+          "recentToolCalls": [
+            {
+              "tool": "bash",
+              "argsHash": 1109908147707608000,
+              "timestamp": 1777669002534
+            },
+            {
+              "tool": "bash",
+              "argsHash": 5084712975971445000,
+              "timestamp": 1777669008708
+            },
+            {
+              "tool": "bash",
+              "argsHash": 5342048665040028000,
+              "timestamp": 1777669010720
+            },
+            {
+              "tool": "bash",
+              "argsHash": 2139072426944800000,
+              "timestamp": 1777669033533
+            },
+            {
+              "tool": "bash",
+              "argsHash": 9855166678674274000,
+              "timestamp": 1777669036286
+            },
+            {
+              "tool": "bash",
+              "argsHash": 17957085155194825000,
+              "timestamp": 1777669038127
+            },
+            {
+              "tool": "bash",
+              "argsHash": 6058464200113635000,
+              "timestamp": 1777669062154
+            },
+            {
+              "tool": "bash",
+              "argsHash": 12554153129712990000,
+              "timestamp": 1777669063558
+            },
+            {
+              "tool": "bash",
+              "argsHash": 12796400145506830000,
+              "timestamp": 1777669083930
+            },
+            {
+              "tool": "bash",
+              "argsHash": 3431725300470906000,
+              "timestamp": 1777669086674
+            },
+            {
+              "tool": "bash",
+              "argsHash": 231162505402455170,
+              "timestamp": 1777669087521
+            },
+            {
+              "tool": "bash",
+              "argsHash": 16174433902096536000,
+              "timestamp": 1777669109604
+            },
+            {
+              "tool": "bash",
+              "argsHash": 7119121459112985000,
+              "timestamp": 1777669112561
+            },
+            {
+              "tool": "bash",
+              "argsHash": 13603424237540854000,
+              "timestamp": 1777669113404
+            },
+            {
+              "tool": "bash",
+              "argsHash": 13685332778078767000,
+              "timestamp": 1777669135587
+            },
+            {
+              "tool": "bash",
+              "argsHash": 17665941210613273000,
+              "timestamp": 1777669138824
+            },
+            {
+              "tool": "bash",
+              "argsHash": 1909311582905771500,
+              "timestamp": 1777669141832
+            },
+            {
+              "tool": "bash",
+              "argsHash": 3387806819786182700,
+              "timestamp": 1777669153593
+            },
+            {
+              "tool": "bash",
+              "argsHash": 11938961489732270000,
+              "timestamp": 1777669182533
+            },
+            {
+              "tool": "bash",
+              "argsHash": 9580607414344060000,
+              "timestamp": 1777669183587
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:2": {
+          "id": 2,
+          "agentName": "coder",
+          "startedAtMs": 1777667848695,
+          "toolCalls": 36,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777668325856,
+          "recentToolCalls": [
+            {
+              "tool": "bash",
+              "argsHash": 1850453769204245200,
+              "timestamp": 1777668083066
+            },
+            {
+              "tool": "bash",
+              "argsHash": 7642712483526777000,
+              "timestamp": 1777668089954
+            },
+            {
+              "tool": "bash",
+              "argsHash": 12186129906334984000,
+              "timestamp": 1777668091990
+            },
+            {
+              "tool": "bash",
+              "argsHash": 14199435581678963000,
+              "timestamp": 1777668122990
+            },
+            {
+              "tool": "bash",
+              "argsHash": 11998391185395139000,
+              "timestamp": 1777668130745
+            },
+            {
+              "tool": "bash",
+              "argsHash": 12001917977912695000,
+              "timestamp": 1777668156527
+            },
+            {
+              "tool": "bash",
+              "argsHash": 2518474757301977600,
+              "timestamp": 1777668161646
+            },
+            {
+              "tool": "bash",
+              "argsHash": 13186530920833049000,
+              "timestamp": 1777668165299
+            },
+            {
+              "tool": "bash",
+              "argsHash": 13643542796081687000,
+              "timestamp": 1777668193435
+            },
+            {
+              "tool": "bash",
+              "argsHash": 7118278959413517000,
+              "timestamp": 1777668199141
+            },
+            {
+              "tool": "bash",
+              "argsHash": 15688429031104477000,
+              "timestamp": 1777668204333
+            },
+            {
+              "tool": "bash",
+              "argsHash": 12829250382585629000,
+              "timestamp": 1777668221344
+            },
+            {
+              "tool": "bash",
+              "argsHash": 10556230504594311000,
+              "timestamp": 1777668224628
+            },
+            {
+              "tool": "bash",
+              "argsHash": 8756983597487719000,
+              "timestamp": 1777668226001
+            },
+            {
+              "tool": "bash",
+              "argsHash": 7260602366535839000,
+              "timestamp": 1777668246195
+            },
+            {
+              "tool": "bash",
+              "argsHash": 4956495463480595000,
+              "timestamp": 1777668256398
+            },
+            {
+              "tool": "bash",
+              "argsHash": 2819937182853014000,
+              "timestamp": 1777668262334
+            },
+            {
+              "tool": "bash",
+              "argsHash": 11085088518288757000,
+              "timestamp": 1777668313934
+            },
+            {
+              "tool": "bash",
+              "argsHash": 3394374377186744000,
+              "timestamp": 1777668320561
+            },
+            {
+              "tool": "bash",
+              "argsHash": 8854461680910673000,
+              "timestamp": 1777668324866
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        },
+        "coder:1": {
+          "id": 1,
+          "agentName": "coder",
+          "startedAtMs": 1777667759973,
+          "toolCalls": 8,
+          "consecutiveErrors": 0,
+          "hardLimitHit": false,
+          "lastSuccessTimeMs": 1777667828754,
+          "recentToolCalls": [
+            {
+              "tool": "bash",
+              "argsHash": 625350596420267900,
+              "timestamp": 1777667792276
+            },
+            {
+              "tool": "read",
+              "argsHash": 16641635924544285000,
+              "timestamp": 1777667792743
+            },
+            {
+              "tool": "read",
+              "argsHash": 1307739301552950000,
+              "timestamp": 1777667808738
+            },
+            {
+              "tool": "read",
+              "argsHash": 1131551567950100000,
+              "timestamp": 1777667811249
+            },
+            {
+              "tool": "bash",
+              "argsHash": 12102866251251327000,
+              "timestamp": 1777667812289
+            },
+            {
+              "tool": "read",
+              "argsHash": 643897562850042900,
+              "timestamp": 1777667825818
+            },
+            {
+              "tool": "read",
+              "argsHash": 5877576589131564000,
+              "timestamp": 1777667828654
+            },
+            {
+              "tool": "read",
+              "argsHash": 14435730354660682000,
+              "timestamp": 1777667828748
+            }
+          ],
+          "warningIssued": false,
+          "warningReason": "",
+          "transientRetryCount": 0
+        }
+      },
+      "lastCompactionHint": 0,
+      "architectWriteCount": 0,
+      "lastCoderDelegationTaskId": null,
+      "currentTaskId": null,
+      "turboMode": false,
+      "gateLog": {},
+      "reviewerCallCount": {},
+      "lastGateFailure": null,
+      "partialGateWarningsIssuedForTask": [],
+      "selfFixAttempted": false,
+      "selfCodingWarnedAtCount": 0,
+      "catastrophicPhaseWarnings": [],
+      "lastPhaseCompleteTimestamp": 0,
+      "lastPhaseCompletePhase": 0,
+      "phaseAgentsDispatched": [
+        "coder"
+      ],
+      "lastCompletedPhaseAgentsDispatched": [],
+      "qaSkipCount": 0,
+      "qaSkipTaskIds": [],
+      "pendingAdvisoryMessages": [],
+      "taskWorkflowStates": {},
+      "scopeViolationDetected": false,
+      "model_fallback_index": 0,
+      "modelFallbackExhausted": false,
+      "coderRevisions": 0,
+      "revisionLimitHit": false,
+      "fullAutoMode": false,
+      "fullAutoInteractionCount": 0,
+      "fullAutoDeadlockCount": 0,
+      "fullAutoLastQuestionHash": null,
+      "sessionRehydratedAt": 0
+    }
+  }
+}

@@ -1,0 +1,1008 @@
+{
+  "audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/exiledInSiberia/video_work/exiledInSiberia_audio_16k.wav",
+  "model": "small.en",
+  "language": "en",
+  "duration": 1106.8586875,
+  "segments": [
+    {
+      "start": 6.1,
+      "end": 16.38,
+      "text": "A short story by Leo Tolstoy. In the city of Vladimir lived a young merchant named Askinov."
+    },
+    {
+      "start": 16.38,
+      "end": 23.22,
+      "text": "He owned two stores and a dwelling house. Askinov was attractive in person, blonde, curly-headed,"
+    },
+    {
+      "start": 23.22,
+      "end": 30.02,
+      "text": "and a lover of jollity and song. He drank in his youth, and when intoxicated, he quarrelled."
+    },
+    {
+      "start": 30.02,
+      "end": 35.3,
+      "text": "But when once married, he drank very rarely. One day in summer, he decided to attend the"
+    },
+    {
+      "start": 35.3,
+      "end": 41.46,
+      "text": "fair at Nijny Novogorod. As he was bidding his family farewell, his wife said to him,"
+    },
+    {
+      "start": 41.46,
+      "end": 48.66,
+      "text": "\"'Ivan, do not go to-day. I had a bad dream about you.' Askinov began to laugh and replied,"
+    },
+    {
+      "start": 49.38,
+      "end": 55.38,
+      "text": "\"'You fear I will commit some folly at the fair.'\" His wife answered,"
+    },
+    {
+      "start": 55.38,
+      "end": 61.38,
+      "text": "\"'I do not myself exactly know what I fear. Only I had a bad dream. I saw you as you came"
+    },
+    {
+      "start": 61.38,
+      "end": 66.66,
+      "text": "from the city, you took off your cap, and all at once I saw that your head was quite white.\""
+    },
+    {
+      "start": 67.54,
+      "end": 70.34,
+      "text": "As Kainoff began to laugh more cheerily still."
+    },
+    {
+      "start": 71.3,
+      "end": 76.66,
+      "text": "Ah, well, it is a good sign, he said. I shall do a good business,"
+    },
+    {
+      "start": 76.66,
+      "end": 82.02,
+      "text": "and will bring you a beautiful present. So he took leave of his family and departed."
+    },
+    {
+      "start": 82.74,
+      "end": 88.34,
+      "text": "Midway in his journey he met an acquaintance, a merchant, with whom he lodged that night."
+    },
+    {
+      "start": 88.34,
+      "end": 94.98,
+      "text": "They drank tea together and went to sleep in adjoining rooms. Askinov was not a heavy sleeper."
+    },
+    {
+      "start": 94.98,
+      "end": 100.18,
+      "text": "He awoke in the middle of the night, and to travel more comfortably in the coolness of the morning"
+    },
+    {
+      "start": 100.18,
+      "end": 104.5,
+      "text": "aroused the postillion, and ordered him to put the horses before the wagon."
+    },
+    {
+      "start": 105.14,
+      "end": 109.06,
+      "text": "Then he entered the dim office, paid the landlord, and went away."
+    },
+    {
+      "start": 109.94,
+      "end": 115.06,
+      "text": "After having travelled forty miles, he stopped again to feed the horses, rested himself at"
+    },
+    {
+      "start": 115.06,
+      "end": 121.14,
+      "text": "at the hotel, went out upon the doorstep, and had his samovar prepared. He took a guitar"
+    },
+    {
+      "start": 121.14,
+      "end": 126.98,
+      "text": "and began to play. All at once a troika with its gong arrives. A state functionary with"
+    },
+    {
+      "start": 126.98,
+      "end": 133.38,
+      "text": "two soldiers descends, approaches Askinov, and inquires of him who he is, and whither he is going."
+    },
+    {
+      "start": 134.34,
+      "end": 140.98,
+      "text": "Askinov excuses himself from replying, but asks him to take some tea. The official, however,"
+    },
+    {
+      "start": 140.98,
+      "end": 146.74,
+      "text": "continues to press his questions. Where had he slept the night before? Was he alone with the"
+    },
+    {
+      "start": 146.74,
+      "end": 153.94,
+      "text": "merchant? Why had he left the inn so precipitantly? Askinov, surprised by these interrogatories,"
+    },
+    {
+      "start": 153.94,
+      "end": 160.02,
+      "text": "related what had taken place, then said, Why do you ask me so many questions? I am neither a"
+    },
+    {
+      "start": 160.02,
+      "end": 165.7,
+      "text": "thief nor a brigand. I am travelling on my own business, and no one has a right to question me."
+    },
+    {
+      "start": 165.7,
+      "end": 169.24,
+      "text": "The official then called his soldiers and replied,"
+    },
+    {
+      "start": 169.24,
+      "end": 172.64,
+      "text": "I am a police commissioner, and if I question you,"
+    },
+    {
+      "start": 172.64,
+      "end": 176.2,
+      "text": "it is because the merchant with whom you passed the night was murdered."
+    },
+    {
+      "start": 176.2,
+      "end": 179.76,
+      "text": "Show your baggage, and you others, search it."
+    },
+    {
+      "start": 179.76,
+      "end": 183.88,
+      "text": "They entered the hotel office, took his trunk and satchel,"
+    },
+    {
+      "start": 183.88,
+      "end": 186.68,
+      "text": "opened them, and in the latter found a knife."
+    },
+    {
+      "start": 186.68,
+      "end": 190.04,
+      "text": "The officer exclaimed, whose is this knife?"
+    },
+    {
+      "start": 190.04,
+      "end": 195.68,
+      "text": "Askanov turned to look, saw a blade covered with blood, and became terror-stricken."
+    },
+    {
+      "start": 195.68,
+      "end": 202.6,
+      "text": "And why this blood on the knife? Askanov tried to reply, but he could not utter a word."
+    },
+    {
+      "start": 202.6,
+      "end": 210.2,
+      "text": "I\u2014I do not know. I\u2014a knife! I\u2014it is not mine, he stammered at last."
+    },
+    {
+      "start": 210.2,
+      "end": 212.36,
+      "text": "The police commissioner said,"
+    },
+    {
+      "start": 212.36,
+      "end": 217.4,
+      "text": "This morning the merchant was found murdered in bed. No one except yourself could have"
+    },
+    {
+      "start": 217.4,
+      "end": 222.24,
+      "text": "committed the crime. The rooms were locked from the inside, and within was no one but"
+    },
+    {
+      "start": 222.24,
+      "end": 229.28,
+      "text": "you and he. Moreover, a knife covered with blood has been found in your bag. Besides,"
+    },
+    {
+      "start": 229.28,
+      "end": 234.64,
+      "text": "your crime can be read in your face. Confess at once how you killed him and how much money"
+    },
+    {
+      "start": 234.64,
+      "end": 238.96,
+      "text": "you stole.\" Askinov called God to witness that he was"
+    },
+    {
+      "start": 238.96,
+      "end": 244.28,
+      "text": "not guilty, that he had not seen the merchant after having taken tea with him, that he had"
+    },
+    {
+      "start": 244.28,
+      "end": 250.92,
+      "text": "only his own money, eight thousand roubles, and that the knife was not his. But his voice"
+    },
+    {
+      "start": 250.92,
+      "end": 257.22,
+      "text": "was husky, his face had become pale, and he trembled like a criminal. The officer called"
+    },
+    {
+      "start": 257.22,
+      "end": 261.86,
+      "text": "his soldiers and ordered them to bind him and place him in the carriage. When they"
+    },
+    {
+      "start": 261.86,
+      "end": 268.14,
+      "text": "had done so, Askinov, with his feet in irons, crossed himself and began to weep. They took"
+    },
+    {
+      "start": 268.14,
+      "end": 273.46,
+      "text": "away all his effects, with his money, and put him in prison in the neighbouring city."
+    },
+    {
+      "start": 273.46,
+      "end": 279.2,
+      "text": "An inquest was held at Vladimir. All the merchants and inhabitants declared that Askinov, though"
+    },
+    {
+      "start": 279.2,
+      "end": 284.86,
+      "text": "he had been in the habit of drinking and amusing himself when a young man was regarded as an"
+    },
+    {
+      "start": 284.86,
+      "end": 291.06,
+      "text": "honourable person. Then the matter came before the courts. He was accused of having murdered"
+    },
+    {
+      "start": 291.06,
+      "end": 297.26,
+      "text": "the merchant Riazan and of having robbed him of twenty thousand roubles. His wife was in"
+    },
+    {
+      "start": 297.26,
+      "end": 302.86,
+      "text": "despair and knew not what to think. Her children were all small, one of them still"
+    },
+    {
+      "start": 302.86,
+      "end": 308.06,
+      "text": "at the breast. She took them all with her and went to the city where her husband was imprisoned."
+    },
+    {
+      "start": 308.7,
+      "end": 314.54,
+      "text": "At first they refused to let her see him, but as she insisted, she was allowed that privilege."
+    },
+    {
+      "start": 315.26,
+      "end": 319.74,
+      "text": "When she saw him in his prison clothes, shackled, mingling with robbers,"
+    },
+    {
+      "start": 319.74,
+      "end": 324.22,
+      "text": "she fell to the ground and some time passed before she came to herself again."
+    },
+    {
+      "start": 325.02,
+      "end": 330.78,
+      "text": "Then she gathered her children about her, seated herself by Askinoff's side, told him of what"
+    },
+    {
+      "start": 330.78,
+      "end": 337.1,
+      "text": "was going on at home and asked him to relate how his misfortune had come about. He told her all,"
+    },
+    {
+      "start": 337.1,
+      "end": 343.42,
+      "text": "and she asked, what is to be done now? We must supplicate the Tsar, he replied,"
+    },
+    {
+      "start": 343.42,
+      "end": 348.62,
+      "text": "for it cannot be that the innocent should be punished. His wife then told him that she had"
+    },
+    {
+      "start": 348.62,
+      "end": 353.98,
+      "text": "already sent a petition to the Tsar, but it could not have been sent to him, she said."
+    },
+    {
+      "start": 353.98,
+      "end": 359.5,
+      "text": "Askinov made no reply and remained overwhelmed. His wife said,"
+    },
+    {
+      "start": 359.5,
+      "end": 366.3,
+      "text": "My dream was not in vain. Do you remember it? I saw you with white hair. It will now"
+    },
+    {
+      "start": 366.3,
+      "end": 369.66,
+      "text": "become white with grief. You ought not to have gone that time."
+    },
+    {
+      "start": 369.66,
+      "end": 373.34,
+      "text": "She began to stroke his hair with her hand and said,"
+    },
+    {
+      "start": 373.34,
+      "end": 379.5,
+      "text": "My dear Ivan, speak the truth to your wife. Was it not you who killed him?"
+    },
+    {
+      "start": 379.5,
+      "end": 388.54,
+      "text": "Askinov replied, and you also think so. He hid his face in his hands and wept. A soldier appeared."
+    },
+    {
+      "start": 388.54,
+      "end": 392.9,
+      "text": "He told the wife and children that it was time for them to go, and Askinov"
+    },
+    {
+      "start": 392.9,
+      "end": 397.38,
+      "text": "bade his family farewell for the last time. When his wife was gone,"
+    },
+    {
+      "start": 397.38,
+      "end": 402.42,
+      "text": "he mentally reviewed his conversation with her. Recollecting that she also had asked"
+    },
+    {
+      "start": 402.42,
+      "end": 405.38,
+      "text": "him if he had not murdered the merchant, he said to himself,"
+    },
+    {
+      "start": 405.38,
+      "end": 412.22,
+      "text": "\u2013 God alone knows the truth, him I must implore, I will await his mercy. And from"
+    },
+    {
+      "start": 412.22,
+      "end": 418.42,
+      "text": "that moment he ceased to ask for human aid, lifted up his soul in hope, and prayed continually"
+    },
+    {
+      "start": 418.42,
+      "end": 425.46,
+      "text": "to God. Askanov was sentenced to the nout and then to hard labour for life. The sentence"
+    },
+    {
+      "start": 425.46,
+      "end": 430.22,
+      "text": "was carried out, he was beaten with the nout, and when his wounds were healed they"
+    },
+    {
+      "start": 430.22,
+      "end": 436.84,
+      "text": "sent him with other life-convicts to Siberia. There Askinov remained at hard labour for"
+    },
+    {
+      "start": 436.84,
+      "end": 442.92,
+      "text": "twenty-six years. His hair became white as snow, and his long grey beard hung limply"
+    },
+    {
+      "start": 442.92,
+      "end": 450.44,
+      "text": "from his face. All his gaiety disappeared. He began to stoop and to lag in his gait."
+    },
+    {
+      "start": 450.44,
+      "end": 457.44,
+      "text": "He spoke but little, and never laughed. He frequently prayed to God. In prison he learned"
+    },
+    {
+      "start": 457.44,
+      "end": 462.54,
+      "text": "to make shoes, and with the money thus earned bought a book of martyrs, which he read when"
+    },
+    {
+      "start": 462.54,
+      "end": 468.06,
+      "text": "there was light in his dungeon. On festal days he attended the prison chapel, read the"
+    },
+    {
+      "start": 468.06,
+      "end": 474.06,
+      "text": "Apostles, and sang in the choir. He never lost his beautiful voice. The officials loved"
+    },
+    {
+      "start": 474.06,
+      "end": 480.08,
+      "text": "him for his docility. His companions held him in high regard, called him Grandfather"
+    },
+    {
+      "start": 480.08,
+      "end": 486.98,
+      "text": "and Man of God. When the convicts demanded anything, it was always Askinov who was made"
+    },
+    {
+      "start": 486.98,
+      "end": 492.46,
+      "text": "to present their request. When the prisoners quarrelled, it was again Askinoff whom they"
+    },
+    {
+      "start": 492.46,
+      "end": 498.62,
+      "text": "chose as arbitrator. No one wrote him from home, and Askinoff knew not whether his wife"
+    },
+    {
+      "start": 498.62,
+      "end": 504.62,
+      "text": "and children were still living. One day, new convicts were taken to the prison. In"
+    },
+    {
+      "start": 504.62,
+      "end": 509.46,
+      "text": "the evening the old ones asked of the new from what cities or villages they came and"
+    },
+    {
+      "start": 509.46,
+      "end": 515.46,
+      "text": "for what causes. Askinoff also approached, and with inclined head listened to what was"
+    },
+    {
+      "start": 515.46,
+      "end": 521.78,
+      "text": "dead. One of the new convicts was an old man of sixty years, tall in stature, and with"
+    },
+    {
+      "start": 521.78,
+      "end": 526.5,
+      "text": "a gray, trimmed beard. He related the reasons for his doom."
+    },
+    {
+      "start": 526.5,
+      "end": 531.62,
+      "text": "\"'It is thus, my brothers,' he said. \"'They have sent me here for nothing. I"
+    },
+    {
+      "start": 531.62,
+      "end": 538.1,
+      "text": "detached a horse from a sleigh. They seized me, saying I stole it. And I,' I replied,"
+    },
+    {
+      "start": 538.1,
+      "end": 543.1,
+      "text": "\"'I only wished to travel more rapidly. You see, indeed, that I have let the horse"
+    },
+    {
+      "start": 543.1,
+      "end": 550.06,
+      "text": "loose. No crime has been committed. No, they said. You have stolen it. But they knew neither"
+    },
+    {
+      "start": 550.06,
+      "end": 555.74,
+      "text": "where nor when I had stolen it. To be sure I was guilty of misdeeds, which ought to have"
+    },
+    {
+      "start": 555.74,
+      "end": 561.26,
+      "text": "sent me here long before, but they could never surprise me in the act. And now they have"
+    },
+    {
+      "start": 561.26,
+      "end": 567.78,
+      "text": "brought me here contrary to all law. Now listen. I have already been in Siberia, but"
+    },
+    {
+      "start": 567.78,
+      "end": 569.74,
+      "text": "did not remain here long."
+    },
+    {
+      "start": 569.74,
+      "end": 572.74,
+      "text": "\"'Whence do you come?' asked one of the convicts."
+    },
+    {
+      "start": 572.74,
+      "end": 577.96,
+      "text": "\"'I am from the city of Vladimir. I am a small shopkeeper of that place. My name"
+    },
+    {
+      "start": 577.96,
+      "end": 580.18,
+      "text": "is Makar.'\""
+    },
+    {
+      "start": 580.18,
+      "end": 584.62,
+      "text": "Askinov raised his head and asked, \"'Have you not heard the merchant Askinov spoken"
+    },
+    {
+      "start": 584.62,
+      "end": 587.62,
+      "text": "of at Vladimir? Are they still alive?'\""
+    },
+    {
+      "start": 587.62,
+      "end": 593.82,
+      "text": "\"'Why, to be sure. But they are rich merchants, although their father is in Siberia. He must"
+    },
+    {
+      "start": 593.82,
+      "end": 596.94,
+      "text": "have sinned like the rest of us.'\""
+    },
+    {
+      "start": 596.94,
+      "end": 601.42,
+      "text": "did not like to speak on the subject of his misfortune, he sighed and said,"
+    },
+    {
+      "start": 602.14,
+      "end": 606.06,
+      "text": "It is for my sins that I have been in prison twenty-six years."
+    },
+    {
+      "start": 607.02,
+      "end": 609.34,
+      "text": "Makar asked, For what sins?"
+    },
+    {
+      "start": 610.46,
+      "end": 615.74,
+      "text": "I merit my punishment, responded Askinoff simply. He would say nothing more."
+    },
+    {
+      "start": 616.3,
+      "end": 622.22,
+      "text": "But the other convicts related to the newly arrived why Askinoff found himself in Siberia,"
+    },
+    {
+      "start": 622.22,
+      "end": 627.58,
+      "text": "how someone, during the journey, had murdered the merchant and placed a bloody knife among"
+    },
+    {
+      "start": 627.58,
+      "end": 632.94,
+      "text": "Askinov's baggage, and how, by reason of that, he had been unjustly condemned."
+    },
+    {
+      "start": 633.9,
+      "end": 639.34,
+      "text": "In hearing this, Makar cast a glance upon Askinov, struck his knees with his hands,"
+    },
+    {
+      "start": 639.34,
+      "end": 646.3,
+      "text": "and exclaimed, Oh, what a wonder! This is a miracle! Ah, you have grown quite old,"
+    },
+    {
+      "start": 646.3,
+      "end": 653.98,
+      "text": "grandfather. They asked why he was so astonished, where he had seen Azkanov, but Makar did not reply."
+    },
+    {
+      "start": 653.98,
+      "end": 659.98,
+      "text": "He merely said, It is a miracle, brothers, that fate has reunited us here."
+    },
+    {
+      "start": 661.1,
+      "end": 666.14,
+      "text": "These expressions convinced Azkanov that this man must be the assassin, and he said to him,"
+    },
+    {
+      "start": 666.86,
+      "end": 672.3,
+      "text": "Have you heard this affair spoken of before, Makar, or have you indeed seen me elsewhere"
+    },
+    {
+      "start": 672.3,
+      "end": 673.3,
+      "text": "than here.\""
+    },
+    {
+      "start": 673.3,
+      "end": 680.08,
+      "text": "\"'What? I have heard it spoken of. The earth is full of ears, a Russian proverb."
+    },
+    {
+      "start": 680.08,
+      "end": 684.32,
+      "text": "But it is a long time since that affair took place, and I have forgotten the particulars"
+    },
+    {
+      "start": 684.32,
+      "end": 685.32,
+      "text": "they told me.'"
+    },
+    {
+      "start": 685.32,
+      "end": 690.38,
+      "text": "\"'Perhaps you learned who killed the merchant,' asked Askinov."
+    },
+    {
+      "start": 690.38,
+      "end": 696.16,
+      "text": "Makar began to laugh and said, \"'As it was in your bag, the knife was found. You doubtless"
+    },
+    {
+      "start": 696.16,
+      "end": 701.0,
+      "text": "killed him yourself. If it should be that someone else put the knife there. Why, not"
+    },
+    {
+      "start": 701.0,
+      "end": 706.9,
+      "text": "not caught, not a thief. And moreover, how could he have placed the knife in your bag?"
+    },
+    {
+      "start": 706.9,
+      "end": 710.78,
+      "text": "You had it under your head. You must have heard.\""
+    },
+    {
+      "start": 710.78,
+      "end": 715.5,
+      "text": "On hearing these words, Askinov perceived clearly that he was the person who had killed"
+    },
+    {
+      "start": 715.5,
+      "end": 722.26,
+      "text": "the merchant. He arose and went away. All that night Askinov could not sleep. He fell"
+    },
+    {
+      "start": 722.26,
+      "end": 729.1,
+      "text": "into profound listlessness and dreamed dreams. Now it was his wife he saw as she appeared"
+    },
+    {
+      "start": 729.1,
+      "end": 735.14,
+      "text": "at the time of that last fair. He saw her still alive, her face, her eyes. He heard"
+    },
+    {
+      "start": 735.14,
+      "end": 740.74,
+      "text": "her speak and laugh. Now it was his children who appeared to him as they then were, all"
+    },
+    {
+      "start": 740.74,
+      "end": 746.06,
+      "text": "small, one in a fur cloak, and the other at the breast. He saw himself as he then"
+    },
+    {
+      "start": 746.06,
+      "end": 752.22,
+      "text": "was, young, lively, seated, and playing the guitar on the doorstep of the tavern where"
+    },
+    {
+      "start": 752.22,
+      "end": 757.1,
+      "text": "he was arrested, and he was reminded of the infamous place where they had whipped him,"
+    },
+    {
+      "start": 757.1,
+      "end": 763.28,
+      "text": "the executioner, of the crowd round about, the irons, convicts, and of the twenty-six"
+    },
+    {
+      "start": 763.28,
+      "end": 768.9,
+      "text": "years he had spent in prison. He thought of his old age, and a desire to take his own"
+    },
+    {
+      "start": 768.9,
+      "end": 775.52,
+      "text": "life seized upon Askinoff. And all this on account of that brigand, he thought. He felt"
+    },
+    {
+      "start": 775.52,
+      "end": 780.04,
+      "text": "such a passion of wrath against Macar coming over him that he would have been willing to"
+    },
+    {
+      "start": 780.04,
+      "end": 785.6,
+      "text": "perish that hour could he be revenged upon him. He prayed all night without being able"
+    },
+    {
+      "start": 785.6,
+      "end": 792.08,
+      "text": "to calm himself. The next morning he did not approach nor look at Makar."
+    },
+    {
+      "start": 792.08,
+      "end": 798.84,
+      "text": "Fifteen days passed thus. Asganov could not sleep at night, and during the day he felt"
+    },
+    {
+      "start": 798.84,
+      "end": 804.72,
+      "text": "such a weariness that he knew not what to do with himself. One night, as he was walking"
+    },
+    {
+      "start": 804.72,
+      "end": 809.76,
+      "text": "up and down in the prison, he perceived that earth was being thrown from under one of the"
+    },
+    {
+      "start": 809.76,
+      "end": 816.16,
+      "text": "planks used as a bed. He stopped to see what was going on, and all at once Makar came quickly"
+    },
+    {
+      "start": 816.16,
+      "end": 821.84,
+      "text": "from beneath the bed and looked at Askinov with an expression of terror. The latter"
+    },
+    {
+      "start": 821.84,
+      "end": 827.08,
+      "text": "wished to pass on so as to avoid looking at him, but Makar seized him by the hand and"
+    },
+    {
+      "start": 827.08,
+      "end": 831.54,
+      "text": "told him how he was digging a tunnel under the wall, how he was in the habit of filling"
+    },
+    {
+      "start": 831.54,
+      "end": 836.44,
+      "text": "his boots with the earth thrown up and emptying it in the street every morning when they were"
+    },
+    {
+      "start": 836.44,
+      "end": 844.52,
+      "text": "taken out to work. He added, Only keep quiet, old man. I will take you with me. If you expose"
+    },
+    {
+      "start": 844.52,
+      "end": 850.36,
+      "text": "me I will be whipped to the last extremity, but you will pay for it. I will kill you."
+    },
+    {
+      "start": 851.64,
+      "end": 857.48,
+      "text": "Looking at him who had ruined him, Askinov trembled with anger. He drew away his hand and said,"
+    },
+    {
+      "start": 858.28,
+      "end": 864.68,
+      "text": "I do not desire to escape, and you will have no need to murder me. You have already killed me a"
+    },
+    {
+      "start": 864.68,
+      "end": 870.76,
+      "text": "long time ago. Whether I shall expose you or not is for God to decide.\""
+    },
+    {
+      "start": 870.76,
+      "end": 875.86,
+      "text": "The next morning, when the convicts were taken to work, the soldiers noticed that Makar emptied"
+    },
+    {
+      "start": 875.86,
+      "end": 881.88,
+      "text": "earth from his boots. An investigation was made in the prison and the tunnel was discovered."
+    },
+    {
+      "start": 881.88,
+      "end": 887.4,
+      "text": "The overseer came and demanded to know who had excavated it. Everybody denied all knowledge"
+    },
+    {
+      "start": 887.4,
+      "end": 893.48,
+      "text": "of the matter. Those who knew did not wish to betray Makar as he would be whipped half-dead"
+    },
+    {
+      "start": 893.48,
+      "end": 897.6,
+      "text": "for his offence. The chief then addressed himself to Askinoff."
+    },
+    {
+      "start": 897.6,
+      "end": 904.8,
+      "text": "\"'Old man,' he said, \"'you who are an upright fellow tell me who has done this.'\""
+    },
+    {
+      "start": 904.8,
+      "end": 910.68,
+      "text": "Macar remained impassable, looking at the superintendent, without turning toward Askinoff."
+    },
+    {
+      "start": 910.68,
+      "end": 915.68,
+      "text": "As to the latter, his arms and his legs trembled. He could not say a word."
+    },
+    {
+      "start": 915.68,
+      "end": 921.92,
+      "text": "\"'Shall I remain silent,' he thought. But why pardon him, since it is he who has"
+    },
+    {
+      "start": 921.92,
+      "end": 929.36,
+      "text": "ruined my life. Let him pay for my tortures. Shall I speak? True, they will whip him nearly"
+    },
+    {
+      "start": 929.36,
+      "end": 934.56,
+      "text": "to death, and if it should not be he, if he should not be the assassin, I suspect him"
+    },
+    {
+      "start": 934.56,
+      "end": 938.56,
+      "text": "to be, and then would it be any solace to me?\""
+    },
+    {
+      "start": 938.56,
+      "end": 943.24,
+      "text": "The chief repeated his demand. Askinov looked at Makar and replied,"
+    },
+    {
+      "start": 943.24,
+      "end": 948.96,
+      "text": "\"'I cannot tell, Your Highness. God does not permit me, and I shall not tell you."
+    },
+    {
+      "start": 948.96,
+      "end": 955.68,
+      "text": "with me as you please. You are master.\" Not withstanding every effort of the chief,"
+    },
+    {
+      "start": 955.68,
+      "end": 960.32,
+      "text": "Askinoff said no more. Thus it was that no one knew who had dug the tunnel."
+    },
+    {
+      "start": 961.12,
+      "end": 966.32,
+      "text": "The following night, as Askinoff was reclining upon his plank bed trying to sleep,"
+    },
+    {
+      "start": 966.32,
+      "end": 972.48,
+      "text": "he heard someone approach and place himself at his feet. Through the obscurity he recognized"
+    },
+    {
+      "start": 972.48,
+      "end": 975.52,
+      "text": "Makar. Askinov said to him,"
+    },
+    {
+      "start": 975.52,
+      "end": 978.64,
+      "text": "Have you still further need of me? What are you doing there?"
+    },
+    {
+      "start": 979.76,
+      "end": 983.68,
+      "text": "Makar remained silent, and Askinov raised himself up, saying,"
+    },
+    {
+      "start": 984.56,
+      "end": 988.56,
+      "text": "What do you want? Go away, or I will call the watchman."
+    },
+    {
+      "start": 989.6,
+      "end": 992.4,
+      "text": "Makar hung over Askinov and whispered in his ear,"
+    },
+    {
+      "start": 993.04,
+      "end": 997.68,
+      "text": "Even Askinov, forgive me. Why? What should I forgive you?"
+    },
+    {
+      "start": 997.68,
+      "end": 1003.88,
+      "text": "you. It was I who murdered the merchant, and I put the knife in your bag. I intended to"
+    },
+    {
+      "start": 1003.88,
+      "end": 1009.84,
+      "text": "kill you also, but someone made a noise in the yard. I placed the knife in your bag and"
+    },
+    {
+      "start": 1009.84,
+      "end": 1015.12,
+      "text": "escaped by the window.\" Askinov remained silent and knew not what"
+    },
+    {
+      "start": 1015.12,
+      "end": 1020.96,
+      "text": "to say. Makar slipped from the bed, prostrated himself on the earth, and said,"
+    },
+    {
+      "start": 1020.96,
+      "end": 1028.2,
+      "text": "Even Askanov. Pardon me. In the name of God, pardon me. I will declare that I killed the"
+    },
+    {
+      "start": 1028.2,
+      "end": 1032.74,
+      "text": "merchant. They will set you at liberty, and you can return home.\""
+    },
+    {
+      "start": 1032.74,
+      "end": 1034.24,
+      "text": "And Askanov replied,"
+    },
+    {
+      "start": 1034.24,
+      "end": 1040.08,
+      "text": "\"'That is easily said. But I\u2014I have suffered here too long. Where should I go"
+    },
+    {
+      "start": 1040.08,
+      "end": 1046.24,
+      "text": "now? My wife is dead. My children have forgotten me. I have nowhere to go.\""
+    },
+    {
+      "start": 1046.24,
+      "end": 1050.88,
+      "text": "Makar, still prostrated and striking the earth with his head, said,"
+    },
+    {
+      "start": 1050.88,
+      "end": 1056.08,
+      "text": "Ivan, pardon me. If I had been beaten with the knout, that would have been less painful"
+    },
+    {
+      "start": 1056.08,
+      "end": 1062.2,
+      "text": "that sick to see you thus, and you still had pity on me. You did not expose me. Pardon"
+    },
+    {
+      "start": 1062.2,
+      "end": 1066.88,
+      "text": "me, in the name of Christ. Pardon a wretched malefactor."
+    },
+    {
+      "start": 1066.88,
+      "end": 1073.6,
+      "text": "And he began to sob. Hearing Makar weeping, Askinov himself also began to weep."
+    },
+    {
+      "start": 1073.6,
+      "end": 1078.64,
+      "text": "God will pardon you perhaps. I am a hundred times worse than you and"
+    },
+    {
+      "start": 1079.12,
+      "end": 1082.16,
+      "text": "He felt a sudden joy flooding his soul"
+    },
+    {
+      "start": 1082.56,
+      "end": 1088.24,
+      "text": "He ceased from that moment to grieve over his home and no longer desired to leave his prison"
+    },
+    {
+      "start": 1088.52,
+      "end": 1091.08,
+      "text": "He thought only of his last hour"
+    },
+    {
+      "start": 1092.2,
+      "end": 1096.3,
+      "text": "Makar would not listen to Ascanov and declared himself the guilty one"
+    },
+    {
+      "start": 1096.84,
+      "end": 1100.84,
+      "text": "When the order came to restore Ascanov to Liberty he was already dead"
+    }
+  ]
+}

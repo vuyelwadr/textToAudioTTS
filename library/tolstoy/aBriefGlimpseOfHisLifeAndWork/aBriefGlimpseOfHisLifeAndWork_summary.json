@@ -1,0 +1,19 @@
+{
+  "item": {
+    "index": 14,
+    "video_id": "Jnac4yfyI10",
+    "title": "Leo Tolstoy. A Brief Glimpse of His Life and Work.",
+    "duration": 3723,
+    "url": "https://www.youtube.com/watch?v=Jnac4yfyI10",
+    "slug": "aBriefGlimpseOfHisLifeAndWork"
+  },
+  "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aBriefGlimpseOfHisLifeAndWork",
+  "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aBriefGlimpseOfHisLifeAndWork/raw_audio/aBriefGlimpseOfHisLifeAndWork.webm",
+  "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aBriefGlimpseOfHisLifeAndWork/video_work/aBriefGlimpseOfHisLifeAndWork_audio_16k.wav",
+  "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aBriefGlimpseOfHisLifeAndWork/aBriefGlimpseOfHisLifeAndWorkTranscript.json",
+  "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aBriefGlimpseOfHisLifeAndWork/aBriefGlimpseOfHisLifeAndWorkTranscript.txt",
+  "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aBriefGlimpseOfHisLifeAndWork/aBriefGlimpseOfHisLifeAndWork.txt",
+  "chunks": 59,
+  "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aBriefGlimpseOfHisLifeAndWork/video_work/aBriefGlimpseOfHisLifeAndWork_chunk_audio_joined.wav",
+  "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aBriefGlimpseOfHisLifeAndWork/aBriefGlimpseOfHisLifeAndWork_neuralsurfer.mp4"
+}

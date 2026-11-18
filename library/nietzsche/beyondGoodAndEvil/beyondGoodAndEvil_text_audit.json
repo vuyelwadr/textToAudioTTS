@@ -1,0 +1,37 @@
+{
+  "source": "Project Gutenberg (mirror: gutenberg.pglaf.org)",
+  "source_url": "https://www.gutenberg.org/ebooks/4363 (fetched via mirror https://gutenberg.pglaf.org/4/3/6/4363/4363.txt)",
+  "gutenberg_ebook_id": "4363",
+  "translator": "Helen Zimmern",
+  "method": "Downloaded Gutenberg plain text (4363.txt), sliced from Nietzsche's PREFACE through the end of the 'From the Heights' poem appendix, stripped all front/back matter and Gutenberg legal boilerplate, merged the one lone aphorism-number line into its poem title, normalized blank-line paragraph spacing.",
+  "raw_bytes": 408806,
+  "raw_sha256": "d32b98f337029f46ad0b504a8d02196992f191c012bc8a748de2b8b30b09e8f9",
+  "output_bytes": 380955,
+  "output_sha256": "69bda7547ff242e12bafe2e60adce9d2b59e48114236d42853d15336855ca924",
+  "word_count": 62459,
+  "block_count": 346,
+  "heading_count": 13,
+  "chapter_count": 13,
+  "headings": [
+    "PREFACE",
+    "CHAPTER I. PREJUDICES OF PHILOSOPHERS",
+    "CHAPTER II. THE FREE SPIRIT",
+    "CHAPTER III. THE RELIGIOUS MOOD",
+    "CHAPTER IV. APOPHTHEGMS AND INTERLUDES",
+    "CHAPTER V. THE NATURAL HISTORY OF MORALS",
+    "CHAPTER VI. WE SCHOLARS",
+    "CHAPTER VII. OUR VIRTUES",
+    "SANS GENIE ET SANS ESPRIT!",
+    "237. SEVEN APOPHTHEGMS FOR WOMEN",
+    "CHAPTER VIII. PEOPLES AND COUNTRIES",
+    "CHAPTER IX. WHAT IS NOBLE?",
+    "FROM THE HEIGHTS"
+  ],
+  "anomalies_found_and_fixed": [
+    "Stripped Gutenberg license header/footer, title page, Transcriber's Note, and Table of Contents (kept Nietzsche's own PREFACE through the closing 'FROM THE HEIGHTS' poem appendix and its translator footnotes).",
+    "Merged 16 standalone aphorism-number marker line(s) into the start of the following paragraph/poem-title (this fires once, for aphorism 237 which precedes the titled poem 'SEVEN APOPHTHEGMS FOR WOMEN').",
+    "9 CHAPTER headings (I-IX) plus PREFACE and the FROM THE HEIGHTS poem appendix recognized as chapter-level headings; aphorisms are numbered inline within each chapter in this edition and are not separate headings."
+  ],
+  "starts_with": "PREFACE\n\nSUPPOSING that Truth is a woman--what then? Is there not ground\nfor suspecting that all philosophers, in so far as they have been\ndogmatists, have failed to understand women--that the terribl",
+  "ends_with": "\n                      Our aims self-same:\n     The Guest of Guests, friend Zarathustra, came!\n     The world now laughs, the grisly veil was torn,\n     And Light and Dark were one that wedding-morn.\n"
+}

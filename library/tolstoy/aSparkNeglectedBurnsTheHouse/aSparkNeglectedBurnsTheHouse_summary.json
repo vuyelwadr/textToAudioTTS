@@ -1,0 +1,19 @@
+{
+  "item": {
+    "index": 16,
+    "video_id": "NNv1T-V3EKA",
+    "title": "A Spark Neglected Burns the House. A Short Story by Leo Tolstoy.",
+    "duration": 2156,
+    "url": "https://www.youtube.com/watch?v=NNv1T-V3EKA",
+    "slug": "aSparkNeglectedBurnsTheHouse"
+  },
+  "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aSparkNeglectedBurnsTheHouse",
+  "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aSparkNeglectedBurnsTheHouse/raw_audio/aSparkNeglectedBurnsTheHouse.webm",
+  "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aSparkNeglectedBurnsTheHouse/video_work/aSparkNeglectedBurnsTheHouse_audio_16k.wav",
+  "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aSparkNeglectedBurnsTheHouse/aSparkNeglectedBurnsTheHouseTranscript.json",
+  "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aSparkNeglectedBurnsTheHouse/aSparkNeglectedBurnsTheHouseTranscript.txt",
+  "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aSparkNeglectedBurnsTheHouse/aSparkNeglectedBurnsTheHouse.txt",
+  "chunks": 35,
+  "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aSparkNeglectedBurnsTheHouse/video_work/aSparkNeglectedBurnsTheHouse_chunk_audio_joined.wav",
+  "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aSparkNeglectedBurnsTheHouse/aSparkNeglectedBurnsTheHouse_neuralsurfer.mp4"
+}

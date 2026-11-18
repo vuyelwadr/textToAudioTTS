@@ -1,0 +1,19 @@
+{
+  "item": {
+    "index": 24,
+    "video_id": "5ySqXd0kMDs",
+    "title": "Exiled in Siberia: A Dramatic Short Story by Leo Tolstoy",
+    "duration": 1107,
+    "url": "https://www.youtube.com/watch?v=5ySqXd0kMDs",
+    "slug": "exiledInSiberia"
+  },
+  "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/exiledInSiberia",
+  "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/exiledInSiberia/raw_audio/exiledInSiberia.webm",
+  "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/exiledInSiberia/video_work/exiledInSiberia_audio_16k.wav",
+  "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/exiledInSiberia/exiledInSiberiaTranscript.json",
+  "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/exiledInSiberia/exiledInSiberiaTranscript.txt",
+  "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/exiledInSiberia/exiledInSiberia.txt",
+  "chunks": 18,
+  "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/exiledInSiberia/video_work/exiledInSiberia_chunk_audio_joined.wav",
+  "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/exiledInSiberia/exiledInSiberia_neuralsurfer.mp4"
+}

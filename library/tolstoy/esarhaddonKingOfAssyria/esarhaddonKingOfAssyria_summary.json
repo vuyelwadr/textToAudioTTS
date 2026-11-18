@@ -1,0 +1,19 @@
+{
+  "item": {
+    "index": 7,
+    "video_id": "uUo-YY4WQEM",
+    "title": "Esarhaddon, King of Assyria. A Spiritual Story by Leo Tolstoy.",
+    "duration": 852,
+    "url": "https://www.youtube.com/watch?v=uUo-YY4WQEM",
+    "slug": "esarhaddonKingOfAssyria"
+  },
+  "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/esarhaddonKingOfAssyria",
+  "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/esarhaddonKingOfAssyria/raw_audio/esarhaddonKingOfAssyria.webm",
+  "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/esarhaddonKingOfAssyria/video_work/esarhaddonKingOfAssyria_audio_16k.wav",
+  "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/esarhaddonKingOfAssyria/esarhaddonKingOfAssyriaTranscript.json",
+  "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/esarhaddonKingOfAssyria/esarhaddonKingOfAssyriaTranscript.txt",
+  "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/esarhaddonKingOfAssyria/esarhaddonKingOfAssyria.txt",
+  "chunks": 14,
+  "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/esarhaddonKingOfAssyria/video_work/esarhaddonKingOfAssyria_chunk_audio_joined.wav",
+  "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/esarhaddonKingOfAssyria/esarhaddonKingOfAssyria_neuralsurfer.mp4"
+}

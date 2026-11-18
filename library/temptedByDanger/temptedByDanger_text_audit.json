@@ -1,0 +1,14 @@
+{
+  "source_epub": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/temptedByDanger/_OceanofPDF.com_Tempted_by_danger_-_Endiya_Carter.epub",
+  "output": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/temptedByDanger/temptedByDanger.txt",
+  "title": "Tempted by Danger",
+  "author": "Endiya Carter",
+  "characters": 591423,
+  "words": 112637,
+  "included_blocks": 5236,
+  "story_block_count": 5234,
+  "skipped_front_matter_blocks": 236,
+  "start_marker_found": true,
+  "stop_marker": "Message Message",
+  "sha256": "ff639dba3ec9be3adc1bcf81165a38593ff8efb74b4a5e7d624660f23d13cd8e"
+}

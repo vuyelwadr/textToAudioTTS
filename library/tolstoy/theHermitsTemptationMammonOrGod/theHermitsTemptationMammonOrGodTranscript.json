@@ -1,0 +1,968 @@
+{
+  "audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theHermitsTemptationMammonOrGod/video_work/theHermitsTemptationMammonOrGod_audio_16k.wav",
+  "model": "small.en",
+  "language": "en",
+  "duration": 1110.5493125,
+  "segments": [
+    {
+      "start": 5.17,
+      "end": 12.97,
+      "text": "To God or Mammon? A Spiritual Short Story by Leo Tolstoy. No servant can serve two masters,"
+    },
+    {
+      "start": 12.97,
+      "end": 17.67,
+      "text": "for either he will hate the one and love the other, or else he will hold to the one and"
+    },
+    {
+      "start": 17.67,
+      "end": 23.17,
+      "text": "despise the other. You cannot serve God and Mammon."
+    },
+    {
+      "start": 23.17,
+      "end": 29.17,
+      "text": "The Gospel of Luke. He that is not with me is against me, and he that gathers not for"
+    },
+    {
+      "start": 29.17,
+      "end": 37.63,
+      "text": "me scatters abroad. The Gospel of Matthew. Enormous tracts of the very best lands by"
+    },
+    {
+      "start": 37.63,
+      "end": 43.31,
+      "text": "which millions of now poverty-stricken families might be supported are devoted to tobacco,"
+    },
+    {
+      "start": 43.31,
+      "end": 49.55,
+      "text": "vineyards, barley, hemp, and especially rye and potatoes, employed in the production of"
+    },
+    {
+      "start": 49.55,
+      "end": 56.71,
+      "text": "intoxicating beverages, wine, beer, and mainly brandy. Millions of labourers who might be"
+    },
+    {
+      "start": 56.71,
+      "end": 62.39,
+      "text": "making things useful for man are occupied in the production of these things. In England"
+    },
+    {
+      "start": 62.39,
+      "end": 67.49,
+      "text": "it is estimated that one-tenth of all the laboring men are occupied in the manufacture"
+    },
+    {
+      "start": 67.49,
+      "end": 73.35,
+      "text": "of brandy and beer. What are the consequences of the manufacture and consumption of tobacco,"
+    },
+    {
+      "start": 73.35,
+      "end": 79.49,
+      "text": "wine, vodka, beer? There is a terrible story about a monk who"
+    },
+    {
+      "start": 79.49,
+      "end": 84.49,
+      "text": "laid a wager with the devil that he would not admit him into his cell. If he let him"
+    },
+    {
+      "start": 84.49,
+      "end": 90.73,
+      "text": "in, he agreed to do whatever the devil should order him to do. The story tells how the devil"
+    },
+    {
+      "start": 90.73,
+      "end": 95.95,
+      "text": "took the form of a wounded raven with its bloody wing trailing and hopped about pitifully"
+    },
+    {
+      "start": 95.95,
+      "end": 101.05,
+      "text": "at the door of the monk's cell. The monk had compassion on the raven and took him into"
+    },
+    {
+      "start": 101.05,
+      "end": 106.81,
+      "text": "his cell, and then the devil, having obtained entrance, gave the monk a choice among three"
+    },
+    {
+      "start": 106.81,
+      "end": 114.25,
+      "text": "crimes, murder, fornication, or drunkenness. The monk chose drunkenness, thinking that"
+    },
+    {
+      "start": 114.25,
+      "end": 120.49,
+      "text": "he got intoxicated, he would harm only himself. But when the liquor had overcome him, he lost"
+    },
+    {
+      "start": 120.49,
+      "end": 126.17,
+      "text": "control of his reason. He went to the village, and there, yielding to temptation of a woman,"
+    },
+    {
+      "start": 126.17,
+      "end": 131.29,
+      "text": "he committed adultery with her, and then murder by defending himself from the husband,"
+    },
+    {
+      "start": 131.29,
+      "end": 137.05,
+      "text": "who returned and attacked him. Thus are pictured the consequences of drunkenness in the old"
+    },
+    {
+      "start": 137.05,
+      "end": 142.73,
+      "text": "story, and now, eyes different in real life, are the consequences of the use of intoxicating"
+    },
+    {
+      "start": 142.73,
+      "end": 150.65,
+      "text": "beverages. It is an unusual burglar or murderer who perpetrates his crime while sober. According"
+    },
+    {
+      "start": 150.65,
+      "end": 155.61,
+      "text": "to the reports of courts, it is seen that nine-tenths of misdemeanours are accomplished when"
+    },
+    {
+      "start": 155.61,
+      "end": 161.05,
+      "text": "people are tipsy. The most convincing proof that the large number of misdemeanours are traceable"
+    },
+    {
+      "start": 161.05,
+      "end": 165.93,
+      "text": "to liquor is afforded by the fact that in certain states of America, where wine and"
+    },
+    {
+      "start": 165.93,
+      "end": 171.29,
+      "text": "the manufacture and sale of intoxicating liquors are prohibited, crimes have almost ceased."
+    },
+    {
+      "start": 171.29,
+      "end": 176.97,
+      "text": "There are no robberies, or thefts, or murders, and the jails are empty."
+    },
+    {
+      "start": 176.97,
+      "end": 181.37,
+      "text": "Such is one consequence of the use of intoxicating drinks."
+    },
+    {
+      "start": 181.37,
+      "end": 186.37,
+      "text": "Another consequence is the harmful influence produced by intoxicating beverages on the"
+    },
+    {
+      "start": 186.37,
+      "end": 188.29,
+      "text": "health of the people."
+    },
+    {
+      "start": 188.29,
+      "end": 194.69,
+      "text": "Besides the fact that from the use of intoxicating drinks arise various painful illnesses peculiar"
+    },
+    {
+      "start": 194.69,
+      "end": 197.73,
+      "text": "to drunkards, many of whom die of them."
+    },
+    {
+      "start": 197.73,
+      "end": 203.07,
+      "text": "It is to be noted that men who drink recuperate from ordinary diseases with greater difficulty"
+    },
+    {
+      "start": 203.07,
+      "end": 208.51,
+      "text": "than others, so that in life, insurance, the insurance companies always prefer the risks"
+    },
+    {
+      "start": 208.51,
+      "end": 212.23,
+      "text": "on those that do not make use of intoxicating drinks."
+    },
+    {
+      "start": 212.23,
+      "end": 216.61,
+      "text": "This is the second consequence of the use of intoxicating beverages."
+    },
+    {
+      "start": 216.61,
+      "end": 222.01,
+      "text": "The third and most horrible consequence of intoxicating beverages is that liquor darkens"
+    },
+    {
+      "start": 222.01,
+      "end": 224.65,
+      "text": "the intellect and conscience of men."
+    },
+    {
+      "start": 224.65,
+      "end": 231.37,
+      "text": "From the use of liquor men grow coarser, stupider, and wicketer. What advantage is there from"
+    },
+    {
+      "start": 231.37,
+      "end": 238.45,
+      "text": "the use of intoxicating drinks? None. The advocates of vodka, wine, beer assure us in"
+    },
+    {
+      "start": 238.45,
+      "end": 244.65,
+      "text": "advance that these drinks enhance the health and strength that they warm and cheer. But"
+    },
+    {
+      "start": 244.65,
+      "end": 251.29,
+      "text": "now it is indisputably proved that this is not true. Intoxicating beverages do not improve"
+    },
+    {
+      "start": 251.29,
+      "end": 257.49,
+      "text": "the health because they contain a violent poison, alcohol, and the use of a poison cannot"
+    },
+    {
+      "start": 257.49,
+      "end": 263.19,
+      "text": "fail to be injurious. That wine does not increase a man's strength has been proved"
+    },
+    {
+      "start": 263.19,
+      "end": 267.93,
+      "text": "many times, and by the fact that when the work of a drinking mechanic and of a mechanic"
+    },
+    {
+      "start": 267.93,
+      "end": 273.07,
+      "text": "who does not drink are compared during the course of months and years, it is always"
+    },
+    {
+      "start": 273.07,
+      "end": 278.77,
+      "text": "proved that the non-drinking man does more work and better work than the drinker, and"
+    },
+    {
+      "start": 278.77,
+      "end": 284.31,
+      "text": "the fact that in those companies of soldiers which on campaigns use vodka there are always"
+    },
+    {
+      "start": 284.31,
+      "end": 291.63,
+      "text": "more. Incapacitated and more stragglers than in those where vodka is not used. In exactly"
+    },
+    {
+      "start": 291.63,
+      "end": 296.75,
+      "text": "the same way it has been proved that liquor does not warm, and that the heat felt after"
+    },
+    {
+      "start": 296.75,
+      "end": 301.71,
+      "text": "drinking liquor does not hold out long, and that the man, after the brief increase in"
+    },
+    {
+      "start": 301.71,
+      "end": 306.89,
+      "text": "temperature soon grows colder than ever, so that a drinking man always finds it much"
+    },
+    {
+      "start": 306.89,
+      "end": 313.23,
+      "text": "harder to endure prolonged cold than a non-drinker. People who freeze to death every year are"
+    },
+    {
+      "start": 313.23,
+      "end": 318.77,
+      "text": "frozen for the most part because they warm themselves with liquor. It is not necessary"
+    },
+    {
+      "start": 318.77,
+      "end": 325.55,
+      "text": "to prove also that the gaiety that comes from wine is not real and not a joyous gaiety."
+    },
+    {
+      "start": 325.55,
+      "end": 330.81,
+      "text": "Everyone knows what sort of thing this drunken gaiety is. All that it requires is to take"
+    },
+    {
+      "start": 330.81,
+      "end": 336.89,
+      "text": "a look at what is done in cities on holidays, at the drinking places, and in the rural districts,"
+    },
+    {
+      "start": 336.89,
+      "end": 342.65,
+      "text": "at what is done on holidays, or at weddings and christenings. This drunken gaiety always"
+    },
+    {
+      "start": 342.65,
+      "end": 348.57,
+      "text": "ends with insulting words, fights, injured members, all kinds of crimes, and the loss"
+    },
+    {
+      "start": 348.57,
+      "end": 354.41,
+      "text": "of human dignity. Wine does not conduce to the health or the strength, or the warmth"
+    },
+    {
+      "start": 354.41,
+      "end": 360.17,
+      "text": "or the gaiety, but only brings great injury to men, and therefore it would seem to be"
+    },
+    {
+      "start": 360.17,
+      "end": 366.17,
+      "text": "be the wise course for every reasonable and decent man, not only not to use intoxicating"
+    },
+    {
+      "start": 366.17,
+      "end": 371.73,
+      "text": "drinks himself, and not to set them before others, but also to try with all his might"
+    },
+    {
+      "start": 371.73,
+      "end": 378.43,
+      "text": "to stop the common use of this unprofitable and injurious poison. But, unfortunately,"
+    },
+    {
+      "start": 378.43,
+      "end": 384.33,
+      "text": "this is not at all the case. Men are so wedded to old habits and customs, and find it so"
+    },
+    {
+      "start": 384.33,
+      "end": 390.45,
+      "text": "difficult to do away with them, that there are in our day very many good, kind and reasonable"
+    },
+    {
+      "start": 390.45,
+      "end": 395.83,
+      "text": "men who not only do not forswear the use of intoxicating beverages and the regalement"
+    },
+    {
+      "start": 395.83,
+      "end": 399.97,
+      "text": "of others with them, but even defend it with all their ability."
+    },
+    {
+      "start": 399.97,
+      "end": 407.33,
+      "text": "Wine, they say, is not to blame, but drunkenness is to be condemned. King David said,"
+    },
+    {
+      "start": 407.33,
+      "end": 413.85,
+      "text": "Wine cheers the heart of man. Christ in Cana of Galilee sanctified wine. If it were not"
+    },
+    {
+      "start": 413.85,
+      "end": 418.87,
+      "text": "for the drinking habit, government would be deprived of its chief revenue. It is impossible"
+    },
+    {
+      "start": 418.87,
+      "end": 424.77,
+      "text": "to celebrate a holiday, to hold a wedding, or a christening without wine. One must drink"
+    },
+    {
+      "start": 424.77,
+      "end": 430.25,
+      "text": "something at the conclusion of a bargain or a sale, or at the meeting with a dear friend."
+    },
+    {
+      "start": 430.25,
+      "end": 435.53,
+      "text": "\"'In our poverty and in our labor we must drink,' says the poor laboring man."
+    },
+    {
+      "start": 435.53,
+      "end": 441.29,
+      "text": "\"'If we drink only occasionally and temperately we do no harm to anyone,' say well to do"
+    },
+    {
+      "start": 441.29,
+      "end": 442.29,
+      "text": "people.\""
+    },
+    {
+      "start": 442.29,
+      "end": 446.41,
+      "text": "\"'The gaiety of Russia is in drinking,' said Prince Vladimir."
+    },
+    {
+      "start": 446.41,
+      "end": 453.17,
+      "text": "\"'By our drinking we do no harm to anyone but ourselves, and if we harm only ourselves"
+    },
+    {
+      "start": 453.17,
+      "end": 455.05,
+      "text": "then that is our affair."
+    },
+    {
+      "start": 455.05,
+      "end": 459.13,
+      "text": "We don't want to teach anyone and we don't want to be taught by anyone."
+    },
+    {
+      "start": 459.13,
+      "end": 464.89,
+      "text": "We did not begin this, and it is not for us to put an end to it, say frivolous people."
+    },
+    {
+      "start": 464.89,
+      "end": 470.81,
+      "text": "Thus talk drinking men of various conditions and ages, trying to justify themselves. But"
+    },
+    {
+      "start": 470.81,
+      "end": 477.17,
+      "text": "these justifications, which availed some decades of years ago, now no longer avail."
+    },
+    {
+      "start": 477.17,
+      "end": 481.41,
+      "text": "It was well enough to say this when all men thought that the use of intoxicating drinks"
+    },
+    {
+      "start": 481.41,
+      "end": 487.45,
+      "text": "was a harmless pleasure, that intoxicating drinks enhanced a man's health and strength."
+    },
+    {
+      "start": 487.45,
+      "end": 492.69,
+      "text": "When they did not, as yet, know that wine contained a poison always injurious to the"
+    },
+    {
+      "start": 492.69,
+      "end": 499.37,
+      "text": "health of men, when men did not, as yet, realize the terrible consequences of drunkenness, which"
+    },
+    {
+      "start": 499.37,
+      "end": 502.25,
+      "text": "are now patent to all eyes."
+    },
+    {
+      "start": 502.25,
+      "end": 507.01,
+      "text": "It was possible to say this when there were not, as yet, these hundreds and thousands of"
+    },
+    {
+      "start": 507.01,
+      "end": 513.17,
+      "text": "men prematurely dying in cruel torments, simply because they had learned to drink intoxicating"
+    },
+    {
+      "start": 513.17,
+      "end": 519.65,
+      "text": "beverages, and could not, as yet, abstain from the use of them. It was well to say that"
+    },
+    {
+      "start": 519.65,
+      "end": 524.93,
+      "text": "wine is a harmless pleasure before we had seen those hundreds and thousands of poor"
+    },
+    {
+      "start": 524.93,
+      "end": 529.49,
+      "text": "tormented women and children suffering because their husbands and fathers had learned to"
+    },
+    {
+      "start": 529.49,
+      "end": 534.45,
+      "text": "drink wine. It was well enough to say this before we had witnessed these hundreds and"
+    },
+    {
+      "start": 534.45,
+      "end": 540.69,
+      "text": "thousands of criminals filling the jails, the exiles, galley slaves, and ruined women"
+    },
+    {
+      "start": 540.69,
+      "end": 545.73,
+      "text": "who had fallen into this condition owing to wine. It was well enough to say this before we"
+    },
+    {
+      "start": 545.73,
+      "end": 551.17,
+      "text": "knew that hundreds of thousands of men who might have lived their lives with delight to themselves"
+    },
+    {
+      "start": 551.17,
+      "end": 556.13,
+      "text": "and others have ruined their energies and their intellects and their souls simply because"
+    },
+    {
+      "start": 556.13,
+      "end": 562.05,
+      "text": "intoxicating beverages existed and they were tempted by them. And therefore it is no longer"
+    },
+    {
+      "start": 562.05,
+      "end": 567.89,
+      "text": "possible in our time to say that the drinking or non-drinking of wine is a private affair,"
+    },
+    {
+      "start": 567.89,
+      "end": 573.97,
+      "text": "that we do not consider the moderate use of wine injurious to ourselves, and do not wish to teach"
+    },
+    {
+      "start": 573.97,
+      "end": 580.61,
+      "text": "anyone or be taught by anyone that we did not begin it, and it is not for us to end it. It is"
+    },
+    {
+      "start": 580.61,
+      "end": 587.49,
+      "text": "impossible to say this now. The use of wine or abstinence from it is, in our day, not a private"
+    },
+    {
+      "start": 587.49,
+      "end": 593.81,
+      "text": "matter, but a public matter. Now all men, it is all the same whether they wish it or do not"
+    },
+    {
+      "start": 593.81,
+      "end": 599.81,
+      "text": "wish it, are divided into two camps, those in the one camp are fighting against the employment"
+    },
+    {
+      "start": 599.81,
+      "end": 606.57,
+      "text": "of a useless poison, intoxicating drinks, both by word and deed, not using wine and"
+    },
+    {
+      "start": 606.57,
+      "end": 612.65,
+      "text": "not offering it to others, those in the opposite camp uphold both by word and more powerfully"
+    },
+    {
+      "start": 612.65,
+      "end": 617.91,
+      "text": "than all else by force of example the use of this poison, and this contest is going"
+    },
+    {
+      "start": 617.91,
+      "end": 623.59,
+      "text": "on at the present time in all nations, and now for twenty years with a special violence in Russia."
+    },
+    {
+      "start": 624.79,
+      "end": 630.87,
+      "text": "As long as you did not know you were without sin, said Christ, but now we know what we are doing"
+    },
+    {
+      "start": 630.87,
+      "end": 637.11,
+      "text": "and whom we are serving when we use wine and offer it to others, and consequently, if we,"
+    },
+    {
+      "start": 637.11,
+      "end": 642.79,
+      "text": "who know the sin of using wine, go on drinking or offering it to others, then we have no"
+    },
+    {
+      "start": 642.79,
+      "end": 648.67,
+      "text": "justification. And let not men say that it is impossible to avoid drinking and offering"
+    },
+    {
+      "start": 648.67,
+      "end": 654.47,
+      "text": "wine on special occasions, on holidays and at weddings and similar occasions, that all"
+    },
+    {
+      "start": 654.47,
+      "end": 659.93,
+      "text": "do this, that our fathers and grandfathers did this, and therefore it is impossible for"
+    },
+    {
+      "start": 659.93,
+      "end": 666.07,
+      "text": "us alone to stand out against all the rest. This is false. Our fathers and grandfathers"
+    },
+    {
+      "start": 666.07,
+      "end": 671.63,
+      "text": "did away with those evil and harmful practices, the ill effects of which became manifest"
+    },
+    {
+      "start": 671.63,
+      "end": 676.87,
+      "text": "to them. In the same way, also, we are bound to do away with the evil which has become"
+    },
+    {
+      "start": 676.87,
+      "end": 682.67,
+      "text": "manifest in our day. And the fact that wine has become a frightful evil in our day is"
+    },
+    {
+      "start": 682.67,
+      "end": 688.15,
+      "text": "beyond all question. How, then, if I know that the use of intoxicating"
+    },
+    {
+      "start": 688.15,
+      "end": 693.79,
+      "text": "drinks is an evil, destroying hundreds of thousands of men, can I offer this evil"
+    },
+    {
+      "start": 693.79,
+      "end": 699.63,
+      "text": "to my friends who come to my house for a festival, a christening, or a wedding? Not"
+    },
+    {
+      "start": 699.63,
+      "end": 705.07,
+      "text": "Not always was everything as it is now, but everything has changed from worse to better,"
+    },
+    {
+      "start": 705.07,
+      "end": 710.61,
+      "text": "and the change has come about not of itself, but by people fulfilling what has been demanded"
+    },
+    {
+      "start": 710.61,
+      "end": 716.59,
+      "text": "of them by reason and conscience, and now our reason and our conscience in the most actual"
+    },
+    {
+      "start": 716.59,
+      "end": 723.03,
+      "text": "manner demand of us that we cease drinking wine, and offering it to others. As a general"
+    },
+    {
+      "start": 723.03,
+      "end": 727.83,
+      "text": "thing men consider worthy of censure and scorn such drunkards as go to taverns and"
+    },
+    {
+      "start": 727.83,
+      "end": 732.93,
+      "text": "drinking-rooms, and get so full that they lose their reason, and become so addicted"
+    },
+    {
+      "start": 732.93,
+      "end": 738.69,
+      "text": "to wine, that they cannot control themselves, and drink up all they have. The very men who"
+    },
+    {
+      "start": 738.69,
+      "end": 744.73,
+      "text": "buy wine for home use drink every day and in moderation, and offer wine to their guests"
+    },
+    {
+      "start": 744.73,
+      "end": 750.05,
+      "text": "in circumstances when it is used, and such men are considered good and honourable and"
+    },
+    {
+      "start": 750.05,
+      "end": 755.33,
+      "text": "not as doing any harm, and yet these very people are more worthy of censure than the"
+    },
+    {
+      "start": 755.33,
+      "end": 760.59,
+      "text": "The drunkards have become drunkards simply because those that were not drunkards, those"
+    },
+    {
+      "start": 760.59,
+      "end": 767.25,
+      "text": "that did themselves no harm, taught them to drink wine, tempted them by their example."
+    },
+    {
+      "start": 767.25,
+      "end": 772.13,
+      "text": "Drunkards never would have become drunkards if they had not seen honoured men, men respected"
+    },
+    {
+      "start": 772.13,
+      "end": 777.59,
+      "text": "by everyone, drinking wine and offering it to others. A young man who has never taken"
+    },
+    {
+      "start": 777.59,
+      "end": 783.27,
+      "text": "wine will know the taste and the effect of wine at festivals, at weddings, at the houses"
+    },
+    {
+      "start": 783.27,
+      "end": 788.23,
+      "text": "of these honoured people who are not themselves drunkards, but who drink and set it before"
+    },
+    {
+      "start": 788.23,
+      "end": 794.61,
+      "text": "their guests on certain occasions. And so he who drinks wine, no matter how moderately"
+    },
+    {
+      "start": 794.61,
+      "end": 801.07,
+      "text": "or offers it in whatever special circumstances, commits a great sin. He tempts those whom"
+    },
+    {
+      "start": 801.07,
+      "end": 806.63,
+      "text": "he has commanded not to tempt, of whom it is said, woe to him that tempts one of these"
+    },
+    {
+      "start": 806.63,
+      "end": 812.99,
+      "text": "little ones. It is said, we did not begin it, it is not for us to end it. It is for"
+    },
+    {
+      "start": 812.99,
+      "end": 818.41,
+      "text": "us to end it if we only understand that for every one of us the drinking or non-drinking"
+    },
+    {
+      "start": 818.41,
+      "end": 823.43,
+      "text": "of wine is not a matter of indifference, that with every bottle of wine bought, every"
+    },
+    {
+      "start": 823.43,
+      "end": 829.71,
+      "text": "glass of wine imbibed, we are serving that terrible devilish deed whereby the best"
+    },
+    {
+      "start": 829.71,
+      "end": 836.23,
+      "text": "strength of humanity is wasted. But on the other hand, by refraining from wine for ourselves"
+    },
+    {
+      "start": 836.23,
+      "end": 842.55,
+      "text": "and by doing away with the senseless custom of using wine at festivals, weddings and christenings,"
+    },
+    {
+      "start": 842.55,
+      "end": 849.23,
+      "text": "we are performing a work of the utmost importance, our soul's work, God's work. As soon as"
+    },
+    {
+      "start": 849.23,
+      "end": 855.23,
+      "text": "we have understood this, then will drunkenness be stopped by us. And therefore, my reader,"
+    },
+    {
+      "start": 855.23,
+      "end": 861.07,
+      "text": "whoever you may be, a young man only just entering upon life, or a grown man who have"
+    },
+    {
+      "start": 861.07,
+      "end": 868.03,
+      "text": "already established your life, a master of a house, or a mistress of a house, or an aged man,"
+    },
+    {
+      "start": 868.03,
+      "end": 873.31,
+      "text": "for whom now the time is near for accounting for the deeds you have done, whether you are rich or"
+    },
+    {
+      "start": 873.31,
+      "end": 879.87,
+      "text": "poor, famous or unknown, whoever you are, it is impossible for you to stand between these two"
+    },
+    {
+      "start": 879.87,
+      "end": 886.43,
+      "text": "camps. You must infallibly choose one of the two, oppose drunkenness or cooperate with it,"
+    },
+    {
+      "start": 886.43,
+      "end": 892.03,
+      "text": "serve God or mammon. If you are a young man who have never as yet taken liquor,"
+    },
+    {
+      "start": 892.03,
+      "end": 897.55,
+      "text": "never has yet been poisoned by the poison of wine, treasure your innocence and freedom from"
+    },
+    {
+      "start": 897.55,
+      "end": 903.23,
+      "text": "temptation. If you taste, the temptation will be all the harder for you to overcome it,"
+    },
+    {
+      "start": 903.23,
+      "end": 910.03,
+      "text": "and do not believe that wine will increase your gaiety. At your time of life, gaiety is natural,"
+    },
+    {
+      "start": 910.03,
+      "end": 917.07,
+      "text": "genuine, good gaiety, and wine only changes your true, innocent gaiety into a drunken,"
+    },
+    {
+      "start": 917.07,
+      "end": 923.87,
+      "text": "senseless, vicious gaiety. Above all, beware of wine, because at your time of life it will"
+    },
+    {
+      "start": 923.87,
+      "end": 930.35,
+      "text": "be harder for you to resist other temptations. Wine weakens in you the force of reason,"
+    },
+    {
+      "start": 930.35,
+      "end": 936.75,
+      "text": "which is most needful at your age, to help you resist temptations. After you have imbibed,"
+    },
+    {
+      "start": 936.75,
+      "end": 942.51,
+      "text": "you will do what you would not think of doing when sober. Why subject yourself to such a terrible"
+    },
+    {
+      "start": 942.51,
+      "end": 948.83,
+      "text": "risk? If you are a grown man who have already got into the habit of using intoxicating drinks,"
+    },
+    {
+      "start": 948.83,
+      "end": 954.19,
+      "text": "or who are just beginning to form that habit, make haste while there is yet time to get out"
+    },
+    {
+      "start": 954.19,
+      "end": 959.79,
+      "text": "of this awful habit, or else before you look around it will get control of you, and you may"
+    },
+    {
+      "start": 959.79,
+      "end": 965.87,
+      "text": "become like those that are irrevocably drunkards who have perished by reason of wine. All of"
+    },
+    {
+      "start": 965.87,
+      "end": 971.71,
+      "text": "them began just as you have. Even if you have the ability throughout your life to use intoxicating"
+    },
+    {
+      "start": 971.71,
+      "end": 977.71,
+      "text": "drinks in moderation and may not yourself become a drunkard, yet if you continue to drink wine and"
+    },
+    {
+      "start": 977.71,
+      "end": 982.75,
+      "text": "serve it at your table, you may perhaps make your younger brother, your wife, your children,"
+    },
+    {
+      "start": 982.75,
+      "end": 987.87,
+      "text": "drunkards, for they may not have the strength as you have to confine themselves to a moderate use"
+    },
+    {
+      "start": 987.87,
+      "end": 994.99,
+      "text": "of wine. And above all, understand that on you as a man who have reached the very prime of life"
+    },
+    {
+      "start": 994.99,
+      "end": 1001.39,
+      "text": "as the master of the house, as the controller of the destiny of others, rest the responsibility"
+    },
+    {
+      "start": 1001.39,
+      "end": 1007.07,
+      "text": "of guiding the lives of your household. And therefore, if you know that wine brings no"
+    },
+    {
+      "start": 1007.07,
+      "end": 1013.15,
+      "text": "advantage, but causes great evil to men, then not only are you not obliged slavishly to do as"
+    },
+    {
+      "start": 1013.15,
+      "end": 1019.31,
+      "text": "your fathers and grandfathers used to do, to use wine, to buy it, and serve it to others,"
+    },
+    {
+      "start": 1019.31,
+      "end": 1023.87,
+      "text": "but on the contrary, you are bound to avoid this habit and keep it from others."
+    },
+    {
+      "start": 1023.87,
+      "end": 1029.73,
+      "text": "And be not afraid that the change in the custom of drinking wine at festivals, christenings"
+    },
+    {
+      "start": 1029.73,
+      "end": 1036.31,
+      "text": "and weddings will very deeply humiliate or trouble people. In many places they have already"
+    },
+    {
+      "start": 1036.31,
+      "end": 1042.47,
+      "text": "begun to do this, substituting for the wine-appetizing viands and temperance drinks, and people"
+    },
+    {
+      "start": 1042.47,
+      "end": 1049.67,
+      "text": "only at first and the very stupidest wonder, but quickly get used to it and approve. If"
+    },
+    {
+      "start": 1049.67,
+      "end": 1054.19,
+      "text": "You are an old man, at an age when you will very shortly be called upon to render your"
+    },
+    {
+      "start": 1054.19,
+      "end": 1059.83,
+      "text": "account to God how you have served Him, and instead of warning the young and inexperienced"
+    },
+    {
+      "start": 1059.83,
+      "end": 1064.95,
+      "text": "from wine, the terrible evil of which you must have seen in the course of your life,"
+    },
+    {
+      "start": 1064.95,
+      "end": 1070.37,
+      "text": "you have tempted your neighbour by your example, drinking wine and offering it to others,"
+    },
+    {
+      "start": 1070.37,
+      "end": 1077.33,
+      "text": "you have been committing a mighty sin. Woe to the world because of temptations."
+    },
+    {
+      "start": 1077.33,
+      "end": 1083.85,
+      "text": "must come into the world, but woe to him through whom they come. Only let us understand that"
+    },
+    {
+      "start": 1083.85,
+      "end": 1090.21,
+      "text": "in the matter of using wine there is no half-way, and we either desire it or do not desire"
+    },
+    {
+      "start": 1090.21,
+      "end": 1097.83,
+      "text": "it. We must choose between two courses, serving God or serving Mammon. He that is not with"
+    },
+    {
+      "start": 1097.83,
+      "end": 1101.51,
+      "text": "me is against me, and he that gathers not for me scatters abroad.\""
+    }
+  ]
+}

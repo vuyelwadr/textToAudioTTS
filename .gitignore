@@ -1,9 +1,145 @@
-/books
-/venv
-/outetts
-/kukuro
-/kukuro1
+# Keep the working tree source-focused by default.
+# Untracked files stay hidden unless they look like code or project config.
+*
+!*/
+!*.py
+!*.json
+!*.yml
+!*.yaml
+!*.md
+!*.toml
+!*.ini
+!*.cfg
+!*.gitignore
 
+# Local environments and editor folders
+.env
+.env/
+.conda/
+.audit-venv/
+.venv/
+.venv*
+.venv*/
+.venv-*/
+.venv-kokoro-legacy/
+.venv-pocket-tts/
+.venv-tts-experiments/
+venv/
+.vscode/
+.idea/
+.claude/
+.csc/
+.DS_Store
+**/.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.lprof/
+
+# Generated audio, video, and media assets
 *.wav
-*.txt
+*.mp3
+*.m4a
+*.aac
+*.flac
+*.ogg
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.srt
+*.vtt
+*.ass
 *.pdf
+*.pptx
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Generated text and reports
+*.txt
+*.csv
+*.tsv
+*.log
+progress.json
+processing_plan.json
+*_manifest.json
+session_report_*.json
+
+# The tracked root requirements file stays in git automatically.
+
+# Keep physical organization folders tracked
+!config/
+!config/**/*.txt
+!config/**/*.json
+!config/**/*.yml
+!config/**/*.yaml
+!docs/
+!docs/**/*.md
+!demo/
+!demo/inputs/
+!demo/inputs/**/*.txt
+!experiments/
+!experiments/**/*.md
+!experiments/**/*.json
+!experiments/**/*.py
+!experiments/**/.gitkeep
+!experiments/**/inputs/
+!experiments/**/inputs/**/*.txt
+!scripts/**/*.sh
+!scripts/**/*.slurm
+experiments/**/generated/
+
+# Generated folders and local outputs
+books/
+outetts/
+chatterbox-audio/
+kukuro/
+kukuro1/
+demo/outputs/
+debug_download/
+tts_output/
+tts_online_output/
+logs/
+outputs/
+generated/
+audio/
+audio_tests/
+voice_tests/
+voices/
+assets/voices/
+test_output*/
+*_output/
+*_timed/
+**/debug_download/
+**/tts_output/
+**/tts_online_output/
+**/audio/
+**/test_output/
+**/test_v2_output/
+**/indaba_debug/
+**/indaba2/
+**/*_output/
+**/*_timed/
+
+# Disposable local backups
+**/* copy.py
+
+# Keep structured demo inputs visible even though they use .txt
+!demo/
+!demo/inputs/
+!demo/inputs/**/*.txt
+
+# Keep repo-level workspace organization docs/settings tracked
+!.vscode/
+!.vscode/settings.json
+
+# Local secrets (never commit)
+.env
+.env.*
+!.env.example

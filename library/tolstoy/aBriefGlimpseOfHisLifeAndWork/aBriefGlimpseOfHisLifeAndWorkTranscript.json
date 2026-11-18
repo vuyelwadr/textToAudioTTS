@@ -1,0 +1,3283 @@
+{
+  "audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/aBriefGlimpseOfHisLifeAndWork/video_work/aBriefGlimpseOfHisLifeAndWork_audio_16k.wav",
+  "model": "small.en",
+  "language": "en",
+  "duration": 3722.1006875,
+  "segments": [
+    {
+      "start": 4.62,
+      "end": 11.82,
+      "text": "Leo Tolstoy. A Glimpse of His Life and Work. The true life is the common life of all, not"
+    },
+    {
+      "start": 11.82,
+      "end": 17.58,
+      "text": "the life of the one. All must labour for the life of others. Tolstoy, one of the greatest"
+    },
+    {
+      "start": 17.58,
+      "end": 23.1,
+      "text": "novelists and the greatest thinkers of the 19th century, was a Russian. His father, Count"
+    },
+    {
+      "start": 23.1,
+      "end": 29.62,
+      "text": "Nicholas Tolstoy, and his mother, Princess Marie Volkonsky, were both aristocrats, whose"
+    },
+    {
+      "start": 29.62,
+      "end": 36.42,
+      "text": "whose ancestors had been well known and important people for some generations. Yasnaya Polyana,"
+    },
+    {
+      "start": 36.42,
+      "end": 42.62,
+      "text": "which means bright glade, where Leo Tolstoy was born, belonged to his mother. It was a"
+    },
+    {
+      "start": 42.62,
+      "end": 48.34,
+      "text": "very pretty place, and consisted of a large wooden house surrounded by woods and avenues"
+    },
+    {
+      "start": 48.34,
+      "end": 53.26,
+      "text": "of lime trees, and with a river and four lakes, and a lot of property belonging to"
+    },
+    {
+      "start": 53.26,
+      "end": 58.7,
+      "text": "it. Tolstoy's mother died when he was a year and a half old, so he could not remember"
+    },
+    {
+      "start": 58.7,
+      "end": 64.06,
+      "text": "her, but all he heard about her made him love her memory. He tells us that she appeared"
+    },
+    {
+      "start": 64.06,
+      "end": 70.78,
+      "text": "to him as a creature so elevated, fine, and spiritual, that often, during his struggles"
+    },
+    {
+      "start": 70.78,
+      "end": 76.82,
+      "text": "to be good and overcome temptation, he prayed to her soul to help him, and that such prayer"
+    },
+    {
+      "start": 76.82,
+      "end": 83.5,
+      "text": "always did. She seems to have been a gifted and delightful woman, speaking five languages"
+    },
+    {
+      "start": 83.5,
+      "end": 88.78,
+      "text": "and playing the piano exceptionally well. She had a gift for telling stories, too."
+    },
+    {
+      "start": 89.66,
+      "end": 95.1,
+      "text": "At balls, it is said, her young girlfriends would leave the dance and gather together in a dark"
+    },
+    {
+      "start": 95.1,
+      "end": 100.46,
+      "text": "room to hear her tell a story, for the princess had to have the room darkened or she felt shy."
+    },
+    {
+      "start": 101.18,
+      "end": 106.14,
+      "text": "Tolstoy's mother was hot-tempered, yet self-controlled. She was generous,"
+    },
+    {
+      "start": 106.14,
+      "end": 112.3,
+      "text": "and hardly ever condemned anybody, and she was very truthful. Her son Leo inherited many of"
+    },
+    {
+      "start": 112.3,
+      "end": 118.22,
+      "text": "her qualities. Tolstoy lost his father when he was nine years old, but he remembered him quite"
+    },
+    {
+      "start": 118.22,
+      "end": 124.3,
+      "text": "well and writes of him as a good, conscientious man, who spent his life looking after his estate"
+    },
+    {
+      "start": 124.3,
+      "end": 130.14,
+      "text": "not very cleverly, but who was especially humane and kind for those days as he never beat his"
+    },
+    {
+      "start": 130.14,
+      "end": 136.86,
+      "text": "serfs and was considered lacking in firmness. He was, however, an independent-minded man"
+    },
+    {
+      "start": 136.86,
+      "end": 143.18,
+      "text": "who refused to bow down before the will of the Russian government. Indeed, he refused always to"
+    },
+    {
+      "start": 143.18,
+      "end": 149.1,
+      "text": "serve under it. Tolstoy had a great love and admiration for his father, but nothing like"
+    },
+    {
+      "start": 149.1,
+      "end": 154.46,
+      "text": "the feeling he had for the memory of his mother. Tolstoy and his three brothers and a sister"
+    },
+    {
+      "start": 154.46,
+      "end": 161.5,
+      "text": "were brought up at Yasnaya Polyana by a distant relative, whom they called Aunt Tatiana. She was"
+    },
+    {
+      "start": 161.5,
+      "end": 167.36,
+      "text": "rather a remarkable character, and Leo was devoted to her. He tells us she greatly helped"
+    },
+    {
+      "start": 167.36,
+      "end": 174.24,
+      "text": "to form his character. Writing. About her, he says, Aunt Tatiana had the greatest influence"
+    },
+    {
+      "start": 174.24,
+      "end": 180.24,
+      "text": "on my life. From earliest childhood, she taught me the spiritual delight of love."
+    },
+    {
+      "start": 180.24,
+      "end": 185.62,
+      "text": "She taught me this joy not by words, but by her whole being she filled me with love."
+    },
+    {
+      "start": 185.62,
+      "end": 191.72,
+      "text": "I saw. I felt how she enjoyed loving, and I understood the joy of love. This was the"
+    },
+    {
+      "start": 191.72,
+      "end": 198.32,
+      "text": "first thing. Secondly, she taught me the delights of an unhurried, quiet life."
+    },
+    {
+      "start": 198.32,
+      "end": 204.44,
+      "text": "His aunt used to welcome all sorts of pilgrims to Yasnaya\u2014beggars and monks and nuns,"
+    },
+    {
+      "start": 204.44,
+      "end": 209.8,
+      "text": "people despised by the rest of the world\u2014so that Leo was brought up in a strange, almost"
+    },
+    {
+      "start": 209.8,
+      "end": 216.28,
+      "text": "medieval atmosphere, an atmosphere that was religious, poetical, simple, and very far"
+    },
+    {
+      "start": 216.28,
+      "end": 222.72,
+      "text": "from worldly. We find Tolstoy after a long life of varied experiences returning again"
+    },
+    {
+      "start": 222.72,
+      "end": 229.04,
+      "text": "to the habits and beliefs of his youth, and to a life of humility and simple living. Tolstoy"
+    },
+    {
+      "start": 229.04,
+      "end": 233.76,
+      "text": "had the greatest admiration for his eldest brother Nicholas, who, he always said, was"
+    },
+    {
+      "start": 233.76,
+      "end": 238.84,
+      "text": "a much greater man than himself. But Nicholas died before he had time to show what he was"
+    },
+    {
+      "start": 238.84,
+      "end": 245.9,
+      "text": "capable of. This brother invented a game called Ant Brothers. He told Leo and his two brothers"
+    },
+    {
+      "start": 245.9,
+      "end": 251.78,
+      "text": "of six and seven that he possessed a secret and when it was known, all men would become"
+    },
+    {
+      "start": 251.78,
+      "end": 257.22,
+      "text": "happy. There would be no more disease, no trouble, and no one would be angry with anyone"
+    },
+    {
+      "start": 257.22,
+      "end": 262.98,
+      "text": "else. All would love one another and become Ant Brothers."
+    },
+    {
+      "start": 262.98,
+      "end": 267.86,
+      "text": "The game consisted of sitting under chairs surrounded by boxes, screening themselves"
+    },
+    {
+      "start": 267.86,
+      "end": 274.18,
+      "text": "from view with handkerchiefs, and cuddling against one another in the dark. Tolstoy says,"
+    },
+    {
+      "start": 274.18,
+      "end": 279.14,
+      "text": "The Ant Brotherhood was revealed to us, but not the chief secret, the way for all men to"
+    },
+    {
+      "start": 279.14,
+      "end": 284.74,
+      "text": "cease suffering any misfortune, to leave off quarrelling and being angry, and become continuously"
+    },
+    {
+      "start": 284.74,
+      "end": 290.18,
+      "text": "happy. This secret Nicholas said he had written on a green stick, and buried by the road at the"
+    },
+    {
+      "start": 290.18,
+      "end": 295.94,
+      "text": "edge of a certain ravine, at which spot, since my body must be buried somewhere, I have asked to"
+    },
+    {
+      "start": 295.94,
+      "end": 302.46,
+      "text": "to be buried in memory of Nicholas. Writing when he was over seventy, Tolstoy says,"
+    },
+    {
+      "start": 302.46,
+      "end": 307.54,
+      "text": "The ideal of ant-brothers lovingly clinging to one another, though not under two armchairs"
+    },
+    {
+      "start": 307.54,
+      "end": 312.86,
+      "text": "curtained by handkerchiefs, but of all mankind under the wide dome of heaven, has remained"
+    },
+    {
+      "start": 312.86,
+      "end": 319.06,
+      "text": "the same for me. As I then believed that there existed a little green stick, whereon was"
+    },
+    {
+      "start": 319.06,
+      "end": 325.14,
+      "text": "written the message which could destroy all evil in men, and give them universal welfare,"
+    },
+    {
+      "start": 325.14,
+      "end": 330.1,
+      "text": "so I now believe that such truth exists and will be revealed to men and will give them"
+    },
+    {
+      "start": 330.1,
+      "end": 336.14,
+      "text": "all it promises.\" Tolstoy's early childhood was on the whole very happy, in spite of"
+    },
+    {
+      "start": 336.14,
+      "end": 343.2,
+      "text": "his far-seeing, sensitive, and rather morbid nature. At times he was certainly very miserable,"
+    },
+    {
+      "start": 343.2,
+      "end": 348.5,
+      "text": "but on the other hand, he had an immense power of enjoyment, and loved games and horses"
+    },
+    {
+      "start": 348.5,
+      "end": 353.9,
+      "text": "and dogs and the country itself, and his affections were very strong. One of the things"
+    },
+    {
+      "start": 353.9,
+      "end": 359.9,
+      "text": "that worried him as a child was his own looks, he thought himself so plain. He says in his"
+    },
+    {
+      "start": 359.9,
+      "end": 362.82,
+      "text": "autobiographical novel, Childhood,"
+    },
+    {
+      "start": 362.82,
+      "end": 368.7,
+      "text": "I imagined there could be no happiness on earth for a man with so broad a nose, such"
+    },
+    {
+      "start": 368.7,
+      "end": 375.96,
+      "text": "thick lips, and such small grey eyes as mine. I asked God to perform a miracle and change"
+    },
+    {
+      "start": 375.96,
+      "end": 381.26,
+      "text": "me into a handsome boy. He tried to improve his appearance by clipping his eyebrows with"
+    },
+    {
+      "start": 381.26,
+      "end": 387.58,
+      "text": "most disastrous results, as of course he was uglier and unhappier than ever. Tolstoy showed"
+    },
+    {
+      "start": 387.58,
+      "end": 393.02,
+      "text": "no particular talent for anything as a child, though he was very original and quite determined"
+    },
+    {
+      "start": 393.02,
+      "end": 397.98,
+      "text": "not to do things like other people. When he came into the drawing-room, for instance,"
+    },
+    {
+      "start": 397.98,
+      "end": 402.98,
+      "text": "he insisted upon bowing to people backwards, bending his head the wrong way, and saluting"
+    },
+    {
+      "start": 402.98,
+      "end": 408.42,
+      "text": "each person thus in turn. He was not good at his lessons, and mentioned somewhere that"
+    },
+    {
+      "start": 408.42,
+      "end": 411.62,
+      "text": "a student who came to teach him and his brothers said about them,"
+    },
+    {
+      "start": 411.62,
+      "end": 418.06,
+      "text": "''Surge both wishes and can, Demetri wishes but can't, this was not true, and Leo neither"
+    },
+    {
+      "start": 418.06,
+      "end": 422.3,
+      "text": "wishes nor can, this I think was perfectly true.''"
+    },
+    {
+      "start": 422.3,
+      "end": 427.22,
+      "text": "This was characteristic of Tolstoy, who was always hard on himself, but if the tutor"
+    },
+    {
+      "start": 427.22,
+      "end": 433.3,
+      "text": "lived to see what Tolstoy became, he must have been rather ashamed of his lack of perception."
+    },
+    {
+      "start": 433.3,
+      "end": 437.66,
+      "text": "Before Tolstoy was sixteen, he entered a university with his brothers."
+    },
+    {
+      "start": 437.66,
+      "end": 442.9,
+      "text": "There was no doubt that like many other young people he hated study, though he worked hard"
+    },
+    {
+      "start": 442.9,
+      "end": 448.7,
+      "text": "and passed well in languages. In history and geography he failed, and being asked to name"
+    },
+    {
+      "start": 448.7,
+      "end": 453.94,
+      "text": "the French seaports he could not remember a single one. He left the university rather"
+    },
+    {
+      "start": 453.94,
+      "end": 460.3,
+      "text": "disgusted with himself and despising intellectual things. His companions had not really understood"
+    },
+    {
+      "start": 460.3,
+      "end": 466.1,
+      "text": "him, for he was a strange mixture. Sometimes he was very proud and aristocratic, yet with"
+    },
+    {
+      "start": 466.1,
+      "end": 472.9,
+      "text": "advanced liberal views, and he was moody, at one moment wildly gay, at another sunken"
+    },
+    {
+      "start": 472.9,
+      "end": 478.5,
+      "text": "gloom. He always looked upon the worst side of himself, and wrote in his diary that he"
+    },
+    {
+      "start": 478.5,
+      "end": 486.06,
+      "text": "was awkward, uncleanly, irritable, abhor to others, ignorant, intolerant, and shame-faced"
+    },
+    {
+      "start": 486.06,
+      "end": 492.42,
+      "text": "as a child. There was no end to the names he called himself. He admits that he is honest"
+    },
+    {
+      "start": 492.42,
+      "end": 497.66,
+      "text": "and that he loves goodness, but on the whole he is very unfair to himself, for the reason"
+    },
+    {
+      "start": 497.66,
+      "end": 504.2,
+      "text": "that he had set up such a high ideal to live up to. Now he intended, though only nineteen,"
+    },
+    {
+      "start": 504.2,
+      "end": 510.14,
+      "text": "to devote himself to his peasants. He went back to his property with great zeal for reform."
+    },
+    {
+      "start": 510.14,
+      "end": 515.54,
+      "text": "He knew of the sufferings of the serfs, the famines, and revolts. For a time he worked"
+    },
+    {
+      "start": 515.54,
+      "end": 520.74,
+      "text": "among them and learned to know all about their lives. But he was too young, and lacked"
+    },
+    {
+      "start": 520.74,
+      "end": 527.54,
+      "text": "patience at present to do much good. After six months, rather discouraged and disappointed,"
+    },
+    {
+      "start": 527.54,
+      "end": 532.58,
+      "text": "he was off on a different experience. He made his home now at St. Petersburg,"
+    },
+    {
+      "start": 532.58,
+      "end": 538.5,
+      "text": "where he was most frivolous and idle. He understood quite well what a stupid life he was leading,"
+    },
+    {
+      "start": 538.5,
+      "end": 544.42,
+      "text": "and in a religious book he wrote in after years called My Confession, he says that though"
+    },
+    {
+      "start": 544.42,
+      "end": 550.98,
+      "text": "he honestly desired to be good, he stood alone in his search after goodness. Every time he expressed"
+    },
+    {
+      "start": 550.98,
+      "end": 556.74,
+      "text": "the longings of his heart for a virtuous life he met with contempt and mocking laughter,"
+    },
+    {
+      "start": 556.74,
+      "end": 562.58,
+      "text": "but every time he was frivolous or wicked he was praised and encouraged. Yet on the whole"
+    },
+    {
+      "start": 562.58,
+      "end": 568.18,
+      "text": "this gay life at St. Petersburg was not altogether useless. It taught him something and he was not"
+    },
+    {
+      "start": 568.18,
+      "end": 573.3,
+      "text": "really spoilt by it. He was big enough and intelligent enough to see the utter futility"
+    },
+    {
+      "start": 573.3,
+      "end": 579.94,
+      "text": "and uselessness of such a life. It gave him, he says, a scorn for aristocracy and the life"
+    },
+    {
+      "start": 579.94,
+      "end": 585.54,
+      "text": "of rich people generally, whose whole existence was a mania of selfishness."
+    },
+    {
+      "start": 586.58,
+      "end": 590.82,
+      "text": "Tolstoy's favourite brother Nicholas, who was serving in the Russian army,"
+    },
+    {
+      "start": 590.82,
+      "end": 597.22,
+      "text": "saw what an unsatisfactory state his brother was in, and so persuaded Leo to become a soldier"
+    },
+    {
+      "start": 597.22,
+      "end": 605.3,
+      "text": "and to join him in the Caucasus. This Leo was only too glad to do. He says in a letter at that time,"
+    },
+    {
+      "start": 605.3,
+      "end": 612.58,
+      "text": "God willing, I will amend and become a steady man at last. Now the open air primitive life"
+    },
+    {
+      "start": 612.58,
+      "end": 619.7,
+      "text": "in this part of Russia quite restored Tolstoy to himself, and he began to write. His first book,"
+    },
+    {
+      "start": 619.7,
+      "end": 625.86,
+      "text": "Childhood, was written and published while he was there. This novel, though not strictly speaking"
+    },
+    {
+      "start": 625.86,
+      "end": 631.62,
+      "text": "a history of his own childhood is mostly about his own youthful life. The incidents that occur"
+    },
+    {
+      "start": 631.62,
+      "end": 637.94,
+      "text": "in it are many of them true, and the characters are taken from friends and relatives. It is a very"
+    },
+    {
+      "start": 637.94,
+      "end": 643.46,
+      "text": "wonderful book, as showing how vividly Tolstoy remembered his own feelings as a child, how"
+    },
+    {
+      "start": 643.46,
+      "end": 648.5,
+      "text": "intensely he must have felt and suffered, and what his powers of thought and observation"
+    },
+    {
+      "start": 648.5,
+      "end": 655.38,
+      "text": "must have been. He continued this book, and brought out later other volumes entitled Boyhood"
+    },
+    {
+      "start": 655.38,
+      "end": 662.74,
+      "text": "and youth. They are all three full of beautiful things. Tolstoy also wrote about the Caucasus,"
+    },
+    {
+      "start": 662.74,
+      "end": 669.38,
+      "text": "a novel called The Cossacks, a romantic story of the strange, wild people who inhabit this part of"
+    },
+    {
+      "start": 669.38,
+      "end": 675.78,
+      "text": "Russia. At the time of the Crimean War, Tolstoy experienced as a soldier the horrors of battle."
+    },
+    {
+      "start": 676.34,
+      "end": 682.58,
+      "text": "He was at the siege of Sebastopol and wrote the book of that name. It made a great sensation"
+    },
+    {
+      "start": 682.58,
+      "end": 688.04,
+      "text": "when it came out, soon after the war was over. Its profound understanding of the feelings"
+    },
+    {
+      "start": 688.04,
+      "end": 693.36,
+      "text": "of men who were constantly facing death and danger, and of those who were dying, made"
+    },
+    {
+      "start": 693.36,
+      "end": 699.76,
+      "text": "a deep impression on people. Tolstoy, from seeing war, formed his very strong opinions"
+    },
+    {
+      "start": 699.76,
+      "end": 705.52,
+      "text": "against it. He became from that time one of the most passionate apostles of peace."
+    },
+    {
+      "start": 705.52,
+      "end": 710.32,
+      "text": "He saw how much that is splendid is sometimes brought out in people who face the terrors"
+    },
+    {
+      "start": 710.32,
+      "end": 716.72,
+      "text": "of war, but, on the other hand, he saw its fearful uselessness, the waste of noble human"
+    },
+    {
+      "start": 716.72,
+      "end": 723.52,
+      "text": "beings, the suffering it causes everywhere, and the destruction in some of all human feeling."
+    },
+    {
+      "start": 723.52,
+      "end": 729.76,
+      "text": "It is not suffering and death that are terrible, says Tolstoy, but that which allows people"
+    },
+    {
+      "start": 729.76,
+      "end": 735.7,
+      "text": "to inflict suffering and death. Tolstoy, after Sebastopol left the army and went back to"
+    },
+    {
+      "start": 735.7,
+      "end": 741.3,
+      "text": "Saint Petersburg, this time to live in a literary circle, where he was welcomed by distinguished"
+    },
+    {
+      "start": 741.3,
+      "end": 749.14,
+      "text": "authors as the most promising writer of the day. Nobody, after reading Childhood or Sebastopol,"
+    },
+    {
+      "start": 749.14,
+      "end": 754.82,
+      "text": "could fail to see Tolstoy's marvellous genius for seeing things as they are and his gift of"
+    },
+    {
+      "start": 754.82,
+      "end": 761.06,
+      "text": "expression. But he grew impatient in this circle, for his views were too advanced and his love of"
+    },
+    {
+      "start": 761.06,
+      "end": 767.22,
+      "text": "truth too strong. He could not agree with people, and he could not pretend to agree with them."
+    },
+    {
+      "start": 767.22,
+      "end": 773.38,
+      "text": "So he was thought quarrelsome and conceited, and his opinions absurd. He was always questioning"
+    },
+    {
+      "start": 773.38,
+      "end": 779.14,
+      "text": "things, such as the meaning of existence, and whether he himself was of any use. He would take"
+    },
+    {
+      "start": 779.14,
+      "end": 785.3,
+      "text": "nothing as a matter of course. Already, before he was twenty-seven, he had conceived the great"
+    },
+    {
+      "start": 785.3,
+      "end": 790.54,
+      "text": "idea of devoting his life to founding a new religion, the religion of Christianity in"
+    },
+    {
+      "start": 790.54,
+      "end": 797.06,
+      "text": "fact, but cleansed of all its dogmas, which have nothing to do with Christianity, a practical"
+    },
+    {
+      "start": 797.06,
+      "end": 802.66,
+      "text": "religion, giving happiness on earth, not merely the promise of future happiness. And another"
+    },
+    {
+      "start": 802.66,
+      "end": 807.94,
+      "text": "great question absorbed him, the question of emancipating the serfs. Peasants who worked"
+    },
+    {
+      "start": 807.94,
+      "end": 812.86,
+      "text": "on the land in Russia were held much as slaves, and were the absolute property of"
+    },
+    {
+      "start": 812.86,
+      "end": 817.7,
+      "text": "their masters, forced to work for them so many days a week before they might do any"
+    },
+    {
+      "start": 817.7,
+      "end": 823.34,
+      "text": "work for themselves. Tolstoy violently took the side of the peasants in all that concerned"
+    },
+    {
+      "start": 823.34,
+      "end": 828.74,
+      "text": "them, and his purpose in life was more or less fixed from this time onward. Like our"
+    },
+    {
+      "start": 828.74,
+      "end": 834.22,
+      "text": "other great man of noble birth, William of Orange, who worked on the side of the people,"
+    },
+    {
+      "start": 834.22,
+      "end": 839.1,
+      "text": "he was determined to leave no stone unturned until the conditions of the poor had been"
+    },
+    {
+      "start": 839.1,
+      "end": 844.72,
+      "text": "improved and justice done them. Now, in order to learn more of the habits"
+    },
+    {
+      "start": 844.72,
+      "end": 850.78,
+      "text": "and customs of other countries and principally their systems of education, Tolstoy went abroad"
+    },
+    {
+      "start": 850.78,
+      "end": 857.62,
+      "text": "and visited France, Germany, and England. Then, returning to his home, he settled down"
+    },
+    {
+      "start": 857.62,
+      "end": 864.38,
+      "text": "as a landowner and managed his own estates. In 1861 the serfs were liberated by the Tsar"
+    },
+    {
+      "start": 864.38,
+      "end": 870.7,
+      "text": "Alexander II. Tolstoy, with characteristic energy and enthusiasm, flung himself into"
+    },
+    {
+      "start": 870.7,
+      "end": 876.34,
+      "text": "the work of dividing out lands between nobles and peasants. He acted as a judge in his own"
+    },
+    {
+      "start": 876.34,
+      "end": 881.94,
+      "text": "district and annoyed his aristocratic neighbours by being fair to the poor. He had seen too"
+    },
+    {
+      "start": 881.94,
+      "end": 887.38,
+      "text": "often how they had been cheated out of their rights. It was difficult, rather discouraging"
+    },
+    {
+      "start": 887.38,
+      "end": 892.34,
+      "text": "work, because years of oppression had made the peasants suspicious and grasping, and"
+    },
+    {
+      "start": 892.34,
+      "end": 898.64,
+      "text": "Tolstoy's task was to try to remove this distrust. He became more and more socialistic,"
+    },
+    {
+      "start": 898.64,
+      "end": 903.56,
+      "text": "and his literary friends were very much disappointed in him, for he seemed to be giving up his"
+    },
+    {
+      "start": 903.56,
+      "end": 910.12,
+      "text": "writing. One wrote, Tolstoy has grown a long beard, leaves his hair to falling curls over"
+    },
+    {
+      "start": 910.12,
+      "end": 917.68,
+      "text": "his ears, holds newspapers in detestation, and has no soul for anything but his property."
+    },
+    {
+      "start": 917.68,
+      "end": 923.24,
+      "text": "Tolstoy had also started on another enterprise. This was a school after his own theories at"
+    },
+    {
+      "start": 923.24,
+      "end": 930.1,
+      "text": "Yasnaya and a monthly magazine which he printed and edited, all about his views on education."
+    },
+    {
+      "start": 930.1,
+      "end": 934.72,
+      "text": "He saw how most learning is mechanical, and how a child does not learn because he wants"
+    },
+    {
+      "start": 934.72,
+      "end": 940.42,
+      "text": "to, but in order not to be punished, or to earn a prize, or to be better than others,"
+    },
+    {
+      "start": 940.42,
+      "end": 946.94,
+      "text": "but very seldom from a real desire to know. This Tolstoy considered was because the child"
+    },
+    {
+      "start": 946.94,
+      "end": 951.74,
+      "text": "was so drilled and made to behave unnaturally, and to have a different manner in school than"
+    },
+    {
+      "start": 951.74,
+      "end": 958.02,
+      "text": "he had out. He was not free, and only when a child was free and natural and lively, and"
+    },
+    {
+      "start": 958.02,
+      "end": 963.02,
+      "text": "allowed to ask questions and to laugh and talk could he learn with pleasure and therefore"
+    },
+    {
+      "start": 963.02,
+      "end": 969.14,
+      "text": "thoroughly. In Tolstoy's school there was no order as we know it. Children sat on the"
+    },
+    {
+      "start": 969.14,
+      "end": 975.02,
+      "text": "floor or bunches of them in an armchair. They did just as they pleased, and ran about from"
+    },
+    {
+      "start": 975.02,
+      "end": 981.5,
+      "text": "place to place. They answered questions, not in turn but altogether, interrupting one another"
+    },
+    {
+      "start": 981.5,
+      "end": 987.82,
+      "text": "or helping one another to remember. If one child left out a bit of story that he had to tell,"
+    },
+    {
+      "start": 987.82,
+      "end": 993.66,
+      "text": "another jumped up and put it in. Tolstoy encouraged the children not to repeat literally"
+    },
+    {
+      "start": 993.66,
+      "end": 1000.38,
+      "text": "what they had heard, but to tell, out of your own head. As there were very few reading books for"
+    },
+    {
+      "start": 1000.38,
+      "end": 1006.02,
+      "text": "young children Tolstoy wrote stories for them himself, which, as they have been translated"
+    },
+    {
+      "start": 1006.02,
+      "end": 1010.82,
+      "text": "into English, we are able to read ourselves and to judge how they must have delighted"
+    },
+    {
+      "start": 1010.82,
+      "end": 1016.68,
+      "text": "his small pupils. He also read to them and explained to them Bible stories, of which"
+    },
+    {
+      "start": 1016.68,
+      "end": 1022.22,
+      "text": "he was very fond. There was no doubt that Tolstoy had a gift for teaching and interested"
+    },
+    {
+      "start": 1022.22,
+      "end": 1029.18,
+      "text": "the children as no ordinary teacher could. His methods are not for everyone."
+    },
+    {
+      "start": 1029.18,
+      "end": 1034.92,
+      "text": "his classes came to an end after two years because he was interfered with by the government,"
+    },
+    {
+      "start": 1034.92,
+      "end": 1039.44,
+      "text": "but he revived them at intervals during his life, and there is no doubt that his views"
+    },
+    {
+      "start": 1039.44,
+      "end": 1045.14,
+      "text": "on education helped to make teaching in Russia more reasonable and natural, and put fresh"
+    },
+    {
+      "start": 1045.14,
+      "end": 1053.08,
+      "text": "ideas about it into people's heads. Tolstoy's only companion at this time was his aunt Tatiana,"
+    },
+    {
+      "start": 1053.08,
+      "end": 1060.12,
+      "text": "And in 1862, when he was thirty-four, he married Miss Sophia Bears, who was only eighteen."
+    },
+    {
+      "start": 1060.12,
+      "end": 1062.72,
+      "text": "He had known her as a little girl."
+    },
+    {
+      "start": 1062.72,
+      "end": 1068.68,
+      "text": "Tolstoy now settled down to a very happy life, the life indeed which had been his ideal,"
+    },
+    {
+      "start": 1068.68,
+      "end": 1073.86,
+      "text": "and which he had described as such in a letter to his aunt, when quite a young man."
+    },
+    {
+      "start": 1073.86,
+      "end": 1080.28,
+      "text": "He pictures himself living with his wife at Yasnaya, a gentle creature, kind and affectionate."
+    },
+    {
+      "start": 1080.28,
+      "end": 1082.84,
+      "text": "She has the same love for you as I have."
+    },
+    {
+      "start": 1082.84,
+      "end": 1088.3,
+      "text": "You live upstairs in the big house, in what used to be Grandma Ma's room. The whole house"
+    },
+    {
+      "start": 1088.3,
+      "end": 1095.04,
+      "text": "is as it was in Papa's time. I take Papa's place, though I despair of ever deserving it."
+    },
+    {
+      "start": 1095.04,
+      "end": 1101.24,
+      "text": "My wife, that of Mama, the children take ours. If they made me Emperor of Russia or gave"
+    },
+    {
+      "start": 1101.24,
+      "end": 1107.16,
+      "text": "me Peru, in a word, if a fairy came with her wand asking me what I wished for, I should"
+    },
+    {
+      "start": 1107.16,
+      "end": 1112.86,
+      "text": "reply that I only wish that this dream may become reality, and all this actually came"
+    },
+    {
+      "start": 1112.86,
+      "end": 1114.62,
+      "text": "to pass."
+    },
+    {
+      "start": 1114.62,
+      "end": 1120.3,
+      "text": "Aunt Tatiana, when Tolstoy married, continued to live with him. He had many children, managed"
+    },
+    {
+      "start": 1120.3,
+      "end": 1125.0,
+      "text": "his estates, taught the peasants, and wrote books, and though he was not living in the"
+    },
+    {
+      "start": 1125.0,
+      "end": 1129.82,
+      "text": "same house in which he was born, for the large wooden house had been removed and sold"
+    },
+    {
+      "start": 1129.82,
+      "end": 1134.3,
+      "text": "to pay his father's debts, he lived on the same spot in the stone one erected"
+    },
+    {
+      "start": 1134.3,
+      "end": 1140.02,
+      "text": "in its place. His wife helped in everything, in spite of her large family, for they had"
+    },
+    {
+      "start": 1140.02,
+      "end": 1145.46,
+      "text": "thirteen children. She found time to copy out all her husband's manuscripts, which"
+    },
+    {
+      "start": 1145.46,
+      "end": 1150.4,
+      "text": "to most people would have been as impossible a task as looking for a needle in a haystack,"
+    },
+    {
+      "start": 1150.4,
+      "end": 1156.22,
+      "text": "they were so extraordinarily badly written and scratched out and rewritten. His first"
+    },
+    {
+      "start": 1156.22,
+      "end": 1161.5,
+      "text": "great novel, War and Peace, one of the longest novels in existence, is said to have been"
+    },
+    {
+      "start": 1161.5,
+      "end": 1168.22,
+      "text": "copied out by Countess Tolstoy seven times. Tolstoy always lived with his children and"
+    },
+    {
+      "start": 1168.22,
+      "end": 1174.3,
+      "text": "did not banish them to nurseries and schoolrooms, as some people do. Up to the age of ten they"
+    },
+    {
+      "start": 1174.3,
+      "end": 1179.18,
+      "text": "were taught by their father and mother, their mother taught them Russian and music, and"
+    },
+    {
+      "start": 1179.18,
+      "end": 1185.38,
+      "text": "their father arithmetic and French. Most entertaining French it was, which consisted of reading"
+    },
+    {
+      "start": 1185.38,
+      "end": 1191.5,
+      "text": "amusing stories out of illustrated volumes of Jule Verne. If there happened to be a volume"
+    },
+    {
+      "start": 1191.5,
+      "end": 1197.74,
+      "text": "without pictures, Tolstoy made the pictures himself. He drew very badly, yet his pictures"
+    },
+    {
+      "start": 1197.74,
+      "end": 1202.42,
+      "text": "were so amusing that the children liked them much better than the ordinary ones. He would"
+    },
+    {
+      "start": 1202.42,
+      "end": 1207.1,
+      "text": "discuss and explain interesting things with his children, and they were always eager to"
+    },
+    {
+      "start": 1207.1,
+      "end": 1212.78,
+      "text": "be with him, to go walks with him, and be on his side in any game he taught them. Clearing"
+    },
+    {
+      "start": 1212.78,
+      "end": 1217.26,
+      "text": "the snow off the ponds in winter under their father's direction was even more amusing"
+    },
+    {
+      "start": 1217.26,
+      "end": 1222.46,
+      "text": "than the skating itself. They rode and hunted with their father, for in the earlier part"
+    },
+    {
+      "start": 1222.46,
+      "end": 1230.12,
+      "text": "of his life Tolstoy was an enthusiastic sportsman. He was brave, daring, and an excellent shot,"
+    },
+    {
+      "start": 1230.12,
+      "end": 1235.14,
+      "text": "and he enjoyed more than anything being out in the open air. In the early morning, before"
+    },
+    {
+      "start": 1235.14,
+      "end": 1241.38,
+      "text": "breakfast, Tolstoy would usually go for a long walk, or ride down to bathe in the river."
+    },
+    {
+      "start": 1241.38,
+      "end": 1246.84,
+      "text": "At morning coffee, or what we call breakfast, the family all met together, and Tolstoy was"
+    },
+    {
+      "start": 1246.84,
+      "end": 1252.82,
+      "text": "always very merry. He would be up to all sorts of jokes, till he got up with the words, One"
+    },
+    {
+      "start": 1252.82,
+      "end": 1257.76,
+      "text": "Must Get to Work, and off he went to his study to write books, and he would work for many"
+    },
+    {
+      "start": 1257.76,
+      "end": 1263.06,
+      "text": "hours on end, though in summer he would often come out and play with the children."
+    },
+    {
+      "start": 1263.06,
+      "end": 1268.44,
+      "text": "This always delighted them, as he brought such spirit and interest into their games,"
+    },
+    {
+      "start": 1268.44,
+      "end": 1274.2,
+      "text": "and he would invent new ones himself, which were better than any. If they had secrets,"
+    },
+    {
+      "start": 1274.2,
+      "end": 1279.46,
+      "text": "he always guessed them so that they regarded him as a sort of magician. His son writes"
+    },
+    {
+      "start": 1279.46,
+      "end": 1280.46,
+      "text": "of him,"
+    },
+    {
+      "start": 1280.46,
+      "end": 1284.86,
+      "text": "My father hardly ever made us do anything, but it always somehow came about that of"
+    },
+    {
+      "start": 1284.86,
+      "end": 1290.5,
+      "text": "our own initiative we did exactly what he wanted us to. My mother often scolded us"
+    },
+    {
+      "start": 1290.5,
+      "end": 1295.64,
+      "text": "and punished us, but when my father wanted us to do anything he merely looked us hard"
+    },
+    {
+      "start": 1295.64,
+      "end": 1302.28,
+      "text": "in the eyes, and we understood, the look was far more effective than any command. It was"
+    },
+    {
+      "start": 1302.28,
+      "end": 1307.96,
+      "text": "impossible to hide anything from him, as impossible as to hide it from your own conscience. He"
+    },
+    {
+      "start": 1307.96,
+      "end": 1314.52,
+      "text": "knew everything, and to deceive him was nearly impossible and quite useless."
+    },
+    {
+      "start": 1314.52,
+      "end": 1320.48,
+      "text": "This same son, Ilya, Tolstoy's second boy, tells many amusing stories of the Tolstoy"
+    },
+    {
+      "start": 1320.48,
+      "end": 1327.72,
+      "text": "family life, and of the great part, his father played in it. One story is as follows. Illya,"
+    },
+    {
+      "start": 1327.72,
+      "end": 1332.72,
+      "text": "when a little boy, was given a big china cup and saucer by his mother at Christmas time."
+    },
+    {
+      "start": 1332.72,
+      "end": 1337.1,
+      "text": "He was so excited that he ran very fast to show it to the others, and as he ran from"
+    },
+    {
+      "start": 1337.1,
+      "end": 1342.08,
+      "text": "one room to another, he caught his foot on the step in the doorway, and fell down, and"
+    },
+    {
+      "start": 1342.08,
+      "end": 1347.94,
+      "text": "broke his cup to smithereens. When accused by his mother of being careless, he howled"
+    },
+    {
+      "start": 1347.94,
+      "end": 1352.74,
+      "text": "and said it was not his fault, but the fault of the beastly architect who had gone and"
+    },
+    {
+      "start": 1352.74,
+      "end": 1358.9,
+      "text": "put a step in the doorway. Tolstoy, overhearing him, was much amused and said,"
+    },
+    {
+      "start": 1358.9,
+      "end": 1364.82,
+      "text": "It is the architect's fault. It is the architect's fault. This phrase became a saying"
+    },
+    {
+      "start": 1364.82,
+      "end": 1370.5,
+      "text": "in the family, and Tolstoy was always using it when anyone threw the blame on anyone else."
+    },
+    {
+      "start": 1371.3,
+      "end": 1375.3,
+      "text": "When one of the children fell off his horse because he stumbled, or when he did his"
+    },
+    {
+      "start": 1375.3,
+      "end": 1380.42,
+      "text": "lessons badly, because his tutor had not explained them properly, and so on."
+    },
+    {
+      "start": 1380.42,
+      "end": 1385.22,
+      "text": "Of course I know, Tolstoy would say. It is the architect's fault."
+    },
+    {
+      "start": 1386.34,
+      "end": 1391.54,
+      "text": "Tolstoy had some excellent inventions for making his children cheerful. When they would all be"
+    },
+    {
+      "start": 1391.54,
+      "end": 1396.18,
+      "text": "sitting rather cross and bored after the departure of some dull visitors, he would"
+    },
+    {
+      "start": 1396.18,
+      "end": 1400.66,
+      "text": "suddenly jump up from his seat and, lifting one arm in the air with its hand hanging"
+    },
+    {
+      "start": 1400.66,
+      "end": 1406.58,
+      "text": "loose from the wrist, ran at full speed round the table at a hopping gallop. Everyone rose"
+    },
+    {
+      "start": 1406.58,
+      "end": 1412.66,
+      "text": "and flew after him, hopping and waving their hands. They went round the room several times,"
+    },
+    {
+      "start": 1412.66,
+      "end": 1418.26,
+      "text": "and then sat down again in their chairs, panting, and quite gay and lively once more."
+    },
+    {
+      "start": 1418.98,
+      "end": 1425.38,
+      "text": "This game, which was known as Numidian Cavalry, had an excellent effect, and many a time the"
+    },
+    {
+      "start": 1425.38,
+      "end": 1431.54,
+      "text": "children's tears were dried by it, and quarrels forgotten. Tolstoy, amongst other things,"
+    },
+    {
+      "start": 1431.54,
+      "end": 1437.4,
+      "text": "enjoyed music, and was fond of playing duets on the piano. After dinner he would settle"
+    },
+    {
+      "start": 1437.4,
+      "end": 1443.16,
+      "text": "down to this, usually with his wife's sister. When he was in difficulties he would say things"
+    },
+    {
+      "start": 1443.16,
+      "end": 1449.42,
+      "text": "to make her laugh, so that she had to play slower, and sometimes, if this did not succeed,"
+    },
+    {
+      "start": 1449.42,
+      "end": 1452.94,
+      "text": "he would stop and take off one of his boots, saying,"
+    },
+    {
+      "start": 1452.94,
+      "end": 1458.86,
+      "text": "Now it will go all right. Tolstoy was as young as anybody in his love"
+    },
+    {
+      "start": 1458.86,
+      "end": 1464.98,
+      "text": "of fun and games, the more nonsensical the better, and his laughter was most infectious,"
+    },
+    {
+      "start": 1464.98,
+      "end": 1470.18,
+      "text": "beginning on a high note, and his whole body would shake. People ought to know about this"
+    },
+    {
+      "start": 1470.18,
+      "end": 1474.78,
+      "text": "amusing side of Tolstoy's character in order to get out of their heads that he was"
+    },
+    {
+      "start": 1474.78,
+      "end": 1482.06,
+      "text": "painfully serious man without a sense of humour who asked impossibilities of people. He had many"
+    },
+    {
+      "start": 1482.06,
+      "end": 1487.5,
+      "text": "sides to his character, as we shall see, and that is what makes him so intensely interesting."
+    },
+    {
+      "start": 1488.38,
+      "end": 1494.38,
+      "text": "Tolstoy was a deeply affectionate man, loving above all things his home, his wife, and his"
+    },
+    {
+      "start": 1494.38,
+      "end": 1500.38,
+      "text": "children. If ever he had to leave them for a time, even if it were only on a hunting expedition,"
+    },
+    {
+      "start": 1500.38,
+      "end": 1507.34,
+      "text": "he would always as he approached his home say, if only all is well at home. Whatever he did,"
+    },
+    {
+      "start": 1507.34,
+      "end": 1513.1,
+      "text": "he did with his whole heart and soul. He was an enthusiastic schoolmaster,"
+    },
+    {
+      "start": 1513.1,
+      "end": 1519.58,
+      "text": "a keen sportsman and farmer, and an excellent gardener and beekeeper. He looked into everything"
+    },
+    {
+      "start": 1519.58,
+      "end": 1525.34,
+      "text": "on his estate and insisted upon having all his pigs washed, and there were as many as three"
+    },
+    {
+      "start": 1525.34,
+      "end": 1531.96,
+      "text": "hundred. So Tolstoy's life was as full as it possibly could be. For the first ten years"
+    },
+    {
+      "start": 1531.96,
+      "end": 1537.3,
+      "text": "of his married life he was so much occupied with the cares of family life and the life"
+    },
+    {
+      "start": 1537.3,
+      "end": 1542.26,
+      "text": "of a country gentleman that he had less time for thought, and did not worry himself quite"
+    },
+    {
+      "start": 1542.26,
+      "end": 1547.56,
+      "text": "so much about the reasons of life. He was also absorbed in his writing, and being a"
+    },
+    {
+      "start": 1547.56,
+      "end": 1553.7,
+      "text": "perfect giant for work was able during this period, in spite of his numberless activities,"
+    },
+    {
+      "start": 1553.7,
+      "end": 1560.38,
+      "text": "to write two very great novels, besides many shorter stories and primers for children. War"
+    },
+    {
+      "start": 1560.38,
+      "end": 1565.54,
+      "text": "and Peace, an historical novel of the time of Napoleon and requiring an immense amount"
+    },
+    {
+      "start": 1565.54,
+      "end": 1571.5,
+      "text": "of research and Anna Karenina, are as great as any novels that have been written in any"
+    },
+    {
+      "start": 1571.5,
+      "end": 1577.98,
+      "text": "country. Tolstoy's extraordinary powers of observation and his acute, almost uncanny"
+    },
+    {
+      "start": 1577.98,
+      "end": 1583.98,
+      "text": "understanding of human nature make his characters so living and human that, having read about"
+    },
+    {
+      "start": 1583.98,
+      "end": 1589.34,
+      "text": "them, they become as people you have known, and you can never forget them."
+    },
+    {
+      "start": 1589.34,
+      "end": 1594.9,
+      "text": "Also Tolstoy's experience of life was wide and varied, and everything he wrote about"
+    },
+    {
+      "start": 1594.9,
+      "end": 1602.1,
+      "text": "he had himself known and seen. War in the Crimea, fashionable life in St. Petersburg,"
+    },
+    {
+      "start": 1602.1,
+      "end": 1607.22,
+      "text": "life with gypsies in the Caucasus, with peasants in the country, the joys and sorrows of"
+    },
+    {
+      "start": 1607.22,
+      "end": 1613.22,
+      "text": "intimate family life with children and animals. Nothing escaped his notice, and his books are"
+    },
+    {
+      "start": 1613.22,
+      "end": 1619.06,
+      "text": "simply life seen through the medium of his wonderful and penetrating mind. There is nothing"
+    },
+    {
+      "start": 1619.06,
+      "end": 1625.38,
+      "text": "like them. So there he was, the most brilliant and successful writer of the day, with a happy"
+    },
+    {
+      "start": 1625.38,
+      "end": 1632.34,
+      "text": "domestic life, money, a delightful property, and devoted servants and tenants. If anyone ought to"
+    },
+    {
+      "start": 1632.34,
+      "end": 1639.3,
+      "text": "have been contented, it might be said it was Tolstoy. And yet he became dissatisfied, and began again,"
+    },
+    {
+      "start": 1639.3,
+      "end": 1645.86,
+      "text": "as he had in earlier days, to find fault with himself and with his own life. He was fifty when"
+    },
+    {
+      "start": 1645.86,
+      "end": 1652.26,
+      "text": "the change in him began to take place, and yet it was no change really. He had always been the same,"
+    },
+    {
+      "start": 1652.26,
+      "end": 1656.9,
+      "text": "and the people who amuse themselves by finding inconsistencies in his character"
+    },
+    {
+      "start": 1656.9,
+      "end": 1663.22,
+      "text": "are wrong when they accuse him of being changeable. He merely returned now to his earliest ideals,"
+    },
+    {
+      "start": 1663.22,
+      "end": 1668.82,
+      "text": "which had been there all the time, though his intense enjoyment of life and his many occupations"
+    },
+    {
+      "start": 1668.82,
+      "end": 1673.94,
+      "text": "had prevented his thinking quite so much of working out his theories. It will be seen that"
+    },
+    {
+      "start": 1673.94,
+      "end": 1679.62,
+      "text": "Tolstoy had an extraordinary tenacity of purpose, and during his life carried through nearly all"
+    },
+    {
+      "start": 1679.62,
+      "end": 1684.74,
+      "text": "he had dreamed of doing. About the big and important things of life he remained always"
+    },
+    {
+      "start": 1684.74,
+      "end": 1689.22,
+      "text": "the same, though at times his high spirits made it appear as though he had forgotten"
+    },
+    {
+      "start": 1689.22,
+      "end": 1694.26,
+      "text": "about the problems that had worried him. But now, once more the question of how to"
+    },
+    {
+      "start": 1694.26,
+      "end": 1700.02,
+      "text": "lead the best life, and what is meant by religion, became uppermost in his mind,"
+    },
+    {
+      "start": 1700.02,
+      "end": 1705.86,
+      "text": "and a great disgust seized him of the life he and his family were leading. Everything he had"
+    },
+    {
+      "start": 1705.86,
+      "end": 1711.78,
+      "text": "enjoyed he now despised. He hated the luxury of his life, the fact of having servants to"
+    },
+    {
+      "start": 1711.78,
+      "end": 1715.7,
+      "text": "wait on him, his daughters in muslin dresses drinking tea."
+    },
+    {
+      "start": 1715.7,
+      "end": 1723.44,
+      "text": "The life of our circle of society, he said, not only repelled me, but lost all meaning."
+    },
+    {
+      "start": 1723.44,
+      "end": 1728.38,
+      "text": "Yet there was nothing grossly luxurious or selfish about the life led by the Tolstoy"
+    },
+    {
+      "start": 1728.38,
+      "end": 1734.22,
+      "text": "family. According to most aristocratic ideas of luxury, their life was simple. Nothing"
+    },
+    {
+      "start": 1734.22,
+      "end": 1739.7,
+      "text": "could be plainer than the house at Yasnaya, solidly built as it was, with double windows"
+    },
+    {
+      "start": 1739.7,
+      "end": 1746.06,
+      "text": "to keep out the cold and large Dutch stoves. The rooms were very bare, and the floors mostly"
+    },
+    {
+      "start": 1746.06,
+      "end": 1752.42,
+      "text": "uncarpeted, the furniture faded and old-fashioned. But the family fed well, and kept a great"
+    },
+    {
+      "start": 1752.42,
+      "end": 1758.02,
+      "text": "many servants which seemed necessary, as the Tolstoys, like many Russians, had hosts of"
+    },
+    {
+      "start": 1758.02,
+      "end": 1763.82,
+      "text": "poor relations living with them, besides tutors, governesses, and old servants. They"
+    },
+    {
+      "start": 1763.82,
+      "end": 1769.46,
+      "text": "were also a very large family in themselves. But now life appeared to Tolstoy as dust"
+    },
+    {
+      "start": 1769.46,
+      "end": 1776.34,
+      "text": "and ashes. His wife and children, the praise of men, art, he turned from it all. His family"
+    },
+    {
+      "start": 1776.34,
+      "end": 1781.06,
+      "text": "at first could not understand why he should be in such despair. It was difficult to feel"
+    },
+    {
+      "start": 1781.06,
+      "end": 1786.94,
+      "text": "sympathy with his sufferings. To them he appeared to possess everything that most people considered"
+    },
+    {
+      "start": 1786.94,
+      "end": 1793.58,
+      "text": "good and desirable, and the life he was leading excellent and blameless. So they could not"
+    },
+    {
+      "start": 1793.58,
+      "end": 1797.74,
+      "text": "help him, and he had to suffer alone."
+    },
+    {
+      "start": 1797.74,
+      "end": 1802.26,
+      "text": "Tolstoy's second son, who has written his recollections of his father, says he began"
+    },
+    {
+      "start": 1802.26,
+      "end": 1807.62,
+      "text": "to notice a change in his habits about this time. He left off hunting and shooting and"
+    },
+    {
+      "start": 1807.62,
+      "end": 1813.46,
+      "text": "riding and took instead long walks on the road, where he could meet pilgrims and beggars"
+    },
+    {
+      "start": 1813.46,
+      "end": 1819.26,
+      "text": "and have talks with them. At dinner he would tell his family about them. He became gloomy"
+    },
+    {
+      "start": 1819.26,
+      "end": 1824.7,
+      "text": "and irritable, and quarrelled with his wife over trifles. He no longer played with his"
+    },
+    {
+      "start": 1824.7,
+      "end": 1830.3,
+      "text": "children. When they were enjoying themselves acting or playing croquet, he would walk in"
+    },
+    {
+      "start": 1830.3,
+      "end": 1836.1,
+      "text": "and spoil it all by a word, or even a look. He did not want to spoil their fun, but for"
+    },
+    {
+      "start": 1836.1,
+      "end": 1842.54,
+      "text": "all that he did. He had often not said anything, but he had thought it. We all knew what he"
+    },
+    {
+      "start": 1842.54,
+      "end": 1847.98,
+      "text": "had thought, and that was what made us so uncomfortable, his son says. It was trying"
+    },
+    {
+      "start": 1847.98,
+      "end": 1853.0,
+      "text": "for the children to lose their jolly, delightful companion, who had brought such zest into"
+    },
+    {
+      "start": 1853.0,
+      "end": 1859.3,
+      "text": "their games, and whose gaiety had been so infectious. Now they rather dreaded the appearance"
+    },
+    {
+      "start": 1859.3,
+      "end": 1864.8,
+      "text": "of this stern man who disapproved of them. He did nothing but blame the useless lives"
+    },
+    {
+      "start": 1864.8,
+      "end": 1870.36,
+      "text": "led by ladies and gentlemen, their laziness, greed, and the way they made other people"
+    },
+    {
+      "start": 1870.36,
+      "end": 1876.24,
+      "text": "work for them. This is the sort of thing he said. Here we sit in our well-heated"
+    },
+    {
+      "start": 1876.24,
+      "end": 1882.56,
+      "text": "rooms, and this very day a man was found frozen to death on the high road. He was frozen to"
+    },
+    {
+      "start": 1882.56,
+      "end": 1887.72,
+      "text": "death because no one would give him a night's lodging. We stuff ourselves with cutlets"
+    },
+    {
+      "start": 1887.72,
+      "end": 1892.96,
+      "text": "and pastry while people are dying by thousands from famine. The children understood what"
+    },
+    {
+      "start": 1892.96,
+      "end": 1898.84,
+      "text": "he said, but it spoiled all their childish amusements and broke up their happy life."
+    },
+    {
+      "start": 1898.84,
+      "end": 1903.92,
+      "text": "Tolstoy was very unhappy for a period of four or five years and could see no meaning"
+    },
+    {
+      "start": 1903.92,
+      "end": 1910.44,
+      "text": "in existence. But at last he discovered a purpose in life and a religion to help him."
+    },
+    {
+      "start": 1910.44,
+      "end": 1916.88,
+      "text": "It was really Christianity, and Christ's Sermon on the Mount became his gospel. The"
+    },
+    {
+      "start": 1916.88,
+      "end": 1923.24,
+      "text": "life of a Russian peasant he was convinced was the example of how to live. Man, he thought,"
+    },
+    {
+      "start": 1923.24,
+      "end": 1928.72,
+      "text": "should be simple, hard-working, and kind. He should give more than he received, and"
+    },
+    {
+      "start": 1928.72,
+      "end": 1935.1,
+      "text": "he should rejoice in serving others. Tolstoy saw it was no good preaching without practicing,"
+    },
+    {
+      "start": 1935.1,
+      "end": 1941.44,
+      "text": "and so he tried to live like a Russian peasant. He ate very little and lived principally upon"
+    },
+    {
+      "start": 1941.44,
+      "end": 1946.4,
+      "text": "vegetables. He dressed like a peasant too, in summer in a smock and in the winter in"
+    },
+    {
+      "start": 1946.4,
+      "end": 1952.04,
+      "text": "a sheepskin coat and cap and high boots. He refused to have anyone to wait on him and"
+    },
+    {
+      "start": 1952.04,
+      "end": 1957.66,
+      "text": "did his own room. This was not easy to him, as though he had always hated luxury as"
+    },
+    {
+      "start": 1957.66,
+      "end": 1962.82,
+      "text": "As an aristocrat, he had taken certain things for granted, such as the fact that his clothes"
+    },
+    {
+      "start": 1962.82,
+      "end": 1969.54,
+      "text": "would always be folded and brushed and put away by a servant. By nature he was very untidy,"
+    },
+    {
+      "start": 1969.54,
+      "end": 1974.06,
+      "text": "and it was really an effort to him to pick up his things and keep them in order. In"
+    },
+    {
+      "start": 1974.06,
+      "end": 1980.14,
+      "text": "earlier days, when he addressed and undressed, he let all his clothes tumble onto the floor,"
+    },
+    {
+      "start": 1980.14,
+      "end": 1984.58,
+      "text": "and there they would lie in different parts of the room until they were picked up. To"
+    },
+    {
+      "start": 1984.58,
+      "end": 1989.92,
+      "text": "To see him pack his portmanteau for a journey was said to be an unforgettable sight. The"
+    },
+    {
+      "start": 1989.92,
+      "end": 1996.88,
+      "text": "confusion and disorder was something so hopeless. But now he tried to turn over a new leaf"
+    },
+    {
+      "start": 1996.88,
+      "end": 2002.3,
+      "text": "so as not to give people trouble. Tolstoy saw the utter uselessness of preaching what"
+    },
+    {
+      "start": 2002.3,
+      "end": 2007.56,
+      "text": "you never intend to practice. He was quite determined to carry out all he asked others"
+    },
+    {
+      "start": 2007.56,
+      "end": 2013.84,
+      "text": "to do. After all, it is more by the life you lead and example rather than by words"
+    },
+    {
+      "start": 2013.84,
+      "end": 2020.16,
+      "text": "that you persuade people, and Tolstoy tells a true story in this connection. It is as"
+    },
+    {
+      "start": 2020.16,
+      "end": 2025.72,
+      "text": "follows. The Tolstoy family took into their house a dirty, homeless little boy, to teach"
+    },
+    {
+      "start": 2025.72,
+      "end": 2028.2,
+      "text": "him and to benefit him generally."
+    },
+    {
+      "start": 2028.2,
+      "end": 2035.92,
+      "text": "What, asks Tolstoy, did the boy see and learn? He saw Tolstoy's own children, older than"
+    },
+    {
+      "start": 2035.92,
+      "end": 2042.0,
+      "text": "himself and of his own age, dirtying and spoiling things, breaking and spilling things,"
+    },
+    {
+      "start": 2042.0,
+      "end": 2046.86,
+      "text": "and throwing food to the dogs which seemed to the boy delicacies, expecting other people"
+    },
+    {
+      "start": 2046.86,
+      "end": 2053.86,
+      "text": "to wait on them and never doing any work themselves. Tolstoy understood then, he says, how absurd"
+    },
+    {
+      "start": 2053.86,
+      "end": 2058.54,
+      "text": "it was to take poor people into your house and educate them when you were yourselves"
+    },
+    {
+      "start": 2058.54,
+      "end": 2064.62,
+      "text": "leading such idle, useless lives. Tolstoy says his one desire was to hide their life"
+    },
+    {
+      "start": 2064.62,
+      "end": 2070.06,
+      "text": "from the boy. Everything that he told him or tried to teach him he felt was destroyed"
+    },
+    {
+      "start": 2070.06,
+      "end": 2075.44,
+      "text": "by the example they were all setting him. So Tolstoy tried hard to live according to"
+    },
+    {
+      "start": 2075.44,
+      "end": 2081.76,
+      "text": "his ideals and became something like a monk, but without a monk's narrow views and superstitious"
+    },
+    {
+      "start": 2081.76,
+      "end": 2088.36,
+      "text": "beliefs. He dropped his title quite naturally, and when a peasant called him, Your Excellency,"
+    },
+    {
+      "start": 2088.36,
+      "end": 2095.92,
+      "text": "Tolstoy replied, I am called simply Leo Nikolayevich, and went on to speak of the matter in hand."
+    },
+    {
+      "start": 2095.92,
+      "end": 2101.4,
+      "text": "labour which had always been a pleasure to him, now became a sort of religion. Every"
+    },
+    {
+      "start": 2101.4,
+      "end": 2107.24,
+      "text": "day he worked for hours at hay-making, ploughing, reaping or wood-cutting as the case might"
+    },
+    {
+      "start": 2107.24,
+      "end": 2112.12,
+      "text": "be. Nothing absorbed him like mowing, and he would stand among the peasants in his"
+    },
+    {
+      "start": 2112.12,
+      "end": 2118.92,
+      "text": "smock listening with perfect happiness to the sound of scythes. Country life, labour,"
+    },
+    {
+      "start": 2118.92,
+      "end": 2124.32,
+      "text": "healthy appetite and sound sleep was his idea of a happy life. In the winter evenings"
+    },
+    {
+      "start": 2124.32,
+      "end": 2129.36,
+      "text": "Tolstoy learned to make boots. He engaged a black bearded shoemaker to come and teach"
+    },
+    {
+      "start": 2129.36,
+      "end": 2135.96,
+      "text": "him, and side by side they sat on two stools in a little room near Tolstoy's study. Tolstoy"
+    },
+    {
+      "start": 2135.96,
+      "end": 2141.56,
+      "text": "was never satisfied, until he had done the job exactly as the shoemaker did it. Groaning"
+    },
+    {
+      "start": 2141.56,
+      "end": 2146.64,
+      "text": "with the effort of threading a waxed thread, he would refuse the assistance of the bearded"
+    },
+    {
+      "start": 2146.64,
+      "end": 2147.64,
+      "text": "man."
+    },
+    {
+      "start": 2147.64,
+      "end": 2155.0,
+      "text": "I'll do it. No, no, I'll do it myself. It's the only way to learn,\" he would say."
+    },
+    {
+      "start": 2155.0,
+      "end": 2159.8,
+      "text": "As to the boots which Tolstoy made, a man to whom he had given a pair and who had worn"
+    },
+    {
+      "start": 2159.8,
+      "end": 2162.7,
+      "text": "them, was asked whether they were well made."
+    },
+    {
+      "start": 2162.7,
+      "end": 2168.88,
+      "text": "Couldn't be worse, was his reply. Now for a time the whole Tolstoy family and their"
+    },
+    {
+      "start": 2168.88,
+      "end": 2175.12,
+      "text": "friends were filled with this enthusiasm for outdoor work. They rose early, and in"
+    },
+    {
+      "start": 2175.12,
+      "end": 2180.64,
+      "text": "company with the peasants the Tolstoy children and their mother, in a Russian dress, uncles,"
+    },
+    {
+      "start": 2180.64,
+      "end": 2188.0,
+      "text": "aunts, and even grandmothers, mowed the grass and strove to outdo the other. They had no theories"
+    },
+    {
+      "start": 2188.0,
+      "end": 2193.84,
+      "text": "about it, but simply found it a change and a pleasant satisfactory way of taking exercise."
+    },
+    {
+      "start": 2194.88,
+      "end": 2201.28,
+      "text": "All sorts of people now made pilgrimages to Yasnaya to learn how to live, for Tolstoy's fame as a"
+    },
+    {
+      "start": 2201.28,
+      "end": 2207.2,
+      "text": "teacher had begun to go about the land. Rich aristocrats wanted to throw away their gold"
+    },
+    {
+      "start": 2207.2,
+      "end": 2212.0,
+      "text": "and do the housework, and a governess of the Tolstoys, who has written rather malicious"
+    },
+    {
+      "start": 2212.0,
+      "end": 2217.36,
+      "text": "though amusing accounts of Tolstoy's life at this time, describes enthusiastic ladies"
+    },
+    {
+      "start": 2217.36,
+      "end": 2223.26,
+      "text": "who came to Yasnaya and manured the fields in white dressing jackets. Tolstoy suffered"
+    },
+    {
+      "start": 2223.26,
+      "end": 2227.92,
+      "text": "from the silliness of some of his followers, and once sadly said he supposed he should"
+    },
+    {
+      "start": 2227.92,
+      "end": 2233.08,
+      "text": "be known through them and their eccentricities. There is a good deal of truth in the saying"
+    },
+    {
+      "start": 2233.08,
+      "end": 2239.44,
+      "text": "that a man's admirers are sometimes his worst enemies. Tolstoy gave up writing novels,"
+    },
+    {
+      "start": 2239.44,
+      "end": 2245.28,
+      "text": "and wrote only one more, Resurrection, quite at the end of his life. This was written with"
+    },
+    {
+      "start": 2245.28,
+      "end": 2251.12,
+      "text": "a great moral purpose, and is a serious and terrible book. His earlier novels he now"
+    },
+    {
+      "start": 2251.12,
+      "end": 2256.64,
+      "text": "referred to as Wordy Rubbish. He hated them, as he felt they were frivolous and could"
+    },
+    {
+      "start": 2256.64,
+      "end": 2262.64,
+      "text": "only be interesting to the upper classes. He wrote, however, a great many books on life,"
+    },
+    {
+      "start": 2262.64,
+      "end": 2268.72,
+      "text": "conduct, and religion, and children's stories. They were printed very cheaply and taken round"
+    },
+    {
+      "start": 2268.72,
+      "end": 2274.2,
+      "text": "by peddlers. The peasants read and loved these books, and they seemed to penetrate right"
+    },
+    {
+      "start": 2274.2,
+      "end": 2280.72,
+      "text": "into the heart of Russia. They were written simply, and the peasants understood them. Tolstoy"
+    },
+    {
+      "start": 2280.72,
+      "end": 2286.4,
+      "text": "was very happy that he had been able to help and please the poor people. Now, preaching"
+    },
+    {
+      "start": 2286.4,
+      "end": 2292.34,
+      "text": "as Tolstoy did against property, and the extraordinarily unfair system which allows one man to have"
+    },
+    {
+      "start": 2292.34,
+      "end": 2298.16,
+      "text": "a thousand acres, and another not even a foot, he could not satisfy himself, until he had"
+    },
+    {
+      "start": 2298.16,
+      "end": 2303.9,
+      "text": "got rid of his own property, so difficulties arose with his family. His wife would not"
+    },
+    {
+      "start": 2303.9,
+      "end": 2309.26,
+      "text": "have felt so strongly about it, no doubt, if she had had only herself to think of."
+    },
+    {
+      "start": 2309.26,
+      "end": 2313.54,
+      "text": "But it is difficult for a mother to believe that her children will be happier and better"
+    },
+    {
+      "start": 2313.54,
+      "end": 2319.7,
+      "text": "without money and possessions. She did not want to see her children impoverished. Tolstoy"
+    },
+    {
+      "start": 2319.7,
+      "end": 2325.62,
+      "text": "thought a mother's love was selfish, and often writes about it in this sense. Countess Tolstoy"
+    },
+    {
+      "start": 2325.62,
+      "end": 2330.74,
+      "text": "had been upset when her husband gave up writing novels, for they brought in a lot of money,"
+    },
+    {
+      "start": 2330.74,
+      "end": 2336.42,
+      "text": "and now, with their largely increased family, their income, instead of becoming more,"
+    },
+    {
+      "start": 2336.42,
+      "end": 2340.98,
+      "text": "became less. Tolstoy, in a letter to his wife on this subject, says,"
+    },
+    {
+      "start": 2340.98,
+      "end": 2347.1,
+      "text": "But I cannot help repeating that our happiness or unhappiness cannot in the least depend"
+    },
+    {
+      "start": 2347.1,
+      "end": 2352.26,
+      "text": "on whether we lose or acquire something, but only what we ourselves are."
+    },
+    {
+      "start": 2352.26,
+      "end": 2358.52,
+      "text": "Now, if we left Kostenka, one of their children, a million, would he be happier?"
+    },
+    {
+      "start": 2358.52,
+      "end": 2363.22,
+      "text": "What our life together is, with our joys and sorrows, will appear to our children"
+    },
+    {
+      "start": 2363.22,
+      "end": 2370.04,
+      "text": "real life, but neither languages nor diplomas nor society, and still less money, make"
+    },
+    {
+      "start": 2370.04,
+      "end": 2376.02,
+      "text": "our happiness or unhappiness, and therefore the question how much our income shrinks cannot"
+    },
+    {
+      "start": 2376.02,
+      "end": 2380.12,
+      "text": "occupy me.\" Tolstoy finally satisfied himself by giving"
+    },
+    {
+      "start": 2380.12,
+      "end": 2385.82,
+      "text": "up his estates to his family. The house itself he left to the youngest, Ivan. This was a"
+    },
+    {
+      "start": 2385.82,
+      "end": 2393.4,
+      "text": "tradition in the family, Tolstoy, as his mother's youngest son, having inherited Yasnaya Poliana."
+    },
+    {
+      "start": 2393.4,
+      "end": 2399.02,
+      "text": "This little boy, who was born when Tolstoy was quite old, promised to be very remarkable,"
+    },
+    {
+      "start": 2399.02,
+      "end": 2404.06,
+      "text": "and his father took more interest in him than any of his other children. The child even"
+    },
+    {
+      "start": 2404.06,
+      "end": 2410.06,
+      "text": "understood things just as his father did. When one day his mother said to him,"
+    },
+    {
+      "start": 2410.06,
+      "end": 2416.5,
+      "text": "''Even Yasnaya is yours.'' He was very angry and stamped his foot passionately,"
+    },
+    {
+      "start": 2416.5,
+      "end": 2422.14,
+      "text": "crying, ''Don't say that Yasnaya Polyana is mine. Everything is everyone else's.''"
+    },
+    {
+      "start": 2422.14,
+      "end": 2427.58,
+      "text": "The child died when he was seven, and it was a most bitter grief to Tolstoy, but Masha,"
+    },
+    {
+      "start": 2427.58,
+      "end": 2432.02,
+      "text": "His second daughter was a comfort to him. She took her father's side when she was"
+    },
+    {
+      "start": 2432.02,
+      "end": 2436.88,
+      "text": "only fifteen, and though she was very delicate, she used all the strength she had in working"
+    },
+    {
+      "start": 2436.88,
+      "end": 2441.04,
+      "text": "for the poor, looking after the peasants' wives and doing their work for them when they"
+    },
+    {
+      "start": 2441.04,
+      "end": 2447.2,
+      "text": "were ill, minding the children, and cleaning and cooking. Many people blame Countess Tolstoy"
+    },
+    {
+      "start": 2447.2,
+      "end": 2451.64,
+      "text": "for not seeing eye to eye with her husband, but I think it would have been a very great"
+    },
+    {
+      "start": 2451.64,
+      "end": 2456.78,
+      "text": "deal to expect of any woman, that she should discard all the habits of a lifetime and"
+    },
+    {
+      "start": 2456.78,
+      "end": 2461.62,
+      "text": "renounce everything she had been accustomed to, to change her way of living, and of bringing"
+    },
+    {
+      "start": 2461.62,
+      "end": 2466.98,
+      "text": "up her children. She describes her feelings very well in a letter to her sister, saying"
+    },
+    {
+      "start": 2466.98,
+      "end": 2472.3,
+      "text": "that her husband is a leader, one who goes ahead of the crowd pointing the way men should"
+    },
+    {
+      "start": 2472.3,
+      "end": 2473.3,
+      "text": "go."
+    },
+    {
+      "start": 2473.3,
+      "end": 2478.86,
+      "text": "But I am the crowd, she says. I live in its current, and see the light of the lamp which"
+    },
+    {
+      "start": 2478.86,
+      "end": 2484.66,
+      "text": "every leader, and Leo, of course, carries, and I acknowledge it to be the light. But"
+    },
+    {
+      "start": 2484.66,
+      "end": 2491.26,
+      "text": "I cannot go faster. I am held by the crowd and by my surroundings and habits.\""
+    },
+    {
+      "start": 2491.26,
+      "end": 2496.18,
+      "text": "Countess Tolstoy also felt that her husband was wasting himself. He had a genius for"
+    },
+    {
+      "start": 2496.18,
+      "end": 2501.34,
+      "text": "writing novels, and he deliberately gave up writing them and occupied himself instead"
+    },
+    {
+      "start": 2501.34,
+      "end": 2507.7,
+      "text": "with log-splitting, reaping, and making boots which anybody could do, and do better. It"
+    },
+    {
+      "start": 2507.7,
+      "end": 2513.78,
+      "text": "was tiresome of him to play at being Robinson Crusoe, as Countess Tolstoy expressed it."
+    },
+    {
+      "start": 2513.78,
+      "end": 2518.58,
+      "text": "No doubt he was provoking, but though Tolstoy and his wife sometimes quarrelled, they were"
+    },
+    {
+      "start": 2518.58,
+      "end": 2523.98,
+      "text": "devoted to one another all the same, as may be seen by the very delightful quotation out"
+    },
+    {
+      "start": 2523.98,
+      "end": 2527.9,
+      "text": "of a letter of Countess Tolstoy's to her husband."
+    },
+    {
+      "start": 2527.9,
+      "end": 2534.02,
+      "text": "All at once I pictured you vividly to myself, and a sudden flood of tenderness rose in me."
+    },
+    {
+      "start": 2534.02,
+      "end": 2540.18,
+      "text": "There is something in you so wise, kind, naive, and obstinate, and it is all lit up"
+    },
+    {
+      "start": 2540.18,
+      "end": 2545.94,
+      "text": "by that tender interest for everyone natural to you alone and by your look that reaches"
+    },
+    {
+      "start": 2545.94,
+      "end": 2552.42,
+      "text": "to people's souls. Sometimes Tolstoy had to accompany his family to Moscow. This became"
+    },
+    {
+      "start": 2552.42,
+      "end": 2556.92,
+      "text": "the regular arrangement in the winter when his daughter Tanya grew up and began to go"
+    },
+    {
+      "start": 2556.92,
+      "end": 2563.18,
+      "text": "to balls and parties. Countess Tolstoy was always very energetic, arranging their flat"
+    },
+    {
+      "start": 2563.18,
+      "end": 2568.52,
+      "text": "and calling upon people who would ask her daughter to parties. Tolstoy, after living"
+    },
+    {
+      "start": 2568.52,
+      "end": 2574.58,
+      "text": "in the country found the artificiality of town life almost unbearable, and the luxury"
+    },
+    {
+      "start": 2574.58,
+      "end": 2580.28,
+      "text": "of the circle they lived in was to him torture. He had to occupy himself in order to bear"
+    },
+    {
+      "start": 2580.28,
+      "end": 2586.52,
+      "text": "it. One winter he spent his time taking a census of people in the poorest part of Moscow."
+    },
+    {
+      "start": 2586.52,
+      "end": 2591.92,
+      "text": "He was so horrified at the appalling misery he came across that he wanted to run away."
+    },
+    {
+      "start": 2591.92,
+      "end": 2596.18,
+      "text": "He knew poverty in the country, but he had never seen anything like the poverty he came"
+    },
+    {
+      "start": 2596.18,
+      "end": 2601.98,
+      "text": "across in the town. Writing about it, he says, I could not look at our own or anybody"
+    },
+    {
+      "start": 2601.98,
+      "end": 2607.86,
+      "text": "else's drawing-room, or a clean, well-spread dining-table, or a carriage with well-fed"
+    },
+    {
+      "start": 2607.86,
+      "end": 2614.8,
+      "text": "coachmen and horses, or shops or theatres, without a feeling of profound irritation."
+    },
+    {
+      "start": 2614.8,
+      "end": 2619.66,
+      "text": "It was because he had seen the other side of the picture, and unfortunately there always"
+    },
+    {
+      "start": 2619.66,
+      "end": 2624.9,
+      "text": "is another side to the picture. He saw this side by side with the wretched lodging-houses"
+    },
+    {
+      "start": 2624.9,
+      "end": 2631.0,
+      "text": "he had been visiting, filled with cold, hungry, dreadful people, and one he felt was the result"
+    },
+    {
+      "start": 2631.0,
+      "end": 2636.02,
+      "text": "of the other. His son says the look of suffering on his father's face at that time he shall"
+    },
+    {
+      "start": 2636.02,
+      "end": 2642.44,
+      "text": "never forget. He was simply overcome with pity and with shame and indignation that our"
+    },
+    {
+      "start": 2642.44,
+      "end": 2648.9,
+      "text": "civilization can permit such things. So he went back to Yasnaya, alone, and feeling ill"
+    },
+    {
+      "start": 2648.9,
+      "end": 2654.96,
+      "text": "with despair. He took things to heart in an extraordinary way. But gradually, the peace"
+    },
+    {
+      "start": 2654.96,
+      "end": 2660.3,
+      "text": "and loneliness of the country comforted him, and he set to work on a book about his experiences"
+    },
+    {
+      "start": 2660.3,
+      "end": 2666.54,
+      "text": "with the poor in Moscow, and called it, What Then Must We Do? He simply wrote down what"
+    },
+    {
+      "start": 2666.54,
+      "end": 2672.62,
+      "text": "he had seen and heard, and asked what we were to do to destroy what is in truth slavery,"
+    },
+    {
+      "start": 2672.62,
+      "end": 2677.82,
+      "text": "starving people struggling to live and driven to crime by their miserable conditions, while"
+    },
+    {
+      "start": 2677.82,
+      "end": 2683.54,
+      "text": "others have riches and luxury, even throwing their superfluous food to the dogs and enjoying"
+    },
+    {
+      "start": 2683.54,
+      "end": 2688.8,
+      "text": "the fruit of other people's labor. It was impossible for Tolstoy to have any respect"
+    },
+    {
+      "start": 2688.8,
+      "end": 2694.28,
+      "text": "for civilization as such unless it really helped men. He judged it fairly by what it"
+    },
+    {
+      "start": 2694.28,
+      "end": 2701.5,
+      "text": "did and found it wanting. He longed to see real progress, not merely mechanical progress."
+    },
+    {
+      "start": 2701.5,
+      "end": 2707.16,
+      "text": "He did not call progress making battleships, inventing flying machines, or electricity,"
+    },
+    {
+      "start": 2707.16,
+      "end": 2710.6,
+      "text": "or explosives if people's hearts remained hard."
+    },
+    {
+      "start": 2710.6,
+      "end": 2716.0,
+      "text": "He wanted to see a spiritual progress, people being kind and helpful to one another."
+    },
+    {
+      "start": 2716.0,
+      "end": 2721.48,
+      "text": "The root of all the evil lay in man's selfishness, he thought, and the corruption of governments."
+    },
+    {
+      "start": 2721.48,
+      "end": 2726.32,
+      "text": "These, he considered, existed only for the benefit of the rich."
+    },
+    {
+      "start": 2726.32,
+      "end": 2730.48,
+      "text": "We must remember that the Russian government at that time was one of the most backward"
+    },
+    {
+      "start": 2730.48,
+      "end": 2735.8,
+      "text": "of so-called civilized powers, and what we call representative government did not exist"
+    },
+    {
+      "start": 2735.8,
+      "end": 2741.94,
+      "text": "at all, but a government by a few for the few. Tolstoy also set himself to the great"
+    },
+    {
+      "start": 2741.94,
+      "end": 2747.32,
+      "text": "work he had dreamt of doing as a young man, that of separating the true from the false"
+    },
+    {
+      "start": 2747.32,
+      "end": 2752.72,
+      "text": "in the teachings of the church. The Greek or the Russian church does not differ fundamentally"
+    },
+    {
+      "start": 2752.72,
+      "end": 2758.08,
+      "text": "in its doctrines from the Roman Catholic or Protestant churches. Tolstoy saw that"
+    },
+    {
+      "start": 2758.08,
+      "end": 2763.38,
+      "text": "man needed some religion or chart to guide him through life, and being himself profoundly"
+    },
+    {
+      "start": 2763.38,
+      "end": 2770.0,
+      "text": "religious by nature, he did not, like Voltaire, merely scoff and destroy, but tried also to"
+    },
+    {
+      "start": 2770.0,
+      "end": 2775.52,
+      "text": "build up and to construct something really tangible and helpful to human beings. The"
+    },
+    {
+      "start": 2775.52,
+      "end": 2778.76,
+      "text": "truth, he believed, lay in the teaching of Christ."
+    },
+    {
+      "start": 2778.76,
+      "end": 2784.44,
+      "text": "\"'If you wish to understand the truth,' Tolstoy said, read the Gospels, and the"
+    },
+    {
+      "start": 2784.44,
+      "end": 2789.96,
+      "text": "The book he wrote on the Gospels is an explanation of Christ's teaching. He asked himself whether"
+    },
+    {
+      "start": 2789.96,
+      "end": 2795.36,
+      "text": "things that children and ignorant people taught true, and if they were not, they should be"
+    },
+    {
+      "start": 2795.36,
+      "end": 2803.22,
+      "text": "exposed publicly. Every honest man should speak out. But people he saw were so confused"
+    },
+    {
+      "start": 2803.22,
+      "end": 2810.12,
+      "text": "in their minds about religion that they thought it must be supernatural, senseless, and incomprehensible,"
+    },
+    {
+      "start": 2810.12,
+      "end": 2812.16,
+      "text": "For it wasn't religion."
+    },
+    {
+      "start": 2812.16,
+      "end": 2815.5,
+      "text": "Tolstoy wanted to make it a real and living force."
+    },
+    {
+      "start": 2815.5,
+      "end": 2820.7,
+      "text": "He told the peasants in his books that God was not the cruel, revengeful, punishing person"
+    },
+    {
+      "start": 2820.7,
+      "end": 2825.76,
+      "text": "they had been taught to believe him, that he did not go about hardening people's hearts"
+    },
+    {
+      "start": 2825.76,
+      "end": 2831.16,
+      "text": "and directing them to murder, and that they would not go to hell for being unbaptised."
+    },
+    {
+      "start": 2831.16,
+      "end": 2836.12,
+      "text": "On the contrary, he told them that God was good, and that every human being, as the"
+    },
+    {
+      "start": 2836.12,
+      "end": 2842.76,
+      "text": "the Son of God, was good too, and could increase, by loving goodness, the divine in himself,"
+    },
+    {
+      "start": 2842.76,
+      "end": 2847.72,
+      "text": "by loving others as himself, and by acting toward everybody, as you would they should"
+    },
+    {
+      "start": 2847.72,
+      "end": 2853.48,
+      "text": "act toward you. But to kill another, or abuse him, or to profit at the expense of"
+    },
+    {
+      "start": 2853.48,
+      "end": 2859.88,
+      "text": "any man, this was what made misery in the world. Tolstoy preached that all men are"
+    },
+    {
+      "start": 2859.88,
+      "end": 2866.52,
+      "text": "equal as Christ had, and that nothing can be done by force or by violence, but only"
+    },
+    {
+      "start": 2866.52,
+      "end": 2871.08,
+      "text": "by love. The church in Russia was able to exercise"
+    },
+    {
+      "start": 2871.08,
+      "end": 2877.08,
+      "text": "a sort of Inquisition, employing people to spy on suspected freethinkers all over the"
+    },
+    {
+      "start": 2877.08,
+      "end": 2882.64,
+      "text": "country. There existed at the time, about a hundred miles from Moscow, a Bastille or"
+    },
+    {
+      "start": 2882.64,
+      "end": 2889.04,
+      "text": "fortress where persons objected to or suspected by the Russian church, were shut up. In its"
+    },
+    {
+      "start": 2889.04,
+      "end": 2895.36,
+      "text": "dark and damp dungeons, innocent people would be left for many years, sometimes forgotten altogether."
+    },
+    {
+      "start": 2896.08,
+      "end": 2900.88,
+      "text": "Tolstoy would most certainly have been arrested and probably sent there if he had not been an"
+    },
+    {
+      "start": 2900.88,
+      "end": 2907.76,
+      "text": "aristocrat with an aunt at court who pleaded for him with the gzar. As it was, he was excommunicated"
+    },
+    {
+      "start": 2907.76,
+      "end": 2914.24,
+      "text": "by the Holy Synod, the head of the Russian church. Tolstoy was proving dangerous, his"
+    },
+    {
+      "start": 2914.24,
+      "end": 2918.7,
+      "text": "His influence was beginning to be felt. He was undermining the power of the church and"
+    },
+    {
+      "start": 2918.7,
+      "end": 2923.76,
+      "text": "state by showing the poor people that they have a right to live and that all men are"
+    },
+    {
+      "start": 2923.76,
+      "end": 2930.96,
+      "text": "equal, that Christ had said so, and that the church has no right to misrepresent his words."
+    },
+    {
+      "start": 2930.96,
+      "end": 2936.08,
+      "text": "Tolstoy's books were no longer allowed in libraries. Newspapers were forbidden to mention"
+    },
+    {
+      "start": 2936.08,
+      "end": 2941.76,
+      "text": "any meetings held in his favour. Telegraph offices actually refused to take messages"
+    },
+    {
+      "start": 2941.76,
+      "end": 2947.46,
+      "text": "of sympathy sent him, though abusive telegrams arrived quite punctually."
+    },
+    {
+      "start": 2947.46,
+      "end": 2952.72,
+      "text": "During a terrible famine in Russia, when Tolstoy and his family worked night and day and gave"
+    },
+    {
+      "start": 2952.72,
+      "end": 2957.74,
+      "text": "all they possessed to the starving peasants, the priests tried to frighten them and preached"
+    },
+    {
+      "start": 2957.74,
+      "end": 2963.42,
+      "text": "against Tolstoy, saying he was Antichrist, and they should not eat his food. But the"
+    },
+    {
+      "start": 2963.42,
+      "end": 2968.42,
+      "text": "excommunication of Tolstoy had really quite the opposite effect to what was intended."
+    },
+    {
+      "start": 2968.42,
+      "end": 2974.14,
+      "text": "It shocked the whole world, and Tolstoy's name was received with more and more sympathy."
+    },
+    {
+      "start": 2974.14,
+      "end": 2979.78,
+      "text": "The views he expressed and the books he wrote had greater influence than ever before. The"
+    },
+    {
+      "start": 2979.78,
+      "end": 2984.3,
+      "text": "Russian people themselves seemed to realize that they possessed one of the greatest moral"
+    },
+    {
+      "start": 2984.3,
+      "end": 2989.98,
+      "text": "teachers in the world, but as the people of Russia became freer in their views and less"
+    },
+    {
+      "start": 2989.98,
+      "end": 2995.26,
+      "text": "subservient to authority, so in proportion the government became harder and tightened"
+    },
+    {
+      "start": 2995.26,
+      "end": 3001.5,
+      "text": "its hold upon them. Tolstoy had not hitherto written on political life, but the cruel repression"
+    },
+    {
+      "start": 3001.5,
+      "end": 3007.04,
+      "text": "of all forms of liberty by violence roused him at the end of his life to write against"
+    },
+    {
+      "start": 3007.04,
+      "end": 3012.18,
+      "text": "the government of his country a tragic letter which he published in the European papers"
+    },
+    {
+      "start": 3012.18,
+      "end": 3018.74,
+      "text": "entitled I Can Keep Silent No Longer. He said his life was made unendurable by the"
+    },
+    {
+      "start": 3018.74,
+      "end": 3024.62,
+      "text": "suffering of his people, and he begs all to cease from hatred and revenge."
+    },
+    {
+      "start": 3024.62,
+      "end": 3030.86,
+      "text": "Mr. Elmer Maud, Tolstoy's English biographer, visited the great man at Yasnaya Polyana"
+    },
+    {
+      "start": 3030.86,
+      "end": 3036.3,
+      "text": "towards the end of his life. He says what struck him most then about Tolstoy was his"
+    },
+    {
+      "start": 3036.3,
+      "end": 3042.5,
+      "text": "sympathy and kindness more than his intellect. He had mellowed with age, and from having"
+    },
+    {
+      "start": 3042.5,
+      "end": 3048.2,
+      "text": "being impatient, violent in argument, and often obstinate and unjust, he had become"
+    },
+    {
+      "start": 3048.2,
+      "end": 3054.1,
+      "text": "patient and gentle, though he was still intensely alive and caring as ardently for things as"
+    },
+    {
+      "start": 3054.1,
+      "end": 3060.34,
+      "text": "most people of twenty-five. The atmosphere he created round him in his old age was peculiarly"
+    },
+    {
+      "start": 3060.34,
+      "end": 3066.8,
+      "text": "peaceful, and yet a lively and intelligent interest was taken by everyone in everything."
+    },
+    {
+      "start": 3066.8,
+      "end": 3072.56,
+      "text": "The influence of Tolstoy seemed to make all who came into contact with him kind and simple."
+    },
+    {
+      "start": 3072.56,
+      "end": 3078.36,
+      "text": "There were no shams anywhere. Tolstoy had not forced his views on his children, as he"
+    },
+    {
+      "start": 3078.36,
+      "end": 3084.16,
+      "text": "was afraid they might follow him insincerely. He wanted them to be completely free and"
+    },
+    {
+      "start": 3084.16,
+      "end": 3088.8,
+      "text": "sincere. When he was eighty-two, Tolstoy left his"
+    },
+    {
+      "start": 3088.8,
+      "end": 3094.48,
+      "text": "home. His reasons for doing so are not quite clear, and we must form our own conclusions"
+    },
+    {
+      "start": 3094.48,
+      "end": 3100.32,
+      "text": "about it. A letter written to his wife some years before to be opened after his death"
+    },
+    {
+      "start": 3100.32,
+      "end": 3107.12,
+      "text": "explains a good deal. Tolstoy wanted to devote his last days entirely to God. He wanted complete"
+    },
+    {
+      "start": 3107.12,
+      "end": 3112.88,
+      "text": "solitude and peace in order to avoid at the end any sort of discord between his life and his"
+    },
+    {
+      "start": 3112.88,
+      "end": 3118.4,
+      "text": "beliefs. If he had talked about this plan and told his family, there would have been discussions"
+    },
+    {
+      "start": 3118.4,
+      "end": 3125.28,
+      "text": "and perhaps quarrels, and he could not bear that. So he decided to slip away quietly without anyone"
+    },
+    {
+      "start": 3125.28,
+      "end": 3131.2,
+      "text": "knowing. In the letter he explained that it would not mean that he was angry with his wife or anyone"
+    },
+    {
+      "start": 3131.2,
+      "end": 3137.68,
+      "text": "else. Indeed, he could not bear the idea of giving her pain. He said he should lovingly remember what"
+    },
+    {
+      "start": 3137.68,
+      "end": 3143.2,
+      "text": "his wife had been to him. But when the time came, he was very weak and had been near death"
+    },
+    {
+      "start": 3143.2,
+      "end": 3149.36,
+      "text": "several times. He confided his secret plan to his youngest daughter Alexandra, for she,"
+    },
+    {
+      "start": 3149.36,
+      "end": 3154.32,
+      "text": "since his favourite daughter Masha had died a few years before, had been his companion"
+    },
+    {
+      "start": 3154.32,
+      "end": 3160.08,
+      "text": "and confidant. So one snowy night at the end of October she helped him to depart."
+    },
+    {
+      "start": 3160.8,
+      "end": 3165.04,
+      "text": "He went with a doctor friend of his who had been living in the house for some time past."
+    },
+    {
+      "start": 3165.68,
+      "end": 3169.84,
+      "text": "His first wish was to visit his old sister and to take farewell of her."
+    },
+    {
+      "start": 3169.84,
+      "end": 3176.0,
+      "text": "her. She was living in a convent, and seeing her ending her days so happily and peacefully,"
+    },
+    {
+      "start": 3176.0,
+      "end": 3180.38,
+      "text": "he wished he might have been able to enter a monastery, if only it had not been necessary"
+    },
+    {
+      "start": 3180.38,
+      "end": 3185.62,
+      "text": "to believe in the church. On his journey by train, he had not yet made up his mind where"
+    },
+    {
+      "start": 3185.62,
+      "end": 3192.34,
+      "text": "he would settle down, he caught cold and had to stop at a little wayside station. There,"
+    },
+    {
+      "start": 3192.34,
+      "end": 3197.48,
+      "text": "in the station-master's house, the cold developed into pneumonia, and as he was very"
+    },
+    {
+      "start": 3197.48,
+      "end": 3203.72,
+      "text": "week, there was little hope of his recovery. After a week of suffering, he passed peacefully"
+    },
+    {
+      "start": 3203.72,
+      "end": 3210.24,
+      "text": "away, surrounded by his family and friends. Before the end came, a telegram arrived from"
+    },
+    {
+      "start": 3210.24,
+      "end": 3215.96,
+      "text": "a high dignitary of the church, urging Tolstoy to return to the bosom of the church. But"
+    },
+    {
+      "start": 3215.96,
+      "end": 3220.76,
+      "text": "it was not shown to him, for a similar message had been sent some years before when Tolstoy"
+    },
+    {
+      "start": 3220.76,
+      "end": 3226.08,
+      "text": "was very ill, and he had said, How is it they do not understand that even when one"
+    },
+    {
+      "start": 3226.08,
+      "end": 3231.74,
+      "text": "is face to face with death, two and two still make four."
+    },
+    {
+      "start": 3231.74,
+      "end": 3236.02,
+      "text": "Hundreds of people had flocked to the little country station when it was known that Tolstoy"
+    },
+    {
+      "start": 3236.02,
+      "end": 3242.22,
+      "text": "lay ill there. It was an extraordinary scene. Peasants who loved him jostled newspapermen"
+    },
+    {
+      "start": 3242.22,
+      "end": 3247.86,
+      "text": "who wanted the latest news. Photographers and police officers, literary people and aristocrats"
+    },
+    {
+      "start": 3247.86,
+      "end": 3253.86,
+      "text": "were there, and messages and telegrams arrived from all over the world. Multitudes of his"
+    },
+    {
+      "start": 3253.86,
+      "end": 3258.1,
+      "text": "poor peasants came to his funeral, and many wept aloud."
+    },
+    {
+      "start": 3258.1,
+      "end": 3261.7,
+      "text": "\"'Our great Leo is dead,' cried one."
+    },
+    {
+      "start": 3261.7,
+      "end": 3266.02,
+      "text": "\"'Long live our great Leo's spirit.'\""
+    },
+    {
+      "start": 3266.02,
+      "end": 3270.26,
+      "text": "Tolstoy's body was laid where he had wished to lie, on the spot where his brother Nicholas"
+    },
+    {
+      "start": 3270.26,
+      "end": 3275.4,
+      "text": "had buried the green stick on which was written the great secret it was Tolstoy's purpose"
+    },
+    {
+      "start": 3275.4,
+      "end": 3277.86,
+      "text": "in life to discover."
+    },
+    {
+      "start": 3277.86,
+      "end": 3281.74,
+      "text": "What was the secret of Tolstoy's power?"
+    },
+    {
+      "start": 3281.74,
+      "end": 3286.62,
+      "text": "who came near him seem to feel it, and most of those who read his books. It is true that"
+    },
+    {
+      "start": 3286.62,
+      "end": 3291.26,
+      "text": "there still exists a certain number of people who recognise him only as a novelist. These"
+    },
+    {
+      "start": 3291.26,
+      "end": 3295.34,
+      "text": "are generally among the upper classes, and among literary people who are impatient with"
+    },
+    {
+      "start": 3295.34,
+      "end": 3300.66,
+      "text": "him for having neglected his art. If it had not been for his novels, it is probable"
+    },
+    {
+      "start": 3300.66,
+      "end": 3306.14,
+      "text": "that his influence would not have been nearly so far-reaching. It is doubtful whether fashionable"
+    },
+    {
+      "start": 3306.14,
+      "end": 3311.06,
+      "text": "people would have taken any notice of his serious books at all. But the fact that"
+    },
+    {
+      "start": 3311.06,
+      "end": 3317.18,
+      "text": "had written Anna Karenina, and had made a great name, roused their curiosity, and they"
+    },
+    {
+      "start": 3317.18,
+      "end": 3324.1,
+      "text": "read his indictments against society, governments, and the church with some interest, and many"
+    },
+    {
+      "start": 3324.1,
+      "end": 3330.46,
+      "text": "have gradually come under his spell. It was Tolstoy's profound sincerity and his warm"
+    },
+    {
+      "start": 3330.46,
+      "end": 3335.7,
+      "text": "heart that made people love him. They saw how passionate was his wish to make the world"
+    },
+    {
+      "start": 3335.7,
+      "end": 3343.38,
+      "text": "a better place, how he hated small, mean things, and worshipped goodness and truth. He had immense"
+    },
+    {
+      "start": 3343.38,
+      "end": 3349.38,
+      "text": "courage and fame, or the praise of men by the time he was middle-aged, meant nothing to him,"
+    },
+    {
+      "start": 3349.38,
+      "end": 3355.94,
+      "text": "but he confesses that in his younger days he looked for and enjoyed success. His art had been"
+    },
+    {
+      "start": 3355.94,
+      "end": 3360.5,
+      "text": "a temptation to him, and that was one of the reasons why he would have nothing more to do with it."
+    },
+    {
+      "start": 3360.5,
+      "end": 3367.78,
+      "text": "Tolstoy was above all things a human being. Indeed, it was his special characteristic."
+    },
+    {
+      "start": 3367.78,
+      "end": 3374.34,
+      "text": "Being so, he was sometimes inconsistent and swayed by his moods and his likes and dislikes,"
+    },
+    {
+      "start": 3374.34,
+      "end": 3379.34,
+      "text": "which makes his critics say he did not practice his doctrine of love. He asked people to"
+    },
+    {
+      "start": 3379.34,
+      "end": 3384.3,
+      "text": "turn the other cheek and love their enemies, while he himself found it almost impossible"
+    },
+    {
+      "start": 3384.3,
+      "end": 3389.6,
+      "text": "to be agreeable to disagreeable people or to stupid people, and he never succeeded"
+    },
+    {
+      "start": 3389.6,
+      "end": 3396.04,
+      "text": "in tolerating those whom he considered responsible for the evils of our social system\u2014rulers,"
+    },
+    {
+      "start": 3396.04,
+      "end": 3402.28,
+      "text": "politicians, and policemen. When absorbed in thought he was forgetful and inconsiderate,"
+    },
+    {
+      "start": 3402.28,
+      "end": 3407.0,
+      "text": "he did not mean to be selfish, but his wife's sufferings and what people who lived with"
+    },
+    {
+      "start": 3407.0,
+      "end": 3412.4,
+      "text": "him had to put up with did not strike him. He was impetuous, especially in his younger"
+    },
+    {
+      "start": 3412.4,
+      "end": 3418.0,
+      "text": "days, and he was always making resolutions which he failed very often to carry out. But"
+    },
+    {
+      "start": 3418.0,
+      "end": 3423.18,
+      "text": "All great idealists must suffer from this. It is infinitely better than having no ideals"
+    },
+    {
+      "start": 3423.18,
+      "end": 3429.18,
+      "text": "at all and making no mistakes. If a man with Tolstoy's ideals could carry them all out,"
+    },
+    {
+      "start": 3429.18,
+      "end": 3434.22,
+      "text": "he would be the perfect man, and Tolstoy was far from being that. But no one could"
+    },
+    {
+      "start": 3434.22,
+      "end": 3439.76,
+      "text": "be more humble or more ready to blame himself, and as he grew older he more and more succeeded"
+    },
+    {
+      "start": 3439.76,
+      "end": 3445.56,
+      "text": "in practising in his life what he preached to others. Tolstoy believed in God, and in"
+    },
+    {
+      "start": 3445.56,
+      "end": 3451.12,
+      "text": "the spiritual element that is in all men and women, and which all, he insisted, must cherish"
+    },
+    {
+      "start": 3451.12,
+      "end": 3456.56,
+      "text": "and try to increase. He believed that all men are equal as Christ did, and that all"
+    },
+    {
+      "start": 3456.56,
+      "end": 3462.84,
+      "text": "are brothers, so there should be no such thing as rivalry among nations, and no wars. If"
+    },
+    {
+      "start": 3462.84,
+      "end": 3468.62,
+      "text": "a man is not bent on money-making, on stealing and grasping for himself, and taking away"
+    },
+    {
+      "start": 3468.62,
+      "end": 3473.88,
+      "text": "from others, if he only desires to treat them as he wishes they would treat himself,"
+    },
+    {
+      "start": 3473.88,
+      "end": 3480.72,
+      "text": "will force become unnecessary. This idea may also be applied to states, for wars arise"
+    },
+    {
+      "start": 3480.72,
+      "end": 3486.82,
+      "text": "out of their jealousies and rivalry in the search after power and wealth. Tolstoy saw"
+    },
+    {
+      "start": 3486.82,
+      "end": 3492.42,
+      "text": "that much wickedness and misery came out of poverty and a great deal through riches."
+    },
+    {
+      "start": 3492.42,
+      "end": 3496.72,
+      "text": "One is often the cause of the other, and the unequal distribution of wealth is one"
+    },
+    {
+      "start": 3496.72,
+      "end": 3503.32,
+      "text": "of the greatest problems of our civilisation. But Tolstoy says, could the meaning of renunciation"
+    },
+    {
+      "start": 3503.32,
+      "end": 3509.62,
+      "text": "of giving up to others, be really understood, the battle would be won, and the need of force"
+    },
+    {
+      "start": 3509.62,
+      "end": 3516.5,
+      "text": "would not exist. The only crime is for man to act inhumanly to man. A change of heart"
+    },
+    {
+      "start": 3516.5,
+      "end": 3522.1,
+      "text": "is what Tolstoy pleads for, and every man and woman, he says, can do something to help,"
+    },
+    {
+      "start": 3522.1,
+      "end": 3528.56,
+      "text": "by example, and having a purpose in life. For life, he says in a letter to his son,"
+    },
+    {
+      "start": 3528.56,
+      "end": 3534.08,
+      "text": "a place of service, and in that service one has to suffer at times a great deal that is"
+    },
+    {
+      "start": 3534.08,
+      "end": 3540.28,
+      "text": "hard to bear, but more often to experience a great deal of joy. But that joy can only"
+    },
+    {
+      "start": 3540.28,
+      "end": 3545.64,
+      "text": "be real if people look upon their life as a service, and have a definite object in life"
+    },
+    {
+      "start": 3545.64,
+      "end": 3551.96,
+      "text": "outside themselves and their personal affairs. On seeing the terrible sight of capital punishment"
+    },
+    {
+      "start": 3551.96,
+      "end": 3555.36,
+      "text": "in France, Tolstoy wrote these striking words,"
+    },
+    {
+      "start": 3555.36,
+      "end": 3560.16,
+      "text": "When I saw the heads separate from the body, and how they both jumped into the box at the"
+    },
+    {
+      "start": 3560.16,
+      "end": 3565.72,
+      "text": "same moment, I understood not with my mind, but with my whole being, that no theory of"
+    },
+    {
+      "start": 3565.72,
+      "end": 3570.72,
+      "text": "the reasonableness of our present progress can justify this deed, and that though everybody"
+    },
+    {
+      "start": 3570.72,
+      "end": 3575.96,
+      "text": "from the creation of the world, on whatever theory had held it to be necessary, I know"
+    },
+    {
+      "start": 3575.96,
+      "end": 3581.96,
+      "text": "it to be unnecessary and bad, and therefore the arbiter of what is good and evil is not"
+    },
+    {
+      "start": 3581.96,
+      "end": 3587.24,
+      "text": "what people say and do and is not progress, but is my heart and I."
+    },
+    {
+      "start": 3587.24,
+      "end": 3593.8,
+      "text": "Who is to be the judge of what is right or wrong? asks Tolstoy, and answers, A man's"
+    },
+    {
+      "start": 3593.8,
+      "end": 3600.96,
+      "text": "own soul. A man, he says, must not fear to stand alone. Now the fear of standing alone"
+    },
+    {
+      "start": 3600.96,
+      "end": 3606.6,
+      "text": "is not always cowardice. Often a man has too little confidence in himself. In answer to"
+    },
+    {
+      "start": 3606.6,
+      "end": 3609.88,
+      "text": "the promptings of his heart or conscience, he will say,"
+    },
+    {
+      "start": 3609.88,
+      "end": 3614.68,
+      "text": "Perhaps I am wrong. After all, the majority think differently from what I do."
+    },
+    {
+      "start": 3614.68,
+      "end": 3619.56,
+      "text": "They are probably right, for what am I? But it is very seldom that a man's"
+    },
+    {
+      "start": 3619.56,
+      "end": 3624.6,
+      "text": "conscience will lead him astray, and if he feels that a thing is bad or cruel,"
+    },
+    {
+      "start": 3624.6,
+      "end": 3630.84,
+      "text": "he should not stifle or ignore the instinct, but, on the contrary, trust and believe in it,"
+    },
+    {
+      "start": 3630.84,
+      "end": 3634.92,
+      "text": "for it is a divine thing created in man for his own safeguarding"
+    },
+    {
+      "start": 3634.92,
+      "end": 3641.0,
+      "text": "to direct and help him through the difficult ways of life. Tolstoy had much in common with"
+    },
+    {
+      "start": 3641.0,
+      "end": 3646.68,
+      "text": "W. L. Garrison, whom he greatly admired, and wrote a preface to a life of him written by a Russian."
+    },
+    {
+      "start": 3647.32,
+      "end": 3653.24,
+      "text": "For both recognised no authority but a man's own heart and conscience, both set themselves to the"
+    },
+    {
+      "start": 3653.24,
+      "end": 3659.64,
+      "text": "task of rousing people to a better understanding by moral persuasion, both detested force."
+    },
+    {
+      "start": 3659.64,
+      "end": 3665.8,
+      "text": "It is easy to say that Tolstoy was vague, unpractical, and even absurd in the things"
+    },
+    {
+      "start": 3665.8,
+      "end": 3671.04,
+      "text": "he taught. Some people think he was quite mistaken. Those who honestly believe in force"
+    },
+    {
+      "start": 3671.04,
+      "end": 3677.04,
+      "text": "and government by a few privileged people must naturally think so. Tolstoy was very"
+    },
+    {
+      "start": 3677.04,
+      "end": 3683.24,
+      "text": "extreme, but what he did was to give people a higher, more spiritual ideal, to show them"
+    },
+    {
+      "start": 3683.24,
+      "end": 3689.04,
+      "text": "that life may be a noble thing. Tolstoy realized as he grew older that we cannot"
+    },
+    {
+      "start": 3689.04,
+      "end": 3694.56,
+      "text": "be perfect all at once. Therefore, he says, if you cannot love another as yourself, go"
+    },
+    {
+      "start": 3694.56,
+      "end": 3699.72,
+      "text": "as far as you can in that direction. If you cannot live in complete simplicity, live"
+    },
+    {
+      "start": 3699.72,
+      "end": 3705.96,
+      "text": "rather more simply and so on. By degrees we may be able to get somewhere nearer Tolstoy's"
+    },
+    {
+      "start": 3705.96,
+      "end": 3710.6,
+      "text": "ideals, especially if we believe that we are naturally good, and not, as many of us"
+    },
+    {
+      "start": 3710.6,
+      "end": 3715.24,
+      "text": "have been taught by nature born in sin and the children of wrath."
+    }
+  ]
+}

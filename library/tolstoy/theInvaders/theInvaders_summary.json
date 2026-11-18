@@ -1,0 +1,19 @@
+{
+  "item": {
+    "index": 5,
+    "video_id": "6ynYAFMveRM",
+    "title": "The Invaders.  A Short Story by Leo Tolstoy",
+    "duration": 3688,
+    "url": "https://www.youtube.com/watch?v=6ynYAFMveRM",
+    "slug": "theInvaders"
+  },
+  "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theInvaders",
+  "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theInvaders/raw_audio/theInvaders.webm",
+  "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theInvaders/video_work/theInvaders_audio_16k.wav",
+  "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theInvaders/theInvadersTranscript.json",
+  "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theInvaders/theInvadersTranscript.txt",
+  "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theInvaders/theInvaders.txt",
+  "chunks": 58,
+  "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theInvaders/video_work/theInvaders_chunk_audio_joined.wav",
+  "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theInvaders/theInvaders_neuralsurfer.mp4"
+}

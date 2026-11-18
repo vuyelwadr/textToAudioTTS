@@ -1,0 +1,245 @@
+{
+  "id": "PLdk-d5njBw7laBIdDCpqxse1ToP9oNis1",
+  "title": "Anna Karenina - Complete Audio Book in 4 Parts",
+  "availability": null,
+  "channel_follower_count": null,
+  "description": "A collection of fictional Russian literature.",
+  "tags": [],
+  "thumbnails": [
+    {
+      "url": "https://i.ytimg.com/vi/Hi2jN3ZvUIU/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBbN3XmEmBLHlrl6IknKjBi0HF_Kg",
+      "height": 94,
+      "width": 168,
+      "id": "0",
+      "resolution": "168x94"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/Hi2jN3ZvUIU/hqdefault.jpg?sqp=-oaymwEWCMQBEG5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD64dn96zliT3wWnW9Xanbk7guYNw",
+      "height": 110,
+      "width": 196,
+      "id": "1",
+      "resolution": "196x110"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/Hi2jN3ZvUIU/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA_oSNAePmeOdLFREc6PE4NiEtzew",
+      "height": 138,
+      "width": 246,
+      "id": "2",
+      "resolution": "246x138"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/Hi2jN3ZvUIU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDJ_b4cmH_OhI4u2SBhTewKKCaQlg",
+      "height": 188,
+      "width": 336,
+      "id": "3",
+      "resolution": "336x188"
+    }
+  ],
+  "modified_date": "20260402",
+  "view_count": 12,
+  "playlist_count": 4,
+  "channel": "Best Audio Books for Free",
+  "channel_id": "UCA0L8yjIFpoP4l7kESiuatQ",
+  "uploader_id": "@BestAudioBooksforFree",
+  "uploader": "Best Audio Books for Free",
+  "channel_url": "https://www.youtube.com/channel/UCA0L8yjIFpoP4l7kESiuatQ",
+  "uploader_url": "https://www.youtube.com/@BestAudioBooksforFree",
+  "_type": "playlist",
+  "extractor_key": "YoutubeTab",
+  "extractor": "youtube:tab",
+  "webpage_url": "https://www.youtube.com/playlist?list=PLdk-d5njBw7laBIdDCpqxse1ToP9oNis1",
+  "original_url": "https://www.youtube.com/playlist?list=PLdk-d5njBw7laBIdDCpqxse1ToP9oNis1",
+  "webpage_url_basename": "playlist",
+  "webpage_url_domain": "youtube.com",
+  "release_year": null,
+  "epoch": 1779811645,
+  "__files_to_move": {},
+  "_version": {
+    "version": "2026.03.17",
+    "current_git_head": null,
+    "release_git_head": "04d6974f502bbdfaed72c624344f262e30ad9708",
+    "repository": "yt-dlp/yt-dlp"
+  },
+  "entries": [
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "jbsadC5Qfgs",
+      "url": "https://www.youtube.com/watch?v=jbsadC5Qfgs",
+      "title": "Anna Karenina - Complete Audio Book in 4 Parts - Part 1 of 4 - by Leo Tolstoy - Best Audio Books",
+      "description": null,
+      "duration": 42458,
+      "channel_id": "UCA0L8yjIFpoP4l7kESiuatQ",
+      "channel": "Best Audio Books for Free",
+      "channel_url": "https://www.youtube.com/channel/UCA0L8yjIFpoP4l7kESiuatQ",
+      "uploader": "Best Audio Books for Free",
+      "uploader_id": "@BestAudioBooksforFree",
+      "uploader_url": "https://www.youtube.com/@BestAudioBooksforFree",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/jbsadC5Qfgs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBWM1kT2a1uajXnyBSih_9f5IaBEA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/jbsadC5Qfgs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAA0yq-Vid6jQWaeyJgD1hWjr2xTw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/jbsadC5Qfgs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtO5qwwUXOcWlCG-H04BscoBRBPQ",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/jbsadC5Qfgs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3aejYj0mjrskqr0biUQk5NiYqeg",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 27000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null,
+      "_anna_part_number": 1
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "Leb4fk_bpYQ",
+      "url": "https://www.youtube.com/watch?v=Leb4fk_bpYQ",
+      "title": "Anna Karenina - Complete Audio Book in 4 Parts - Part 2 of 4 - by Leo Tolstoy - Best Audio Books",
+      "description": null,
+      "duration": 36192,
+      "channel_id": "UCA0L8yjIFpoP4l7kESiuatQ",
+      "channel": "Best Audio Books for Free",
+      "channel_url": "https://www.youtube.com/channel/UCA0L8yjIFpoP4l7kESiuatQ",
+      "uploader": "Best Audio Books for Free",
+      "uploader_id": "@BestAudioBooksforFree",
+      "uploader_url": "https://www.youtube.com/@BestAudioBooksforFree",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Leb4fk_bpYQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC4i-dLOF-isHInkQmZPhvQnNMUYw",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Leb4fk_bpYQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDlQ-D7EDIKRpDjLb_aCgCjhUVSYw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Leb4fk_bpYQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCO9xRJfLAD2Bkp2ZWatYSeg6iO1g",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Leb4fk_bpYQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXxnNjKuA36_fU7kQtOjF_ZhskXA",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 1000,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null,
+      "_anna_part_number": 2
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "Jjo3oq52sFk",
+      "url": "https://www.youtube.com/watch?v=Jjo3oq52sFk",
+      "title": "Anna Karenina - Complete Audio Book in 4 Parts - Part 3 of 4 - by Leo Tolstoy - Best Audio Books",
+      "description": null,
+      "duration": 41465,
+      "channel_id": "UCA0L8yjIFpoP4l7kESiuatQ",
+      "channel": "Best Audio Books for Free",
+      "channel_url": "https://www.youtube.com/channel/UCA0L8yjIFpoP4l7kESiuatQ",
+      "uploader": "Best Audio Books for Free",
+      "uploader_id": "@BestAudioBooksforFree",
+      "uploader_url": "https://www.youtube.com/@BestAudioBooksforFree",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/Jjo3oq52sFk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDthkAxgJVF7j4Qq-xRx0yZiYECTQ",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Jjo3oq52sFk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCsfnB72MXh02jH4OGVUiMbCaewxw",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Jjo3oq52sFk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtTryw76ZKZVG8-xmS9XVP_yOl8A",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/Jjo3oq52sFk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNZDqET-HUm1ZUVWCZyH-_oHw4-A",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 545,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null,
+      "_anna_part_number": 3
+    },
+    {
+      "_type": "url",
+      "ie_key": "Youtube",
+      "id": "TXTIJOH93ww",
+      "url": "https://www.youtube.com/watch?v=TXTIJOH93ww",
+      "title": "Anna Karenina - Complete Audio Book in 4 Parts - Part 4 of 4 - by Leo Tolstoy - Best Audio Books",
+      "description": null,
+      "duration": 25988,
+      "channel_id": "UCA0L8yjIFpoP4l7kESiuatQ",
+      "channel": "Best Audio Books for Free",
+      "channel_url": "https://www.youtube.com/channel/UCA0L8yjIFpoP4l7kESiuatQ",
+      "uploader": "Best Audio Books for Free",
+      "uploader_id": "@BestAudioBooksforFree",
+      "uploader_url": "https://www.youtube.com/@BestAudioBooksforFree",
+      "thumbnails": [
+        {
+          "url": "https://i.ytimg.com/vi/TXTIJOH93ww/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDBfQlQOPSyDZSZnsHbhSb6cjdlVA",
+          "height": 94,
+          "width": 168
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TXTIJOH93ww/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB75N4ez1_KoAdDLqitGfZcUBPlqg",
+          "height": 110,
+          "width": 196
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TXTIJOH93ww/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaPr6rGwUR7-8hRjHAF4BbOC744A",
+          "height": 138,
+          "width": 246
+        },
+        {
+          "url": "https://i.ytimg.com/vi/TXTIJOH93ww/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5cxFYrMZXjr4UyAOdkEL273elXQ",
+          "height": 188,
+          "width": 336
+        }
+      ],
+      "timestamp": null,
+      "release_timestamp": null,
+      "availability": null,
+      "view_count": 341,
+      "live_status": null,
+      "channel_is_verified": null,
+      "__x_forwarded_for_ip": null,
+      "_anna_part_number": 4
+    }
+  ]
+}

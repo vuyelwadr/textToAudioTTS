@@ -1,0 +1,11 @@
+Chapter 1: Opening the Room
+
+When people talk about intelligent tools, they usually begin with speed. They speak about faster drafting, faster searching, faster edits, faster answers, and faster output. Speed matters, but it is not the whole experience. A good tool does more than accelerate motion. It reduces friction at the point where a person would normally stall, doubt, wander, or postpone. The true gift of a good system is not only that it produces more, but that it makes the next clear step easier to see.
+
+Most creative or technical projects do not fail because there is no intelligence in the room. They fail because there is too much scattered attention. Notes are in one place, drafts are in another, source material is half cleaned, experiments are named badly, and outputs pile up in folders that no longer explain themselves. In that state, even a simple task feels heavier than it should. The work begins to look harder than it is.
+
+Chapter 2: Why Chapters Matter
+
+Headings are not decoration. They are navigation points for the reader and decision points for the system. A chapter heading tells a human being that a new idea begins here. A well-designed video pipeline can use the same signal to change spacing, alter typography, pause slightly longer, or scroll differently. Once the system recognizes that difference, the text stops looking like a wall and starts behaving like a document.
+
+Paragraph breaks serve a related purpose. They create breathing room, but they also reveal pace. A dense paragraph often signals continuity, detail, and explanation. A short paragraph often signals contrast, transition, or emphasis. If the renderer flattens both forms into one uninterrupted stream of text, it erases information that the writer deliberately placed on the page. A better renderer keeps that shape visible.

@@ -1,0 +1,30 @@
+{
+  "source": "Project Gutenberg (mirror: gutenberg.pglaf.org)",
+  "source_url": "https://www.gutenberg.org/ebooks/19322 (fetched via mirror https://gutenberg.pglaf.org/1/9/3/2/19322/19322-8.txt)",
+  "gutenberg_ebook_id": "19322",
+  "translator": "H. L. Mencken",
+  "method": "Downloaded Gutenberg plain text (19322-8.txt), sliced from Nietzsche's AUTHOR'S PREFACE through 'THE END', stripped all front/back matter and Gutenberg legal boilerplate, merged lone aphorism-number lines into following paragraph, normalized blank-line paragraph spacing.",
+  "raw_bytes": 226301,
+  "raw_sha256": "f3cf33ad885e5250d2480bde45137ba8ae14c7d9beffda2c22166bfacf36ec6a",
+  "output_bytes": 166014,
+  "output_sha256": "b2d57a402d8c7b8c7e6cedca857fd6f9b7e79a593c72dde7c4c3a85f36269c02",
+  "word_count": 27526,
+  "block_count": 139,
+  "heading_count": 4,
+  "chapter_count": 4,
+  "headings": [
+    "PREFACE",
+    "FRIEDRICH W. NIETZSCHE.",
+    "THE ANTICHRIST",
+    "THE END"
+  ],
+  "anomalies_found_and_fixed": [
+    "Stripped Gutenberg license header/footer, Borzoi Pocket Books ad list, title/copyright page, table of contents, and H. L. Mencken's translator Introduction essay (kept Nietzsche's own AUTHOR'S PREFACE through THE END).",
+    "Merged 62 standalone aphorism-number marker line(s) (e.g. '12.') into the start of the following paragraph so numbering doesn't sit alone as its own tiny block.",
+    "Source uses ISO-8859-1 encoding with CRLF line endings; decoded and normalized to UTF-8 with LF line endings.",
+    "62 numbered aphorisms confirmed present (1-62); no roman numeral or PART/CHAPTER divisions exist in this work, so 'PREFACE' is the only heading and the aphorisms form a single chapter body, consistent with the original book's structure (a continuous polemic, not divided into parts).",
+    "Nietzsche's own all-caps signature line ('FRIEDRICH W. NIETZSCHE.') closing his preface is detected as its own (near-empty) heading/chapter by the all-caps short-line heuristic in build_chapters(); left as-is since it is genuine original text (not boilerplate) and the same heuristic already produces similar single-line chapters elsewhere in this repo's other library texts."
+  ],
+  "starts_with": "PREFACE\n\nThis book belongs to the most rare of men. Perhaps not one of them is\nyet alive. It is possible that they may be among those who understand my\n\"Zarathustra\": how _could_ I confound myself wit",
+  "ends_with": "reckons _time_ from the _dies nefastus_ when this fatality\nbefell--from the _first_ day of Christianity!--_Why not rather from its\nlast?_--_From today?_--The transvaluation of all values!...\n\nTHE END\n"
+}

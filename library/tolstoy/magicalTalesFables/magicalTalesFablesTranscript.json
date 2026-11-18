@@ -1,0 +1,628 @@
+{
+  "audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/magicalTalesFables/video_work/magicalTalesFables_audio_16k.wav",
+  "model": "small.en",
+  "language": "en",
+  "duration": 752.2346875,
+  "segments": [
+    {
+      "start": 4.78,
+      "end": 34.78,
+      "text": "1. The Wolf and the Bow. A huntsman with his bow and arrows went out to hunt. He killed a goat, flung it over his shoulders, and was carrying it home. On the way, he saw a wild boar. The huntsman dropped the goat, shot the boar, and wounded him. The boar rushed upon the huntsman,"
+    },
+    {
+      "start": 34.78,
+      "end": 40.86,
+      "text": "tusks, and then himself died. A wolf smelled the blood, and came to the place where were"
+    },
+    {
+      "start": 40.86,
+      "end": 48.22,
+      "text": "lying the goat, the boar, the man, and his bow. The wolf was overjoyed, and said to himself,"
+    },
+    {
+      "start": 48.22,
+      "end": 52.86,
+      "text": "Now I shall have enough to eat for a long time, but I am not going to eat it all up"
+    },
+    {
+      "start": 52.86,
+      "end": 58.82,
+      "text": "at once. I will eat a little at a time, so that none of it may be wasted. First I will"
+    },
+    {
+      "start": 58.82,
+      "end": 65.34,
+      "text": "eat the hardest part, and then I will feast on the softest and daintiest.\""
+    },
+    {
+      "start": 65.34,
+      "end": 69.34,
+      "text": "The wolf sniffed the goat, the boar, and the man, and he said,"
+    },
+    {
+      "start": 69.34,
+      "end": 75.06,
+      "text": "\"'This food is soft. I will eat this afterwards. But first of all, I will eat the tendon on"
+    },
+    {
+      "start": 75.06,
+      "end": 80.9,
+      "text": "this bow.'\" And he began to gnaw at the tendon on the bow. When he had bitten through"
+    },
+    {
+      "start": 80.9,
+      "end": 87.02,
+      "text": "the bow-string, the bow sprang and hit the wolf in the belly, and the wolf also perished,"
+    },
+    {
+      "start": 87.02,
+      "end": 93.2,
+      "text": "and the other wolves came and ate up the man, and the goat, and the boar, and the wolf."
+    },
+    {
+      "start": 93.2,
+      "end": 100.52,
+      "text": "2. The Birds in the Snare A huntsman set a snare by a lake. Many birds"
+    },
+    {
+      "start": 100.52,
+      "end": 106.44,
+      "text": "were caught in it. The birds were large. They seized the snare and flew off with it."
+    },
+    {
+      "start": 106.44,
+      "end": 111.24,
+      "text": "The huntsman began to run after the birds. A peasant saw him running after them, and"
+    },
+    {
+      "start": 111.24,
+      "end": 115.88,
+      "text": "he said, Where are you going? Can you catch birds on foot?"
+    },
+    {
+      "start": 115.88,
+      "end": 121.86,
+      "text": "The huntsman replied. If there were only one bird, I should not catch him, but as it is"
+    },
+    {
+      "start": 121.86,
+      "end": 128.38,
+      "text": "I shall bag my game. And so it proved. When evening came, the birds each tried to fly"
+    },
+    {
+      "start": 128.38,
+      "end": 134.58,
+      "text": "off in his own direction, one to the forest, another to the swamp, a third to the field,"
+    },
+    {
+      "start": 134.58,
+      "end": 139.34,
+      "text": "and all fell with the net to the ground, and the huntsman captured them."
+    },
+    {
+      "start": 139.34,
+      "end": 145.88,
+      "text": "III. The Xar and the Falcon. A Xar, while out hunting, unleashed his favorite"
+    },
+    {
+      "start": 145.88,
+      "end": 151.94,
+      "text": "falcon at a hare and galloped after it. The falcon caught the hare. The Xar took away"
+    },
+    {
+      "start": 151.94,
+      "end": 157.78,
+      "text": "the hare and started to seek for some water to quench his thirst. The Xar found the water"
+    },
+    {
+      "start": 157.78,
+      "end": 163.82,
+      "text": "on a hillside, but it trickled out, a drop at a time. So the Xar drew his cup from"
+    },
+    {
+      "start": 163.82,
+      "end": 168.98,
+      "text": "the holster and placed it under the water. The water trickled into the cup, and when"
+    },
+    {
+      "start": 168.98,
+      "end": 174.06,
+      "text": "When the cup was full, the tsar put it to his mouth and was about to drink."
+    },
+    {
+      "start": 174.06,
+      "end": 179.22,
+      "text": "Suddenly the falcon fluttered down upon the tsar's hand, flapped his wings, and spilled"
+    },
+    {
+      "start": 179.22,
+      "end": 180.22,
+      "text": "the water."
+    },
+    {
+      "start": 180.22,
+      "end": 183.98,
+      "text": "Again, the tsar placed the cup under the spring."
+    },
+    {
+      "start": 183.98,
+      "end": 189.26,
+      "text": "He waited long until it was filled, brimming full, and again, when he lifted it to his"
+    },
+    {
+      "start": 189.26,
+      "end": 194.18,
+      "text": "lips, the falcon flew upon his wrist and spilled the water."
+    },
+    {
+      "start": 194.18,
+      "end": 198.14,
+      "text": "When for the third time the tsar managed to get his cup filled and was lifting it"
+    },
+    {
+      "start": 198.14,
+      "end": 204.34,
+      "text": "to his lips, the falcon again spilled it. The Tsar grew wroth and struck the falcon"
+    },
+    {
+      "start": 204.34,
+      "end": 209.92,
+      "text": "with all his might with a stone, and killed him. Then came the Tsar's servants, and one"
+    },
+    {
+      "start": 209.92,
+      "end": 214.52,
+      "text": "of them ran up to the spring in order to find a more plentiful supply of water and come"
+    },
+    {
+      "start": 214.52,
+      "end": 220.22,
+      "text": "back quickly with a full cup. But the servant brought no water back. He returned with an"
+    },
+    {
+      "start": 220.22,
+      "end": 226.04,
+      "text": "empty cup and said, The water is not fit to drink. There is a serpent in the spring,"
+    },
+    {
+      "start": 226.04,
+      "end": 231.04,
+      "text": "it has poisoned all the water. It is a good thing that the falcon spilled it. If you had"
+    },
+    {
+      "start": 231.04,
+      "end": 235.68,
+      "text": "drunk of the water, you would have perished.\" The Xar said,"
+    },
+    {
+      "start": 235.68,
+      "end": 244.09,
+      "text": "\"'Fowley have I recompense the falcon. He saved my life, and I killed him for it."
+    },
+    {
+      "start": 244.09,
+      "end": 250.37,
+      "text": "4.) The Xar and the Elephants. An Indian Xar commanded to gather together all the blind"
+    },
+    {
+      "start": 250.37,
+      "end": 255.77,
+      "text": "men, and when they were collected, he commanded to show them his elephants. The blind men went"
+    },
+    {
+      "start": 255.77,
+      "end": 262.65,
+      "text": "to the stables, and began to feel of the elephants. One felt of the leg, another of the tail,"
+    },
+    {
+      "start": 262.65,
+      "end": 269.65,
+      "text": "a third of the rump, a fourth of the belly, a fifth of the back, a sixth of the ears,"
+    },
+    {
+      "start": 269.65,
+      "end": 275.85,
+      "text": "a seventh of the tusks, an eighth of the proboscis. Then the Xar called the blind"
+    },
+    {
+      "start": 275.85,
+      "end": 283.13,
+      "text": "men to him, and asked them, What are my elephants like? And one blind man said, Thy elephants"
+    },
+    {
+      "start": 283.13,
+      "end": 289.71,
+      "text": "are like pillars. This blind man had felt of the legs. The second blind man said, They"
+    },
+    {
+      "start": 289.71,
+      "end": 296.33,
+      "text": "are like brooms. This one had felt of the tail. The third said, They are like wood."
+    },
+    {
+      "start": 296.33,
+      "end": 301.37,
+      "text": "This one had felt of the rump. The one who had felt of the belly said, Elephants are"
+    },
+    {
+      "start": 301.37,
+      "end": 307.37,
+      "text": "like lumps of earth. The one who had felt of the side said, They are a wall. The one"
+    },
+    {
+      "start": 307.37,
+      "end": 311.77,
+      "text": "One who had felt of the back said, Hey, I like a hill."
+    },
+    {
+      "start": 311.77,
+      "end": 316.37,
+      "text": "The one who had felt of the ears said, They are like a handkerchief."
+    },
+    {
+      "start": 316.37,
+      "end": 321.45,
+      "text": "The one who had felt of the head said, They are like a mortar."
+    },
+    {
+      "start": 321.45,
+      "end": 326.49,
+      "text": "The one who had felt of the tusks said, They are like horns."
+    },
+    {
+      "start": 326.49,
+      "end": 331.57,
+      "text": "The one who had felt of the proboscis said, They are like a stout rope."
+    },
+    {
+      "start": 331.57,
+      "end": 337.87,
+      "text": "And all the blind men began to dispute and quarrel."
+    },
+    {
+      "start": 337.87,
+      "end": 346.6,
+      "text": "5. Why There is Evil in the World A hermit lived in the forest, and the animals"
+    },
+    {
+      "start": 346.6,
+      "end": 351.64,
+      "text": "were not afraid of him. He and the wild animals used to talk together, and they understood"
+    },
+    {
+      "start": 351.64,
+      "end": 358.0,
+      "text": "one another. Once the hermit lay down under a tree, and a raven, a dove, a stag, and a"
+    },
+    {
+      "start": 358.0,
+      "end": 364.42,
+      "text": "snake came to the same place to sleep. The animals began to reason why evil should exist"
+    },
+    {
+      "start": 364.42,
+      "end": 370.92,
+      "text": "in the world. The raven said, It is all owing to hunger that there is evil in the world."
+    },
+    {
+      "start": 370.92,
+      "end": 376.42,
+      "text": "When we have as much as we wish to eat, we sit by ourselves on the bow and core, and"
+    },
+    {
+      "start": 376.42,
+      "end": 381.3,
+      "text": "everything is good and gay, and we are in every respect well off. But some other day"
+    },
+    {
+      "start": 381.3,
+      "end": 386.04,
+      "text": "we are famished, and everything is quite the opposite, so that we can see no brightness"
+    },
+    {
+      "start": 386.04,
+      "end": 392.1,
+      "text": "in God's world, and we feel full of unrest. We fly about from place to place, and there"
+    },
+    {
+      "start": 392.1,
+      "end": 398.28,
+      "text": "is no rest for us. And even if we see some meter far off, then it becomes still worse."
+    },
+    {
+      "start": 398.28,
+      "end": 403.62,
+      "text": "For if we fly down to get it, either sticks and stones are thrown at us, or wolves and"
+    },
+    {
+      "start": 403.62,
+      "end": 410.82,
+      "text": "dogs chase us, and we are absolutely destroyed. How much trouble comes upon us from hunger?"
+    },
+    {
+      "start": 410.82,
+      "end": 416.48,
+      "text": "All evil is caused by it. The dove said, In my opinion, evil does"
+    },
+    {
+      "start": 416.48,
+      "end": 422.4,
+      "text": "not arise from hunger, but it all comes from love. If we only lived alone, we should have"
+    },
+    {
+      "start": 422.4,
+      "end": 428.88,
+      "text": "little trouble. Wretchedness shared makes one doubly wretched, and so we always live in pairs."
+    },
+    {
+      "start": 428.88,
+      "end": 433.76,
+      "text": "And if we love our mates, there is no peace for us at all. We are always thinking,"
+    },
+    {
+      "start": 434.48,
+      "end": 441.44,
+      "text": "asterisk, has she had enough to eat? Is she warm? And when our mate is away from us anywhere,"
+    },
+    {
+      "start": 441.44,
+      "end": 448.08,
+      "text": "then we are wholly lost. We cannot help worrying all the time. If only the hawk does not carry"
+    },
+    {
+      "start": 448.08,
+      "end": 454.56,
+      "text": "her off or men make way with her, and we ourselves fly off in pursuit of her, and perhaps find the"
+    },
+    {
+      "start": 454.56,
+      "end": 461.04,
+      "text": "poor thing either in the hawk's claws or in the snare, and if our mate is lost, then there is no"
+    },
+    {
+      "start": 461.04,
+      "end": 468.88,
+      "text": "more comfort for us. We cannot eat, we cannot drink, we can only fly. About and mourn. How many"
+    },
+    {
+      "start": 468.88,
+      "end": 475.36,
+      "text": "Many of us have perished in this way. No. Evil comes not from hunger, but from love.\""
+    },
+    {
+      "start": 475.36,
+      "end": 476.52,
+      "text": "The snake said,"
+    },
+    {
+      "start": 476.52,
+      "end": 484.16,
+      "text": "No. Evil arises neither from hunger nor from love, but from ill temper. If we lived peacefully,"
+    },
+    {
+      "start": 484.16,
+      "end": 489.5,
+      "text": "we should not do so much harm. Everything would be delightful for us. But now, if anything"
+    },
+    {
+      "start": 489.5,
+      "end": 494.82,
+      "text": "is done to us, we fall into a rage, and then there is nothing gentle about us. We only"
+    },
+    {
+      "start": 494.82,
+      "end": 500.32,
+      "text": "We think how we can avenge the wrong on someone. We lose control of ourselves and hiss and"
+    },
+    {
+      "start": 500.32,
+      "end": 506.06,
+      "text": "try to bite someone. We would not have pity on anyone. We would bite our own father and"
+    },
+    {
+      "start": 506.06,
+      "end": 512.34,
+      "text": "mother. It seems as if we could eat our own selves. The moment we begin to lose our temper,"
+    },
+    {
+      "start": 512.34,
+      "end": 520.34,
+      "text": "we are undone. All the evil in the world arises from ill temper. The stag said, No,"
+    },
+    {
+      "start": 520.34,
+      "end": 525.78,
+      "text": "Not from ill-temper, and not from love, and not from hunger, arises all the evil that"
+    },
+    {
+      "start": 525.78,
+      "end": 531.58,
+      "text": "is in the world, but evil arises from fear. If it were possible for us to live without"
+    },
+    {
+      "start": 531.58,
+      "end": 538.26,
+      "text": "fear all would be well with us. We are swift-footed, and have great strength. With our antlers"
+    },
+    {
+      "start": 538.26,
+      "end": 543.74,
+      "text": "we can defend ourselves from little animals, and we can run from the large ones. But it"
+    },
+    {
+      "start": 543.74,
+      "end": 549.78,
+      "text": "is impossible to escape fear. If it is only the twigs creaking in the four east, or"
+    },
+    {
+      "start": 549.78,
+      "end": 555.88,
+      "text": "the leaves rustling, we are all of a tremble with fear, our heartbeats, we instinctively"
+    },
+    {
+      "start": 555.88,
+      "end": 563.8,
+      "text": "start to run and fly with all our might. Another time a hair runs by, or a bird flutters,"
+    },
+    {
+      "start": 563.8,
+      "end": 569.6,
+      "text": "or a dry twig crackles, and we think it is a wild beast, and in running away we really"
+    },
+    {
+      "start": 569.6,
+      "end": 576.16,
+      "text": "run into danger. And again we are running from a dog and we come upon a man. Oftentimes"
+    },
+    {
+      "start": 576.16,
+      "end": 581.52,
+      "text": "we are frightened and start to flee, we don't know wither, and we roll over a precipice and"
+    },
+    {
+      "start": 581.52,
+      "end": 588.64,
+      "text": "perish, and we have to sleep with one eye open, with one ear alert, and we are always in alarm."
+    },
+    {
+      "start": 588.64,
+      "end": 595.04,
+      "text": "There is no peace. All evil comes from fear.\" Then the hermit said,"
+    },
+    {
+      "start": 595.04,
+      "end": 600.48,
+      "text": "Not from hunger, nor from love, nor from ill temper, nor from fear come all our troubles,"
+    },
+    {
+      "start": 600.48,
+      "end": 604.24,
+      "text": "but all the evil that is in the world is due to our different natures."
+    },
+    {
+      "start": 604.24,
+      "end": 612.59,
+      "text": "Hence come hunger and love, ill-temper and fear. 6. The wolf and the huntsman."
+    },
+    {
+      "start": 613.15,
+      "end": 619.63,
+      "text": "A wolf was eating up a sheep. The huntsman discovered him and began to beat him. The wolf said,"
+    },
+    {
+      "start": 619.63,
+      "end": 626.03,
+      "text": "It is not right for you to beat me. It is not my fault that I am a wild beast. God made me so."
+    },
+    {
+      "start": 626.99,
+      "end": 631.87,
+      "text": "But the huntsman replied, We do not beat wolves because they are wild beasts,"
+    },
+    {
+      "start": 631.87,
+      "end": 638.27,
+      "text": "but because they eat the sheep. Seven. Two peasants. Once upon a time,"
+    },
+    {
+      "start": 638.27,
+      "end": 643.71,
+      "text": "two peasants attempted to pass each other, and their sledges became entangled. One cried,"
+    },
+    {
+      "start": 644.35,
+      "end": 650.75,
+      "text": "Give me room. I must get to town as quickly as possible. And the other said, You give me room."
+    },
+    {
+      "start": 650.75,
+      "end": 657.63,
+      "text": "I must get home as quickly as possible. Thus, for a long time, they disputed. A third peasant"
+    },
+    {
+      "start": 657.63,
+      "end": 662.59,
+      "text": "saw it, and said, If you're in such a hurry, then each of you give way a little."
+    },
+    {
+      "start": 664.11,
+      "end": 668.59,
+      "text": "8. The Peasant and the Horse A peasant went to town to get"
+    },
+    {
+      "start": 668.59,
+      "end": 673.87,
+      "text": "oats for his horse. As soon as he got out of the village, the horse wanted to return home."
+    },
+    {
+      "start": 673.87,
+      "end": 679.55,
+      "text": "The peasant lashed the horse with his whip. The horse started up, but in regard to the peasant"
+    },
+    {
+      "start": 679.55,
+      "end": 684.51,
+      "text": "it thought, The fool! Where is he driving me? We should be better off at home."
+    },
+    {
+      "start": 684.51,
+      "end": 690.07,
+      "text": "Before they reached the city, the peasant noticed that the mud made the going hard for"
+    },
+    {
+      "start": 690.07,
+      "end": 695.31,
+      "text": "the horse, so he turned him upon the wood block pavement. But the horse refused to go"
+    },
+    {
+      "start": 695.31,
+      "end": 701.07,
+      "text": "upon the pavement. The peasant lashed the horse again and twitched at the reins. The"
+    },
+    {
+      "start": 701.07,
+      "end": 704.15,
+      "text": "animal turned off upon the pavement and said to himself,"
+    },
+    {
+      "start": 704.15,
+      "end": 709.51,
+      "text": "Why did he turn me off upon the pavement? It only breaks my hooves. It is hard here"
+    },
+    {
+      "start": 709.51,
+      "end": 715.83,
+      "text": "under my feet. The peasant drove up to the shop, bought his oats, and went home. When he reached"
+    },
+    {
+      "start": 715.83,
+      "end": 721.11,
+      "text": "home, he gave the horse the oats. The horse began to eat and said to himself,"
+    },
+    {
+      "start": 721.11,
+      "end": 726.07,
+      "text": "What stupid things men are! They only love to show their mastery over us,"
+    },
+    {
+      "start": 726.07,
+      "end": 731.27,
+      "text": "but their intelligence is less than ours. Why did he take so much trouble today?"
+    },
+    {
+      "start": 731.27,
+      "end": 736.39,
+      "text": "Where did he go and drive me? We had no sooner got there than we returned home."
+    },
+    {
+      "start": 736.39,
+      "end": 740.47,
+      "text": "It would have been better for both of us if we had stayed at home in the first place."
+    },
+    {
+      "start": 740.47,
+      "end": 743.83,
+      "text": "He would have sat on the oven and I should have been eating oats."
+    }
+  ]
+}

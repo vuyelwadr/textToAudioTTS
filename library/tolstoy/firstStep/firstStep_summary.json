@@ -1,0 +1,19 @@
+{
+  "item": {
+    "index": 12,
+    "video_id": "051zFuoPXmQ",
+    "title": "\"First Step\". An Insightful Essay on Compassion by Leo Tolstoy",
+    "duration": 1322,
+    "url": "https://www.youtube.com/watch?v=051zFuoPXmQ",
+    "slug": "firstStep"
+  },
+  "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/firstStep",
+  "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/firstStep/raw_audio/firstStep.webm",
+  "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/firstStep/video_work/firstStep_audio_16k.wav",
+  "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/firstStep/firstStepTranscript.json",
+  "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/firstStep/firstStepTranscript.txt",
+  "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/firstStep/firstStep.txt",
+  "chunks": 21,
+  "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/firstStep/video_work/firstStep_chunk_audio_joined.wav",
+  "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/firstStep/firstStep_neuralsurfer.mp4"
+}

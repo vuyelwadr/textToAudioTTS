@@ -1,0 +1,3533 @@
+{
+  "audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDisgracedOfficer/video_work/theDisgracedOfficer_audio_16k.wav",
+  "model": "small.en",
+  "language": "en",
+  "duration": 3810.742875,
+  "segments": [
+    {
+      "start": 5.23,
+      "end": 35.23,
+      "text": "The Disgraced Officer. Leo Tolstoy's An Old Acquaintance. Our division had been out in the field. The work in hand was accomplished. We had cut away through the forest and each day we were expecting from headquarters orders for our return to the fort. Our division of field pieces was stationed at the top of a steep mountain crest which was terminated by the swift mountain river Machik and had to command the plane that stretched before us. Here and there on this picturesque"
+    },
+    {
+      "start": 35.23,
+      "end": 40.87,
+      "text": "plane, out of the reach of gunshot, now and then, especially at evening, groups of mounted"
+    },
+    {
+      "start": 40.87,
+      "end": 46.79,
+      "text": "mountaineers showed themselves, attracted by curiosity, to ride up and view the Russian"
+    },
+    {
+      "start": 46.79,
+      "end": 53.87,
+      "text": "camp. The evening was clear, mild, and fresh, as it is apt to be in December in the Caucasus."
+    },
+    {
+      "start": 53.87,
+      "end": 58.19,
+      "text": "The sun was setting behind the steep chain of the mountains at the left, and through"
+    },
+    {
+      "start": 58.19,
+      "end": 64.15,
+      "text": "rosy rays upon the tents scattered over the slope, upon the solidars moving about, and"
+    },
+    {
+      "start": 64.15,
+      "end": 69.67,
+      "text": "upon our two guns, which seemed to crane their necks as they rested motionless on the earthwork"
+    },
+    {
+      "start": 69.67,
+      "end": 75.91,
+      "text": "two paces from us. The infantry picket, stationed on the knoll at the left, stood in perfect"
+    },
+    {
+      "start": 75.91,
+      "end": 81.67,
+      "text": "silhouette against the light of the sunset. No less distinct were the stacks of muskets,"
+    },
+    {
+      "start": 81.67,
+      "end": 88.23,
+      "text": "the form of the sentry, the groups of soldiers, and the smoke of the smouldering campfire."
+    },
+    {
+      "start": 88.23,
+      "end": 94.27,
+      "text": "At the right and left of the slope, on the black, sodden earth, the tents gleamed white,"
+    },
+    {
+      "start": 94.27,
+      "end": 99.65,
+      "text": "and behind the tents, black, stood the bare trunks of the plattained forest which rang"
+    },
+    {
+      "start": 99.65,
+      "end": 105.69,
+      "text": "with the incessant sound of axes, the crackling of the bonfires, and the crashing of the trees"
+    },
+    {
+      "start": 105.69,
+      "end": 112.33,
+      "text": "as they fell under the axes. The bluish smoke arose from tobacco pipes on all sides,"
+    },
+    {
+      "start": 112.33,
+      "end": 118.73,
+      "text": "vanished in the transparent blue of the frosty sky. By the tents and on the lower ground around"
+    },
+    {
+      "start": 118.73,
+      "end": 124.25,
+      "text": "the arms rushed the Cossacks, Dragoons and Artillerists with great galloping and snorting"
+    },
+    {
+      "start": 124.25,
+      "end": 130.89,
+      "text": "of horses as they returned from getting water. It began to freeze. All sounds were heard with"
+    },
+    {
+      "start": 130.89,
+      "end": 135.69,
+      "text": "extraordinary distinctness, and one could see an immense distance across the plain through the"
+    },
+    {
+      "start": 135.69,
+      "end": 142.25,
+      "text": "clear, rare atmosphere. The groups of the enemy, their curiosity at seeing the soldiers satisfy"
+    },
+    {
+      "start": 142.25,
+      "end": 148.61,
+      "text": "wide, quietly galloped off across the fields, still yellow with the golden cornstubble,"
+    },
+    {
+      "start": 148.61,
+      "end": 153.93,
+      "text": "toward their owls or villages, which were visible beyond the forest, with the tall posts"
+    },
+    {
+      "start": 153.93,
+      "end": 160.01,
+      "text": "of the cemeteries and the smoke rising in the air. Our tent was pitched not far from"
+    },
+    {
+      "start": 160.01,
+      "end": 166.05,
+      "text": "the guns on a place high and dry, from which we had a remarkably extended view. Near the"
+    },
+    {
+      "start": 166.05,
+      "end": 173.17,
+      "text": "tent, on a cleared space, around the battery itself, we had our games of skittles or chushki."
+    },
+    {
+      "start": 173.17,
+      "end": 178.81,
+      "text": "The obliging soldiers had made for us rustic benches and tables. On account of all these"
+    },
+    {
+      "start": 178.81,
+      "end": 184.25,
+      "text": "amusements, the artillery officers, our comrades, and a few infantrymen liked to gather of"
+    },
+    {
+      "start": 184.25,
+      "end": 189.81,
+      "text": "an evening around our battery, and the place came to be called the Club. As the evening"
+    },
+    {
+      "start": 189.81,
+      "end": 195.61,
+      "text": "was fine, the best players had come, and we were amusing ourselves with skittles."
+    },
+    {
+      "start": 195.61,
+      "end": 201.45,
+      "text": "Vincent D., Lt. O. and myself had played two games in succession, and to the common"
+    },
+    {
+      "start": 201.45,
+      "end": 206.89,
+      "text": "satisfaction and amusement of all the spectators, officers, soldiers, and servants who were"
+    },
+    {
+      "start": 206.89,
+      "end": 211.47,
+      "text": "watching us from their tents, we had twice carried the winning party on our backs from"
+    },
+    {
+      "start": 211.47,
+      "end": 217.17,
+      "text": "one end of the ground to the other. Especially Droll was the situation of the huge, fat"
+    },
+    {
+      "start": 217.17,
+      "end": 224.41,
+      "text": "Captain S., who, puffing and smiling good-naturedly, with legs dragging on the ground, rode piggyback"
+    },
+    {
+      "start": 224.41,
+      "end": 229.97,
+      "text": "on the feeble little Lieutenant O. When it grew somewhat later, the servants brought"
+    },
+    {
+      "start": 229.97,
+      "end": 235.11,
+      "text": "three glasses of tea for the six men of us, and not a spoon, and we who had finished our"
+    },
+    {
+      "start": 235.11,
+      "end": 241.13,
+      "text": "game came to the plated settees. They were standing near them a small bow-legged man,"
+    },
+    {
+      "start": 241.13,
+      "end": 247.41,
+      "text": "a stranger to us, in a sheepskin jacket, and a papaca, or circadian cap, with a long"
+    },
+    {
+      "start": 247.41,
+      "end": 253.53,
+      "text": "overhanging white crown. As soon as we came near where he stood, he took a few irresolute"
+    },
+    {
+      "start": 253.53,
+      "end": 258.09,
+      "text": "steps and put on his cap, and several times he seemed to make up his mind to come to"
+    },
+    {
+      "start": 258.09,
+      "end": 263.53,
+      "text": "meet us and then stopped again. But after deciding, probably, that it was impossible"
+    },
+    {
+      "start": 263.53,
+      "end": 269.53,
+      "text": "to remain irresolute, the stranger took off his cap, and going in a circuit around us,"
+    },
+    {
+      "start": 269.53,
+      "end": 270.37,
+      "text": "approached Captain S."
+    },
+    {
+      "start": 270.37,
+      "end": 277.67,
+      "text": "Ah, Gascantini, how is it, old man? said S, still smiling good-naturedly, under the"
+    },
+    {
+      "start": 277.67,
+      "end": 284.09,
+      "text": "influence of his ride. Guscantini, as S called him, instantly replaced his cap, and made"
+    },
+    {
+      "start": 284.09,
+      "end": 289.31,
+      "text": "a motion as though to thrust his hands into the pockets of his jacket, little half-shoeba,"
+    },
+    {
+      "start": 289.31,
+      "end": 294.91,
+      "text": "or fur cloak. But on the side toward me there was no pocket in the jacket, and his small"
+    },
+    {
+      "start": 294.91,
+      "end": 300.43,
+      "text": "red hand fell into an awkward position. I felt a strong desire to make out who this"
+    },
+    {
+      "start": 300.43,
+      "end": 307.29,
+      "text": "man was, was he a yunker or a degraded officer, and not realising that my gaze, that is,"
+    },
+    {
+      "start": 307.29,
+      "end": 313.29,
+      "text": "gaze of a strange officer disconcerted him, I continued to stare at his dress and appearance."
+    },
+    {
+      "start": 314.01,
+      "end": 320.49,
+      "text": "I judged that he was about thirty. His small round grey eyes had a sleepy expression,"
+    },
+    {
+      "start": 320.49,
+      "end": 325.77,
+      "text": "and at the same time gazed calmly out from under the dirty white lambskin of his cap,"
+    },
+    {
+      "start": 325.77,
+      "end": 331.61,
+      "text": "which hung down over his face. His thick, irregular nose, standing out between his"
+    },
+    {
+      "start": 331.61,
+      "end": 338.75,
+      "text": "His sunken cheeks gave evidence of emaciation that was the result of illness, and not natural."
+    },
+    {
+      "start": 338.75,
+      "end": 345.65,
+      "text": "His restless lips, barely covered by a sparse, soft, whitish mustache, were constantly changing"
+    },
+    {
+      "start": 345.65,
+      "end": 351.99,
+      "text": "their shape as though they were trying to assume now, one expression, now another."
+    },
+    {
+      "start": 351.99,
+      "end": 356.77,
+      "text": "But all these expressions seemed to be endless, and his face retained one predominating"
+    },
+    {
+      "start": 356.77,
+      "end": 360.89,
+      "text": "expression of timidity and fright."
+    },
+    {
+      "start": 360.89,
+      "end": 366.17,
+      "text": "his thin neck, where the veins stood out, was tied a green woollen scarf tucked into"
+    },
+    {
+      "start": 366.17,
+      "end": 373.47,
+      "text": "his jacket, his fur jacket, ex-polushubok, was worn bare, short, and had dog-fur sewed"
+    },
+    {
+      "start": 373.47,
+      "end": 379.81,
+      "text": "on the collar and on the false pockets. The trousers were checkered, of ash-grey colour,"
+    },
+    {
+      "start": 379.81,
+      "end": 383.57,
+      "text": "and his support had short unblacked military bootlegs."
+    },
+    {
+      "start": 383.57,
+      "end": 389.63,
+      "text": "\"'I beg of you, do not disturb yourself,\" said I, when he for the second time, timidly"
+    },
+    {
+      "start": 389.63,
+      "end": 395.95,
+      "text": "glancing at me, had taken off his cap. He bowed to me with an expression of gratitude,"
+    },
+    {
+      "start": 395.95,
+      "end": 401.43,
+      "text": "replaced his hat, and drawing from his pocket a dirty chintz tobacco pouch with lacings,"
+    },
+    {
+      "start": 401.43,
+      "end": 407.83,
+      "text": "began to roll a cigarette. I myself had not been long a yunker, an elderly yunker, and"
+    },
+    {
+      "start": 407.83,
+      "end": 414.19,
+      "text": "As I was incapable, as yet, of being good-naturedly serviceable to my younger comrades, and without"
+    },
+    {
+      "start": 414.19,
+      "end": 420.35,
+      "text": "means, I well knew all the moral difficulties of this situation for a proud man no longer"
+    },
+    {
+      "start": 420.35,
+      "end": 425.55,
+      "text": "young, and I sympathised with all men who found themselves in such a situation, and"
+    },
+    {
+      "start": 425.55,
+      "end": 430.31,
+      "text": "I endeavoured to make clear to myself their character and rank, and the tendencies of"
+    },
+    {
+      "start": 430.31,
+      "end": 436.67,
+      "text": "their intellectual peculiarities in order to judge of the degree of their moral sufferings."
+    },
+    {
+      "start": 436.67,
+      "end": 442.27,
+      "text": "This yunker or degraded officer, judging by his restless eyes, and that intentionally"
+    },
+    {
+      "start": 442.27,
+      "end": 448.35,
+      "text": "constant variation of expression which I noticed in him, was a man very far from stupid and"
+    },
+    {
+      "start": 448.35,
+      "end": 453.23,
+      "text": "extremely egotistical, and therefore much to be pitied."
+    },
+    {
+      "start": 453.23,
+      "end": 458.23,
+      "text": "Captain S. invited us to play another game of Skittles, with the stakes to consist,"
+    },
+    {
+      "start": 458.23,
+      "end": 463.07,
+      "text": "not only of the usual piggyback ride of the winning party, but also of a few bottles"
+    },
+    {
+      "start": 463.07,
+      "end": 470.31,
+      "text": "of red wine, rum, sugar, cinnamon, and cloves for the mulled wine which that winter on account"
+    },
+    {
+      "start": 470.31,
+      "end": 476.87,
+      "text": "of the cold was greatly popular in our division. Guscantini, as S again called him, was also"
+    },
+    {
+      "start": 476.87,
+      "end": 483.27,
+      "text": "invited to take part. But before the game began, the man, struggling between gratification"
+    },
+    {
+      "start": 483.27,
+      "end": 489.27,
+      "text": "because he had been invited and a certain timidity, drew Captain S aside and began to"
+    },
+    {
+      "start": 489.27,
+      "end": 494.71,
+      "text": "say something in a whisper. The good-natured captain punched him in the ribs with his big,"
+    },
+    {
+      "start": 494.71,
+      "end": 498.19,
+      "text": "fat hand, and replied, loud enough to be heard,"
+    },
+    {
+      "start": 498.19,
+      "end": 504.07,
+      "text": "\"'Not at all, old fellow, I assure you.\" When the game was over, and that side in which"
+    },
+    {
+      "start": 504.07,
+      "end": 509.27,
+      "text": "the stranger whose rank was so low had taken part had come out winners, and it fell to"
+    },
+    {
+      "start": 509.27,
+      "end": 515.55,
+      "text": "his lot to ride on one of our officers, Ensign Dee, the Ensign grew red in the face. He"
+    },
+    {
+      "start": 515.55,
+      "end": 520.23,
+      "text": "went to the little divan and offered the stranger a cigarette by way of a compromise. While"
+    },
+    {
+      "start": 520.23,
+      "end": 525.63,
+      "text": "they were ordering the mulled wine, and in the steward's tent were heard assiduous preparations"
+    },
+    {
+      "start": 525.63,
+      "end": 530.99,
+      "text": "on the part of Nikita, who had sent an orderly for cinnamon and cloves, and the shadow of"
+    },
+    {
+      "start": 530.99,
+      "end": 536.17,
+      "text": "his back was alternately lengthening and shortening on the dingy sides of the tent."
+    },
+    {
+      "start": 536.17,
+      "end": 542.11,
+      "text": "We men, seven in all, sat around on the benches, and while we took turns in drinking tea from"
+    },
+    {
+      "start": 542.11,
+      "end": 546.91,
+      "text": "the three glasses, and gazed out over the plane, which was now beginning to glow in"
+    },
+    {
+      "start": 546.91,
+      "end": 552.47,
+      "text": "the twilight, we talked and laughed over the various incidents of the game. The stranger"
+    },
+    {
+      "start": 552.47,
+      "end": 558.51,
+      "text": "in the fur jacket took no share in the conversation, obstinately refused to drink the tea which"
+    },
+    {
+      "start": 558.51,
+      "end": 564.39,
+      "text": "I several times offered him, and as he sat there on the ground in tatar fashion, occupied"
+    },
+    {
+      "start": 564.39,
+      "end": 570.31,
+      "text": "himself in making cigarettes of fine-cut tobacco, and smoking them one after another,"
+    },
+    {
+      "start": 570.31,
+      "end": 575.03,
+      "text": "not so much for his own satisfaction as to give himself the appearance of a man with something"
+    },
+    {
+      "start": 575.03,
+      "end": 580.63,
+      "text": "to do. When it was remarked that the summons to return was expected on the morrow, and that"
+    },
+    {
+      "start": 580.63,
+      "end": 586.47,
+      "text": "there might be an engagement, he lifted himself on his knees, and a dressing captain B only"
+    },
+    {
+      "start": 586.47,
+      "end": 591.03,
+      "text": "said that he had been at the adjutants, and had himself written the order for the return"
+    },
+    {
+      "start": 591.03,
+      "end": 596.23,
+      "text": "on the next day. We all said nothing while he was speaking, and notwithstanding the fact"
+    },
+    {
+      "start": 596.23,
+      "end": 602.55,
+      "text": "that he was so bashful we begged him to repeat this most interesting piece of news. He repeated"
+    },
+    {
+      "start": 602.55,
+      "end": 607.43,
+      "text": "what he had said, adding only that he had been staying at the adjutants, since he made it his"
+    },
+    {
+      "start": 607.43,
+      "end": 612.95,
+      "text": "home there, when the order came. Look here, old fellow, if you are not telling us false,"
+    },
+    {
+      "start": 612.95,
+      "end": 617.35,
+      "text": "I shall have to go to my company and give some orders for tomorrow,\" said Captain S."
+    },
+    {
+      "start": 617.35,
+      "end": 618.35,
+      "text": "S."
+    },
+    {
+      "start": 618.35,
+      "end": 619.35,
+      "text": "No."
+    },
+    {
+      "start": 619.35,
+      "end": 620.35,
+      "text": "Why?"
+    },
+    {
+      "start": 620.35,
+      "end": 626.29,
+      "text": "It may be, I am sure,\" stammered the stranger, but suddenly stopped and apparently feeling"
+    },
+    {
+      "start": 626.29,
+      "end": 631.73,
+      "text": "himself affronted contracted his brows, and muttering something between his teeth again"
+    },
+    {
+      "start": 631.73,
+      "end": 637.07,
+      "text": "began to roll a cigarette, but the fine-cut tobacco in his chintz pouch began to show"
+    },
+    {
+      "start": 637.07,
+      "end": 642.23,
+      "text": "signs of giving out, and he asked S. to lend him a little cigarette."
+    },
+    {
+      "start": 642.23,
+      "end": 647.27,
+      "text": "We kept on for a considerable time with that monotonous military chatter which every one"
+    },
+    {
+      "start": 647.27,
+      "end": 653.87,
+      "text": "who has ever been on an expedition will appreciate, all of us, with one and the same expression,"
+    },
+    {
+      "start": 653.87,
+      "end": 658.31,
+      "text": "complaining of the dullness and length of the expedition, in one and the same fashion"
+    },
+    {
+      "start": 658.31,
+      "end": 663.55,
+      "text": "sitting in judgment on our superiors, and all of us likewise, as we had done many times"
+    },
+    {
+      "start": 663.55,
+      "end": 670.23,
+      "text": "before, praising one comrade, pitying another, wondering how much this one had gained,"
+    },
+    {
+      "start": 670.23,
+      "end": 673.95,
+      "text": "How much that one had lost, and so on, and so on."
+    },
+    {
+      "start": 673.95,
+      "end": 680.51,
+      "text": "Here, fellows, this adjutant of ours is completely broken up, said Captain S. At headquarters"
+    },
+    {
+      "start": 680.51,
+      "end": 685.27,
+      "text": "he was everlastingly on the winning side. No matter whom he sat down with, he'd rake"
+    },
+    {
+      "start": 685.27,
+      "end": 691.13,
+      "text": "in everything. But now, for two months past, he has been losing all the time. The present"
+    },
+    {
+      "start": 691.13,
+      "end": 695.75,
+      "text": "expedition hasn't been lucky for him. I think he has got away with two thousand"
+    },
+    {
+      "start": 695.75,
+      "end": 701.75,
+      "text": "silver rubles and five hundred rubles worth of articles, the carpet that he won at Mukine's,"
+    },
+    {
+      "start": 701.75,
+      "end": 707.35,
+      "text": "nicotine's pistols, Sada's gold watch which Voronsov gave him. He has lost it all."
+    },
+    {
+      "start": 708.39,
+      "end": 711.75,
+      "text": "The truth of the matter in his case, said Lieutenant O,"
+    },
+    {
+      "start": 711.75,
+      "end": 715.35,
+      "text": "was that he used to cheat everybody. It was impossible to play with him."
+    },
+    {
+      "start": 716.15,
+      "end": 723.67,
+      "text": "He cheated everyone, but now it's all gone up in his pipe. And here Captain S laughed good-naturedly."
+    },
+    {
+      "start": 723.67,
+      "end": 728.83,
+      "text": "Our friend Guskoff here lives with him. He hasn't quite lost him yet."
+    },
+    {
+      "start": 728.83,
+      "end": 733.19,
+      "text": "That's so, isn't it, old fellow?\" he asked, addressing Guskoff."
+    },
+    {
+      "start": 733.19,
+      "end": 738.19,
+      "text": "Guskoff tried to laugh. It was a melancholy, sickly laugh,"
+    },
+    {
+      "start": 738.19,
+      "end": 743.23,
+      "text": "which completely changed the expression of his countenance. Till this moment,"
+    },
+    {
+      "start": 743.23,
+      "end": 749.63,
+      "text": "it had seemed to me that I had seen and known this man before, and besides the name Guskoff,"
+    },
+    {
+      "start": 749.63,
+      "end": 754.95,
+      "text": "Guskoff, by which Captain S. called him, was familiar to me. But how, and when I had seen"
+    },
+    {
+      "start": 754.95,
+      "end": 758.05,
+      "text": "and known him, I actually could not remember."
+    },
+    {
+      "start": 758.05,
+      "end": 763.71,
+      "text": "\"'Yes,' said Guskoff, incessantly putting his hand to his mustaches, but instantly dropping"
+    },
+    {
+      "start": 763.71,
+      "end": 770.07,
+      "text": "it again without touching them. Pavel Dmitrievich's luck has been against him in this expedition."
+    },
+    {
+      "start": 770.07,
+      "end": 776.07,
+      "text": "Such a vain de malur,\" he added in a careful but pure French pronunciation, again giving"
+    },
+    {
+      "start": 776.07,
+      "end": 782.11,
+      "text": "me to think that I had seen him, and seen him often somewhere. I know Pavel Dmitrievich"
+    },
+    {
+      "start": 782.11,
+      "end": 787.91,
+      "text": "very well. He has great confidence in me, he proceeded to say. He and I are old friends,"
+    },
+    {
+      "start": 787.91,
+      "end": 793.17,
+      "text": "that is, he is fond of me, he explained, evidently fearing that it might be taken as presumption"
+    },
+    {
+      "start": 793.17,
+      "end": 799.53,
+      "text": "for him to claim old friendship with the adjutant. Pavel Dmitrievich plays admirably,"
+    },
+    {
+      "start": 799.53,
+      "end": 805.63,
+      "text": "but now, strange as it may seem, it's all up with him. He is just about perfectly ruined."
+    },
+    {
+      "start": 805.63,
+      "end": 811.65,
+      "text": "a chance a-torn,\" he added, addressing himself particularly to me. At first we had listened"
+    },
+    {
+      "start": 811.65,
+      "end": 816.57,
+      "text": "to Guskoff with condescending attention, but as soon as he made use of that second French"
+    },
+    {
+      "start": 816.57,
+      "end": 822.97,
+      "text": "phrase we all involuntarily turned from him. I have played with him a thousand times, and"
+    },
+    {
+      "start": 822.97,
+      "end": 828.29,
+      "text": "we agreed then that it was strange, said Lieutenant O, with peculiar emphasis on the"
+    },
+    {
+      "start": 828.29,
+      "end": 835.41,
+      "text": "word strange. I never once won a ruble from him. Why was it, when I used to win of others?"
+    },
+    {
+      "start": 835.41,
+      "end": 842.55,
+      "text": "Pavel Dmitrievich plays admirably. I have known him for a long time, said I. In fact,"
+    },
+    {
+      "start": 842.55,
+      "end": 847.35,
+      "text": "I had known the adjutant for several years. More than once I had seen him in the full"
+    },
+    {
+      "start": 847.35,
+      "end": 853.35,
+      "text": "swing of a game, surrounded by officers, and I had remarked his handsome, rather gloomy"
+    },
+    {
+      "start": 853.35,
+      "end": 859.71,
+      "text": "and always passionless, calm face, his deliberate, mallow Russian pronunciation, his handsome"
+    },
+    {
+      "start": 859.71,
+      "end": 866.01,
+      "text": "belongings and horses, his bold, manly figure, and above all his skill and self-restraint"
+    },
+    {
+      "start": 866.01,
+      "end": 872.81,
+      "text": "in carrying on the game accurately and agreeably. More than once, I am sorry to say, as I looked"
+    },
+    {
+      "start": 872.81,
+      "end": 878.15,
+      "text": "at his plump white hands with a diamond ring on the index finger, passing out one card"
+    },
+    {
+      "start": 878.15,
+      "end": 883.63,
+      "text": "after another, I grew angry with that ring, with his white hands, with the whole of the"
+    },
+    {
+      "start": 883.63,
+      "end": 889.75,
+      "text": "adjutant's person, and evil thoughts on his account arose in my mind. But as I afterwards"
+    },
+    {
+      "start": 889.75,
+      "end": 895.11,
+      "text": "reconsidered the matter coolly, I persuaded myself that he played more skilfully than"
+    },
+    {
+      "start": 895.11,
+      "end": 900.67,
+      "text": "all with whom he happened to play. The more so, because as I heard his general observations"
+    },
+    {
+      "start": 900.67,
+      "end": 906.47,
+      "text": "concerning the game, how one ought not to back out when one had laid the smallest stake,"
+    },
+    {
+      "start": 906.47,
+      "end": 910.81,
+      "text": "how one ought not to leave off in certain cases as the first rule for honest men and"
+    },
+    {
+      "start": 910.81,
+      "end": 916.21,
+      "text": "so forth and so forth, it was evident that he was always on the winning side, merely"
+    },
+    {
+      "start": 916.21,
+      "end": 922.25,
+      "text": "from the fact that he played more sagaciously and coolly than the rest of us. And now it"
+    },
+    {
+      "start": 922.25,
+      "end": 928.01,
+      "text": "seemed that this self-reliant, careful player had been stripped not only of his money, but"
+    },
+    {
+      "start": 928.01,
+      "end": 932.45,
+      "text": "of his effect, which marks the lowest depths of loss for an officer."
+    },
+    {
+      "start": 932.45,
+      "end": 938.03,
+      "text": "He always had devilish good luck with me, said Lieutenant O. I made a vow never to play"
+    },
+    {
+      "start": 938.03,
+      "end": 939.03,
+      "text": "with him again.\""
+    },
+    {
+      "start": 939.03,
+      "end": 945.15,
+      "text": "\"'What a marvel you are, old fellow,\" said S, nodding at me, and addressing O."
+    },
+    {
+      "start": 945.15,
+      "end": 949.67,
+      "text": "\"'You lost three hundred silver rubles. That's what you lost to him.'\""
+    },
+    {
+      "start": 949.67,
+      "end": 952.39,
+      "text": "\"'More than that,' said the lieutenant savagely."
+    },
+    {
+      "start": 952.39,
+      "end": 958.03,
+      "text": "\"'And now you have come to your senses. It is rather late in the day, old man, for"
+    },
+    {
+      "start": 958.03,
+      "end": 962.19,
+      "text": "the rest of us have known for a long time that he was the cheat of the regiment,'"
+    },
+    {
+      "start": 962.19,
+      "end": 966.83,
+      "text": "said S, with difficulty restraining his laughter and feeling very well satisfied with"
+    },
+    {
+      "start": 966.83,
+      "end": 973.43,
+      "text": "his fabrication. Here is Guskoff, right here. He fixes his cards for him. That's the reason"
+    },
+    {
+      "start": 973.43,
+      "end": 979.31,
+      "text": "of the friendship between the mould man. And Captain S., shaking all over, burst out into"
+    },
+    {
+      "start": 979.31,
+      "end": 985.75,
+      "text": "such a hearty, ha, ha, ha! that he spilled the glass of mould wine which he was holding"
+    },
+    {
+      "start": 985.75,
+      "end": 992.63,
+      "text": "in his hand. On Guskoff's pale, emaciated face there showed something like a colour."
+    },
+    {
+      "start": 992.63,
+      "end": 997.47,
+      "text": "He opened his mouth several times, raised his hands to his mustaches, and once more"
+    },
+    {
+      "start": 997.47,
+      "end": 1002.67,
+      "text": "dropped them to his side where the pockets should have been, stood up, and then sat down"
+    },
+    {
+      "start": 1002.67,
+      "end": 1006.03,
+      "text": "again, and finally in an unnatural voice said to S."
+    },
+    {
+      "start": 1006.03,
+      "end": 1012.19,
+      "text": "It's no joke, Nikolai Ivanovich, for you to say such things before people who don't"
+    },
+    {
+      "start": 1012.19,
+      "end": 1016.71,
+      "text": "know me and who see me in this unlined jacket, because . . ."
+    },
+    {
+      "start": 1016.71,
+      "end": 1022.39,
+      "text": "His voice failed him, and again, his small red hands with their dirty nails went from"
+    },
+    {
+      "start": 1022.39,
+      "end": 1029.31,
+      "text": "his jacket to his face, touching his moustache, his hair, his nose, rubbing his eyes, or needlessly"
+    },
+    {
+      "start": 1029.31,
+      "end": 1030.99,
+      "text": "scratching his cheek."
+    },
+    {
+      "start": 1030.99,
+      "end": 1037.51,
+      "text": "\"'As to saying that, everybody knows it, old fellow,' continued S, thoroughly satisfied"
+    },
+    {
+      "start": 1037.51,
+      "end": 1041.67,
+      "text": "with his jest and not heeding Guskoff's complaint."
+    },
+    {
+      "start": 1041.67,
+      "end": 1046.25,
+      "text": "Guskoff was still trying to say something, and placing the palm of his right hand on"
+    },
+    {
+      "start": 1046.25,
+      "end": 1052.57,
+      "text": "his left knee in a most unnatural position, and gazing at S, he had an appearance of smiling"
+    },
+    {
+      "start": 1052.57,
+      "end": 1053.57,
+      "text": "contemptuously."
+    },
+    {
+      "start": 1053.57,
+      "end": 1060.69,
+      "text": "\"'No,' said I to myself, as I noticed that smile of his. I have not only seen him,"
+    },
+    {
+      "start": 1060.69,
+      "end": 1062.61,
+      "text": "but have spoken with him somewhere.\""
+    },
+    {
+      "start": 1062.61,
+      "end": 1067.81,
+      "text": "\"'You and I have met somewhere,' said I to him, when, under the influence of the"
+    },
+    {
+      "start": 1067.81,
+      "end": 1073.89,
+      "text": "common silence, S's laughter began to calm down. Guskoff's mobile face suddenly"
+    },
+    {
+      "start": 1073.89,
+      "end": 1079.73,
+      "text": "lighted up, and his eyes, for the first time with a truly joyous expression, rested upon"
+    },
+    {
+      "start": 1079.73,
+      "end": 1080.73,
+      "text": "me."
+    },
+    {
+      "start": 1080.73,
+      "end": 1087.35,
+      "text": "Why, I recognised you immediately, he replied in French. In 48 I had the pleasure of meeting"
+    },
+    {
+      "start": 1087.35,
+      "end": 1093.03,
+      "text": "you quite frequently in Moscow at my sister's. I had to apologise for not recognising him"
+    },
+    {
+      "start": 1093.03,
+      "end": 1099.21,
+      "text": "at first in that costume and in that new garb. He arose, came to me, and with his"
+    },
+    {
+      "start": 1099.21,
+      "end": 1105.77,
+      "text": "His moist hand, irresolutely and weakly, seized my hand and sat down by me."
+    },
+    {
+      "start": 1105.77,
+      "end": 1110.41,
+      "text": "Instead of looking at me, though he apparently seemed so glad to see me, he gazed with an"
+    },
+    {
+      "start": 1110.41,
+      "end": 1116.13,
+      "text": "expression of unfriendly bravado at the officers, either because I recognised in him a man whom"
+    },
+    {
+      "start": 1116.13,
+      "end": 1121.13,
+      "text": "I had met a few years before in a dress-coat in a parlour, or because he was suddenly raised"
+    },
+    {
+      "start": 1121.13,
+      "end": 1124.65,
+      "text": "in his own opinion by the fact of being recognised."
+    },
+    {
+      "start": 1124.65,
+      "end": 1130.05,
+      "text": "At all events it seemed to me that his face, and even his motions, completely changed."
+    },
+    {
+      "start": 1130.05,
+      "end": 1135.27,
+      "text": "They now expressed lively intelligence, a childish self-satisfaction in the consciousness"
+    },
+    {
+      "start": 1135.27,
+      "end": 1139.43,
+      "text": "of such intelligence, and a certain contemptuous indifference."
+    },
+    {
+      "start": 1139.43,
+      "end": 1144.47,
+      "text": "So that I confess, notwithstanding the pitiable position in which he found himself, my old"
+    },
+    {
+      "start": 1144.47,
+      "end": 1150.59,
+      "text": "acquaintance did not so much excite sympathy in me as it did a sort of unfavourable sentiment."
+    },
+    {
+      "start": 1150.59,
+      "end": 1153.87,
+      "text": "I now vividly remembered our first meeting."
+    },
+    {
+      "start": 1153.87,
+      "end": 1159.51,
+      "text": "In 1848, while I was staying at Moscow, I frequently went to the house of Ivachin, who"
+    },
+    {
+      "start": 1159.51,
+      "end": 1164.99,
+      "text": "from childhood had been an old friend of mine. His wife was an agreeable hostess, a charming"
+    },
+    {
+      "start": 1164.99,
+      "end": 1171.23,
+      "text": "woman as everybody said, but she never pleased me. The winter that I knew her, she often"
+    },
+    {
+      "start": 1171.23,
+      "end": 1177.07,
+      "text": "spoke with hardly concealed pride of her brother, who had shortly before completed his course,"
+    },
+    {
+      "start": 1177.07,
+      "end": 1181.83,
+      "text": "and promised to be one of the most fashionable and popular young men in the best society"
+    },
+    {
+      "start": 1181.83,
+      "end": 1188.55,
+      "text": "of Petersburg. As I knew by reputation the father of the Guskovs, who was very rich and"
+    },
+    {
+      "start": 1188.55,
+      "end": 1194.07,
+      "text": "had a distinguished position, and as I knew also the sisters' ways, I felt some prejudice"
+    },
+    {
+      "start": 1194.07,
+      "end": 1200.23,
+      "text": "against meeting the young man. One evening, when I was at Ivashins, I saw a short, thoroughly"
+    },
+    {
+      "start": 1200.23,
+      "end": 1206.15,
+      "text": "pleasant-looking young man, in a black coat, white vest, and neck-tie. My host hastened"
+    },
+    {
+      "start": 1206.15,
+      "end": 1210.91,
+      "text": "to make me acquainted with him. The young man, evidently dressed for a ball, with his"
+    },
+    {
+      "start": 1210.91,
+      "end": 1216.85,
+      "text": "cap in his hand, was standing before Avashin, and was eagerly but politely arguing with him"
+    },
+    {
+      "start": 1216.85,
+      "end": 1223.37,
+      "text": "about a common friend of ours, who had distinguished himself at the time of the Hungarian campaign."
+    },
+    {
+      "start": 1223.37,
+      "end": 1228.61,
+      "text": "He said that this acquaintance was not at all a hero or a man born for war, as was said"
+    },
+    {
+      "start": 1228.61,
+      "end": 1235.19,
+      "text": "of him, but was simply a clever and cultivated man. I recollect, I took part in the argument"
+    },
+    {
+      "start": 1235.19,
+      "end": 1240.55,
+      "text": "against Guskoff, and went to the extreme of declaring also that intellect and cultivation"
+    },
+    {
+      "start": 1240.55,
+      "end": 1246.39,
+      "text": "always bore an inverse relation to bravery. And I recollect how Guskoff pleasantly and"
+    },
+    {
+      "start": 1246.39,
+      "end": 1251.59,
+      "text": "cleverly pointed out to me that bravery was necessarily the result of intellect and a"
+    },
+    {
+      "start": 1251.59,
+      "end": 1257.55,
+      "text": "decided degree of development, a statement which I, who considered myself an intellectual"
+    },
+    {
+      "start": 1257.55,
+      "end": 1264.03,
+      "text": "and cultivated man, could not in my heart of hearts agree with. I recollect that towards"
+    },
+    {
+      "start": 1264.03,
+      "end": 1269.83,
+      "text": "the close of our conversation Madame Ivashina introduced me to her brother, and he, with"
+    },
+    {
+      "start": 1269.83,
+      "end": 1274.97,
+      "text": "a condescending smile, offered me his little hand, on which he had not yet had time to"
+    },
+    {
+      "start": 1274.97,
+      "end": 1281.47,
+      "text": "draw his kid gloves, and weakly and irresolutely pressed my hand as he did now. Though I had"
+    },
+    {
+      "start": 1281.47,
+      "end": 1286.27,
+      "text": "been prejudiced against Guskoff, I could not help granting that he was in the right,"
+    },
+    {
+      "start": 1286.27,
+      "end": 1291.19,
+      "text": "and agreeing with his sister that he was really a clever and agreeable young man who ought"
+    },
+    {
+      "start": 1291.19,
+      "end": 1298.03,
+      "text": "to have great success in society. He was extraordinarily neat, beautifully dressed, and fresh, and"
+    },
+    {
+      "start": 1298.03,
+      "end": 1303.83,
+      "text": "had effectively modest manners, and a thoroughly youthful, almost childish appearance, on account"
+    },
+    {
+      "start": 1303.83,
+      "end": 1308.31,
+      "text": "of which you could not help excusing his expression of self-sufficiency, though it"
+    },
+    {
+      "start": 1308.31,
+      "end": 1313.67,
+      "text": "modified the impression of his high mightiness caused by his intellectual face, and especially"
+    },
+    {
+      "start": 1313.67,
+      "end": 1319.43,
+      "text": "his smile. It is said that he had great success that winter with the high-born ladies"
+    },
+    {
+      "start": 1319.43,
+      "end": 1325.39,
+      "text": "of Moscow. As I saw him at his sister's, I could only infer how far this was true"
+    },
+    {
+      "start": 1325.39,
+      "end": 1331.47,
+      "text": "by the feeling of pleasure and contentment constantly excited in me by his youthful appearance"
+    },
+    {
+      "start": 1331.47,
+      "end": 1338.31,
+      "text": "and by his sometimes indiscreet anecdotes. He and I met half a dozen times and talked"
+    },
+    {
+      "start": 1338.31,
+      "end": 1344.35,
+      "text": "a good deal, or rather, he talked a good deal, and I listened. He spoke for the most"
+    },
+    {
+      "start": 1344.35,
+      "end": 1349.63,
+      "text": "part in French, always with a good accent, very fluently and ornately, and he had the"
+    },
+    {
+      "start": 1349.63,
+      "end": 1355.35,
+      "text": "skill of drawing others gently and politely into the conversation. As a general thing,"
+    },
+    {
+      "start": 1355.35,
+      "end": 1361.75,
+      "text": "he behaved toward all and toward me in a somewhat supercilious manner, and I felt that"
+    },
+    {
+      "start": 1361.75,
+      "end": 1366.81,
+      "text": "he was perfectly right in this way of treating people. I always feel that way in regard"
+    },
+    {
+      "start": 1366.81,
+      "end": 1371.07,
+      "text": "to men who are firmly convinced that they ought to treat me superciliously and who"
+    },
+    {
+      "start": 1371.07,
+      "end": 1377.71,
+      "text": "are comparative strangers to me. Now, as he sat with me, and gave me his hand, I keenly"
+    },
+    {
+      "start": 1377.71,
+      "end": 1382.91,
+      "text": "recalled in him that same old haughtiness of expression, and it seemed to me that he"
+    },
+    {
+      "start": 1382.91,
+      "end": 1388.55,
+      "text": "did not properly appreciate his position of official inferiority, as, in the presence"
+    },
+    {
+      "start": 1388.55,
+      "end": 1393.23,
+      "text": "of the officers, he asked me what I had been doing in all that time, and how I happened"
+    },
+    {
+      "start": 1393.23,
+      "end": 1398.87,
+      "text": "to be there. In spite of the fact that I invariably made my replies in Russian, he"
+    },
+    {
+      "start": 1398.87,
+      "end": 1405.69,
+      "text": "He kept putting his questions in French, expressing himself as before in remarkably correct language."
+    },
+    {
+      "start": 1405.69,
+      "end": 1411.03,
+      "text": "About himself he said fluently that after his unhappy wretched story, what the story"
+    },
+    {
+      "start": 1411.03,
+      "end": 1416.83,
+      "text": "was I did not know and he had not yet told me, he had been three months under arrest,"
+    },
+    {
+      "start": 1416.83,
+      "end": 1420.87,
+      "text": "and then had been sent to the Caucasus to the end regiment, and now had been serving"
+    },
+    {
+      "start": 1420.87,
+      "end": 1423.75,
+      "text": "three years as a soldier in that regiment."
+    },
+    {
+      "start": 1423.75,
+      "end": 1429.29,
+      "text": "You would not believe, said he to me in French, how much I have to suffer in these regiments"
+    },
+    {
+      "start": 1429.29,
+      "end": 1434.41,
+      "text": "from the society of the officers. Still, it is a pleasure to me that I used to know the"
+    },
+    {
+      "start": 1434.41,
+      "end": 1439.55,
+      "text": "adjutant of whom we were just speaking. He is a good man. It's a fact,\" he remarked"
+    },
+    {
+      "start": 1439.55,
+      "end": 1440.55,
+      "text": "condescendingly."
+    },
+    {
+      "start": 1440.55,
+      "end": 1446.93,
+      "text": "I live with him, and that's something of a relief for me. Yes, my dear, the days fly"
+    },
+    {
+      "start": 1446.93,
+      "end": 1452.93,
+      "text": "by, but they aren't all alike,\" he added, and suddenly hesitated, reddened, and stood"
+    },
+    {
+      "start": 1452.93,
+      "end": 1456.93,
+      "text": "up as he caught sight of the adjutant himself coming toward us."
+    },
+    {
+      "start": 1456.93,
+      "end": 1462.41,
+      "text": "It is such a pleasure to meet such a man as you, said Guskoff to me in a whisper as he"
+    },
+    {
+      "start": 1462.41,
+      "end": 1468.69,
+      "text": "turned from me. I should like very, very much to have a long talk with you. I said that"
+    },
+    {
+      "start": 1468.69,
+      "end": 1474.19,
+      "text": "I should be very happy to talk with him, but in reality I confess that Guskoff excited"
+    },
+    {
+      "start": 1474.19,
+      "end": 1480.21,
+      "text": "in me a sort of dull pity that was not akin to sympathy. I had a presentiment that I should"
+    },
+    {
+      "start": 1480.21,
+      "end": 1485.37,
+      "text": "feel a constraint in a private conversation with him, but still I was anxious to learn"
+    },
+    {
+      "start": 1485.37,
+      "end": 1491.21,
+      "text": "from him several things, and above all why it was, when his father had been so rich,"
+    },
+    {
+      "start": 1491.21,
+      "end": 1496.89,
+      "text": "that he was in poverty, as was evident by his dress and appearance. The adjutant greeted"
+    },
+    {
+      "start": 1496.89,
+      "end": 1502.01,
+      "text": "us all, including Guskoff, and sat down by me in the seat which the cashierd officer"
+    },
+    {
+      "start": 1502.01,
+      "end": 1508.25,
+      "text": "had just vacated. Pavel Dmitrievich, who had always been calm and leisurely, a genuine"
+    },
+    {
+      "start": 1508.25,
+      "end": 1513.25,
+      "text": "gambler, and a man of means, was now very different from what he had been in the flowery"
+    },
+    {
+      "start": 1513.25,
+      "end": 1519.25,
+      "text": "days of his success. He seemed to be in haste to go somewhere, kept constantly glancing at"
+    },
+    {
+      "start": 1519.25,
+      "end": 1523.97,
+      "text": "everybody, and it was not five minutes before he proposed to Lieutenant O. who had sworn"
+    },
+    {
+      "start": 1523.97,
+      "end": 1530.61,
+      "text": "off from playing to set up a small faro bank. Lieutenant O. refused, under the pretext"
+    },
+    {
+      "start": 1530.61,
+      "end": 1535.77,
+      "text": "of having to attend to his duties, but in reality because, as he knew that the adjutant"
+    },
+    {
+      "start": 1535.77,
+      "end": 1541.69,
+      "text": "had few possessions and little money left, he did not feel himself justified in risking"
+    },
+    {
+      "start": 1541.69,
+      "end": 1547.13,
+      "text": "his three hundred roubles against a hundred or even less which the adjutant might stake."
+    },
+    {
+      "start": 1547.13,
+      "end": 1552.37,
+      "text": "\"'Well,' Pavel Dmitrievich,\" said the lieutenant, anxious to avoid a repetition"
+    },
+    {
+      "start": 1552.37,
+      "end": 1557.69,
+      "text": "of the invitation, \"'is it true, what they tell us, that we return to-morrow?'"
+    },
+    {
+      "start": 1557.69,
+      "end": 1563.33,
+      "text": "\"'I don't know,' replied the adjutant. Orders came to be in readiness. But if it's"
+    },
+    {
+      "start": 1563.33,
+      "end": 1568.33,
+      "text": "true, then you'd better play a game. I would wager my cabarder cloak.\""
+    },
+    {
+      "start": 1568.33,
+      "end": 1570.45,
+      "text": "No, to-day already."
+    },
+    {
+      "start": 1570.45,
+      "end": 1577.01,
+      "text": "It's a gray one, never been worn. But if you prefer, play for money. How is that?\""
+    },
+    {
+      "start": 1577.01,
+      "end": 1582.97,
+      "text": "Yes, but I should be willing. Pray don't think that,\" said Lieutenant O, answering"
+    },
+    {
+      "start": 1582.97,
+      "end": 1588.49,
+      "text": "the implied suspicion. But as there may be a raid or some movement, I must go to bed"
+    },
+    {
+      "start": 1588.49,
+      "end": 1590.21,
+      "text": "early."
+    },
+    {
+      "start": 1590.21,
+      "end": 1595.37,
+      "text": "The adjutant stood up, and thrusting his hands into his pockets, started to go across the"
+    },
+    {
+      "start": 1595.37,
+      "end": 1601.25,
+      "text": "grounds. His face assumed its ordinary expression of coldness and pride, which I admired in"
+    },
+    {
+      "start": 1601.25,
+      "end": 1602.25,
+      "text": "him."
+    },
+    {
+      "start": 1602.25,
+      "end": 1605.57,
+      "text": "\"'Won't you have a glass of mulled wine?\" I asked him."
+    },
+    {
+      "start": 1605.57,
+      "end": 1610.13,
+      "text": "\"'That might be acceptable,' and he came back to me, but Guskoff politely took the"
+    },
+    {
+      "start": 1610.13,
+      "end": 1615.05,
+      "text": "glass from me and handed it to the adjutant, striving at the same time not to look at"
+    },
+    {
+      "start": 1615.05,
+      "end": 1620.17,
+      "text": "him. But as he did not notice the tent-rope, he stumbled over it, and fell on his head"
+    },
+    {
+      "start": 1620.17,
+      "end": 1622.13,
+      "text": "hand, dropping the glass."
+    },
+    {
+      "start": 1622.13,
+      "end": 1628.77,
+      "text": "\"'What a bungler!' exclaimed the adjutant, still holding out his hand for the glass."
+    },
+    {
+      "start": 1628.77,
+      "end": 1633.85,
+      "text": "Everybody burst out laughing, not accepting Guskoff, who was rubbing his hand on his sore"
+    },
+    {
+      "start": 1633.85,
+      "end": 1637.05,
+      "text": "knee, which he had somehow struck as he fell."
+    },
+    {
+      "start": 1637.05,
+      "end": 1640.97,
+      "text": "\"'That's the way the bear waited on the hermit,' continued the adjutant."
+    },
+    {
+      "start": 1640.97,
+      "end": 1645.85,
+      "text": "\"'It's the way he waits on me every day. He has pulled up all the tent-pins. He's"
+    },
+    {
+      "start": 1645.85,
+      "end": 1647.33,
+      "text": "always tripping up.'"
+    },
+    {
+      "start": 1647.33,
+      "end": 1653.29,
+      "text": "Guskoff, not hearing him, apologized to us, and glanced toward me with a smile of almost"
+    },
+    {
+      "start": 1653.29,
+      "end": 1658.97,
+      "text": "noticeable melancholy, as though saying that I alone could understand him. He was pitiable"
+    },
+    {
+      "start": 1658.97,
+      "end": 1664.57,
+      "text": "to see, but the adjutant, his protector, seemed on that very account to be severe on"
+    },
+    {
+      "start": 1664.57,
+      "end": 1667.81,
+      "text": "his mess-mate, and did not try to put him at his ease."
+    },
+    {
+      "start": 1667.81,
+      "end": 1672.05,
+      "text": "\"'Well, you're a graceful lad. Where did you think you were going?\""
+    },
+    {
+      "start": 1672.05,
+      "end": 1677.57,
+      "text": "Well, who can help tripping over these pins, Pavel Dmitrievich, said Guskov."
+    },
+    {
+      "start": 1677.57,
+      "end": 1680.17,
+      "text": "You tripped over them yourself the other day.\""
+    },
+    {
+      "start": 1680.17,
+      "end": 1687.41,
+      "text": "I, old man, I am not of the rank and file, and such gracefulness is not expected of me."
+    },
+    {
+      "start": 1687.41,
+      "end": 1693.11,
+      "text": "He can be lazy, said Captain S., keeping the ball rolling, but low rank men have to make"
+    },
+    {
+      "start": 1693.11,
+      "end": 1694.85,
+      "text": "their legs fly."
+    },
+    {
+      "start": 1694.85,
+      "end": 1701.83,
+      "text": "Ill-timed jest, said Guskoff, almost in a whisper, and casting down his eyes."
+    },
+    {
+      "start": 1701.83,
+      "end": 1706.61,
+      "text": "The adjutant was evidently vexed with his messmate. He listened with inquisitive attention"
+    },
+    {
+      "start": 1706.61,
+      "end": 1708.61,
+      "text": "to every word that he said."
+    },
+    {
+      "start": 1708.61,
+      "end": 1713.91,
+      "text": "He'll have to be sent out into ambiscade again, said he, addressing S and pointing"
+    },
+    {
+      "start": 1713.91,
+      "end": 1715.61,
+      "text": "to the cashierd officer."
+    },
+    {
+      "start": 1715.61,
+      "end": 1720.13,
+      "text": "Well, there'll be some more tears, said S, laughing."
+    },
+    {
+      "start": 1720.13,
+      "end": 1724.45,
+      "text": "Guskoff no longer looked at me, but acted as though he were going to take some tobacco from"
+    },
+    {
+      "start": 1724.45,
+      "end": 1728.09,
+      "text": "his pouch, though there had been none there for some time."
+    },
+    {
+      "start": 1728.09,
+      "end": 1733.65,
+      "text": "\"'Get ready for the ambiscade, old man,' said S, addressing him with shouts of laughter."
+    },
+    {
+      "start": 1733.65,
+      "end": 1738.71,
+      "text": "\"'Today, the scouts have brought the news. They'll be an attack on the camp tonight,"
+    },
+    {
+      "start": 1738.71,
+      "end": 1743.21,
+      "text": "so it's necessary to designate the trusty lads.'\""
+    },
+    {
+      "start": 1743.21,
+      "end": 1748.09,
+      "text": "Guskoff's face showed a fleeting smile as though he were preparing to make some reply,"
+    },
+    {
+      "start": 1748.09,
+      "end": 1750.85,
+      "text": "At several times he cast a supplicating look at S."
+    },
+    {
+      "start": 1750.85,
+      "end": 1751.85,
+      "text": "S."
+    },
+    {
+      "start": 1751.85,
+      "end": 1757.97,
+      "text": "Well, you know I have been, and I'm ready to go again if I am sent, he said hastily."
+    },
+    {
+      "start": 1757.97,
+      "end": 1758.97,
+      "text": "Then you'll be sent."
+    },
+    {
+      "start": 1758.97,
+      "end": 1762.33,
+      "text": "S. Well, I'll go. Isn't that all right?"
+    },
+    {
+      "start": 1762.33,
+      "end": 1768.89,
+      "text": "S. Yes, as at Arguna, you deserted the ambiscade and threw away your gun, said the adjutant,"
+    },
+    {
+      "start": 1768.89,
+      "end": 1773.39,
+      "text": "and turning from him he began to tell us the orders for the next day. As a matter"
+    },
+    {
+      "start": 1773.39,
+      "end": 1778.65,
+      "text": "of fact, we expected from the enemy a cannonade of the camp that night, and the next day some"
+    },
+    {
+      "start": 1778.65,
+      "end": 1784.59,
+      "text": "sort of diversion. While we were still chatting about various subjects of general interest,"
+    },
+    {
+      "start": 1784.59,
+      "end": 1789.79,
+      "text": "the adjutant, as though from a sudden and unexpected impulse, proposed to Lieutenant"
+    },
+    {
+      "start": 1789.79,
+      "end": 1795.83,
+      "text": "O to have a little game. The lieutenant most unexpectedly consented, and, together"
+    },
+    {
+      "start": 1795.83,
+      "end": 1800.57,
+      "text": "with S and the ensign, they went off to the adjutant's tent, where there was a folding"
+    },
+    {
+      "start": 1800.57,
+      "end": 1806.43,
+      "text": "green table with cards on it. The captain, the commander of our division, went to our"
+    },
+    {
+      "start": 1806.43,
+      "end": 1813.29,
+      "text": "tent to sleep. The other gentlemen also separated, and Guskoff and I were left alone. I was"
+    },
+    {
+      "start": 1813.29,
+      "end": 1818.99,
+      "text": "not mistaken. It was really very uncomfortable for me to have a tater-tat with him. I arose"
+    },
+    {
+      "start": 1818.99,
+      "end": 1825.39,
+      "text": "involuntarily and began to promenade up and down on the battery. Guskoff walked in silence"
+    },
+    {
+      "start": 1825.39,
+      "end": 1830.99,
+      "text": "by my side, hastily and awkwardly wheeling around so as not to delay or incommode me."
+    },
+    {
+      "start": 1830.99,
+      "end": 1837.59,
+      "text": "I do not annoy you, he asked in a soft, mournful voice. So far as I could see his face in"
+    },
+    {
+      "start": 1837.59,
+      "end": 1841.63,
+      "text": "the dim light, it seemed to me deeply thoughtful and melancholy."
+    },
+    {
+      "start": 1841.63,
+      "end": 1848.55,
+      "text": "Not at all, I replied. But as he did not immediately begin to speak, and as I did not know what"
+    },
+    {
+      "start": 1848.55,
+      "end": 1853.99,
+      "text": "to say to him, we walked in silence a considerably long time."
+    },
+    {
+      "start": 1853.99,
+      "end": 1859.61,
+      "text": "The twilight had now absolutely changed into dark night, over the black profile of the"
+    },
+    {
+      "start": 1859.61,
+      "end": 1865.95,
+      "text": "mountains gleamed the bright evening heat-lightening. Over our heads in the light-blue frosty sky"
+    },
+    {
+      "start": 1865.95,
+      "end": 1872.65,
+      "text": "twinkled the little stars. On all sides gleamed the ruddy flames of the smoking watch-fires."
+    },
+    {
+      "start": 1872.65,
+      "end": 1878.77,
+      "text": "Near us, the white tents stood out in contrast to the frowning blackness of our earthworks."
+    },
+    {
+      "start": 1878.77,
+      "end": 1884.73,
+      "text": "The light from the nearest watchfire, around which our servants engaged in quiet conversation,"
+    },
+    {
+      "start": 1884.73,
+      "end": 1890.17,
+      "text": "were warming themselves, occasionally flashed on the brass of our heavy guns, and fell on"
+    },
+    {
+      "start": 1890.17,
+      "end": 1895.49,
+      "text": "the form of the sentry, who, wrapped in his cloak, paced with measured tread along the"
+    },
+    {
+      "start": 1895.49,
+      "end": 1896.49,
+      "text": "battery."
+    },
+    {
+      "start": 1896.49,
+      "end": 1900.97,
+      "text": "\"'You cannot imagine what a delight it is for me to talk with such a man as you"
+    },
+    {
+      "start": 1900.97,
+      "end": 1907.05,
+      "text": "are,' said Guskoff, although as yet he had not spoken a word to me. Only one who"
+    },
+    {
+      "start": 1907.05,
+      "end": 1912.89,
+      "text": "had been in my position could appreciate it. I did not know how to reply to him, and we"
+    },
+    {
+      "start": 1912.89,
+      "end": 1917.97,
+      "text": "again relapsed into silence, although it was evident that he was anxious to talk and have"
+    },
+    {
+      "start": 1917.97,
+      "end": 1919.41,
+      "text": "me listen to him."
+    },
+    {
+      "start": 1919.41,
+      "end": 1925.81,
+      "text": "\"'Why were you\u2014why did you suffer this?\" I inquired at last, not being able to invent"
+    },
+    {
+      "start": 1925.81,
+      "end": 1927.93,
+      "text": "any better way of breaking the ice."
+    },
+    {
+      "start": 1927.93,
+      "end": 1931.97,
+      "text": "\"'Why didn't you hear about this wretched business from Metanin?'"
+    },
+    {
+      "start": 1931.97,
+      "end": 1937.01,
+      "text": "\"'Yes, a duel, I believe. I did not hear much about it,' I replied."
+    },
+    {
+      "start": 1937.01,
+      "end": 1943.91,
+      "text": "you see, I have been for some time in the Caucasus. No, it was entered you, but it was"
+    },
+    {
+      "start": 1943.91,
+      "end": 1949.27,
+      "text": "a stupid and horrid story. I will tell you all about it, if you don't know. It happened"
+    },
+    {
+      "start": 1949.27,
+      "end": 1954.23,
+      "text": "that the same year that I met you at my sister's I was living at Petersburg. I must tell you"
+    },
+    {
+      "start": 1954.23,
+      "end": 1959.79,
+      "text": "I had then what they call un position dans le monde, position good enough if it was"
+    },
+    {
+      "start": 1959.79,
+      "end": 1966.61,
+      "text": "not brilliant. Montp\u00e8re m'idonnais ten thousand parins. In 49 I was promised a place"
+    },
+    {
+      "start": 1966.61,
+      "end": 1971.71,
+      "text": "in the embassy at Turin, my uncle on my mother's side had influence, and was always ready"
+    },
+    {
+      "start": 1971.71,
+      "end": 1976.07,
+      "text": "to do a great deal for me. That sort of thing is all passed now."
+    },
+    {
+      "start": 1976.07,
+      "end": 1981.59,
+      "text": "Je t'aix ressue dans la meilleur soci\u00e9t\u00e9 de Pettersburg. I might have aspired to"
+    },
+    {
+      "start": 1981.59,
+      "end": 1986.89,
+      "text": "any girl in the city. I was well educated, as we all are who come from the school,"
+    },
+    {
+      "start": 1986.89,
+      "end": 1992.89,
+      "text": "but was not especially cultivated. To be sure, I read a good deal afterwards, my favel sur"
+    },
+    {
+      "start": 1992.89,
+      "end": 1998.13,
+      "text": "tout, you know, c'est jargon du monde, and however it came about, I was looked upon"
+    },
+    {
+      "start": 1998.13,
+      "end": 2003.03,
+      "text": "as a leading light among the young men of Petersburg. What raised me more than all"
+    },
+    {
+      "start": 2003.03,
+      "end": 2008.33,
+      "text": "in common estimation, c'est cette liaison avec madame d'ai, about which a great deal"
+    },
+    {
+      "start": 2008.33,
+      "end": 2013.53,
+      "text": "was said in Petersburg, but I was frightfully young at that time, and did not prize these"
+    },
+    {
+      "start": 2013.53,
+      "end": 2019.69,
+      "text": "advantages very highly. I was simply young and stupid. What more did I need? Just then"
+    },
+    {
+      "start": 2019.69,
+      "end": 2025.53,
+      "text": "that Mutenin had some notoriety. And Guskoff went on in the same fashion to relate to me"
+    },
+    {
+      "start": 2025.53,
+      "end": 2030.49,
+      "text": "the history of his misfortunes, which I will omit, as it would not be at all interesting."
+    },
+    {
+      "start": 2031.53,
+      "end": 2037.77,
+      "text": "Two months I remained under arrest, he continued, absolutely alone. And what thoughts did I not"
+    },
+    {
+      "start": 2037.77,
+      "end": 2043.53,
+      "text": "have during that time. But, you know, when it was all over, as though every tie had been"
+    },
+    {
+      "start": 2043.53,
+      "end": 2049.53,
+      "text": "broken with the past, then it became easier for me. Montpere, you have heard tell of him,"
+    },
+    {
+      "start": 2049.53,
+      "end": 2055.37,
+      "text": "of course, a man of iron will and strong convictions, ima de cherite, and broken off"
+    },
+    {
+      "start": 2055.37,
+      "end": 2060.25,
+      "text": "all intercourse with me. According to his convictions he had to do as he did,"
+    },
+    {
+      "start": 2060.25,
+      "end": 2066.57,
+      "text": "and I don't blame him at all. He was consistent. Consequently, I have not taken a step to induce"
+    },
+    {
+      "start": 2066.57,
+      "end": 2072.89,
+      "text": "him to change his mind. My sister was abroad. Madame Dee is the only one who wrote to me"
+    },
+    {
+      "start": 2072.89,
+      "end": 2078.65,
+      "text": "when I was released, and she sent me assistance. But you understand that I could not accept it,"
+    },
+    {
+      "start": 2078.65,
+      "end": 2083.45,
+      "text": "so that I had none of those little things which make one's position a little easier, you know,"
+    },
+    {
+      "start": 2083.45,
+      "end": 2090.57,
+      "text": "books, linen, food, nothing at all. At this time I thought things over and over,"
+    },
+    {
+      "start": 2090.57,
+      "end": 2096.81,
+      "text": "and began to look at life with different eyes. For instance, this noise, this society gossip"
+    },
+    {
+      "start": 2096.81,
+      "end": 2102.49,
+      "text": "about me in Petersburg, did not interest me, did not flatter me, it all seemed to me ridiculous."
+    },
+    {
+      "start": 2103.21,
+      "end": 2109.29,
+      "text": "I felt that I myself had been to blame. I was young and indiscreet, I had spoiled my career,"
+    },
+    {
+      "start": 2109.29,
+      "end": 2114.57,
+      "text": "and I only thought how I might get into the right track again, and I felt that I had strength and"
+    },
+    {
+      "start": 2114.57,
+      "end": 2120.41,
+      "text": "energy enough for it. After my arrest, as I told you, I was sent here to the Caucasus"
+    },
+    {
+      "start": 2120.41,
+      "end": 2126.33,
+      "text": "to the En Regiment. I thought, he went on to say, all the time becoming more and more"
+    },
+    {
+      "start": 2126.33,
+      "end": 2132.61,
+      "text": "animated. I thought that here in the Caucasus, La Vida Cong, the simple, honest men with"
+    },
+    {
+      "start": 2132.61,
+      "end": 2138.53,
+      "text": "whom I should associate, and war and danger, would all admirably agree with my mental"
+    },
+    {
+      "start": 2138.53,
+      "end": 2145.57,
+      "text": "state, so that I might begin a new life. They will see me under fire. I shall make myself"
+    },
+    {
+      "start": 2145.57,
+      "end": 2151.09,
+      "text": "liked. I shall be respected for my real self, the cross non-commissioned officer. They will"
+    },
+    {
+      "start": 2151.09,
+      "end": 2156.65,
+      "text": "relieve me of my fine, and I shall get up again, a vous sevez avec sie prestige du"
+    },
+    {
+      "start": 2156.65,
+      "end": 2162.13,
+      "text": "malheur, but quelle d'eissen chantment. You can't imagine how I have been deceived."
+    },
+    {
+      "start": 2162.13,
+      "end": 2165.93,
+      "text": "You know what sort of men the officers of our regiment are.\""
+    },
+    {
+      "start": 2165.93,
+      "end": 2170.75,
+      "text": "He did not speak for some little time, waiting, as it appeared, for me to tell him that I"
+    },
+    {
+      "start": 2170.75,
+      "end": 2176.95,
+      "text": "knew the society of our officers here was bad, but I made him no reply. It went against"
+    },
+    {
+      "start": 2176.95,
+      "end": 2182.31,
+      "text": "my grain that he should expect me, because I knew French, for sooth, to be obliged to"
+    },
+    {
+      "start": 2182.31,
+      "end": 2188.15,
+      "text": "take issue with the society of the officers, which, during my long residence in the Caucasus,"
+    },
+    {
+      "start": 2188.15,
+      "end": 2193.69,
+      "text": "I had had time enough to appreciate fully, and for which I had far higher respect than"
+    },
+    {
+      "start": 2193.69,
+      "end": 2199.25,
+      "text": "and for the society from which Mr. Guskoff had sprung. I wanted to tell him so, but his"
+    },
+    {
+      "start": 2199.25,
+      "end": 2201.33,
+      "text": "position constrained me."
+    },
+    {
+      "start": 2201.33,
+      "end": 2206.85,
+      "text": "\"'In the Anne Regiment, the society of the officers is a thousand times worse than"
+    },
+    {
+      "start": 2206.85,
+      "end": 2208.61,
+      "text": "it is here,' he continued."
+    },
+    {
+      "start": 2208.61,
+      "end": 2213.89,
+      "text": "\"'I hope that it is saying a good deal. Jesperca se bucudaya, that is, you cannot"
+    },
+    {
+      "start": 2213.89,
+      "end": 2219.73,
+      "text": "imagine what it is. I am not speaking of the youngers and the soldiers. That is horrible."
+    },
+    {
+      "start": 2219.73,
+      "end": 2226.21,
+      "text": "is so bad. At first they received me very kindly, that is absolutely the truth, but"
+    },
+    {
+      "start": 2226.21,
+      "end": 2231.73,
+      "text": "when they saw that I could not help despising them, you know, in these inconceivably small"
+    },
+    {
+      "start": 2231.73,
+      "end": 2238.29,
+      "text": "circumstances, they saw that I was a man absolutely different, standing far above them. They got"
+    },
+    {
+      "start": 2238.29,
+      "end": 2244.09,
+      "text": "angry with me, and began to put various little humiliations on me. You haven't an idea"
+    },
+    {
+      "start": 2244.09,
+      "end": 2250.01,
+      "text": "what I had to suffer. Then this forced relationship with the Yunkers, and especially with the small"
+    },
+    {
+      "start": 2250.01,
+      "end": 2256.01,
+      "text": "means that I had I lacked everything. I had only what my sister used to send me. And here's"
+    },
+    {
+      "start": 2256.01,
+      "end": 2262.29,
+      "text": "a proof for you. As much as it made me suffer, I, with my character, avec mafirte j'est"
+    },
+    {
+      "start": 2262.29,
+      "end": 2267.89,
+      "text": "criamont perg, begged him to send me something. I understand how living four years of such"
+    },
+    {
+      "start": 2267.89,
+      "end": 2273.41,
+      "text": "a life may make a man like our cashier Dromov, who drinks with soldiers, and writes"
+    },
+    {
+      "start": 2273.41,
+      "end": 2278.85,
+      "text": "notes to all the officers asking them to loan him three rubles, and signing it, tout-a-vou"
+    },
+    {
+      "start": 2278.85,
+      "end": 2283.97,
+      "text": "drum-off. One must have such a character as I have, not to be mired in the least by such"
+    },
+    {
+      "start": 2283.97,
+      "end": 2289.53,
+      "text": "a horrible position. For some time he walked in silence by my side."
+    },
+    {
+      "start": 2289.53,
+      "end": 2296.45,
+      "text": "Have you a cigarette? he asked me. And so I stayed right where I was. Yes. I could"
+    },
+    {
+      "start": 2296.45,
+      "end": 2301.93,
+      "text": "not endure it physically, because though we were wretched, cold, and ill-fed, I lived"
+    },
+    {
+      "start": 2301.93,
+      "end": 2307.41,
+      "text": "like a common soldier, but still the officers had some sort of consideration for me. I had"
+    },
+    {
+      "start": 2307.41,
+      "end": 2312.93,
+      "text": "still some prestige that they regarded. I wasn't sent out on guard nor for drill."
+    },
+    {
+      "start": 2312.93,
+      "end": 2317.81,
+      "text": "I could not have stood that. But morally my sufferings were frightful, and especially"
+    },
+    {
+      "start": 2317.81,
+      "end": 2322.77,
+      "text": "because I didn't see any escape from my position. I wrote my uncle, begged him to"
+    },
+    {
+      "start": 2322.77,
+      "end": 2328.37,
+      "text": "get me transferred to my present regiment, which at least sees some service, and I thought"
+    },
+    {
+      "start": 2328.37,
+      "end": 2333.53,
+      "text": "that here Pavel Dmitrievich, qui est le feast de l'Anton dans de Montp\u00e8re, might be of"
+    },
+    {
+      "start": 2333.53,
+      "end": 2340.13,
+      "text": "some use to me. My uncle did this for me. I was transferred. After that regiment, this"
+    },
+    {
+      "start": 2340.13,
+      "end": 2345.69,
+      "text": "one seemed to me a collection of chamberlains. Then Pavel Dmitrievich was here. He knew"
+    },
+    {
+      "start": 2345.69,
+      "end": 2352.69,
+      "text": "who I was, and I was splendidly received. At my uncle's request, Aguskov, Voussave."
+    },
+    {
+      "start": 2352.69,
+      "end": 2357.57,
+      "text": "But I forgot that with these men without cultivation and undeveloped, they can't appreciate"
+    },
+    {
+      "start": 2357.57,
+      "end": 2364.17,
+      "text": "to man, and show him marks of esteem, unless he has that aureole of wealth, of friends."
+    },
+    {
+      "start": 2364.17,
+      "end": 2369.07,
+      "text": "And I noticed how, little by little, when they saw that I was poor, their behaviour"
+    },
+    {
+      "start": 2369.07,
+      "end": 2374.97,
+      "text": "to me showed more and more indifference until they have come almost to despise me. It is"
+    },
+    {
+      "start": 2374.97,
+      "end": 2381.47,
+      "text": "horrible, but it is absolutely the truth. Here I have been in action. I have fought."
+    },
+    {
+      "start": 2381.47,
+      "end": 2387.63,
+      "text": "They have seen me under fire,\" he continued, but when will it all end? I think, never,"
+    },
+    {
+      "start": 2387.63,
+      "end": 2393.27,
+      "text": "and my strength and energy have already begun to flag. Then I had imagined la guerre, la"
+    },
+    {
+      "start": 2393.27,
+      "end": 2399.19,
+      "text": "vie de compre, but it isn't at all what I see, in a sheepskin jacket, dirty linen,"
+    },
+    {
+      "start": 2399.19,
+      "end": 2404.09,
+      "text": "soldiers' boots, and you go out in ambiscade, and the whole night long lie in the ditch"
+    },
+    {
+      "start": 2404.09,
+      "end": 2408.87,
+      "text": "with some antonyff reduced to the ranks for drunkenness, and any minute from behind"
+    },
+    {
+      "start": 2408.87,
+      "end": 2415.43,
+      "text": "the bush may come a rifle-shot, and hit you, or Antonov. It's all the same witch. That"
+    },
+    {
+      "start": 2415.43,
+      "end": 2419.91,
+      "text": "is not bravery. It's horrible, set afro. It's killing.\""
+    },
+    {
+      "start": 2419.91,
+      "end": 2425.19,
+      "text": "\"'Well, you can be promoted a non-commissioned officer for this campaign, and next year an"
+    },
+    {
+      "start": 2425.19,
+      "end": 2430.75,
+      "text": "ensign,' said I. \"'Yes, it may be. They promised me that in two years, and it's"
+    },
+    {
+      "start": 2430.75,
+      "end": 2436.13,
+      "text": "not up yet. What would those two years amount to if I knew any one? You can imagine this"
+    },
+    {
+      "start": 2436.13,
+      "end": 2442.67,
+      "text": "life with Pavel Dmitrievich, cards, low jokes, drinking all the time. If you wish to tell"
+    },
+    {
+      "start": 2442.67,
+      "end": 2447.49,
+      "text": "anything that is weighing on your mind, you would not be understood, or you would be laughed"
+    },
+    {
+      "start": 2447.49,
+      "end": 2452.61,
+      "text": "at. They talk with you, not for the sake of sharing a thought, but to get something"
+    },
+    {
+      "start": 2452.61,
+      "end": 2458.87,
+      "text": "funny out of you. Yes, and so it has gone, in a brutal, beastly way, and you are always"
+    },
+    {
+      "start": 2458.87,
+      "end": 2464.65,
+      "text": "conscious that you belong to the rank and file. They always make you feel that. Hence,"
+    },
+    {
+      "start": 2464.65,
+      "end": 2469.07,
+      "text": "You can't realize what an enjoyment it is to talk a cure au verre to such a man as"
+    },
+    {
+      "start": 2469.07,
+      "end": 2475.07,
+      "text": "you are. I had never imagined what kind of a man I was, and consequently I did not know"
+    },
+    {
+      "start": 2475.07,
+      "end": 2477.15,
+      "text": "what answer to make him."
+    },
+    {
+      "start": 2477.15,
+      "end": 2482.63,
+      "text": "\"'Will you have your lunch now?' asked Nikita at this juncture, approaching me unseen"
+    },
+    {
+      "start": 2482.63,
+      "end": 2488.35,
+      "text": "in the darkness, and, as I could perceive, vexed at the presence of a guest. Nothing"
+    },
+    {
+      "start": 2488.35,
+      "end": 2493.45,
+      "text": "but curd dumplings. There's none of the roast beef left. Has the captain had his"
+    },
+    {
+      "start": 2493.45,
+      "end": 2494.45,
+      "text": "lunch yet?\""
+    },
+    {
+      "start": 2494.45,
+      "end": 2498.33,
+      "text": "He went to bed long ago,\" replied Nikito gruffly."
+    },
+    {
+      "start": 2498.33,
+      "end": 2503.69,
+      "text": "\"'According to my directions, I was to bring you lunch here in your brandy.\""
+    },
+    {
+      "start": 2503.69,
+      "end": 2509.01,
+      "text": "He muttered something else discontentedly, and sauntered off to his tent. After loitering"
+    },
+    {
+      "start": 2509.01,
+      "end": 2514.89,
+      "text": "a while longer, he brought us, nevertheless, a lunch-case. He placed a candle on the lunch-case,"
+    },
+    {
+      "start": 2514.89,
+      "end": 2520.09,
+      "text": "and shielded it from the wind with a sheet of paper. He brought a saucepan, some mustard"
+    },
+    {
+      "start": 2520.09,
+      "end": 2525.73,
+      "text": "in a jar, a tinned dipper with a handle, and a bottle of absinthe."
+    },
+    {
+      "start": 2525.73,
+      "end": 2530.95,
+      "text": "After arranging these things, Nikita lingered around us for some moments and looked on as"
+    },
+    {
+      "start": 2530.95,
+      "end": 2536.73,
+      "text": "Guskoff and I were drinking the liquor, and it was evidently very distasteful to him."
+    },
+    {
+      "start": 2536.73,
+      "end": 2542.05,
+      "text": "By the feeble light shed by the candle through the paper amid the encircling darkness could"
+    },
+    {
+      "start": 2542.05,
+      "end": 2547.85,
+      "text": "be seen the seal-skin cover of the lunch-case, the supper arranged upon it, Guskoff's"
+    },
+    {
+      "start": 2547.85,
+      "end": 2553.75,
+      "text": "sheepskin jacket, his face, and his small red hands which he used in lifting the patties"
+    },
+    {
+      "start": 2553.75,
+      "end": 2559.75,
+      "text": "from the pan. Everything around us was black, and only by straining the sight could be seen"
+    },
+    {
+      "start": 2559.75,
+      "end": 2565.55,
+      "text": "the dark battery, the dark form of the sentry moving along the breastwork, on all sides"
+    },
+    {
+      "start": 2565.55,
+      "end": 2572.23,
+      "text": "the watch fires, and on high the ruddy stars. Gurskov wore a melancholy, almost guilty"
+    },
+    {
+      "start": 2572.23,
+      "end": 2577.63,
+      "text": "smile as though it were awkward for him to look into my face after his confession."
+    },
+    {
+      "start": 2577.63,
+      "end": 2583.27,
+      "text": "He drank still another glass of liquor, and ate ravenously, emptying the saucepan."
+    },
+    {
+      "start": 2583.27,
+      "end": 2588.71,
+      "text": "\"'Yes, for you it must be a relief all the same,\" said I, for the sake of saying"
+    },
+    {
+      "start": 2588.71,
+      "end": 2594.39,
+      "text": "something. Your acquaintance with the adjutant. He is a very good man, I have heard.\""
+    },
+    {
+      "start": 2594.39,
+      "end": 2599.79,
+      "text": "\"'Yes,' replied the cashier officer. He is a kind man, but he can't help being"
+    },
+    {
+      "start": 2599.79,
+      "end": 2604.91,
+      "text": "what he is with his education, and it is useless to expect it.\""
+    },
+    {
+      "start": 2604.91,
+      "end": 2610.27,
+      "text": "a flush seemed suddenly to cross his face. You remarked his coarse jest this evening"
+    },
+    {
+      "start": 2610.27,
+      "end": 2615.91,
+      "text": "about the amber-skade. And Guskoff, though I tried several times to interrupt him, began"
+    },
+    {
+      "start": 2615.91,
+      "end": 2621.31,
+      "text": "to justify himself before me, and to show that he had not run away from the amber-skade,"
+    },
+    {
+      "start": 2621.31,
+      "end": 2626.27,
+      "text": "and that he was not a coward as the adjutant and Captain S. tried to make him out."
+    },
+    {
+      "start": 2626.27,
+      "end": 2632.07,
+      "text": "As I was telling you, he went on to say, wiping his hands on his jacket, such people"
+    },
+    {
+      "start": 2632.07,
+      "end": 2638.07,
+      "text": "can't show any delicacy toward a man, a common soldier, who hasn't much money either."
+    },
+    {
+      "start": 2638.07,
+      "end": 2643.51,
+      "text": "That's beyond their strength. And here, recently, while I haven't received anything at all from"
+    },
+    {
+      "start": 2643.51,
+      "end": 2649.51,
+      "text": "my sister, I have been conscious that they have changed toward me. This sheepskin jacket,"
+    },
+    {
+      "start": 2649.51,
+      "end": 2654.47,
+      "text": "which I bought of a soldier, and which hasn't any warmth in it, because it's all worn off."
+    },
+    {
+      "start": 2655.11,
+      "end": 2660.63,
+      "text": "And here he showed me where the wool was gone from the inside. It doesn't arouse in him any"
+    },
+    {
+      "start": 2660.63,
+      "end": 2666.63,
+      "text": "sympathy or consideration for my unhappiness, but scorn, which he does not take pains to hide."
+    },
+    {
+      "start": 2667.19,
+      "end": 2673.19,
+      "text": "Whatever my necessities may be, as now when I have nothing to eat except soldiers' gruel"
+    },
+    {
+      "start": 2673.19,
+      "end": 2678.95,
+      "text": "and nothing to wear,\" he continued, casting down his eyes and pouring out for himself still"
+    },
+    {
+      "start": 2678.95,
+      "end": 2684.55,
+      "text": "another glass of liquor. He does not even offer to lend me some money, though he knows perfectly"
+    },
+    {
+      "start": 2684.55,
+      "end": 2689.83,
+      "text": "well that I would give it back to him, but he waits till I am obliged to ask him for it."
+    },
+    {
+      "start": 2689.83,
+      "end": 2696.07,
+      "text": "but you appreciate how it is for me to go to him. In your case, I should say, square and fair,"
+    },
+    {
+      "start": 2696.07,
+      "end": 2699.83,
+      "text": "vous etes odys sous de salam en cher, j'eriel parle au sou.\""
+    },
+    {
+      "start": 2700.63,
+      "end": 2705.51,
+      "text": "And you know, said he, looking straight into my eyes with an expression of desperation,"
+    },
+    {
+      "start": 2706.15,
+      "end": 2712.31,
+      "text": "I am going to tell you, square and fair, I am in a terrible situation. Pouvivouma preferred"
+    },
+    {
+      "start": 2712.31,
+      "end": 2716.39,
+      "text": "Dick's ruble argent? My sister ought to send me some by the next"
+    },
+    {
+      "start": 2716.39,
+      "end": 2723.27,
+      "text": "mail, et mons-perre. Why, most willingly, said I, although on the contrary it was trying"
+    },
+    {
+      "start": 2723.27,
+      "end": 2728.47,
+      "text": "and unpleasant, especially because the evening before, having lost at cards, I had left only"
+    },
+    {
+      "start": 2728.47,
+      "end": 2735.11,
+      "text": "about five rubles in Nikita's care. In a moment, said I, arising, I will go and get"
+    },
+    {
+      "start": 2735.11,
+      "end": 2741.75,
+      "text": "it at the tent. No, by-and-by, no vous der Ang\u00e9pare. Nevertheless, not heeding him,"
+    },
+    {
+      "start": 2741.75,
+      "end": 2746.63,
+      "text": "I hastened to the closed tent, where stood my bed, and where the captain was sleeping."
+    },
+    {
+      "start": 2747.51,
+      "end": 2753.51,
+      "text": "Alexei Ivanovich. Let me have ten roubles, please, for rations, said I to the captain,"
+    },
+    {
+      "start": 2753.51,
+      "end": 2760.55,
+      "text": "shaking him. What? Have you been losing again? But this very evening you were not going to"
+    },
+    {
+      "start": 2760.55,
+      "end": 2767.19,
+      "text": "play any more, murmured the captain, still half asleep. No, I have not been playing,"
+    },
+    {
+      "start": 2767.19,
+      "end": 2769.67,
+      "text": "but I want the money. Let me have it, please.\""
+    },
+    {
+      "start": 2770.71,
+      "end": 2775.35,
+      "text": "Makatiuk shouted the captain to his servant. Hand me my bag with the money."
+    },
+    {
+      "start": 2776.23,
+      "end": 2780.71,
+      "text": "Hush, hush, said I, hearing Guskoff's measured steps near the tent."
+    },
+    {
+      "start": 2781.35,
+      "end": 2782.79,
+      "text": "What? Why hush?"
+    },
+    {
+      "start": 2783.67,
+      "end": 2787.35,
+      "text": "Because that cashierd fellow has asked to borrow it of me. He's right there."
+    },
+    {
+      "start": 2787.35,
+      "end": 2792.13,
+      "text": "there. Well, if you knew him, you wouldn't let him have it,\" remarked the captain."
+    },
+    {
+      "start": 2792.13,
+      "end": 2798.01,
+      "text": "\"'I have heard about him. He's a dirty, low-lived fellow.' Nevertheless, the captain"
+    },
+    {
+      "start": 2798.01,
+      "end": 2803.23,
+      "text": "gave me the money, ordered his man to put away the bag, pulled the flap of the tent neatly"
+    },
+    {
+      "start": 2803.23,
+      "end": 2808.35,
+      "text": "too, and again saying, \"'If you only knew him, you wouldn't let him have it,'"
+    },
+    {
+      "start": 2808.35,
+      "end": 2813.15,
+      "text": "drew his head down under the coverlet. \"'Now you owe me thirty-two, remember?' he"
+    },
+    {
+      "start": 2813.15,
+      "end": 2819.33,
+      "text": "shouted after me. When I came out of the tent, Guskoff was walking near the settees, and"
+    },
+    {
+      "start": 2819.33,
+      "end": 2825.33,
+      "text": "his slight figure, with his crooked legs, his shapeless cap, his long white hair, kept"
+    },
+    {
+      "start": 2825.33,
+      "end": 2830.37,
+      "text": "appearing and disappearing in the darkness as he passed in and out of the light of the"
+    },
+    {
+      "start": 2830.37,
+      "end": 2836.97,
+      "text": "candles. He made believe not to see me. I handed him the money. He said, Merci, and"
+    },
+    {
+      "start": 2836.97,
+      "end": 2841.93,
+      "text": "crumpling the bankbill thrust it into his trouser's pocket. Now I suppose the game"
+    },
+    {
+      "start": 2841.93,
+      "end": 2847.29,
+      "text": "is in full swing at the adjutants, he began immediately after this. Yes, I suppose so."
+    },
+    {
+      "start": 2848.01,
+      "end": 2854.01,
+      "text": "He's a wonderful player, always bold, and never backs out. When he's in luck, it's fine,"
+    },
+    {
+      "start": 2854.01,
+      "end": 2859.21,
+      "text": "but when it does not go well with him, he can lose frightfully. He is given proof of that."
+    },
+    {
+      "start": 2859.85,
+      "end": 2865.13,
+      "text": "During this expedition, if you reckon his valuables, he has lost more than fifteen hundred"
+    },
+    {
+      "start": 2865.13,
+      "end": 2870.97,
+      "text": "rubles. But, as he played discreetly before, that officer of yours seemed to have some"
+    },
+    {
+      "start": 2870.97,
+      "end": 2872.73,
+      "text": "doubts about his honour."
+    },
+    {
+      "start": 2872.73,
+      "end": 2879.53,
+      "text": "\"'Well, that's because he \u2014' Nikita, haven't we any of that red kavkas wine left?\""
+    },
+    {
+      "start": 2879.53,
+      "end": 2886.57,
+      "text": "I asked, very much enlivened by Guskoff's conversational talent. Nikita still kept muttering."
+    },
+    {
+      "start": 2886.57,
+      "end": 2892.85,
+      "text": "But he brought us the red wine, and again looked on angrily as Guskoff drained his glass."
+    },
+    {
+      "start": 2892.85,
+      "end": 2898.13,
+      "text": "In Guskoff's behaviour was noticeable his old freedom from constraint. I wished that"
+    },
+    {
+      "start": 2898.13,
+      "end": 2903.09,
+      "text": "he would go as soon as possible. It seemed as if his only reason for not going was because"
+    },
+    {
+      "start": 2903.09,
+      "end": 2907.81,
+      "text": "he did not wish to go immediately after receiving the money. I said nothing."
+    },
+    {
+      "start": 2908.69,
+      "end": 2914.85,
+      "text": "How could you, who have means and were under no necessity, simply de gaet\u00e9 de cur,"
+    },
+    {
+      "start": 2914.85,
+      "end": 2917.81,
+      "text": "make up your mind to come and serve in the Caucasus?"
+    },
+    {
+      "start": 2918.53,
+      "end": 2923.81,
+      "text": "That's what I don't understand,\" said he to me. I endeavoured to explain this act of"
+    },
+    {
+      "start": 2923.81,
+      "end": 2930.05,
+      "text": "renunciation which seemed so strange to him. I can imagine how disagreeable the society of"
+    },
+    {
+      "start": 2930.05,
+      "end": 2936.45,
+      "text": "those officers, men without any comprehension of culture, must be for you. You could not understand"
+    },
+    {
+      "start": 2936.45,
+      "end": 2943.01,
+      "text": "each other. You see, you might live ten years, and not see anything, and not hear about anything,"
+    },
+    {
+      "start": 2943.01,
+      "end": 2950.85,
+      "text": "except cards, wine, and gossip about rewards and campaigns. It was unpleasant for me that he"
+    },
+    {
+      "start": 2950.85,
+      "end": 2955.97,
+      "text": "he wished me to put myself on a par with him in his position, and with absolute honesty"
+    },
+    {
+      "start": 2955.97,
+      "end": 2961.93,
+      "text": "I assured him that I was very fond of cards and wine, and gossip about campaigns, and"
+    },
+    {
+      "start": 2961.93,
+      "end": 2967.09,
+      "text": "that I did not care to have any better comrades than those with whom I was associated. But"
+    },
+    {
+      "start": 2967.09,
+      "end": 2969.09,
+      "text": "he would not believe me."
+    },
+    {
+      "start": 2969.09,
+      "end": 2974.45,
+      "text": "\"'Well,' you may say so,\" he continued, \"'but the lack of women's society,"
+    },
+    {
+      "start": 2974.45,
+      "end": 2980.21,
+      "text": "I mean of course, femme, comme il foe, is that not a terrible deprivation? I don't"
+    },
+    {
+      "start": 2980.21,
+      "end": 2984.61,
+      "text": "know what I would give now to go into a parlour, if only for a moment, and to have a look"
+    },
+    {
+      "start": 2984.61,
+      "end": 2988.49,
+      "text": "at a pretty woman, even though it were through a crack.\""
+    },
+    {
+      "start": 2988.49,
+      "end": 2993.05,
+      "text": "He said nothing for a little, and drank still another glass of the red wine."
+    },
+    {
+      "start": 2993.05,
+      "end": 2999.93,
+      "text": "Oh, my God, my God! If it only might be our fate to meet again, somewhere in Petersburg,"
+    },
+    {
+      "start": 2999.93,
+      "end": 3005.77,
+      "text": "to live and move among men, among ladies. He drank up the dregs of the wine still"
+    },
+    {
+      "start": 3005.77,
+      "end": 3009.37,
+      "text": "left in the bottle, and when he had finished it, he said,"
+    },
+    {
+      "start": 3009.37,
+      "end": 3015.05,
+      "text": "\"'Ah, pardon, maybe you wanted some more. It was horribly careless of me. However,"
+    },
+    {
+      "start": 3015.05,
+      "end": 3020.09,
+      "text": "I suppose I must have taken too much, and my head isn't very strong. There was a time when"
+    },
+    {
+      "start": 3020.09,
+      "end": 3026.25,
+      "text": "I lived on Morskaya Street, O'Rae de Chosie, and had marvellous apartments\u2014furniture, you know,"
+    },
+    {
+      "start": 3026.25,
+      "end": 3031.45,
+      "text": "and I was able to arrange it all beautifully. Not so very expensively, though. My father,"
+    },
+    {
+      "start": 3031.45,
+      "end": 3037.05,
+      "text": "to be sure, gave me porcelains, flowers, and silver\u2014a wonderful lot."
+    },
+    {
+      "start": 3037.05,
+      "end": 3043.65,
+      "text": "Le matin je saute, visite \u00e0 faivre regulierment. I used to go and dine with her. Often she"
+    },
+    {
+      "start": 3043.65,
+      "end": 3048.77,
+      "text": "was alone. Il faux avoir que cette et une femme ravissant. You didn't know her at"
+    },
+    {
+      "start": 3048.77,
+      "end": 3053.25,
+      "text": "all, did you? No. You see, there was such high degree of"
+    },
+    {
+      "start": 3053.25,
+      "end": 3058.93,
+      "text": "womanliness in her, and such tenderness. And what love! Lord! I did not know how"
+    },
+    {
+      "start": 3058.93,
+      "end": 3063.69,
+      "text": "to appreciate my happiness then. We would return after the theatre and have a little"
+    },
+    {
+      "start": 3063.69,
+      "end": 3070.53,
+      "text": "supper together. It was never dull where she was, toujours gait, toujours \u00e9ment. Yes,"
+    },
+    {
+      "start": 3070.53,
+      "end": 3076.13,
+      "text": "and I had never imagined what rare happiness it was. Et je beaucoup \u00e0 me reproschine regard"
+    },
+    {
+      "start": 3076.13,
+      "end": 3082.93,
+      "text": "to her. Je le fait soufrire et souvent. I was outrageous. Ah, what a marvellous time"
+    },
+    {
+      "start": 3082.93,
+      "end": 3090.69,
+      "text": "that was. Do I bore you? No, not at all. Then I will tell you about our evenings. I used to go,"
+    },
+    {
+      "start": 3090.69,
+      "end": 3097.25,
+      "text": "that stairway, every flowerpot I knew, the door handle, all was so lovely, so familiar,"
+    },
+    {
+      "start": 3097.25,
+      "end": 3104.45,
+      "text": "then the vestibule, her room. No, it will never, never come back to me again. Even now she writes"
+    },
+    {
+      "start": 3104.45,
+      "end": 3111.25,
+      "text": "to me. If you will let me, I will show you her letters. But I am not what I was. I am ruined."
+    },
+    {
+      "start": 3111.25,
+      "end": 3118.13,
+      "text": "I am no longer worthy of her. Yes, I am ruined forever. Je suis cassette. There's no energy in"
+    },
+    {
+      "start": 3118.13,
+      "end": 3125.01,
+      "text": "me, no pride, nothing, nor even any rank. Yes, I am ruined, and no one will ever appreciate"
+    },
+    {
+      "start": 3125.01,
+      "end": 3131.73,
+      "text": "my sufferings. Everyone is indifferent. I am a lost man, never any chance for me to rise"
+    },
+    {
+      "start": 3131.73,
+      "end": 3137.01,
+      "text": "because I have fallen morally, into the mire. I have fallen.\""
+    },
+    {
+      "start": 3137.01,
+      "end": 3144.45,
+      "text": "At this moment, there was evident in his words a genuine, deep despair. He did not look at me,"
+    },
+    {
+      "start": 3144.45,
+      "end": 3145.89,
+      "text": "but sat motionless."
+    },
+    {
+      "start": 3146.85,
+      "end": 3153.25,
+      "text": "Why are you in such despair? I asked. Because I am abominable. This life has degraded me."
+    },
+    {
+      "start": 3153.25,
+      "end": 3158.53,
+      "text": "All that was in me, all is crushed out. It is not by pride that I hold out,"
+    },
+    {
+      "start": 3158.53,
+      "end": 3164.93,
+      "text": "but by abjectness. There is no dignit\u00e9 dans le malleur. I am humiliated every moment."
+    },
+    {
+      "start": 3164.93,
+      "end": 3172.13,
+      "text": "I endure it all. I got myself into this abasement. This mire has soiled me. I myself have become"
+    },
+    {
+      "start": 3172.13,
+      "end": 3178.13,
+      "text": "coarse. I have forgotten what I used to know. I can't speak French any more. I am conscious"
+    },
+    {
+      "start": 3178.13,
+      "end": 3184.93,
+      "text": "that I am base and low. I cannot tear myself away from these surroundings. Indeed, I cannot."
+    },
+    {
+      "start": 3184.93,
+      "end": 3190.93,
+      "text": "I might have been a hero. Give me a regiment, gold epaulettes, a trumpeter, but to march in"
+    },
+    {
+      "start": 3190.93,
+      "end": 3197.09,
+      "text": "the ranks with some wild Anton Bondarenko or the like, and feel that between me and him there"
+    },
+    {
+      "start": 3197.09,
+      "end": 3202.77,
+      "text": "was no difference at all, that he might be killed, or I might be killed, all the same,"
+    },
+    {
+      "start": 3203.41,
+      "end": 3209.49,
+      "text": "that thought is maddening. You understand how horrible it is to think that some ragamuffin"
+    },
+    {
+      "start": 3209.49,
+      "end": 3215.65,
+      "text": "may kill me, a man who has thoughts and feelings, and that it would make no difference if alongside"
+    },
+    {
+      "start": 3215.65,
+      "end": 3220.93,
+      "text": "of me some Antonov were killed, a being not different from an animal, and that it might"
+    },
+    {
+      "start": 3220.93,
+      "end": 3227.17,
+      "text": "easily happen that I and not this Antonov were killed, which is always un fatality for"
+    },
+    {
+      "start": 3227.17,
+      "end": 3233.25,
+      "text": "every lofty and good man. I know that they call me a coward. Grant that I am a coward,"
+    },
+    {
+      "start": 3233.25,
+      "end": 3238.61,
+      "text": "I certainly am a coward, and can't be anything else. Not only am I a coward,"
+    },
+    {
+      "start": 3238.61,
+      "end": 3244.37,
+      "text": "but I am in my way a low and despicable man. Here I have just been borrowing money of you,"
+    },
+    {
+      "start": 3244.37,
+      "end": 3248.29,
+      "text": "and you have the right to despise me. No, take back your money.\""
+    },
+    {
+      "start": 3248.85,
+      "end": 3251.17,
+      "text": "And he held out to me the crumpled bank bill."
+    },
+    {
+      "start": 3251.73,
+      "end": 3256.85,
+      "text": "I want you to have a good opinion of me. He covered his face with his hands and burst into"
+    },
+    {
+      "start": 3256.85,
+      "end": 3259.89,
+      "text": "tears. I really did not know what to say or do."
+    },
+    {
+      "start": 3260.93,
+      "end": 3266.29,
+      "text": "\"'Calm yourself,' I said to him. You are too sensitive. Don't take everything so to heart."
+    },
+    {
+      "start": 3266.29,
+      "end": 3271.57,
+      "text": "Don't indulge in self-analysis. Look at things more simply. You yourself say that you have"
+    },
+    {
+      "start": 3271.57,
+      "end": 3275.97,
+      "text": "character. Keep up good heart, you won't have long to wait,\" I said to him,"
+    },
+    {
+      "start": 3275.97,
+      "end": 3281.17,
+      "text": "but not very consistently, because I was much stirred both by a feeling of sympathy and a"
+    },
+    {
+      "start": 3281.17,
+      "end": 3286.61,
+      "text": "feeling of repentance, because I had allowed myself mentally to sin in my judgment of a man"
+    },
+    {
+      "start": 3286.61,
+      "end": 3288.61,
+      "text": "truly and deeply unhappy."
+    },
+    {
+      "start": 3289.49,
+      "end": 3295.49,
+      "text": "Yes, he began, if I had heard even once, at the time when I was in that hell,"
+    },
+    {
+      "start": 3295.49,
+      "end": 3302.05,
+      "text": "one single word of sympathy, of advice, of friendship, one humane word such as you have"
+    },
+    {
+      "start": 3302.05,
+      "end": 3307.97,
+      "text": "just spoken, perhaps I might have calmly endured all, perhaps I might have struggled"
+    },
+    {
+      "start": 3307.97,
+      "end": 3315.17,
+      "text": "and been a soldier. But now, this is horrible. When I think soberly, I long for death."
+    },
+    {
+      "start": 3315.81,
+      "end": 3321.81,
+      "text": "Why should I love my despicable life and my own self, now that I am ruined for all that is"
+    },
+    {
+      "start": 3321.81,
+      "end": 3328.25,
+      "text": "worth while in the world, and at the least danger I suddenly, in spite of myself, begin"
+    },
+    {
+      "start": 3328.25,
+      "end": 3333.81,
+      "text": "to pray for my miserable life, and to watch over it as though it were precious, and I"
+    },
+    {
+      "start": 3333.81,
+      "end": 3339.77,
+      "text": "cannot, je ne pouis pas, control myself. That is, I could, he continued again after"
+    },
+    {
+      "start": 3339.77,
+      "end": 3344.81,
+      "text": "a minute's silence. But this is too hard work for me, a monstrous work, when I am"
+    },
+    {
+      "start": 3344.81,
+      "end": 3351.61,
+      "text": "alone. With others, under special circumstances, when you are going into action, I am brave."
+    },
+    {
+      "start": 3351.61,
+      "end": 3359.69,
+      "text": "fair me approve, because I am vain and proud. That is my failing, and in presence of others."
+    },
+    {
+      "start": 3359.69,
+      "end": 3365.65,
+      "text": "Do you know, let me spend the night with you. With us, they will play all night long. It"
+    },
+    {
+      "start": 3365.65,
+      "end": 3373.51,
+      "text": "makes no difference, anywhere, on the ground.\" While Nikita was making the bed, we got up,"
+    },
+    {
+      "start": 3373.51,
+      "end": 3378.17,
+      "text": "and once more began to walk up and down in the darkness on the battery. Certainly"
+    },
+    {
+      "start": 3378.17,
+      "end": 3383.93,
+      "text": "Guskov's head must have been very weak, because two glasses of liquor and two of wine made him"
+    },
+    {
+      "start": 3383.93,
+      "end": 3389.85,
+      "text": "dizzy. As we got up and moved away from the candles, I noticed that he again thrust the"
+    },
+    {
+      "start": 3389.85,
+      "end": 3395.29,
+      "text": "ten-ruble bill into his pocket, trying to do so without my seeing it. During all the"
+    },
+    {
+      "start": 3395.29,
+      "end": 3401.37,
+      "text": "foregoing conversation, he had held it in his hand. He continued to reiterate how he felt that"
+    },
+    {
+      "start": 3401.37,
+      "end": 3406.65,
+      "text": "he might regain his old station if he had a man such as I were to take some interest in him."
+    },
+    {
+      "start": 3406.65,
+      "end": 3411.81,
+      "text": "him. We were just going into the tent to go to bed when suddenly a cannon-ball whistled"
+    },
+    {
+      "start": 3411.81,
+      "end": 3418.57,
+      "text": "over us and buried itself in the ground not far from us. So strange it was, that peacefully"
+    },
+    {
+      "start": 3418.57,
+      "end": 3424.49,
+      "text": "sleeping camp, our conversation, and suddenly the hostile cannon-ball which flew from God"
+    },
+    {
+      "start": 3424.49,
+      "end": 3430.17,
+      "text": "knows where, into the midst of our tents, so strange that it was some time before I"
+    },
+    {
+      "start": 3430.17,
+      "end": 3437.05,
+      "text": "could realize what it was. Our sentinel, Andre F., walking up and down on the battery, moved toward"
+    },
+    {
+      "start": 3437.05,
+      "end": 3442.97,
+      "text": "me. Ha! He's crept up to us. It was the fire here that he aimed at, said he."
+    },
+    {
+      "start": 3443.77,
+      "end": 3450.49,
+      "text": "We must rouse the captain, said I, and gazed at Guskoff. He stood cowering close to the ground"
+    },
+    {
+      "start": 3450.49,
+      "end": 3458.73,
+      "text": "and stammered, trying to say, that\u2014that's the\u2014the enemies\u2014f\u2014f\u2014f\u2014fire, that's Heedy."
+    },
+    {
+      "start": 3459.85,
+      "end": 3465.13,
+      "text": "Further he could not say a word, and I did not see how and where he disappeared so"
+    },
+    {
+      "start": 3465.13,
+      "end": 3471.85,
+      "text": "nistantaneously. In the captain's tent a candle gleamed. His cough, which always troubled him"
+    },
+    {
+      "start": 3471.85,
+      "end": 3477.53,
+      "text": "when he was awake, was heard, and he himself soon appeared, asking for a lin stock to light"
+    },
+    {
+      "start": 3477.53,
+      "end": 3478.81,
+      "text": "his little pipe."
+    },
+    {
+      "start": 3478.81,
+      "end": 3482.81,
+      "text": "\"'What does this mean, old man?\" he asked with a smile."
+    },
+    {
+      "start": 3482.81,
+      "end": 3487.09,
+      "text": "\"'Aren't they willing to give me a little sleep tonight? First it's you with your"
+    },
+    {
+      "start": 3487.09,
+      "end": 3492.81,
+      "text": "cashierd friend, and then it's Shamil. What shall we do, answer him or not?'"
+    },
+    {
+      "start": 3492.81,
+      "end": 3495.57,
+      "text": "There was nothing about this in the instructions, was there?\""
+    },
+    {
+      "start": 3495.57,
+      "end": 3498.89,
+      "text": "\"'Nothing at all. There he goes again,' said I."
+    },
+    {
+      "start": 3498.89,
+      "end": 3500.41,
+      "text": "\"'Two of them.'\""
+    },
+    {
+      "start": 3500.41,
+      "end": 3507.01,
+      "text": "Indeed, in the darkness, directly in front of us flashed two fires, like two eyes,"
+    },
+    {
+      "start": 3507.01,
+      "end": 3513.41,
+      "text": "quickly over our heads flew one cannon ball and one heavy shell. It must have been meant for us,"
+    },
+    {
+      "start": 3513.41,
+      "end": 3519.57,
+      "text": "coming with a loud and penetrating hum. From the neighbouring tents the soldiers hastened."
+    },
+    {
+      "start": 3519.57,
+      "end": 3523.01,
+      "text": "You could hear them hawking and talking and stretching themselves."
+    },
+    {
+      "start": 3523.89,
+      "end": 3528.77,
+      "text": "Hissed! The fuse sings like a nightingale, was the remark of the artillerist."
+    },
+    {
+      "start": 3529.65,
+      "end": 3533.89,
+      "text": "Send for Nikita, said the captain with his perpetually benevolent smile."
+    },
+    {
+      "start": 3533.89,
+      "end": 3538.45,
+      "text": "Nikita, don't hide yourself, but listen to the mountain nightingales.\""
+    },
+    {
+      "start": 3538.45,
+      "end": 3543.53,
+      "text": "\"'Well, your honor,\" said Nikita, who was standing near the captain."
+    },
+    {
+      "start": 3543.53,
+      "end": 3547.57,
+      "text": "\"'I have seen them, these nightingales. I am not afraid of them,"
+    },
+    {
+      "start": 3547.57,
+      "end": 3551.97,
+      "text": "but here was that stranger who was here. He was drinking up your red wine."
+    },
+    {
+      "start": 3551.97,
+      "end": 3556.93,
+      "text": "When he heard how that shot dashed by our tents and the shell rolled by,"
+    },
+    {
+      "start": 3556.93,
+      "end": 3562.45,
+      "text": "he cowered down like some wild beast. However, we must send to the"
+    },
+    {
+      "start": 3562.45,
+      "end": 3568.23,
+      "text": "commander of the artillery, said the captain to me, in a serious tone of authority, and"
+    },
+    {
+      "start": 3568.23,
+      "end": 3573.59,
+      "text": "ask whether we shall reply to the fire or not. It will probably be nothing at all, but"
+    },
+    {
+      "start": 3573.59,
+      "end": 3579.23,
+      "text": "still it may. Have the goodness to go and ask him. Have a horse saddled. Do it as quickly"
+    },
+    {
+      "start": 3579.23,
+      "end": 3585.07,
+      "text": "as possible, even if you take my polkin.\" In five minutes they brought me a horse, and"
+    },
+    {
+      "start": 3585.07,
+      "end": 3587.83,
+      "text": "I galloped off to the commander of the artillery."
+    },
+    {
+      "start": 3587.83,
+      "end": 3592.39,
+      "text": "\"'Look you! Return on foot!\" whispered the punctilious captain,"
+    },
+    {
+      "start": 3592.39,
+      "end": 3594.39,
+      "text": "\"'else they won't let you through the lines.'\""
+    },
+    {
+      "start": 3595.35,
+      "end": 3601.35,
+      "text": "It was half a verse to the artillery commanders. The whole road ran between the tents. As soon as"
+    },
+    {
+      "start": 3601.35,
+      "end": 3607.19,
+      "text": "I rode away from our fire, it became so black that I could not see even the horse's ears,"
+    },
+    {
+      "start": 3607.19,
+      "end": 3614.31,
+      "text": "but only the watch fires, now seeming very near, now very far off, as they gleamed into my eyes."
+    },
+    {
+      "start": 3614.31,
+      "end": 3619.83,
+      "text": "eyes. After I had ridden some distance, trusting to the intelligence of the horse whom I allowed"
+    },
+    {
+      "start": 3619.83,
+      "end": 3625.83,
+      "text": "free rein, I began to distinguish the white, four-cornered tents and then the black tracks"
+    },
+    {
+      "start": 3625.83,
+      "end": 3630.31,
+      "text": "of the road. After a half hour, having asked my way three"
+    },
+    {
+      "start": 3630.31,
+      "end": 3635.71,
+      "text": "times, and twice stumbled over the tent stakes, causing each time a volley of curses from"
+    },
+    {
+      "start": 3635.71,
+      "end": 3641.67,
+      "text": "the tents, and twice been detained by the sentinels, I reached the artillery commanders."
+    },
+    {
+      "start": 3641.67,
+      "end": 3647.35,
+      "text": "While I was on the way, I heard two more cannon-shot in the direction of our camp, but the projectiles"
+    },
+    {
+      "start": 3647.35,
+      "end": 3652.03,
+      "text": "did not reach to the place where the headquarters were. The artillery commander ordered not"
+    },
+    {
+      "start": 3652.03,
+      "end": 3657.27,
+      "text": "to reply to the firing the more as the enemy did not remain in the same place, and I went"
+    },
+    {
+      "start": 3657.27,
+      "end": 3663.73,
+      "text": "back, leading the horse by the bridle, making my way on foot between the infantry tents."
+    },
+    {
+      "start": 3663.73,
+      "end": 3668.71,
+      "text": "More than once I delayed my steps, as I went by some soldier's tent where a light was"
+    },
+    {
+      "start": 3668.71,
+      "end": 3674.55,
+      "text": "shining, and some Mary Andrew was telling a story, or I listened to some educated soldier"
+    },
+    {
+      "start": 3674.55,
+      "end": 3680.71,
+      "text": "reading from some book while the whole division overflowed the tent or hung around it, sometimes"
+    },
+    {
+      "start": 3680.71,
+      "end": 3685.99,
+      "text": "interrupting the reading with various remarks, or I simply listened to the talk about the"
+    },
+    {
+      "start": 3685.99,
+      "end": 3691.91,
+      "text": "expedition, about the fatherland, or about their chiefs. As I came around one of the"
+    },
+    {
+      "start": 3691.91,
+      "end": 3697.53,
+      "text": "tense of the third battalion, I heard Guskoff's rough voice. He was speaking hilariously"
+    },
+    {
+      "start": 3697.53,
+      "end": 3704.33,
+      "text": "and rapidly. Young voices replied to him, not those of soldiers, but of gay gentlemen."
+    },
+    {
+      "start": 3704.33,
+      "end": 3709.25,
+      "text": "It was evidently the tent of some yunker or sergeant major. I stopped short."
+    },
+    {
+      "start": 3709.25,
+      "end": 3714.51,
+      "text": "I've known him a long time, Guskoff was saying. When I lived in Petersburg, he used"
+    },
+    {
+      "start": 3714.51,
+      "end": 3719.41,
+      "text": "to come to my house often, and I went to his. He moved in the best society."
+    },
+    {
+      "start": 3719.41,
+      "end": 3723.19,
+      "text": "\"'Who are you talking about?\" asked the drunken voice."
+    },
+    {
+      "start": 3723.19,
+      "end": 3725.71,
+      "text": "\"'About the prince?\" said Guskoff."
+    },
+    {
+      "start": 3725.71,
+      "end": 3730.97,
+      "text": "\"'We were relatives, you see, but more than all we were old friends. It's a mighty"
+    },
+    {
+      "start": 3730.97,
+      "end": 3735.91,
+      "text": "good thing, you know, gentlemen, to have such an acquaintance. You see, he's fearfully"
+    },
+    {
+      "start": 3735.91,
+      "end": 3741.43,
+      "text": "rich. To him a hundred silver rubles is a mere bagatelle. Here I just got a little"
+    },
+    {
+      "start": 3741.43,
+      "end": 3744.71,
+      "text": "money out of him, enough to last me till my sister sends.'"
+    },
+    {
+      "start": 3744.71,
+      "end": 3746.99,
+      "text": "\"'Let's have some.'\""
+    },
+    {
+      "start": 3746.99,
+      "end": 3748.49,
+      "text": "Right away."
+    },
+    {
+      "start": 3748.49,
+      "end": 3752.69,
+      "text": "Savalich, my dear, said Guskoff, coming to the door of the tent."
+    },
+    {
+      "start": 3752.69,
+      "end": 3754.59,
+      "text": "Here's ten roubles for you."
+    },
+    {
+      "start": 3754.59,
+      "end": 3755.89,
+      "text": "Go to the subtler."
+    },
+    {
+      "start": 3755.89,
+      "end": 3758.09,
+      "text": "Get two bottles of kakatinsky."
+    },
+    {
+      "start": 3758.09,
+      "end": 3759.69,
+      "text": "Anything else, gentlemen?"
+    },
+    {
+      "start": 3759.69,
+      "end": 3761.29,
+      "text": "What do you say?\""
+    },
+    {
+      "start": 3761.29,
+      "end": 3768.29,
+      "text": "And Guskoff, with unsteady gait, with disheveled hair, without his hat, came out of the tent."
+    },
+    {
+      "start": 3768.29,
+      "end": 3772.89,
+      "text": "Throwing open his jacket and thrusting his hands into the pockets of his trousers,"
+    },
+    {
+      "start": 3772.89,
+      "end": 3775.09,
+      "text": "he stood at the door of the tent."
+    },
+    {
+      "start": 3775.09,
+      "end": 3781.41,
+      "text": "Though he was in the light, and I in darkness, I trembled with fear lest he should see me,"
+    },
+    {
+      "start": 3781.41,
+      "end": 3784.21,
+      "text": "and I went on, trying to make no noise."
+    },
+    {
+      "start": 3784.21,
+      "end": 3789.69,
+      "text": "\"'Who goes there?' shouted Guskoff after me in a thoroughly drunken voice. Apparently"
+    },
+    {
+      "start": 3789.69,
+      "end": 3794.29,
+      "text": "the cold took hold of him. Who the devil is going off with that horse?\""
+    },
+    {
+      "start": 3794.29,
+      "end": 3797.09,
+      "text": "I made no answer and silently went on my way."
+    }
+  ]
+}

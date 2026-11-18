@@ -1,0 +1,19 @@
+{
+  "item": {
+    "index": 3,
+    "video_id": "JByLK7HGdmo",
+    "title": "Spiritual Insights. Excerpts from Leo Tolstoy's own Diary.",
+    "duration": 1304,
+    "url": "https://www.youtube.com/watch?v=JByLK7HGdmo",
+    "slug": "spiritualInsights"
+  },
+  "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/spiritualInsights",
+  "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/spiritualInsights/raw_audio/spiritualInsights.webm",
+  "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/spiritualInsights/video_work/spiritualInsights_audio_16k.wav",
+  "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/spiritualInsights/spiritualInsightsTranscript.json",
+  "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/spiritualInsights/spiritualInsightsTranscript.txt",
+  "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/spiritualInsights/spiritualInsights.txt",
+  "chunks": 21,
+  "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/spiritualInsights/video_work/spiritualInsights_chunk_audio_joined.wav",
+  "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/spiritualInsights/spiritualInsights_neuralsurfer.mp4"
+}

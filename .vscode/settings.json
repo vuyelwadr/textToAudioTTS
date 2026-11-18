@@ -1,0 +1,41 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.DS_Store": true,
+        "**/*.log": true,
+        ".lprof": true,
+        "logs": true,
+        "debug_download": true,
+        "audio_tests": true,
+        "voice_tests": true,
+        "voices": true,
+        // "assets/voices": true,
+        "kukuro_all_voices": true,
+        "test_output_edge": true,
+        "test_output_edge_timed": true,
+        "test_output_kukuro": true,
+        "test_output_kukuro_timed": true,
+        "test_output_neutts": true,
+        // "**/*_output": true,
+        "**/*_timed": true
+    },
+    "search.exclude": {
+        "logs": true,
+        "outputs": true,
+        "debug_download": true,
+        "audio_tests": true,
+        "voice_tests": true,
+        "voices": true,
+        "assets/voices": true,
+        "kukuro_all_voices": true,
+        "test_output_edge": true,
+        "test_output_edge_timed": true,
+        "test_output_kukuro": true,
+        "test_output_kukuro_timed": true,
+        "test_output_neutts": true,
+        "**/*_output": true,
+        "**/*_timed": true
+    }
+}

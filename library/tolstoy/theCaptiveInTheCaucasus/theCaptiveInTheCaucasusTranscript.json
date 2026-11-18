@@ -1,0 +1,3718 @@
+{
+  "audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theCaptiveInTheCaucasus/video_work/theCaptiveInTheCaucasus_audio_16k.wav",
+  "model": "small.en",
+  "language": "en",
+  "duration": 4033.7705625,
+  "segments": [
+    {
+      "start": 4.69,
+      "end": 14.91,
+      "text": "1. A gentleman of the name of Jilin was serving in the Caucasus as an officer. One day he received"
+    },
+    {
+      "start": 14.91,
+      "end": 20.41,
+      "text": "a letter from home. His aged mother wrote to him, I am growing old, and should like to see"
+    },
+    {
+      "start": 20.41,
+      "end": 26.59,
+      "text": "my dear little son before I die. Come to me, I pray you, if it be only to bury me, and"
+    },
+    {
+      "start": 26.59,
+      "end": 32.55,
+      "text": "then in God's name enter the service again. And I have found for you a nice bride besides."
+    },
+    {
+      "start": 32.55,
+      "end": 39.27,
+      "text": "is sensible, good, and has property. You may fall in love with her, perhaps, and you may marry her"
+    },
+    {
+      "start": 39.27,
+      "end": 43.59,
+      "text": "and be able to retire.\" Jeline fell amusing."
+    },
+    {
+      "start": 44.23,
+      "end": 49.99,
+      "text": "Yes, indeed, the old lady has been ailing lately. She might never live to see me."
+    },
+    {
+      "start": 49.99,
+      "end": 55.27,
+      "text": "Yes, I'll go, and if the girl is nice, I may marry her into the bargain."
+    },
+    {
+      "start": 56.31,
+      "end": 61.51,
+      "text": "So he went to his colonel, obtained leave of absence, took leave of his comrades,"
+    },
+    {
+      "start": 61.51,
+      "end": 66.39,
+      "text": "gave his soldiers four pitchers of vodka to drink his health and prepare to be off."
+    },
+    {
+      "start": 67.19,
+      "end": 72.63,
+      "text": "There was war in the Caucasus then. The roads were impassable night and day."
+    },
+    {
+      "start": 73.35,
+      "end": 78.63,
+      "text": "Scarce any of the Russians could go in or out of the fortress, but the Tatars would kill them"
+    },
+    {
+      "start": 78.63,
+      "end": 84.63,
+      "text": "or carry them off into the mountains. So it was commanded that twice a week a military escort"
+    },
+    {
+      "start": 84.63,
+      "end": 89.11,
+      "text": "should proceed from fortress to fortress with the people in the midst of it."
+    },
+    {
+      "start": 89.11,
+      "end": 96.15,
+      "text": "It. The affair happened in the summer. At dawn of day the baggage wagons assembled in the fortress,"
+    },
+    {
+      "start": 96.15,
+      "end": 102.71,
+      "text": "the military escort marched out, and the whole company took the road. Jilin went on horseback,"
+    },
+    {
+      "start": 102.71,
+      "end": 107.83,
+      "text": "and his wagon with his things was among the baggage. The distance to be traversed was"
+    },
+    {
+      "start": 107.83,
+      "end": 114.47,
+      "text": "twenty miles, but the caravan moved but slowly. Sometimes it was the soldiers who stopped,"
+    },
+    {
+      "start": 114.47,
+      "end": 120.07,
+      "text": "Sometimes a wheel flew off one of the baggage wagons, or a horse wouldn't go, and then they"
+    },
+    {
+      "start": 120.07,
+      "end": 126.71,
+      "text": "all had to stop and wait. The sun had already passed the meridian, and the caravan had only"
+    },
+    {
+      "start": 126.71,
+      "end": 132.63,
+      "text": "gone half the distance. There was nothing but heat and dust, the sun regularly burned,"
+    },
+    {
+      "start": 132.63,
+      "end": 138.79,
+      "text": "and there was no shelter to be had. All around nothing but the naked step, not a village,"
+    },
+    {
+      "start": 138.79,
+      "end": 144.95,
+      "text": "not a wayside bush. Gillian had galloped on in front, he had now stopped, and was waiting"
+    },
+    {
+      "start": 144.95,
+      "end": 150.23,
+      "text": "for the cavalcade to come up. Then he heard a horn blown in the rear, and knew that they had"
+    },
+    {
+      "start": 150.23,
+      "end": 156.63,
+      "text": "stopped again. Then thought Gillian. Why not go on by oneself without the soldiers? I have"
+    },
+    {
+      "start": 156.63,
+      "end": 161.83,
+      "text": "a good horse beneath me, and if I stumble upon the Tatars I can make a bolt for it,"
+    },
+    {
+      "start": 161.83,
+      "end": 168.23,
+      "text": "or shall I not go? He stood there considering, and up there came trotting another mounted officer"
+    },
+    {
+      "start": 168.23,
+      "end": 171.83,
+      "text": "called Costuilin, with a musket, and he said,"
+    },
+    {
+      "start": 171.83,
+      "end": 177.27,
+      "text": "\"'Let us go on alone, Jilin. I can't stand it any longer. I want some grub."
+    },
+    {
+      "start": 177.27,
+      "end": 181.67,
+      "text": "The heat is stifling, and my shirt is regularly sticking to me.'\""
+    },
+    {
+      "start": 182.87,
+      "end": 189.19,
+      "text": "This Costuilin, by the way, was a thick, heavy red-faced man, and the sweat was pouring from him."
+    },
+    {
+      "start": 189.99,
+      "end": 192.23,
+      "text": "Jilin thought for a moment, and then said,"
+    },
+    {
+      "start": 192.95,
+      "end": 194.31,
+      "text": "\"'Is your musket loaded?'\""
+    },
+    {
+      "start": 194.31,
+      "end": 202.67,
+      "text": "Yes, it is loaded. Well, we'll go, but on one condition we must keep together.\""
+    },
+    {
+      "start": 202.67,
+      "end": 207.91,
+      "text": "And they canted on in front along the road. They went through the step, and as they chatted"
+    },
+    {
+      "start": 207.91,
+      "end": 213.01,
+      "text": "together they kept glancing on every side of them. They could see for a great distance"
+    },
+    {
+      "start": 213.01,
+      "end": 219.05,
+      "text": "around them. The step at last had come to an end, and the way lay towards a ravine between"
+    },
+    {
+      "start": 219.05,
+      "end": 220.05,
+      "text": "two mountains.\""
+    },
+    {
+      "start": 220.05,
+      "end": 226.07,
+      "text": "\"'What are you looking at? Let us go straight on,\" said Costoulin. But Jeline did not listen"
+    },
+    {
+      "start": 226.07,
+      "end": 227.07,
+      "text": "to him."
+    },
+    {
+      "start": 227.07,
+      "end": 232.55,
+      "text": "\"'No,' said he. \"'You just wait below, and I'll go up and have a look round.'\""
+    },
+    {
+      "start": 232.55,
+      "end": 237.47,
+      "text": "And he urged his horse to the left up the mountain. The horse beneath Jeline was a good"
+    },
+    {
+      "start": 237.47,
+      "end": 242.19,
+      "text": "hunter. He had bought it from the horsefold while still a foal for a hundred roubles"
+    },
+    {
+      "start": 242.19,
+      "end": 247.75,
+      "text": "and had broken it in himself. It carried him up the steep ascent as if on wings."
+    },
+    {
+      "start": 247.75,
+      "end": 253.37,
+      "text": "He needed but a single glance around. There right in front of them, not a fur long ahead,"
+    },
+    {
+      "start": 253.37,
+      "end": 258.97,
+      "text": "was a whole heap of Tatars, thirty men at least. He no sooner saw them than he set"
+    },
+    {
+      "start": 258.97,
+      "end": 264.25,
+      "text": "about turning, but the Tatars had seen him too, and posted after him, drawing their"
+    },
+    {
+      "start": 264.25,
+      "end": 270.45,
+      "text": "muskets while in full career. Gillian galloped down the slope as fast as his horse's legs"
+    },
+    {
+      "start": 270.45,
+      "end": 274.09,
+      "text": "could carry him, at the same time shouting to Costwelline,"
+    },
+    {
+      "start": 274.09,
+      "end": 280.05,
+      "text": "Out with the muskets, and you, my B. Ooty,\" he was thinking of his horse,"
+    },
+    {
+      "start": 280.05,
+      "end": 285.21,
+      "text": "\"'You, my beauty, spread yourself out, and don't knock your foot against anything,"
+    },
+    {
+      "start": 285.21,
+      "end": 290.93,
+      "text": "for if you stumble now we're lost. Let me, but get to my musket, and I'm hanged"
+    },
+    {
+      "start": 290.93,
+      "end": 296.53,
+      "text": "if I surrender.' But Costulin, instead of waiting, bolted off at full speed in the"
+    },
+    {
+      "start": 296.53,
+      "end": 302.05,
+      "text": "direction of the fortress as soon as he beheld the Tatars. He lashed his horse first"
+    },
+    {
+      "start": 302.05,
+      "end": 307.71,
+      "text": "on one side, and then on the other. Only the strong sweep of her tail was visible"
+    },
+    {
+      "start": 307.71,
+      "end": 313.77,
+      "text": "in the dust, Gillian perceived that he was in a bit of a hole. His musket was gone, and"
+    },
+    {
+      "start": 313.77,
+      "end": 319.37,
+      "text": "with a simple shashka, nothing could be done. He drove his horse on in the direction of"
+    },
+    {
+      "start": 319.37,
+      "end": 324.53,
+      "text": "the Russian soldiers. There was just a chance of getting away. He saw that six of them"
+    },
+    {
+      "start": 324.53,
+      "end": 328.83,
+      "text": "were galloping away to cut him off. He had a good horse under him, but they had still"
+    },
+    {
+      "start": 328.83,
+      "end": 334.89,
+      "text": "better, and they were racing their hardest to bar his way. He began to hesitate, wanted"
+    },
+    {
+      "start": 334.89,
+      "end": 340.01,
+      "text": "to turn in another direction, but his horse had lost her head, he couldn't control her,"
+    },
+    {
+      "start": 340.01,
+      "end": 345.25,
+      "text": "and she was rushing right upon them. He saw approaching him on a grey horse a tatar with"
+    },
+    {
+      "start": 345.25,
+      "end": 352.89,
+      "text": "a red beard. The tatar uttered a shrill cry, gnashed his teeth, and his musket was all ready."
+    },
+    {
+      "start": 352.89,
+      "end": 357.77,
+      "text": "Well, thought Jeline, I know what you are, you devils."
+    },
+    {
+      "start": 357.77,
+      "end": 361.81,
+      "text": "If you take me alive, you'll put me in a dungeon and whip me."
+    },
+    {
+      "start": 361.81,
+      "end": 365.25,
+      "text": "I'll not be taken alive.\""
+    },
+    {
+      "start": 365.25,
+      "end": 368.85,
+      "text": "Jeline was small of stature, but he was brave."
+    },
+    {
+      "start": 368.85,
+      "end": 374.57,
+      "text": "Drawing his shashka, he urged his horse straight upon the red-bearded tatar, thinking to himself,"
+    },
+    {
+      "start": 374.57,
+      "end": 380.41,
+      "text": "I'll either ride down his horse or fell him with my shashka."
+    },
+    {
+      "start": 380.41,
+      "end": 386.09,
+      "text": "Jilin never got up to the Tatar horse. They fired upon him from behind with their muskets"
+    },
+    {
+      "start": 386.09,
+      "end": 391.47,
+      "text": "and attacked his horse. His horse fell to the ground with a crash and Jilin was thrown"
+    },
+    {
+      "start": 391.47,
+      "end": 398.29,
+      "text": "off her back. He tried to rise, but two strong-smelling Tatars were already sitting upon him and twisting"
+    },
+    {
+      "start": 398.29,
+      "end": 404.21,
+      "text": "his arms behind his back. He writhed and twisted and threw off the Tatars, but then"
+    },
+    {
+      "start": 404.21,
+      "end": 409.13,
+      "text": "three more lapped off their horses and sprang upon him and began beating him about the"
+    },
+    {
+      "start": 409.13,
+      "end": 414.75,
+      "text": "head with the butt-ends of their muskets. It grew dark before his eyes, and he began"
+    },
+    {
+      "start": 414.75,
+      "end": 420.91,
+      "text": "to feel faint. Then the Tatars seized him, rifled his saddlebags, fastened his arms"
+    },
+    {
+      "start": 420.91,
+      "end": 426.99,
+      "text": "behind his back, tying them with a tatar knot, and dragged him to the saddle. They snatched"
+    },
+    {
+      "start": 426.99,
+      "end": 433.11,
+      "text": "off his hat, they pulled off his boots, examined everything, extorted his money and his watch,"
+    },
+    {
+      "start": 433.11,
+      "end": 440.71,
+      "text": "ripped up all his clothes. Gillian glanced at his horse. She, his dearly beloved comrade,"
+    },
+    {
+      "start": 440.71,
+      "end": 446.63,
+      "text": "lay just as she had fallen, on her back, with kicking feet, which vainly tried to reach the"
+    },
+    {
+      "start": 446.63,
+      "end": 453.51,
+      "text": "ground. There was a hole in her head, and out of this hole the black blood gushed with a hiss."
+    },
+    {
+      "start": 453.51,
+      "end": 458.63,
+      "text": "For several yards around the dust was wet. One of the Tatars went to the horse and proceeded"
+    },
+    {
+      "start": 458.63,
+      "end": 463.99,
+      "text": "to take the saddle from her back. She went on kicking all the time, and he drew forth a knife"
+    },
+    {
+      "start": 463.99,
+      "end": 470.15,
+      "text": "and cut her windpipe. There was a hissing sound from her throat. She shivered all, over, and the"
+    },
+    {
+      "start": 470.15,
+      "end": 476.87,
+      "text": "breath of her life was gone. The Tatars took away the saddle and bridle. The Tatar with the red beard"
+    },
+    {
+      "start": 476.87,
+      "end": 482.63,
+      "text": "mounted high-ass horse, and the others put Gillian up behind him. To prevent him falling off,"
+    },
+    {
+      "start": 482.63,
+      "end": 487.67,
+      "text": "they fastened him by a thong to the Tatar's belt, and led him away into the mountains."
+    },
+    {
+      "start": 488.63,
+      "end": 494.47,
+      "text": "So there sat Jeline behind the tatar, and at every moment he was jolted against, and"
+    },
+    {
+      "start": 494.47,
+      "end": 500.15,
+      "text": "his very nose came in contact with the tatar's maladorous back. All that he could see in"
+    },
+    {
+      "start": 500.15,
+      "end": 506.39,
+      "text": "front of him, indeed, was the sturdy tatar's back, his sinewy, shaven neck sticking out"
+    },
+    {
+      "start": 506.39,
+      "end": 511.99,
+      "text": "all bluish from beneath his hat. Jeline's head was all battered, and the blood kept"
+    },
+    {
+      "start": 511.99,
+      "end": 517.03,
+      "text": "trickling into his eyes, and it was impossible for him to right himself on his horse or"
+    },
+    {
+      "start": 517.03,
+      "end": 523.03,
+      "text": "wipe away the blood. His arms were twisted so tightly that his very collarbone was in danger"
+    },
+    {
+      "start": 523.03,
+      "end": 528.55,
+      "text": "of breaking. They travelled for a long time from mountain to mountain, crossed a ford,"
+    },
+    {
+      "start": 528.55,
+      "end": 534.63,
+      "text": "diverged from the road, and entered a ravine. Gillien would have liked to have marked the road"
+    },
+    {
+      "start": 534.63,
+      "end": 539.91,
+      "text": "by which they were taking him, but his eyes were clotted with blood, and he couldn't turn round"
+    },
+    {
+      "start": 539.91,
+      "end": 546.31,
+      "text": "properly. It began to grow dark. They crossed yet another river and began to ascend a rocky"
+    },
+    {
+      "start": 546.31,
+      "end": 552.87,
+      "text": "mountain, and then came a smell of smoke, and the barking of dogs. At last they came"
+    },
+    {
+      "start": 552.87,
+      "end": 558.73,
+      "text": "to the owl, or Tatar village. The Tatars dismounted from their horses, and a crowd"
+    },
+    {
+      "start": 558.73,
+      "end": 564.79,
+      "text": "of Tatar children assembled who surrounded Jilin, fell a-yelling and making merry, and"
+    },
+    {
+      "start": 564.79,
+      "end": 571.39,
+      "text": "took up stones to cast at him. The Tatar drove away the children, took Jilin from his horse,"
+    },
+    {
+      "start": 571.39,
+      "end": 578.39,
+      "text": "called a workman. Up came a H. Achet-faced Nogets, clad only in a shirt, and as the shirt"
+    },
+    {
+      "start": 578.39,
+      "end": 584.03,
+      "text": "was torn the whole of his breast was bare. The Tatar gave some orders to him. The workman"
+    },
+    {
+      "start": 584.03,
+      "end": 590.19,
+      "text": "brought a kolodka, that is to say, two oaken blocks fastened together by iron rings, and"
+    },
+    {
+      "start": 590.19,
+      "end": 596.09,
+      "text": "in one of the rings a cramping iron and a lock. Then they undid Gillian's hands attach"
+    },
+    {
+      "start": 596.09,
+      "end": 601.37,
+      "text": "the collodica to his feet, led him into an outhouse, thrust him into it, and fastened"
+    },
+    {
+      "start": 601.37,
+      "end": 608.19,
+      "text": "the door. Jeline fell upon a dung-heap. For a time he lay where he fell, then he fumbled"
+    },
+    {
+      "start": 608.19,
+      "end": 613.61,
+      "text": "his way in the dark to the softest place he could find, and lay down there."
+    },
+    {
+      "start": 613.61,
+      "end": 619.81,
+      "text": "Two. Jeline scarcely slept at all during the night. It was the season of short nights."
+    },
+    {
+      "start": 619.81,
+      "end": 625.05,
+      "text": "He could see it growing light through a rift in the wall. Jeline arose, made the rift"
+    },
+    {
+      "start": 625.05,
+      "end": 630.69,
+      "text": "a little bigger and looked out. Through the rift, the high road was visible going down"
+    },
+    {
+      "start": 630.69,
+      "end": 637.09,
+      "text": "the mountainside. To the right was a Tatar Sakhliyafed, with two villages beside it."
+    },
+    {
+      "start": 637.09,
+      "end": 642.05,
+      "text": "A black dog lay upon the threshold, a goat with her kids passed along whisking their"
+    },
+    {
+      "start": 642.05,
+      "end": 648.37,
+      "text": "tails. He saw a Tatar milkmaid coming down from the mountains in a floured belted blouse,"
+    },
+    {
+      "start": 648.37,
+      "end": 654.01,
+      "text": "trousers and boots, with her head covered by a kaftan, and on her head a large tin"
+    },
+    {
+      "start": 654.01,
+      "end": 660.95,
+      "text": "of Shinshik. Of water. She walked with curved back and head bent forward, and led by the"
+    },
+    {
+      "start": 660.95,
+      "end": 666.77,
+      "text": "hand a little closely cropped Tatar boy in a little shirt. The Tatar girl took the water"
+    },
+    {
+      "start": 666.77,
+      "end": 672.19,
+      "text": "to the Sakhlia, and out came the Tatar of yesterday evening, with the red beard, in"
+    },
+    {
+      "start": 672.19,
+      "end": 678.43,
+      "text": "a silken Beschmette with slippers on his naked feet, and a silver knife in his leather girdle."
+    },
+    {
+      "start": 678.43,
+      "end": 685.31,
+      "text": "On his head he wore a lofty black sheepskin hat, flattened down behind. He came out,"
+    },
+    {
+      "start": 685.31,
+      "end": 691.21,
+      "text": "stretched himself, and stroked his bountiful red beard. He stayed there for a while, gave"
+    },
+    {
+      "start": 691.21,
+      "end": 697.35,
+      "text": "some orders to his laborer, and went off some wither. Next there passed by two children"
+    },
+    {
+      "start": 697.35,
+      "end": 703.51,
+      "text": "on horses, which they had just watered. The horses' nozzles were wet, then some more"
+    },
+    {
+      "start": 703.51,
+      "end": 708.95,
+      "text": "closely cropped youngsters ran by in nothing but shirts, without hose, and they collected"
+    },
+    {
+      "start": 708.95,
+      "end": 714.79,
+      "text": "into a group, went to the outhouse, took up a long twig, and thrust it through the rift"
+    },
+    {
+      "start": 714.79,
+      "end": 720.95,
+      "text": "in the wall. Gillian gave such a shout at them that the children screamed in chorus and took"
+    },
+    {
+      "start": 720.95,
+      "end": 725.99,
+      "text": "to their heels, a gleam of naked little knees was the last that was seen of them,"
+    },
+    {
+      "start": 725.99,
+      "end": 729.83,
+      "text": "but Gillian wanted drink, his throat was parched and dry."
+    },
+    {
+      "start": 729.83,
+      "end": 736.25,
+      "text": "Why? If only they would come to examine me, thought he. He listened. They were opening"
+    },
+    {
+      "start": 736.25,
+      "end": 742.53,
+      "text": "the outhouse. The red-bearded tatar appeared, and with him came another, smaller in stature,"
+    },
+    {
+      "start": 742.53,
+      "end": 748.29,
+      "text": "a blackish sort of little man. His eyes were bright and black. He was ruddy, and had a"
+    },
+    {
+      "start": 748.29,
+      "end": 755.31,
+      "text": "small cropped beard. His face was merry. He was all smiles. The swarthy man was dressed"
+    },
+    {
+      "start": 755.31,
+      "end": 760.11,
+      "text": "even better than the other. His silken bechmet was blue and trimmed with"
+    },
+    {
+      "start": 760.11,
+      "end": 766.15,
+      "text": "galoon. The large dagger in his belt was of silver. His red Morocco slippers were also"
+    },
+    {
+      "start": 766.15,
+      "end": 772.75,
+      "text": "trimmed with silver. Mo-ri-over, thick outer slippers covered the finer inner ones. He"
+    },
+    {
+      "start": 772.75,
+      "end": 778.31,
+      "text": "wore a lofty hat of white lamb's wool. The red-bearded tatar came in, and there"
+    },
+    {
+      "start": 778.31,
+      "end": 784.83,
+      "text": "was some conversation, and apparently a dispute began. He lent his elbows on the gate, fingered"
+    },
+    {
+      "start": 784.83,
+      "end": 791.51,
+      "text": "his hanger, and glanced furtively at Jeline like a hungry wolf. But the swarthy man, he"
+    },
+    {
+      "start": 791.51,
+      "end": 797.71,
+      "text": "was a quick, lively fellow, who seemed to move upon springs, came straight up to Jeline,"
+    },
+    {
+      "start": 797.71,
+      "end": 802.99,
+      "text": "sat down on his heels, grinned, showing all his teeth, patted him on the shoulder, and"
+    },
+    {
+      "start": 802.99,
+      "end": 808.47,
+      "text": "began to jabber something in a peculiar way of his own, blinking his eyes, clicking with"
+    },
+    {
+      "start": 808.47,
+      "end": 814.37,
+      "text": "his tongue and saying repeatedly, \"'Korosho Urus! Korosho Urus!\""
+    },
+    {
+      "start": 814.37,
+      "end": 817.65,
+      "text": "Jeline did not understand a word of it, and all he said was,"
+    },
+    {
+      "start": 817.65,
+      "end": 823.41,
+      "text": "\"'I am thirsty. Give me a drink of water.'\" The swarthy man laughed."
+    },
+    {
+      "start": 823.41,
+      "end": 829.45,
+      "text": "\"'Korosho Urus,' he said again, babbling away in his own peculiar manner. Jeline tried"
+    },
+    {
+      "start": 829.45,
+      "end": 834.25,
+      "text": "to make them understand, by a pantomime with his hands and lips, that he wanted something"
+    },
+    {
+      "start": 834.25,
+      "end": 842.41,
+      "text": "to drink. The swarthy man understood at last, went out, and called Dina! Dina!"
+    },
+    {
+      "start": 842.41,
+      "end": 848.27,
+      "text": "A very thin, slender girl, about thirteen years of age, with a face very like the swarthy"
+    },
+    {
+      "start": 848.27,
+      "end": 855.23,
+      "text": "man's, then appeared. Plainly she was the swarthy man's daughter. She also had black,"
+    },
+    {
+      "start": 855.23,
+      "end": 860.85,
+      "text": "sparkling G.I.s and a ruddy complexion. She was dressed in a long blue blouse with white"
+    },
+    {
+      "start": 860.85,
+      "end": 866.61,
+      "text": "sleeves and without a girdle. The folds, sleeves, and breast of her garment were beautifully"
+    },
+    {
+      "start": 866.61,
+      "end": 871.93,
+      "text": "trimmed. She also wore trousers and slippers, and the inner slippers were protected by outer"
+    },
+    {
+      "start": 871.93,
+      "end": 878.09,
+      "text": "slippers with high heels. Round her neck she wore a necklace of Russian poltenics."
+    },
+    {
+      "start": 878.09,
+      "end": 883.01,
+      "text": "Her head was uncovered, her hair was black, and in her hair was a ribbon, from which"
+    },
+    {
+      "start": 883.01,
+      "end": 889.13,
+      "text": "dangled a metallic plaque and a silver ruble. Her father gave her some orders. She ran"
+    },
+    {
+      "start": 889.13,
+      "end": 895.69,
+      "text": "out and returned again immediately with a tin kuvshinshik. She handed the water to Jilin herself,"
+    },
+    {
+      "start": 895.69,
+      "end": 901.37,
+      "text": "plumping down on her heels, bending right forward so that her shoulders were lower than her knees."
+    },
+    {
+      "start": 901.93,
+      "end": 908.01,
+      "text": "There she sat, staring at Jilin with wide-open eyes as he drank, just as if he were some wild"
+    },
+    {
+      "start": 908.01,
+      "end": 915.13,
+      "text": "animal. Jilin gave the kuvshinshik back to her, and back she bounded like a wild goat. Even her"
+    },
+    {
+      "start": 915.13,
+      "end": 920.65,
+      "text": "father couldn't help laughing. Then he sent her somewhere or other. She took the kovshinshik,"
+    },
+    {
+      "start": 920.65,
+      "end": 926.01,
+      "text": "ran off, and came back with some unleavened bread on a little round platter, and again"
+    },
+    {
+      "start": 926.01,
+      "end": 933.29,
+      "text": "she crouched down, all humped forward, gazing at Jilin with all her eyes. Then all the Tatars went"
+    },
+    {
+      "start": 933.29,
+      "end": 939.61,
+      "text": "out and closed the door behind them. After a little while the Nogates came to Jilin and said,"
+    },
+    {
+      "start": 939.61,
+      "end": 945.05,
+      "text": "Come along, master, come along.\" He also did not know Russian. It was"
+    },
+    {
+      "start": 945.05,
+      "end": 949.05,
+      "text": "peeling to Jilin, however, that he was ordering him to come some whither."
+    },
+    {
+      "start": 949.85,
+      "end": 956.25,
+      "text": "Jilin followed him, still wearing the Kolodka. He limped all the way to walk was impossible,"
+    },
+    {
+      "start": 956.25,
+      "end": 962.49,
+      "text": "as he had constantly to twist his foot to one side. So Jilin followed the Nogets outside."
+    },
+    {
+      "start": 962.49,
+      "end": 967.29,
+      "text": "He saw the Tatar village, ten houses, with their mosque, which had a tower."
+    },
+    {
+      "start": 967.29,
+      "end": 974.57,
+      "text": "before one house stood three saddled horses. A tiny boy was holding their bridles. All at once,"
+    },
+    {
+      "start": 974.57,
+      "end": 979.85,
+      "text": "the swarthy man came leaping out of his house and waved his hand to Jilin to signify to him to"
+    },
+    {
+      "start": 979.85,
+      "end": 986.13,
+      "text": "approach. The Tatar was smiling, jabbering after his fashion, and quickly disappeared into the house"
+    },
+    {
+      "start": 986.13,
+      "end": 992.69,
+      "text": "again. Jilin entered the house. The living room was a good one. The walls were of smoothly"
+    },
+    {
+      "start": 992.69,
+      "end": 998.29,
+      "text": "completely polished clay. Variegated pillows were piled up against the front wall, rich"
+    },
+    {
+      "start": 998.29,
+      "end": 1004.97,
+      "text": "carpets hung up at the entrance on each side. Arms of various sorts\u2014pistols, shashki,"
+    },
+    {
+      "start": 1004.97,
+      "end": 1010.69,
+      "text": "all of silver\u2014were hanging on the carpets. In one corner was a little stove level with"
+    },
+    {
+      "start": 1010.69,
+      "end": 1016.29,
+      "text": "the ground. The earthen floor was as clean as a threshing floor, the front corner was"
+    },
+    {
+      "start": 1016.29,
+      "end": 1022.37,
+      "text": "all covered with felt. On the felt were carpets, and on the carpets soft cushions."
+    },
+    {
+      "start": 1022.37,
+      "end": 1028.37,
+      "text": "And on the carpets, in nothing but their bash-macks, sat the Tatars. There were five of them, the"
+    },
+    {
+      "start": 1028.37,
+      "end": 1034.81,
+      "text": "red-bearded man, the swarthy man, and three guests. Soft, bulging cushions had been placed"
+    },
+    {
+      "start": 1034.81,
+      "end": 1041.21,
+      "text": "behind the backs of them all, and in front of them, on a small platter, were bolted pancakes,"
+    },
+    {
+      "start": 1041.21,
+      "end": 1047.75,
+      "text": "beef distributed in little cups, and the Tatar beverage, bousa, in a kuvshin chick."
+    },
+    {
+      "start": 1047.75,
+      "end": 1051.83,
+      "text": "They ate with their hands, and all their hands were in the meat."
+    },
+    {
+      "start": 1051.83,
+      "end": 1057.55,
+      "text": "The swarthy man leaped to his feet, and bade Gillin sit down apart, not on the carpet,"
+    },
+    {
+      "start": 1057.55,
+      "end": 1059.35,
+      "text": "but on the bare floor."
+    },
+    {
+      "start": 1059.35,
+      "end": 1065.07,
+      "text": "Then he went back to his carpet, and regaled his guests with pancakes and boozer."
+    },
+    {
+      "start": 1065.07,
+      "end": 1068.75,
+      "text": "The laborer made Gillin sit down in the place assigned to him."
+    },
+    {
+      "start": 1068.75,
+      "end": 1073.75,
+      "text": "He himself took off his outer bash-max, placed them side by side at the door, where the"
+    },
+    {
+      "start": 1073.75,
+      "end": 1079.21,
+      "text": "The other bashmak stood, then sat down on the felt nearer to his masters. He watched"
+    },
+    {
+      "start": 1079.21,
+      "end": 1085.27,
+      "text": "how they ate, and his mouth watered as he wiped it. When the Tatars had eaten the pancakes,"
+    },
+    {
+      "start": 1085.27,
+      "end": 1090.21,
+      "text": "a Tatar woman appeared in just the same sort of blouse that the girl had worn, and in"
+    },
+    {
+      "start": 1090.21,
+      "end": 1096.75,
+      "text": "trousers also, her head was covered with a cloth. She took away the meat and the pancakes,"
+    },
+    {
+      "start": 1096.75,
+      "end": 1102.97,
+      "text": "and brought round a good washing vessel, and a kuvshin with a very narrow spout."
+    },
+    {
+      "start": 1102.97,
+      "end": 1108.41,
+      "text": "The Tatars then began washing their hands. Then they folded their arms, squatted down"
+    },
+    {
+      "start": 1108.41,
+      "end": 1115.17,
+      "text": "on their knees, belched in every direction, and recited prayers. Then they talked among"
+    },
+    {
+      "start": 1115.17,
+      "end": 1122.45,
+      "text": "themselves. Finally, one of the guests turned towards Jilin and began to speak in Russian."
+    },
+    {
+      "start": 1122.45,
+      "end": 1128.65,
+      "text": "\"'Kazi Muhammad took thee,' said he, pointing to the red-bearded Tata, and has sold thee"
+    },
+    {
+      "start": 1128.65,
+      "end": 1136.67,
+      "text": "to Abdul Murad, and he indicated the swarthy Tatar. Abdul Murad is now thy master.\""
+    },
+    {
+      "start": 1136.67,
+      "end": 1142.55,
+      "text": "Jeline was silent. Then Abdul Murad began to speak, and kept on pointing at Jeline,"
+    },
+    {
+      "start": 1142.55,
+      "end": 1150.57,
+      "text": "and laughed and said several times, soldat urus, korosho urus. The interpreter said,"
+    },
+    {
+      "start": 1150.57,
+      "end": 1155.61,
+      "text": "he bids thee write a letter home in order that they may send a ransom for thee. As soon"
+    },
+    {
+      "start": 1155.61,
+      "end": 1159.95,
+      "text": "as they send the money, thou shalt be set free.\""
+    },
+    {
+      "start": 1159.95,
+      "end": 1162.35,
+      "text": "Jeline thought for a moment, and then said,"
+    },
+    {
+      "start": 1162.35,
+      "end": 1165.67,
+      "text": "\"'How much ransom does he require?\""
+    },
+    {
+      "start": 1165.67,
+      "end": 1169.91,
+      "text": "The Tatars talked among themselves, and then the interpreter said,"
+    },
+    {
+      "start": 1169.91,
+      "end": 1171.83,
+      "text": "\"'Three thousand monies.'\""
+    },
+    {
+      "start": 1171.83,
+      "end": 1173.39,
+      "text": "\"'No,' said Jeline."
+    },
+    {
+      "start": 1173.39,
+      "end": 1176.07,
+      "text": "\"'I cannot pay that.'\""
+    },
+    {
+      "start": 1176.07,
+      "end": 1180.55,
+      "text": "Abdul started up and began waving his hands, and said something to Jeline."
+    },
+    {
+      "start": 1180.55,
+      "end": 1182.51,
+      "text": "They all thought he understood."
+    },
+    {
+      "start": 1182.51,
+      "end": 1187.25,
+      "text": "The interpreter interpreted, saying, How much wilt thou give?"
+    },
+    {
+      "start": 1187.25,
+      "end": 1192.69,
+      "text": "Zilin reflected, and then said, Five hundred roubles."
+    },
+    {
+      "start": 1192.69,
+      "end": 1199.37,
+      "text": "At this the Tatars chatted a great deal, and all together. Abdul began to screech at the"
+    },
+    {
+      "start": 1199.37,
+      "end": 1205.85,
+      "text": "red-bearded Tatar, and got so excited that the spittle trickled from his mouth. The red-bearded"
+    },
+    {
+      "start": 1205.85,
+      "end": 1211.81,
+      "text": "Tatar only blinked his eyes and clicked with his tongue. Then they were silent again,"
+    },
+    {
+      "start": 1211.81,
+      "end": 1217.73,
+      "text": "the interpreter said, \"'Thy master thinks a ransom of five hundred rubles too little."
+    },
+    {
+      "start": 1217.73,
+      "end": 1222.85,
+      "text": "He himself paid two hundred rubles for thee. Qazi Muhammad owed him that, and he took"
+    },
+    {
+      "start": 1222.85,
+      "end": 1227.41,
+      "text": "thee in discharge of the debt. Three thousand rubles is the least they will let thee go"
+    },
+    {
+      "start": 1227.41,
+      "end": 1232.43,
+      "text": "for, and if thou dost not write, they will put thee in the dungeon and punish thee with"
+    },
+    {
+      "start": 1232.43,
+      "end": 1237.89,
+      "text": "scourging.' What am I to do with them? This is even worse than I thought,\" said"
+    },
+    {
+      "start": 1237.89,
+      "end": 1241.25,
+      "text": "Jeline to himself. Then he leaped to his feet and said,"
+    },
+    {
+      "start": 1242.05,
+      "end": 1247.01,
+      "text": "Tell him, thou dog, that if he wants to frighten me, I won't give him a copack."
+    },
+    {
+      "start": 1247.01,
+      "end": 1252.05,
+      "text": "Neither will I write at all, I have never feared, and I will not fear you now, you dog."
+    },
+    {
+      "start": 1253.17,
+      "end": 1259.01,
+      "text": "The interpreter interpreted, and again they all began talking at once. For a long time they"
+    },
+    {
+      "start": 1259.01,
+      "end": 1263.41,
+      "text": "debated, and then the swarthy man leaped to his feet and came to Jeline."
+    },
+    {
+      "start": 1263.41,
+      "end": 1271.95,
+      "text": "Uruz, said he. Jiget, Jiget, Uruz.\" And then he laughed. Jiget, in their language,"
+    },
+    {
+      "start": 1271.95,
+      "end": 1278.35,
+      "text": "signifies youth. Then he said something to the interpreter, and the interpreter said,"
+    },
+    {
+      "start": 1278.35,
+      "end": 1283.33,
+      "text": "Give a thousand roubles. Jeline stood to his guns."
+    },
+    {
+      "start": 1283.33,
+      "end": 1289.19,
+      "text": "More than five hundred I will not give, said he. You may kill me if you like,"
+    },
+    {
+      "start": 1289.19,
+      "end": 1295.41,
+      "text": "leg, but you'll get no more out of me.\" The Tatars fell a-talking together again, then"
+    },
+    {
+      "start": 1295.41,
+      "end": 1301.23,
+      "text": "they sent out the laborer for some one, and kept looking at the door and at Gillia. Presently"
+    },
+    {
+      "start": 1301.23,
+      "end": 1307.65,
+      "text": "the workman came back and brought with him a man, stout, bare-legged, and cheery-looking."
+    },
+    {
+      "start": 1307.65,
+      "end": 1313.73,
+      "text": "He also had a calodka fasten to his leg. Then Gillian sighed indeed, for he recognized"
+    },
+    {
+      "start": 1313.73,
+      "end": 1320.37,
+      "text": "Costulin, so they had taken him too then. The Tatars placed them side by side, they"
+    },
+    {
+      "start": 1320.37,
+      "end": 1326.43,
+      "text": "began talking to each other, and the Tatars were silent and looked on. Gillian related"
+    },
+    {
+      "start": 1326.43,
+      "end": 1331.39,
+      "text": "how it had fared with him. Costulin told him that his horse had sunk under him, that his"
+    },
+    {
+      "start": 1331.39,
+      "end": 1339.23,
+      "text": "musket had missed fire, and that that self-same Abdul had chased and captured him. Abdul,"
+    },
+    {
+      "start": 1339.23,
+      "end": 1345.15,
+      "text": "to his feet, pointed at Costwilin, and said something. The interpreter interpreted that"
+    },
+    {
+      "start": 1345.15,
+      "end": 1350.07,
+      "text": "they both of them had now one master, and whichever of them paid up first should be"
+    },
+    {
+      "start": 1350.07,
+      "end": 1351.67,
+      "text": "released first."
+    },
+    {
+      "start": 1351.67,
+      "end": 1357.39,
+      "text": "\"'Look now,' said he to Jeline, \"'thou makest such a to-do, but thy comrade takes"
+    },
+    {
+      "start": 1357.39,
+      "end": 1362.91,
+      "text": "it quietly. He has written a letter home telling them to send five thousand roubles."
+    },
+    {
+      "start": 1362.91,
+      "end": 1366.31,
+      "text": "Look now. He shall be fed well, and shall be respected.\""
+    },
+    {
+      "start": 1366.31,
+      "end": 1370.39,
+      "text": "My comrade can do as he likes,\" said Gyllyn."
+    },
+    {
+      "start": 1370.39,
+      "end": 1373.95,
+      "text": "No doubt he is rich, but I am not rich."
+    },
+    {
+      "start": 1373.95,
+      "end": 1376.71,
+      "text": "What I have said, that will I do."
+    },
+    {
+      "start": 1376.71,
+      "end": 1381.67,
+      "text": "You may kill me if you like, but you will get little profit out of that."
+    },
+    {
+      "start": 1381.67,
+      "end": 1385.59,
+      "text": "I will not write for more than five hundred rubles.\""
+    },
+    {
+      "start": 1385.59,
+      "end": 1388.35,
+      "text": "They were silent for a while."
+    },
+    {
+      "start": 1388.35,
+      "end": 1393.15,
+      "text": "Suddenly, Abdul leaped up and produced a small coffer, took out a pen,"
+    },
+    {
+      "start": 1393.15,
+      "end": 1398.95,
+      "text": "in, a piece of paper and ink, forced them upon Jeline, tapped him on the shoulder, and"
+    },
+    {
+      "start": 1398.95,
+      "end": 1404.27,
+      "text": "pointing to them said, Right! He had agreed to take five hundred roubles."
+    },
+    {
+      "start": 1404.27,
+      "end": 1410.19,
+      "text": "Wait a bit, said Jeline to the interpreter. Tell him that he must feed us well, clothe"
+    },
+    {
+      "start": 1410.19,
+      "end": 1415.71,
+      "text": "and shoo us decently, and let us be together. We shall be happier then, and take off the"
+    },
+    {
+      "start": 1415.71,
+      "end": 1422.59,
+      "text": "calodka. He himself then looked at his master and laughed, and his master laughed likewise."
+    },
+    {
+      "start": 1422.59,
+      "end": 1428.83,
+      "text": "He heard the interpreter out, and then said, I will give you the best of clothing, a Circassian"
+    },
+    {
+      "start": 1428.83,
+      "end": 1434.81,
+      "text": "costume and good boots, you might be married in them, and I'll feed you like princes,"
+    },
+    {
+      "start": 1434.81,
+      "end": 1439.75,
+      "text": "and if you want to dwell together, well, you can dwell in the outhouse. I can't take"
+    },
+    {
+      "start": 1439.75,
+      "end": 1445.51,
+      "text": "off the colodka, you would run away, only at night can I take it off."
+    },
+    {
+      "start": 1445.51,
+      "end": 1447.91,
+      "text": "Then he rushed forward and tapped him on the shoulder."
+    },
+    {
+      "start": 1447.91,
+      "end": 1454.23,
+      "text": "\"'Thy good is my good,\" said he. Then Jilin wrote the letter, and he wrote no address"
+    },
+    {
+      "start": 1454.23,
+      "end": 1460.87,
+      "text": "on the letter, so that it should not go, but he thought to himself, \"'I'll run away.'\""
+    },
+    {
+      "start": 1460.87,
+      "end": 1465.55,
+      "text": "Then they led away Jilin and Costulin to the outhouse, brought them maize straw to"
+    },
+    {
+      "start": 1465.55,
+      "end": 1471.59,
+      "text": "spread on the ground, water in a cushion, bread, two old Circassian costumes, and two"
+    },
+    {
+      "start": 1471.59,
+      "end": 1476.11,
+      "text": "pairs of tattered military boots. They had plainly been taken from off the feet of"
+    },
+    {
+      "start": 1476.11,
+      "end": 1483.39,
+      "text": "slain soldiers. At night they took off their kolodky and fastened the door. Three. Jeline"
+    },
+    {
+      "start": 1483.39,
+      "end": 1489.31,
+      "text": "and his comrade lived there for a whole month, and Jeline's master was as radiant as ever."
+    },
+    {
+      "start": 1489.31,
+      "end": 1496.55,
+      "text": "Even, he would say, laughing, thy good is my good, Abdul's good. They were badly fed"
+    },
+    {
+      "start": 1496.55,
+      "end": 1502.35,
+      "text": "all the same, getting nothing but unleavened bread, made from indifferent meal, and tough"
+    },
+    {
+      "start": 1502.35,
+      "end": 1508.35,
+      "text": "and doughy hearth cakes. Costulin wrote home once more, and waited for the money to be"
+    },
+    {
+      "start": 1508.35,
+      "end": 1514.23,
+      "text": "sent, in utter weariness. The whole day they sat in the outhouse, and counted the days"
+    },
+    {
+      "start": 1514.23,
+      "end": 1519.55,
+      "text": "it would take the letter to arrive, or else they slept Gillin, however, knew very well"
+    },
+    {
+      "start": 1519.55,
+      "end": 1523.11,
+      "text": "that his letter would not arrive, and he did not write another."
+    },
+    {
+      "start": 1523.11,
+      "end": 1528.47,
+      "text": "Where I should like to know, thought he, would my mother be able to scrape together"
+    },
+    {
+      "start": 1528.47,
+      "end": 1534.47,
+      "text": "so much money to pay me out. It was as much as she could do to live on what I sent her,"
+    },
+    {
+      "start": 1534.47,
+      "end": 1539.91,
+      "text": "if she had to collect five the floor, and then sat down and looked at Jeline, and smiling"
+    },
+    {
+      "start": 1539.91,
+      "end": 1542.71,
+      "text": "all over, kept pointing at the pitcher."
+    },
+    {
+      "start": 1542.71,
+      "end": 1550.27,
+      "text": "Why is she so delighted, thought Jeline. Then he took up the pitcher and began to drink."
+    },
+    {
+      "start": 1550.27,
+      "end": 1554.87,
+      "text": "He thought it was water, but it was milk. He drank all the milk."
+    },
+    {
+      "start": 1554.87,
+      "end": 1564.07,
+      "text": "Corosho, said he. How rejoiced Dina was then. Corosho Ivan Corosho, she repeated, and leaping"
+    },
+    {
+      "start": 1564.07,
+      "end": 1569.99,
+      "text": "to her feet, she clapped her hands, snatched up the pitcher, and ran off. And from thenceforth"
+    },
+    {
+      "start": 1569.99,
+      "end": 1576.95,
+      "text": "she, every day, brought him some milk privately. Now the Tatars used to make cheesecakes out of"
+    },
+    {
+      "start": 1576.95,
+      "end": 1582.55,
+      "text": "goat's milk and dried them on their roofs, and these cheesecakes she also supplied him with"
+    },
+    {
+      "start": 1582.55,
+      "end": 1588.47,
+      "text": "secretly. And once, when the master of the house slaughtered a sheep, she brought him a bit of"
+    },
+    {
+      "start": 1588.47,
+      "end": 1595.03,
+      "text": "mutton in her sleeve, flung it down before him, and ran off. Occasionally there were heavy storms,"
+    },
+    {
+      "start": 1595.03,
+      "end": 1600.07,
+      "text": "and the rain poured down for a whole hour as if out of a bucket, and all the streams grew"
+    },
+    {
+      "start": 1600.07,
+      "end": 1606.23,
+      "text": "turbid and overflowed. Where there had been a ford, there was then three arshins of water,"
+    },
+    {
+      "start": 1606.23,
+      "end": 1611.51,
+      "text": "and the stones were whirled from their places. Streams then flowed everywhere,"
+    },
+    {
+      "start": 1611.51,
+      "end": 1616.71,
+      "text": "and there was a distant roar in the mountains, and so when the storm had passed over, the whole"
+    },
+    {
+      "start": 1616.71,
+      "end": 1623.35,
+      "text": "village was full of watercourses. After one of these storms, Gillian asked his master to lend"
+    },
+    {
+      "start": 1623.35,
+      "end": 1628.79,
+      "text": "him a knife, carved out a little cylinder and a little board, attached a wheel to them,"
+    },
+    {
+      "start": 1628.79,
+      "end": 1634.39,
+      "text": "and fastened a puppet at each end of the wheel. The girls thereupon brought him rags,"
+    },
+    {
+      "start": 1634.39,
+      "end": 1640.15,
+      "text": "and he dressed up one of his puppets as a man, and the other as a woman, fastened them well in,"
+    },
+    {
+      "start": 1640.15,
+      "end": 1646.39,
+      "text": "and placed the wheel in the stream, whereupon the wheel turned and the puppets leaped up and down."
+    },
+    {
+      "start": 1647.19,
+      "end": 1652.55,
+      "text": "The whole village assembled to look at them. The little boys came, and the little girls and the"
+    },
+    {
+      "start": 1652.55,
+      "end": 1658.23,
+      "text": "women, and at last the Tatars themselves, and they clicked their tongues and said,"
+    },
+    {
+      "start": 1658.23,
+      "end": 1667.43,
+      "text": "Aye! Uros! Aye! Ivan! Now Abdul had some broken Russian watches. He called Jeline,"
+    },
+    {
+      "start": 1667.43,
+      "end": 1671.75,
+      "text": "pointed at these watches, and clicked with his tongue. Gillian said,"
+    },
+    {
+      "start": 1672.39,
+      "end": 1677.43,
+      "text": "Give them to me and I'll repair them. He took them to pieces with the help of his knife,"
+    },
+    {
+      "start": 1677.43,
+      "end": 1681.43,
+      "text": "examined them, put them together again, and returned them to their owner."
+    },
+    {
+      "start": 1682.15,
+      "end": 1687.27,
+      "text": "The watches were now going. Gillian's master was greatly delighted at this,"
+    },
+    {
+      "start": 1687.27,
+      "end": 1692.15,
+      "text": "and brought him his old bechmet, which was all in rags, and gave it to him to mend."
+    },
+    {
+      "start": 1692.15,
+      "end": 1698.43,
+      "text": "end. What could Jeline do but take and mend it? And the same night its owner was able"
+    },
+    {
+      "start": 1698.43,
+      "end": 1705.03,
+      "text": "to cover himself with it. From henceforth Jeline had the reputation of a master craftsman."
+    },
+    {
+      "start": 1705.03,
+      "end": 1710.59,
+      "text": "The people used now to come to him from distant villages. One sent his matchlock or his pistol"
+    },
+    {
+      "start": 1710.59,
+      "end": 1716.25,
+      "text": "to Jeline to be mended, another sent his watch or clock. His master even gave him various"
+    },
+    {
+      "start": 1716.25,
+      "end": 1722.33,
+      "text": "utensils to mend, such as snuffers, gimlets, and other things. Once one of the Tatars fell"
+    },
+    {
+      "start": 1722.33,
+      "end": 1725.17,
+      "text": "ill and they sent for Gillian to see him."
+    },
+    {
+      "start": 1725.17,
+      "end": 1728.29,
+      "text": "Gillian- Come and cure him! said they."
+    },
+    {
+      "start": 1728.29,
+      "end": 1733.61,
+      "text": "Now Gillian knew nothing at all about curing. Nevertheless, he went, looked at the man,"
+    },
+    {
+      "start": 1733.61,
+      "end": 1740.17,
+      "text": "and thought, Who knows? Perhaps he may get well by himself. So he went back to the outhouse,"
+    },
+    {
+      "start": 1740.17,
+      "end": 1745.93,
+      "text": "got water and sand, and mixed them both together. Then he whispered something over the water"
+    },
+    {
+      "start": 1745.93,
+      "end": 1752.33,
+      "text": "in the tatar's presence and gave him the mixture to drink. Fortunately for him the tatar recovered."
+    },
+    {
+      "start": 1752.97,
+      "end": 1758.97,
+      "text": "Then Jilin began to stand very high indeed in their opinion, and these tatars who had got used"
+    },
+    {
+      "start": 1758.97,
+      "end": 1765.37,
+      "text": "to him used to cry, Ivan, even, whenever they wanted him, and all of them treated him as if"
+    },
+    {
+      "start": 1765.37,
+      "end": 1772.57,
+      "text": "he were some pet domestic animal. But the red-bearded tatar did not like Jilin. Whenever he saw him"
+    },
+    {
+      "start": 1772.57,
+      "end": 1779.61,
+      "text": "he would frown and turn away, even if he didn't scold him outright. Now these Tatars hail an old"
+    },
+    {
+      "start": 1779.61,
+      "end": 1785.69,
+      "text": "chief who did not live in the owl, but up in the mountains. The only time when he saw Jilin"
+    },
+    {
+      "start": 1785.69,
+      "end": 1791.45,
+      "text": "was when he came to pray to God in the mosque. He was small in stature, and a white handkerchief"
+    },
+    {
+      "start": 1791.45,
+      "end": 1797.45,
+      "text": "was always wound around his turban. His beard and mustaches were clipped short and as white"
+    },
+    {
+      "start": 1797.45,
+      "end": 1804.01,
+      "text": "is down, his face was red like a brick and wrinkled. He had the curved nose of a vulture,"
+    },
+    {
+      "start": 1804.01,
+      "end": 1810.81,
+      "text": "gray, evil eyes, and no teeth, except a couple of fangs. He used to come in his turban,"
+    },
+    {
+      "start": 1810.81,
+      "end": 1816.65,
+      "text": "leaning on his crutch, and glaring about him like an old wolf. Whenever he saw Jeline he"
+    },
+    {
+      "start": 1816.65,
+      "end": 1823.45,
+      "text": "began to snarl and turned away. Once Jeline went up the mountain to see how the old chief lived."
+    },
+    {
+      "start": 1823.45,
+      "end": 1829.25,
+      "text": "left. As he went along a little path he saw a little garden surrounded by a stone fence"
+    },
+    {
+      "start": 1829.25,
+      "end": 1835.97,
+      "text": "with wild cherry and peach trees looking over it, and inside a little hut with a flat roof."
+    },
+    {
+      "start": 1835.97,
+      "end": 1841.85,
+      "text": "Gillian approached nearer, and then he saw beehives made of plated straw, oolui they"
+    },
+    {
+      "start": 1841.85,
+      "end": 1847.09,
+      "text": "called them, and the bees flying about and humming, and the little old man was on his"
+    },
+    {
+      "start": 1847.09,
+      "end": 1852.73,
+      "text": "tiny knees doing something to the hives. Gillian raised himself a little higher to have a"
+    },
+    {
+      "start": 1852.73,
+      "end": 1859.29,
+      "text": "better look, and his calotka grated. The little old man looked round and whined aloud, then"
+    },
+    {
+      "start": 1859.29,
+      "end": 1865.85,
+      "text": "he drew a pistol out of his girdle and fired point-blank at Jeline. After firing, he hid"
+    },
+    {
+      "start": 1865.85,
+      "end": 1871.61,
+      "text": "behind a stone. Next morning the old man came down to Jeline's master to complain of him."
+    },
+    {
+      "start": 1872.17,
+      "end": 1874.81,
+      "text": "Jeline's master called him and said to him with a laugh,"
+    },
+    {
+      "start": 1875.45,
+      "end": 1881.21,
+      "text": "Why didst thou go to the old man? I did him no harm, said Jeline. I only wanted to see"
+    },
+    {
+      "start": 1881.21,
+      "end": 1885.89,
+      "text": "how he lived. Gillian's master interpreted. The old man"
+    },
+    {
+      "start": 1885.89,
+      "end": 1891.83,
+      "text": "was very angry, however. He hissed and gabbled, and his two fangs protruded, and he shook"
+    },
+    {
+      "start": 1891.83,
+      "end": 1897.73,
+      "text": "his fist at Gillian. Gillian did not understand it at all. All he understood was that the"
+    },
+    {
+      "start": 1897.73,
+      "end": 1904.73,
+      "text": "old man bade his master kill all the Russians and not keep any of them in the aisle. Finally,"
+    },
+    {
+      "start": 1904.73,
+      "end": 1909.77,
+      "text": "the old man went away. Gillian now began to ask his master who the little old man"
+    },
+    {
+      "start": 1909.77,
+      "end": 1916.73,
+      "text": "was, and this is what his master told him. That is a great man. He was our foremost zhiget"
+    },
+    {
+      "start": 1916.73,
+      "end": 1922.57,
+      "text": "and has killed many Russians. He is also rich. Once he had eight sons, and they all"
+    },
+    {
+      "start": 1922.57,
+      "end": 1928.65,
+      "text": "dwelt together in one village. The Russians came, destroyed the village, and slew seven"
+    },
+    {
+      "start": 1928.65,
+      "end": 1934.81,
+      "text": "of his sons. One son only remained, and he surrendered to the Russians. Then the old"
+    },
+    {
+      "start": 1934.81,
+      "end": 1940.97,
+      "text": "man went away and surrendered himself also to the Russians. He lived with them for three months,"
+    },
+    {
+      "start": 1940.97,
+      "end": 1947.53,
+      "text": "found out where his son was, slew him, and ran away. From thenceforth he renounced warfare and"
+    },
+    {
+      "start": 1947.53,
+      "end": 1954.73,
+      "text": "went to Mecca, to pray to God. Hence, he has his turban. Whoever has been to Mecca is called"
+    },
+    {
+      "start": 1954.73,
+      "end": 1961.77,
+      "text": "Haj-I, and may put on a turban. He does not love thy brother. He bade me slay thee, but I will"
+    },
+    {
+      "start": 1961.77,
+      "end": 1967.21,
+      "text": "will not slay thee, because I want to make money out of thee. And besides, I have begun"
+    },
+    {
+      "start": 1967.21,
+      "end": 1972.37,
+      "text": "to love thee, Ivan, and so far from killing thee, I would not let thee go away at all if"
+    },
+    {
+      "start": 1972.37,
+      "end": 1977.57,
+      "text": "I hadn't given my word upon it.\" He laughed, and then he added in Russian,"
+    },
+    {
+      "start": 1977.57,
+      "end": 1987.46,
+      "text": "\"'The welfare of thee, Ivan, is the welfare of me, Abdul. Four.' So Jeline lived like"
+    },
+    {
+      "start": 1987.46,
+      "end": 1992.22,
+      "text": "this for a month. In the daytime he went about the ole, or made all sorts of things"
+    },
+    {
+      "start": 1992.22,
+      "end": 1997.94,
+      "text": "with his hands, and when night came, and all was silent in the ole, he began digging inside"
+    },
+    {
+      "start": 1997.94,
+      "end": 2003.14,
+      "text": "his outhouse. Digging was difficult because of the rock, but he fretted away the rock"
+    },
+    {
+      "start": 2003.14,
+      "end": 2008.16,
+      "text": "with a file, and dug a hole under the wall, through which, at the proper time, he meant"
+    },
+    {
+      "start": 2008.16,
+      "end": 2009.16,
+      "text": "to crawl."
+    },
+    {
+      "start": 2009.16,
+      "end": 2015.02,
+      "text": "\"'If only I knew the place fairly well,' he said to himself. If only I knew in which"
+    },
+    {
+      "start": 2015.02,
+      "end": 2020.76,
+      "text": "direction to go. But the Tatars never give themselves away.\""
+    },
+    {
+      "start": 2020.76,
+      "end": 2025.44,
+      "text": "One day he chose a time when his master had gone away, and after dinner he went up the"
+    },
+    {
+      "start": 2025.44,
+      "end": 2030.9,
+      "text": "mountain behind the owl. He wanted to survey the whole place from thence. But when his"
+    },
+    {
+      "start": 2030.9,
+      "end": 2036.5,
+      "text": "master went away, he had commanded a lad to follow Jeline wherever he went and not lose"
+    },
+    {
+      "start": 2036.5,
+      "end": 2040.6,
+      "text": "sight of him. So the youngster ran after Jeline and cried,"
+    },
+    {
+      "start": 2040.6,
+      "end": 2045.48,
+      "text": "Don't go! Father didn't tell you to. I'll call the pupil this instant."
+    },
+    {
+      "start": 2045.48,
+      "end": 2048.04,
+      "text": "Gillien set about persuading him."
+    },
+    {
+      "start": 2048.04,
+      "end": 2050.36,
+      "text": "I'm not going far, said he."
+    },
+    {
+      "start": 2050.36,
+      "end": 2052.74,
+      "text": "I only want to climb that mountain there."
+    },
+    {
+      "start": 2052.74,
+      "end": 2055.46,
+      "text": "I want to find herbs to cure your people."
+    },
+    {
+      "start": 2055.46,
+      "end": 2056.46,
+      "text": "Come with me."
+    },
+    {
+      "start": 2056.46,
+      "end": 2061.08,
+      "text": "I can't run away with this Kolodka on my leg, and tomorrow I'll make you a bow and"
+    },
+    {
+      "start": 2061.08,
+      "end": 2062.72,
+      "text": "arrows.\""
+    },
+    {
+      "start": 2062.72,
+      "end": 2066.2,
+      "text": "So he persuaded the lad, and they went together."
+    },
+    {
+      "start": 2066.2,
+      "end": 2070.8,
+      "text": "The mountain did not seem far, but it was difficult going with the Kolodka."
+    },
+    {
+      "start": 2070.8,
+      "end": 2075.28,
+      "text": "He went on and on, and it taxed his utmost strength."
+    },
+    {
+      "start": 2075.28,
+      "end": 2081.08,
+      "text": "he got to the summit, Jeline sat down to take a good look at the place. To the south, behind"
+    },
+    {
+      "start": 2081.08,
+      "end": 2086.5,
+      "text": "the outhouse was a gully, a tavern was roaming along there, and another owl was visible as"
+    },
+    {
+      "start": 2086.5,
+      "end": 2092.16,
+      "text": "a tiny point. Beyond this owl was another and still steeper mountain, and behind this"
+    },
+    {
+      "start": 2092.16,
+      "end": 2097.36,
+      "text": "mountain yet another. Between the mountains was the blue outline of a wood, and there"
+    },
+    {
+      "start": 2097.36,
+      "end": 2103.16,
+      "text": "could be seen other mountains rising higher and higher, and higher than all, as white"
+    },
+    {
+      "start": 2103.16,
+      "end": 2108.96,
+      "text": "as sugar stood yet other mountains covered with snow, and one snowy mountain with a cap"
+    },
+    {
+      "start": 2108.96,
+      "end": 2115.8,
+      "text": "on stood out higher than all the rest. On the east and on the west were similar mountains,"
+    },
+    {
+      "start": 2115.8,
+      "end": 2119.8,
+      "text": "here and there smoking als could be seen in the ravines."
+    },
+    {
+      "start": 2119.8,
+      "end": 2126.72,
+      "text": "Well, thought Sheelin, all that is their part of the country."
+    },
+    {
+      "start": 2126.72,
+      "end": 2131.76,
+      "text": "Then he began looking towards the Russian side. At his feet were the stream, his own"
+    },
+    {
+      "start": 2131.76,
+      "end": 2138.14,
+      "text": "all, and little gardens all around. By the stream, like so many little puppets, the women"
+    },
+    {
+      "start": 2138.14,
+      "end": 2144.28,
+      "text": "were sitting and rinsing clothes. Behind the owl, somewhat lower down, was a mountain with"
+    },
+    {
+      "start": 2144.28,
+      "end": 2150.24,
+      "text": "two other mountains in between, and after that came woods, and between the two mountains,"
+    },
+    {
+      "start": 2150.24,
+      "end": 2156.92,
+      "text": "looking blue in the distance, was a level space, and far, far away. In this level space,"
+    },
+    {
+      "start": 2156.92,
+      "end": 2162.36,
+      "text": "smoke was rising. Jeline tried to remember where the sun used to rise and where it used"
+    },
+    {
+      "start": 2162.36,
+      "end": 2168.78,
+      "text": "to set when he lived at home in the fortress, and then he saw that our fortress must needs"
+    },
+    {
+      "start": 2168.78,
+      "end": 2176.2,
+      "text": "be on that very plain. Thither then, between the two mountains, his flight must lie."
+    },
+    {
+      "start": 2176.2,
+      "end": 2182.4,
+      "text": "The sun was beginning to set. The snow-covered mountains turned from white to rosy red. The"
+    },
+    {
+      "start": 2182.4,
+      "end": 2187.76,
+      "text": "black mountains grew darker. The mist began to ascend from the gullies, and that very"
+    },
+    {
+      "start": 2187.76,
+      "end": 2194.4,
+      "text": "valley in which the Russian fortress needs must be glowed like a fire in the distant west."
+    },
+    {
+      "start": 2194.4,
+      "end": 2199.56,
+      "text": "Jilin looked steadily in that direction. Something was dimly visible in the valley like smoke"
+    },
+    {
+      "start": 2199.56,
+      "end": 2205.12,
+      "text": "from a tube, and he thought to himself that must be the Russian fortress itself. It was"
+    },
+    {
+      "start": 2205.12,
+      "end": 2210.44,
+      "text": "getting late. The cry of the mullah could be heard from where they were. The flocks"
+    },
+    {
+      "start": 2210.44,
+      "end": 2215.72,
+      "text": "were being driven homeward, the cows were lowing. The little lad kept on saying,"
+    },
+    {
+      "start": 2215.72,
+      "end": 2221.96,
+      "text": "Let's be going. But Jeline did not want to go. At last, however, they turned homeward."
+    },
+    {
+      "start": 2222.68,
+      "end": 2228.6,
+      "text": "Well, thought Jeline, at any rate I know the place now, and must make a bolt for it."
+    },
+    {
+      "start": 2229.48,
+      "end": 2234.28,
+      "text": "He would have liked to have escaped that very night. The nights just then were dark,"
+    },
+    {
+      "start": 2234.28,
+      "end": 2240.04,
+      "text": "the moon was on the wane. Unfortunately the Tatars returned that very evening."
+    },
+    {
+      "start": 2240.04,
+      "end": 2245.32,
+      "text": "They used to come in driving captured cattle before them in a merry mood, but on this occasion"
+    },
+    {
+      "start": 2245.32,
+      "end": 2251.0,
+      "text": "they drove in nothing at all and brought along with them on his saddle a slain tatar,"
+    },
+    {
+      "start": 2251.0,
+      "end": 2257.64,
+      "text": "the brother of the red bearded tatar. They arrived very wrathful and gathered together"
+    },
+    {
+      "start": 2257.64,
+      "end": 2264.6,
+      "text": "to bury their comrade. Jilin also came out to see what was going on. They wrapped the corpse in"
+    },
+    {
+      "start": 2264.6,
+      "end": 2268.84,
+      "text": "a piece of cloth without a coffin, then they placed it on the grass in the middle of the"
+    },
+    {
+      "start": 2268.84,
+      "end": 2274.62,
+      "text": "the village under a plain tree. The mullah arrived, and they all squatted down together"
+    },
+    {
+      "start": 2274.62,
+      "end": 2280.1,
+      "text": "on their heels in front of the corpse. The mullah was in front. Behind him sat the three"
+    },
+    {
+      "start": 2280.1,
+      "end": 2286.24,
+      "text": "village elders in their turbans, and in a row with and behind them some more tatars."
+    },
+    {
+      "start": 2286.24,
+      "end": 2292.62,
+      "text": "There they sat with dejected eyes and in silence. The silence lasted for a long time,"
+    },
+    {
+      "start": 2292.62,
+      "end": 2295.22,
+      "text": "and then the mullah raised his head and spoke."
+    },
+    {
+      "start": 2295.22,
+      "end": 2300.86,
+      "text": "\"'Allah,' he said. It was the only word he spoke, and once more they all cast down"
+    },
+    {
+      "start": 2300.86,
+      "end": 2306.82,
+      "text": "their eyes and were silent for a long time. They sat there without stirring. Again the"
+    },
+    {
+      "start": 2306.82,
+      "end": 2308.82,
+      "text": "mullah raised his voice."
+    },
+    {
+      "start": 2308.82,
+      "end": 2315.14,
+      "text": "\"'Allah! Allah!' they all repeated, and were again silent. The dead man was lying"
+    },
+    {
+      "start": 2315.14,
+      "end": 2321.3,
+      "text": "on the grass. He moved not, and they all sat round him like dead men. Not one of them"
+    },
+    {
+      "start": 2321.3,
+      "end": 2326.7,
+      "text": "stirred. The only thing to be Ahaered was the quivering of the tiny leaves of the plain"
+    },
+    {
+      "start": 2326.7,
+      "end": 2333.46,
+      "text": "tree in the light breeze. Then the mullah recited the prayer, and they all stood up,"
+    },
+    {
+      "start": 2333.46,
+      "end": 2338.9,
+      "text": "raised the dead man, and carried him away. They carried him to the grave. The grave was"
+    },
+    {
+      "start": 2338.9,
+      "end": 2344.18,
+      "text": "not simply dug out, but burrowed underneath the ground like a cellar. They lifted the"
+    },
+    {
+      "start": 2344.18,
+      "end": 2349.08,
+      "text": "dead man beneath the shoulders and under the legs, bent him a little inwards, and slowly"
+    },
+    {
+      "start": 2349.08,
+      "end": 2354.16,
+      "text": "let him go, thrusting him in under the earth in a sitting position and pulling his arms"
+    },
+    {
+      "start": 2354.16,
+      "end": 2359.56,
+      "text": "straight down close to his body. The Nogates then brought green rushes and filled up the"
+    },
+    {
+      "start": 2359.56,
+      "end": 2365.24,
+      "text": "hole therewith, strewed it with fresh earth, made it level, and placed at the head of the"
+    },
+    {
+      "start": 2365.24,
+      "end": 2372.44,
+      "text": "dead man an upright stone. Then they stamped down the earth, again, sat them round about"
+    },
+    {
+      "start": 2372.44,
+      "end": 2375.92,
+      "text": "the grave, and were for a long time silent."
+    },
+    {
+      "start": 2375.92,
+      "end": 2376.92,
+      "text": "Allah!"
+    },
+    {
+      "start": 2376.92,
+      "end": 2377.92,
+      "text": "Allah!"
+    },
+    {
+      "start": 2377.92,
+      "end": 2378.92,
+      "text": "Allah!"
+    },
+    {
+      "start": 2378.92,
+      "end": 2379.92,
+      "text": "Allah!"
+    },
+    {
+      "start": 2379.92,
+      "end": 2382.84,
+      "text": "And they sighed deeply and stood up."
+    },
+    {
+      "start": 2382.84,
+      "end": 2386.3,
+      "text": "The red-bearded man distributed money among the elders."
+    },
+    {
+      "start": 2386.3,
+      "end": 2392.72,
+      "text": "Then he arose, took up his short whip, struck his forehead three times, and went home."
+    },
+    {
+      "start": 2392.72,
+      "end": 2397.1,
+      "text": "In the morning, Jilin saw them leading a fine mare out of the village, with three"
+    },
+    {
+      "start": 2397.1,
+      "end": 2401.98,
+      "text": "three Tatars following behind. When they got right out of the village, the red-bearded"
+    },
+    {
+      "start": 2401.98,
+      "end": 2408.06,
+      "text": "Tatar took off his bechmet, tucked up his sleeves, what big brawny arms he had, drew"
+    },
+    {
+      "start": 2408.06,
+      "end": 2414.26,
+      "text": "forth his knife, and sharpened it on a brusca. The Tatars then drew forward the mare's"
+    },
+    {
+      "start": 2414.26,
+      "end": 2419.22,
+      "text": "head, and the red-bearded man came forward and cut her throat, flung the mare to the"
+    },
+    {
+      "start": 2419.22,
+      "end": 2425.86,
+      "text": "ground, and began to flay her, separating the hide from the flesh with his huge hands."
+    },
+    {
+      "start": 2425.86,
+      "end": 2431.34,
+      "text": "Then the women and the girls came up and began to wash the entrails and the inside."
+    },
+    {
+      "start": 2431.34,
+      "end": 2436.62,
+      "text": "After that they cut up the mare and dragged the meat into the hut, and the whole village"
+    },
+    {
+      "start": 2436.62,
+      "end": 2442.14,
+      "text": "came together at the house of the red-bearded man to commemorate the deceased."
+    },
+    {
+      "start": 2442.14,
+      "end": 2447.46,
+      "text": "Three days they ate of the mare, drank boozer, and commemorated the deceased."
+    },
+    {
+      "start": 2447.46,
+      "end": 2452.54,
+      "text": "All the Tatars were at home now, but on the fourth day Jeline, after dinner, beheld"
+    },
+    {
+      "start": 2452.54,
+      "end": 2455.1,
+      "text": "them assembling to go some whither."
+    },
+    {
+      "start": 2455.1,
+      "end": 2460.66,
+      "text": "They brought their horses, made ready, and went off. Ten men in all, and the red-bearded"
+    },
+    {
+      "start": 2460.66,
+      "end": 2467.06,
+      "text": "man went too. Only Abdul remained at home. There was a new moon just then, and the nights"
+    },
+    {
+      "start": 2467.06,
+      "end": 2468.74,
+      "text": "were still pretty dark."
+    },
+    {
+      "start": 2468.74,
+      "end": 2474.82,
+      "text": "\"'Now's the time,' thought Jeline. \"'Now we must make a bolt for it.'\""
+    },
+    {
+      "start": 2474.82,
+      "end": 2478.42,
+      "text": "He spoke to Costuline about it, but Costuline was afraid."
+    },
+    {
+      "start": 2478.42,
+      "end": 2483.02,
+      "text": "\"'How can we run away?' \"'We don't know the road,' said he."
+    },
+    {
+      "start": 2483.02,
+      "end": 2487.34,
+      "text": "I know the road. But we shall never be able to get there in the night."
+    },
+    {
+      "start": 2488.3,
+      "end": 2495.18,
+      "text": "Suppose we don't? Surely we can pass the night in the forest. And look! FV collected some hearthcakes."
+    },
+    {
+      "start": 2495.18,
+      "end": 2500.3,
+      "text": "Why do you want to stick here? It is easy enough to send for money, but you see they haven't"
+    },
+    {
+      "start": 2500.3,
+      "end": 2505.58,
+      "text": "collected it. And besides, the Tatars are angry now because the Russians have killed one of"
+    },
+    {
+      "start": 2505.58,
+      "end": 2509.5,
+      "text": "their people. They have been talking together about killing us likewise."
+    },
+    {
+      "start": 2509.5,
+      "end": 2513.02,
+      "text": "Costulin thought and thought for a long time."
+    },
+    {
+      "start": 2513.02,
+      "end": 2517.5,
+      "text": "\"'Very well, let us go,' said he at last. Five.\""
+    },
+    {
+      "start": 2517.5,
+      "end": 2523.78,
+      "text": "Gillian crept into his hole and dug still deeper in order that Costulin also might be able to"
+    },
+    {
+      "start": 2523.78,
+      "end": 2529.86,
+      "text": "creep through it. Then they sat down and waited till all was quiet in the owl. As soon as all"
+    },
+    {
+      "start": 2529.86,
+      "end": 2534.66,
+      "text": "the people in the owl were quiet, Gillian crept under the wall and forced his way through."
+    },
+    {
+      "start": 2534.66,
+      "end": 2541.16,
+      "text": "you. Then he whispered to Kostu-Ilin, you creep through, too. And as he did so, he loosed"
+    },
+    {
+      "start": 2541.16,
+      "end": 2547.02,
+      "text": "a stone which made a great noise. Jeline's master, however, had placed a guard at the"
+    },
+    {
+      "start": 2547.02,
+      "end": 2554.7,
+      "text": "door, a pie-balled dog, a vicious, a very vicious beast. His name was Ulyashin, but"
+    },
+    {
+      "start": 2554.7,
+      "end": 2560.24,
+      "text": "Jeline had made it his business regularly to feed the animal for some time. As soon"
+    },
+    {
+      "start": 2560.24,
+      "end": 2565.46,
+      "text": "Soon as Ulyashin heard them he began to bark and rushed up, and after him all the other"
+    },
+    {
+      "start": 2565.46,
+      "end": 2566.46,
+      "text": "dogs."
+    },
+    {
+      "start": 2566.46,
+      "end": 2570.4,
+      "text": "But Jilin just whistled to him and threw him a bit of hearth cake."
+    },
+    {
+      "start": 2570.4,
+      "end": 2575.2,
+      "text": "Then Ulyashin recognized him, wagged his tail, and ceased to bark."
+    },
+    {
+      "start": 2575.2,
+      "end": 2579.96,
+      "text": "But Jilin's master had heard, and he now began to shout from out of the sakhlia."
+    },
+    {
+      "start": 2579.96,
+      "end": 2580.96,
+      "text": "Hold him!"
+    },
+    {
+      "start": 2580.96,
+      "end": 2582.52,
+      "text": "Hold him, Ulyashin!"
+    },
+    {
+      "start": 2582.52,
+      "end": 2588.64,
+      "text": "Jilin, however, was busy scratching Ulyashin behind the ears, and the dog was silent,"
+    },
+    {
+      "start": 2588.64,
+      "end": 2595.36,
+      "text": "himself against Gillian's legs and wagged his tail. They sat down behind a corner. All grew quiet"
+    },
+    {
+      "start": 2595.36,
+      "end": 2600.64,
+      "text": "again. All that could be heard were the sheep shuffling in their fold and the water below"
+    },
+    {
+      "start": 2600.64,
+      "end": 2607.68,
+      "text": "bubbling over the stones. It was dark. The stars stood high in the heavens. The young red moon"
+    },
+    {
+      "start": 2607.68,
+      "end": 2613.76,
+      "text": "stood over the mountain with her horns pointed upwards. In the valley gleamed a milk-white"
+    },
+    {
+      "start": 2613.76,
+      "end": 2617.52,
+      "text": "missed. Zilean arose and said to his comrade,"
+    },
+    {
+      "start": 2617.52,
+      "end": 2622.64,
+      "text": "Now, my brother, let's be off. Something stirred just as they were starting."
+    },
+    {
+      "start": 2622.64,
+      "end": 2626.08,
+      "text": "They stopped to listen. The mullah was chanting on the roof,"
+    },
+    {
+      "start": 2626.08,
+      "end": 2632.4,
+      "text": "Allah, Bismillah, Illarachman, which signifies, Come, people, to the mosque."
+    },
+    {
+      "start": 2633.36,
+      "end": 2638.32,
+      "text": "They sat down again, squeezing themselves against the wall. Long they sat there,"
+    },
+    {
+      "start": 2638.32,
+      "end": 2642.8,
+      "text": "waiting till the people should have gone by. Again, all was silent."
+    },
+    {
+      "start": 2643.76,
+      "end": 2646.96,
+      "text": "Now, then, in God's name!\""
+    },
+    {
+      "start": 2646.96,
+      "end": 2651.48,
+      "text": "They crossed themselves and set out. They went through the courtyard, down the steep"
+    },
+    {
+      "start": 2651.48,
+      "end": 2657.12,
+      "text": "slope to the stream, crossed the stream, and went along the gully. The mist was thick"
+    },
+    {
+      "start": 2657.12,
+      "end": 2663.32,
+      "text": "and stood low, and over their heads the stars were dimly, tinely visible."
+    },
+    {
+      "start": 2663.32,
+      "end": 2668.64,
+      "text": "Jilin calculated by the stars which way he ought to take. It was fresh in the mist"
+    },
+    {
+      "start": 2668.64,
+      "end": 2674.82,
+      "text": "and easy-going, but their boots were in their way and made them stumble. Zilin took his"
+    },
+    {
+      "start": 2674.82,
+      "end": 2681.06,
+      "text": "off, threw them away, and went along barefooted. He kept leaping from rock to rock and looking"
+    },
+    {
+      "start": 2681.06,
+      "end": 2685.02,
+      "text": "at the stars. Costulin began to lag behind."
+    },
+    {
+      "start": 2685.02,
+      "end": 2691.06,
+      "text": "\"'Go more quietly,' said he. \"'These cursed boots of mine. But all boots fetter"
+    },
+    {
+      "start": 2691.06,
+      "end": 2696.22,
+      "text": "one so. \"'Take them off, then. You'll find it easier going.'\""
+    },
+    {
+      "start": 2696.22,
+      "end": 2702.88,
+      "text": "Costuelin also then went barefooted, and found it still worse. He was bruising his feet continually"
+    },
+    {
+      "start": 2702.88,
+      "end": 2706.76,
+      "text": "on the stones, and kept lagging behind more than ever."
+    },
+    {
+      "start": 2706.76,
+      "end": 2710.52,
+      "text": "\"'Lift up your feet more. Look alive,' said Gillian."
+    },
+    {
+      "start": 2710.52,
+      "end": 2716.88,
+      "text": "\"'If they overtake us, they'll kill us, and that will be worst of all.'\""
+    },
+    {
+      "start": 2716.88,
+      "end": 2723.08,
+      "text": "Costuelin said nothing. He came on, puffing and blowing. For a long time they went downhill."
+    },
+    {
+      "start": 2723.08,
+      "end": 2728.96,
+      "text": "They listened. The dogs were barking on their right. Gillan stopped and looked about him."
+    },
+    {
+      "start": 2728.96,
+      "end": 2732.28,
+      "text": "He went to the mountainside and felt it with his hands."
+    },
+    {
+      "start": 2732.28,
+      "end": 2738.44,
+      "text": "Oh! said he. We have made a mistake. We turn to the right. Here is another owl. I could"
+    },
+    {
+      "start": 2738.44,
+      "end": 2744.24,
+      "text": "see it from the mountaintop. We must go back. To the left. Up the mountain. There is sure"
+    },
+    {
+      "start": 2744.24,
+      "end": 2745.72,
+      "text": "to be a road there."
+    },
+    {
+      "start": 2745.72,
+      "end": 2751.16,
+      "text": "\"'Just wait a little,\" said Costwellin. \"'Do give me time to breathe a bit. My feet"
+    },
+    {
+      "start": 2751.16,
+      "end": 2752.24,
+      "text": "axe all bloody.\""
+    },
+    {
+      "start": 2752.24,
+      "end": 2758.78,
+      "text": "\"'Look alive, my brother. Spring a little more lightly. That's the whole trick.\""
+    },
+    {
+      "start": 2758.78,
+      "end": 2764.0,
+      "text": "And Gillian ran back to the left towards the mountain and into the wood. Costwellin remained"
+    },
+    {
+      "start": 2764.0,
+      "end": 2769.92,
+      "text": "all behind, groaning and gasping. Gillian kept urging him to be quicker, but went on"
+    },
+    {
+      "start": 2769.92,
+      "end": 2775.36,
+      "text": "himself without stopping. They ascended the mountain. Yes, there, right"
+    },
+    {
+      "start": 2775.36,
+      "end": 2780.56,
+      "text": "enough, was the wood. They entered the wood, and all that was left of their clothing was"
+    },
+    {
+      "start": 2780.56,
+      "end": 2785.68,
+      "text": "quickly torn to bits. Then they hit upon a path in the wood and went steadily on."
+    },
+    {
+      "start": 2786.72,
+      "end": 2792.88,
+      "text": "Stop! The sound of hooves resounded on the road. They stopped and listened. There was"
+    },
+    {
+      "start": 2792.88,
+      "end": 2799.44,
+      "text": "a stamping as of a horse, and then it stopped. They moved on again. The stamping recommenced."
+    },
+    {
+      "start": 2799.44,
+      "end": 2805.28,
+      "text": "They stopped, and the stamping stopped. Gillian crept forward and looked along the road in the"
+    },
+    {
+      "start": 2805.28,
+      "end": 2811.68,
+      "text": "e-light. Something was standing there. It was a horse, and yet not a horse, and on the horse"
+    },
+    {
+      "start": 2811.68,
+      "end": 2819.12,
+      "text": "was something odd, not resembling a man. It snorted. They listened. What monster could it be?"
+    },
+    {
+      "start": 2820.4,
+      "end": 2826.24,
+      "text": "Gillian whistled very softly. It scurried off the path into the forest, and in the forest"
+    },
+    {
+      "start": 2826.24,
+      "end": 2831.92,
+      "text": "there was a crashing sound. It flew like a tempest, breaking down the branches in its path."
+    },
+    {
+      "start": 2832.72,
+      "end": 2837.92,
+      "text": "Costulin almost fell to the ground in his terror. But Jilin laughed and said,"
+    },
+    {
+      "start": 2838.72,
+      "end": 2844.88,
+      "text": "that was a stag. Hark how he smashes the wood with his horns. We fear him, and he fears us."
+    },
+    {
+      "start": 2845.76,
+      "end": 2851.2,
+      "text": "They went along further. Morning was now close at hand. Where they were going, however,"
+    },
+    {
+      "start": 2851.2,
+      "end": 2856.64,
+      "text": "They knew not. It seemed to Gillian as if the Tatars had brought him along by that self-same"
+    },
+    {
+      "start": 2856.64,
+      "end": 2861.76,
+      "text": "path, and as far as he could make it out, they had still some ten versts to traverse."
+    },
+    {
+      "start": 2862.32,
+      "end": 2867.36,
+      "text": "But there were no certain landmarks, and it was night, so that there was no distinguishing"
+    },
+    {
+      "start": 2867.36,
+      "end": 2873.28,
+      "text": "anything. Presently they came out upon a little plane, and Costoulin sat down and said,"
+    },
+    {
+      "start": 2873.92,
+      "end": 2878.4,
+      "text": "You may do as you like, but I shall never get there. My legs won't do it."
+    },
+    {
+      "start": 2878.4,
+      "end": 2881.04,
+      "text": "Jeline tried to persuade him."
+    },
+    {
+      "start": 2881.04,
+      "end": 2886.16,
+      "text": "No, said he, I shan't go any further. I can't, I tell you."
+    },
+    {
+      "start": 2886.16,
+      "end": 2891.2,
+      "text": "Jeline then grew angry. He spat on one side and bullied his comrade."
+    },
+    {
+      "start": 2891.2,
+      "end": 2894.2,
+      "text": "Then I'll go on alone, said he. Goodbye."
+    },
+    {
+      "start": 2894.2,
+      "end": 2900.8,
+      "text": "Then Costouilin leaped to his feet and went on. They now went on for four miles."
+    },
+    {
+      "start": 2900.8,
+      "end": 2905.46,
+      "text": "The mist in the forest grew still thicker. They could see nothing in front of them,"
+    },
+    {
+      "start": 2905.46,
+      "end": 2910.78,
+      "text": "them, and the stars were barely visible. At last they heard something like the trampling"
+    },
+    {
+      "start": 2910.78,
+      "end": 2916.02,
+      "text": "of a horse in front of them. They could hear the hooves clattering against the stones Jeline"
+    },
+    {
+      "start": 2916.02,
+      "end": 2920.42,
+      "text": "lay down on his stomach and began to listen with his ear to the ground."
+    },
+    {
+      "start": 2920.42,
+      "end": 2926.94,
+      "text": "Yes, said he, it is as I thought. A horseman is coming towards us."
+    },
+    {
+      "start": 2926.94,
+      "end": 2932.34,
+      "text": "They quitted the road in haste, sat among the bushes, and waited. Jeline presently crept"
+    },
+    {
+      "start": 2932.34,
+      "end": 2938.1,
+      "text": "forward towards the road and saw a mounted tatar coming along, driving a cow before him"
+    },
+    {
+      "start": 2938.1,
+      "end": 2943.94,
+      "text": "and muttering to himself. After he had gone, Jeline turned to Costulin and said,"
+    },
+    {
+      "start": 2943.94,
+      "end": 2946.98,
+      "text": "\"'He's gone by, thank God! Get up and we'll go on.'\""
+    },
+    {
+      "start": 2948.1,
+      "end": 2954.66,
+      "text": "Costulin tried to get up and fell down again. He was a heavy, puffy fellow and began to sweat"
+    },
+    {
+      "start": 2954.66,
+      "end": 2961.06,
+      "text": "profusely. The cold mist of the forest too had given him a chill, his feet were lacerated,"
+    },
+    {
+      "start": 2961.06,
+      "end": 2966.74,
+      "text": "and he went all to pieces. When Jeline raised him to his feet, with an effort he cried out,"
+    },
+    {
+      "start": 2967.3,
+      "end": 2971.86,
+      "text": "Oh, it hurts! Jeline almost had a fit."
+    },
+    {
+      "start": 2972.74,
+      "end": 2978.9,
+      "text": "What are you screeching for? The Tatars are quite close to us, don't you hear? But he thought to"
+    },
+    {
+      "start": 2978.9,
+      "end": 2985.06,
+      "text": "himself, he really is almost done for. What am I to do with him? One can't chuck a comrade,"
+    },
+    {
+      "start": 2985.06,
+      "end": 2986.74,
+      "text": "it wouldn't be right."
+    },
+    {
+      "start": 2986.74,
+      "end": 2994.58,
+      "text": "\"'Well,' said he, \"'get up on my back. I'll carry you if you really can't walk yourself.'\""
+    },
+    {
+      "start": 2994.58,
+      "end": 2999.78,
+      "text": "So he put Costulline on his shoulders, gripped him under the knees, took the road again,"
+    },
+    {
+      "start": 2999.78,
+      "end": 3001.18,
+      "text": "and staggered along."
+    },
+    {
+      "start": 3001.18,
+      "end": 3006.78,
+      "text": "\"'Only, my good fellow,' said he, \"'don't grip me round the throat, but lay hold of"
+    },
+    {
+      "start": 3006.78,
+      "end": 3008.74,
+      "text": "my shoulders.'\""
+    },
+    {
+      "start": 3008.74,
+      "end": 3013.7,
+      "text": "It was a heavy load for Gillan. His feet also were all bloody, and he was tired to"
+    },
+    {
+      "start": 3013.7,
+      "end": 3018.94,
+      "text": "death. He felt crushed, tried to get into an easier position, hitched his shoulder so"
+    },
+    {
+      "start": 3018.94,
+      "end": 3024.58,
+      "text": "as to get Kostuilin to sit higher, and flung him into the road. It was quite plain that"
+    },
+    {
+      "start": 3024.58,
+      "end": 3029.86,
+      "text": "the Tatar had heard Kostuilin yell, for as Jilin listened he could hear someone coming"
+    },
+    {
+      "start": 3029.86,
+      "end": 3036.68,
+      "text": "back and making a peculiar cry. Jilin flung himself into the bushes. The Tatar seized"
+    },
+    {
+      "start": 3036.68,
+      "end": 3042.26,
+      "text": "his musket, fired it, hit nothing, whined in Tatar fashion, and galloped down the"
+    },
+    {
+      "start": 3042.26,
+      "end": 3043.26,
+      "text": "the road again."
+    },
+    {
+      "start": 3043.26,
+      "end": 3049.54,
+      "text": "\"'Well, my brother, he has gone anyway,' said Gillian. But the dog will at once collect"
+    },
+    {
+      "start": 3049.54,
+      "end": 3054.98,
+      "text": "all the tatars he can find and pursue us. If we don't do our three miles, we're done"
+    },
+    {
+      "start": 3054.98,
+      "end": 3060.86,
+      "text": "for.' But he thought to himself, \"'What devil put it into my head to take this blockhead"
+    },
+    {
+      "start": 3060.86,
+      "end": 3065.54,
+      "text": "with me? Had I been alone, I should have got off long ago.'\""
+    },
+    {
+      "start": 3065.54,
+      "end": 3071.18,
+      "text": "\"'You go on alone,' said Costoulin. \"'Why should you come to grief all through me?'"
+    },
+    {
+      "start": 3071.18,
+      "end": 3076.46,
+      "text": "Nay, I will not go alone. It is wrong to desert a comrade.\""
+    },
+    {
+      "start": 3076.46,
+      "end": 3081.74,
+      "text": "So he took him on his shoulders again and went on, and in this way he covered a mile."
+    },
+    {
+      "start": 3081.74,
+      "end": 3086.98,
+      "text": "The forest stretched right on, and there was no sign of an exit. The mist was beginning"
+    },
+    {
+      "start": 3086.98,
+      "end": 3093.58,
+      "text": "to disperse, and little clouds, or so they seemed, fared along, the stars were no longer"
+    },
+    {
+      "start": 3093.58,
+      "end": 3100.98,
+      "text": "visible. Jeline was puzzled. A spring, set among rocks, crossed the road, and here Jeline"
+    },
+    {
+      "start": 3100.98,
+      "end": 3103.46,
+      "text": "stopped and set down Costuilin."
+    },
+    {
+      "start": 3103.46,
+      "end": 3109.34,
+      "text": "\"'Let's have a rest,' said he, and give me breathing time. I want a drink, too,"
+    },
+    {
+      "start": 3109.34,
+      "end": 3113.58,
+      "text": "and we'll have some hearth-cakes. It can't be much further now.\""
+    },
+    {
+      "start": 3113.58,
+      "end": 3118.96,
+      "text": "No sooner had he drunk his fill, however, than he heard the trampling of hooves behind."
+    },
+    {
+      "start": 3118.96,
+      "end": 3123.3,
+      "text": "Once more they crept among the bushes on the right, beneath the steep cliff, and lay"
+    },
+    {
+      "start": 3123.3,
+      "end": 3129.06,
+      "text": "at full length. Soon they heard the voices of the Tatars, and the Tatars stopped at"
+    },
+    {
+      "start": 3129.06,
+      "end": 3134.58,
+      "text": "very spot whence they had turned off from the road. They talked a good deal among themselves,"
+    },
+    {
+      "start": 3134.58,
+      "end": 3138.02,
+      "text": "and then they began to put upon the scent the dogs they had brought with them."
+    },
+    {
+      "start": 3138.66,
+      "end": 3143.22,
+      "text": "Jeline and his comrade listened. There was a crashing of branches in the thicket,"
+    },
+    {
+      "start": 3143.22,
+      "end": 3149.3,
+      "text": "and straight towards them came a strange dog. When he saw them he stood still and began barking."
+    },
+    {
+      "start": 3149.94,
+      "end": 3155.94,
+      "text": "Then the Tatars also crept through the bushes. They were strange Tatars whom they hadn't seen"
+    },
+    {
+      "start": 3155.94,
+      "end": 3162.98,
+      "text": "before and the Tatars seized them, bound them, put them on horseback, and led them off. They"
+    },
+    {
+      "start": 3162.98,
+      "end": 3169.62,
+      "text": "went along for about three miles, and then they met Jillin's master, Abdul, and two other Tatars."
+    },
+    {
+      "start": 3170.18,
+      "end": 3175.46,
+      "text": "These said something to the strange Tatars, transferred the captives to their own horses,"
+    },
+    {
+      "start": 3175.46,
+      "end": 3182.18,
+      "text": "and brought them back to the owl. Abdul laughed no longer and said not a single word to them."
+    },
+    {
+      "start": 3182.18,
+      "end": 3188.06,
+      "text": "them. They brought them into the all at break of day and set them down in the public street."
+    },
+    {
+      "start": 3188.06,
+      "end": 3194.08,
+      "text": "The children came running up and beat them with stones and whips and jeered at them."
+    },
+    {
+      "start": 3194.08,
+      "end": 3199.48,
+      "text": "The Tatars gathered together in a circle and the elder from the mountainside joined them."
+    },
+    {
+      "start": 3199.48,
+      "end": 3204.36,
+      "text": "They began talking and Jeline understood that they were trying them and debating what was"
+    },
+    {
+      "start": 3204.36,
+      "end": 3209.46,
+      "text": "to be done with them. Some said they should be sent further away into the mountains, but"
+    },
+    {
+      "start": 3209.46,
+      "end": 3214.42,
+      "text": "elder said that they ought to be killed. Abdul, however, objected to this."
+    },
+    {
+      "start": 3215.06,
+      "end": 3219.86,
+      "text": "I have paid money for them, said he, and I am going to get a ransom for them."
+    },
+    {
+      "start": 3220.82,
+      "end": 3227.22,
+      "text": "They'll never pay anything at all, replied the old man, but will only do harm. It's a sin to"
+    },
+    {
+      "start": 3227.22,
+      "end": 3234.9,
+      "text": "feed Russians. Kill them and have done with it.\" Then they separated, and Jeline's master came to"
+    },
+    {
+      "start": 3234.9,
+      "end": 3237.26,
+      "text": "him and began to talk to him."
+    },
+    {
+      "start": 3237.26,
+      "end": 3240.74,
+      "text": "\"'If they don't send me your ransom in a fortnight,' said he,"
+    },
+    {
+      "start": 3240.74,
+      "end": 3245.34,
+      "text": "\"'I'll whip you to death, and if you try to run away a second time, I'll kill you"
+    },
+    {
+      "start": 3245.34,
+      "end": 3250.46,
+      "text": "like dogs. Write a letter, and mind you write a good one.'\""
+    },
+    {
+      "start": 3250.46,
+      "end": 3255.46,
+      "text": "Paper was brought, and they wrote the letter. Then the Kolodki were fastened to them again,"
+    },
+    {
+      "start": 3255.46,
+      "end": 3259.9,
+      "text": "and they were taken to the mosque. Here there was a hole in the earth five Arshins"
+    },
+    {
+      "start": 3259.9,
+      "end": 3266.54,
+      "text": "long, and into this hole they were cast. Six. Their life was now hard indeed. Their"
+    },
+    {
+      "start": 3266.54,
+      "end": 3272.54,
+      "text": "kalodki were never taken off, and they were never allowed a breath of fresh air. The tatars"
+    },
+    {
+      "start": 3272.54,
+      "end": 3277.82,
+      "text": "flung them bits of uncooked dough as if they were dogs, and filled for them a pitcher of"
+    },
+    {
+      "start": 3277.82,
+      "end": 3285.42,
+      "text": "water from time to time. The heat of the hole was stifling, and it was damp and stinking."
+    },
+    {
+      "start": 3285.42,
+      "end": 3291.7,
+      "text": "became downright ill. His limbs swelled and twitched all over, and he groaned continually"
+    },
+    {
+      "start": 3291.7,
+      "end": 3297.94,
+      "text": "except when he was asleep. Jeline also was dejected. He saw they were in evil case, and"
+    },
+    {
+      "start": 3297.94,
+      "end": 3303.1,
+      "text": "how to get out of it he had no idea. He would have begun undermining again, but there was"
+    },
+    {
+      "start": 3303.1,
+      "end": 3308.78,
+      "text": "nowhere to hide the earth, and then, too, his master had threatened to kill him. One"
+    },
+    {
+      "start": 3308.78,
+      "end": 3315.1,
+      "text": "day he was squatting in the hole thinking of life and liberty, and he felt very miserable."
+    },
+    {
+      "start": 3315.1,
+      "end": 3320.58,
+      "text": "me, right upon his knees fell a hearth-cake, and then another, followed by quite a shower"
+    },
+    {
+      "start": 3320.58,
+      "end": 3327.3,
+      "text": "of wild cherries. He looked up, and there was Dina. She gazed at him, laughed a little,"
+    },
+    {
+      "start": 3327.3,
+      "end": 3328.7,
+      "text": "and ran away."
+    },
+    {
+      "start": 3328.7,
+      "end": 3335.06,
+      "text": "Now, I wonder if Dina would help us, thought Jillian. He cleaned a little corner of the"
+    },
+    {
+      "start": 3335.06,
+      "end": 3341.22,
+      "text": "hole, dug out a bit of clay, and made cut of it a lot of puppets. He made men and women,"
+    },
+    {
+      "start": 3341.22,
+      "end": 3347.88,
+      "text": "horses and dogs, and thought to himself, When Dina comes, I'll fling them out to her."
+    },
+    {
+      "start": 3347.88,
+      "end": 3352.56,
+      "text": "But on the next day there was no Dina, and Gillian heard the trampling of horses and"
+    },
+    {
+      "start": 3352.56,
+      "end": 3357.56,
+      "text": "the noise of people passing to and fro, and he could hear that the Tatars had assembled"
+    },
+    {
+      "start": 3357.56,
+      "end": 3362.52,
+      "text": "at the mosque and were disputing and screeching and consulting about the Russians, and he"
+    },
+    {
+      "start": 3362.52,
+      "end": 3366.88,
+      "text": "also heard the voice of the old man of the mountain. He could not make out very well"
+    },
+    {
+      "start": 3366.88,
+      "end": 3371.82,
+      "text": "what was going on, but he guessed that the Russians were drawing near, and the Tatars"
+    },
+    {
+      "start": 3371.82,
+      "end": 3377.5,
+      "text": "were afraid they might come to the aid and find out what was being done with the captives."
+    },
+    {
+      "start": 3377.5,
+      "end": 3383.8,
+      "text": "The Tatars debated together, and then departed. Suddenly, Jeline heard a slight noise above"
+    },
+    {
+      "start": 3383.8,
+      "end": 3389.24,
+      "text": "his head. He looked up, and there was Dina squatting on her haunches with her knees hunched"
+    },
+    {
+      "start": 3389.24,
+      "end": 3394.84,
+      "text": "up higher than her head. She was leaning forward, her necklaces were visible, and were swinging"
+    },
+    {
+      "start": 3394.84,
+      "end": 3400.58,
+      "text": "to and fro right over the hole. Her little eyes gleamed like tiny stars, and she drew"
+    },
+    {
+      "start": 3400.58,
+      "end": 3405.12,
+      "text": "out of her sleeve two cheesecakes and threw them to him."
+    },
+    {
+      "start": 3405.12,
+      "end": 3406.48,
+      "text": "Jillian took them and said,"
+    },
+    {
+      "start": 3406.48,
+      "end": 3412.5,
+      "text": "\"'Why have you been so long gone? I have been making playthings for you. Look!'"
+    },
+    {
+      "start": 3412.5,
+      "end": 3417.04,
+      "text": "And he began to fling them to her one by one, but she shook her head and would not"
+    },
+    {
+      "start": 3417.04,
+      "end": 3418.04,
+      "text": "look at them."
+    },
+    {
+      "start": 3418.04,
+      "end": 3423.68,
+      "text": "\"'I don't want them,' she said. She sat silent for a while, and then she said,"
+    },
+    {
+      "start": 3423.68,
+      "end": 3428.24,
+      "text": "Ivan, they want to kill thee.\" And she drew her hand across her throat."
+    },
+    {
+      "start": 3428.88,
+      "end": 3430.0,
+      "text": "Who wants to kill me?"
+    },
+    {
+      "start": 3431.2,
+      "end": 3435.84,
+      "text": "Father, the elders have bidden him do it. But I am sorry for thee."
+    },
+    {
+      "start": 3436.8,
+      "end": 3443.2,
+      "text": "If you are sorry for me, said Jillian, bring me a long pole. She shook her head to signify that"
+    },
+    {
+      "start": 3443.2,
+      "end": 3449.6,
+      "text": "it was impossible. He put together his hands and besought her. Dina, I pray thee do it."
+    },
+    {
+      "start": 3449.6,
+      "end": 3451.36,
+      "text": "Dear little Dina, bring it to me.\""
+    },
+    {
+      "start": 3452.48,
+      "end": 3455.76,
+      "text": "Impossible, said she, they are all at home, you see."
+    },
+    {
+      "start": 3456.8,
+      "end": 3461.44,
+      "text": "And off she ran. So Jeline sat there all the evening and thought,"
+    },
+    {
+      "start": 3462.32,
+      "end": 3468.4,
+      "text": "What will come of it, I wonder? He kept looking up all the time. The stars were visible,"
+    },
+    {
+      "start": 3468.4,
+      "end": 3474.72,
+      "text": "but the moon had not yet risen, the mullah's shrill cry was heard, and then all was silent."
+    },
+    {
+      "start": 3474.72,
+      "end": 3483.6,
+      "text": "Jeline began to grow drowsy. Plainly the girl is afraid, he thought. Suddenly a piece of clay"
+    },
+    {
+      "start": 3483.6,
+      "end": 3489.44,
+      "text": "plumped down on his head. He looked up. A long pole was thrust into a corner of the hole."
+    },
+    {
+      "start": 3490.0,
+      "end": 3494.96,
+      "text": "It waggled about, descended gradually, and began to work its way into the hole."
+    },
+    {
+      "start": 3495.84,
+      "end": 3502.08,
+      "text": "Jeline was delighted. He caught hold of it and drew it in. It was a good, strong pole."
+    },
+    {
+      "start": 3502.08,
+      "end": 3507.08,
+      "text": "He had noticed this pole some time before, on the roof of his master's home."
+    },
+    {
+      "start": 3507.08,
+      "end": 3511.08,
+      "text": "He looked up again. The stars were shining high in the heavens,"
+    },
+    {
+      "start": 3511.08,
+      "end": 3518.08,
+      "text": "and right above the hole the eyes of Dina shone as brightly as the eyes of a cat in the darkness."
+    },
+    {
+      "start": 3518.08,
+      "end": 3522.08,
+      "text": "She leaned forward over the mouth of the hole and whispered,"
+    },
+    {
+      "start": 3522.08,
+      "end": 3524.08,
+      "text": "Even, Ivan!"
+    },
+    {
+      "start": 3524.08,
+      "end": 3530.08,
+      "text": "And she kept on making signs and drawing her hands repeatedly over her face by way of saying,"
+    },
+    {
+      "start": 3530.08,
+      "end": 3532.72,
+      "text": "in. Hush! be quiet!\""
+    },
+    {
+      "start": 3532.72,
+      "end": 3534.88,
+      "text": "\"'What is it?\" asked Jeline."
+    },
+    {
+      "start": 3534.88,
+      "end": 3537.92,
+      "text": "\"'They have all gone. There are only two at home.'\""
+    },
+    {
+      "start": 3537.92,
+      "end": 3541.28,
+      "text": "\"'Well, Costrelin, let us go,' said Jeline."
+    },
+    {
+      "start": 3541.28,
+      "end": 3545.2,
+      "text": "\"'We will try for the last time. I'll help you to get out of it.'\""
+    },
+    {
+      "start": 3545.2,
+      "end": 3548.32,
+      "text": "\"'But Costrelin wouldn't even hear of it.'\""
+    },
+    {
+      "start": 3548.32,
+      "end": 3551.92,
+      "text": "\"'No,' said he. \"'It's quite plain that I can't manage it."
+    },
+    {
+      "start": 3551.92,
+      "end": 3555.84,
+      "text": "\"'I have not the strength to go quickly, whichever way we go.'\""
+    },
+    {
+      "start": 3555.84,
+      "end": 3560.84,
+      "text": "Farewell, then, and think no ill of me for leaving you.\""
+    },
+    {
+      "start": 3560.84,
+      "end": 3567.12,
+      "text": "And he embraced Costulin. Then he seized the pole, bade Dinah hold it firm, and began to"
+    },
+    {
+      "start": 3567.12,
+      "end": 3573.88,
+      "text": "creep up it. Once or twice he fell down, the Kolodka hampered him. Costulin then supported"
+    },
+    {
+      "start": 3573.88,
+      "end": 3579.44,
+      "text": "him, and he worked his way some de-istants up. Dinah dragged away at his shirt with"
+    },
+    {
+      "start": 3579.44,
+      "end": 3585.38,
+      "text": "her little hands with all her might, laughing all the time, but it was no good."
+    },
+    {
+      "start": 3585.38,
+      "end": 3588.54,
+      "text": "Jeline laid hold of the pole with both hands."
+    },
+    {
+      "start": 3588.54,
+      "end": 3593.54,
+      "text": "Pull it, Dina, he cried. Seize hold of it well, and you'll see it will almost come"
+    },
+    {
+      "start": 3593.54,
+      "end": 3599.22,
+      "text": "to you of its own accord. She pulled away at the pole accordingly, and presently Jeline"
+    },
+    {
+      "start": 3599.22,
+      "end": 3604.7,
+      "text": "found himself up at the mountainside. He crept down the steep declivity, seized a"
+    },
+    {
+      "start": 3604.7,
+      "end": 3610.54,
+      "text": "sharp stone, and tried hard to force the lock of the Kolodka. But the lock was a strong"
+    },
+    {
+      "start": 3610.54,
+      "end": 3616.52,
+      "text": "down, by no means could he break it, and yet he was not unskillful. Then he heard Simone"
+    },
+    {
+      "start": 3616.52,
+      "end": 3619.88,
+      "text": "running down the mountainside and leaping lightly along."
+    },
+    {
+      "start": 3619.88,
+      "end": 3627.0,
+      "text": "\"'That must be Dina again,' thought Jeline, and Dina it was. Up she came running, took"
+    },
+    {
+      "start": 3627.0,
+      "end": 3632.72,
+      "text": "up a large stone, and said, \"'Give it me.'\" She squatted down on her little knees"
+    },
+    {
+      "start": 3632.72,
+      "end": 3638.76,
+      "text": "and began to try her hand at it. But her little arms, as thin as twigs, had no strength"
+    },
+    {
+      "start": 3638.76,
+      "end": 3645.8,
+      "text": "in them, and she threw away the stone and burst into tears. Then Gillian himself had another try"
+    },
+    {
+      "start": 3645.8,
+      "end": 3651.96,
+      "text": "at the lock while Dina sat down beside him, leaning against his shoulder. Gillian glanced"
+    },
+    {
+      "start": 3651.96,
+      "end": 3657.96,
+      "text": "round and saw on the left side of the mountain a burning red reflection. The moon was rising."
+    },
+    {
+      "start": 3659.0,
+      "end": 3665.16,
+      "text": "Well, thought he, before the moon rises I must make my way through the gully and get to the"
+    },
+    {
+      "start": 3665.16,
+      "end": 3671.32,
+      "text": "wood. He rose and threw away the stone. Kolodka, or no, go, he must."
+    },
+    {
+      "start": 3672.28,
+      "end": 3676.28,
+      "text": "Goodbye, little Dina, said he. I shall always remember thee."
+    },
+    {
+      "start": 3677.4,
+      "end": 3682.12,
+      "text": "Dina seized him and began to fumble about his sleeves to see if she could find a place wherein"
+    },
+    {
+      "start": 3682.12,
+      "end": 3688.92,
+      "text": "to stuff some pancakes. He took the pancakes. Thanks, my wise little woman, said he. Who will"
+    },
+    {
+      "start": 3688.92,
+      "end": 3695.8,
+      "text": "make dolls for thee when I am gone, I wonder.\" And he stroked her head. How bitterly Dina wept."
+    },
+    {
+      "start": 3697.16,
+      "end": 3702.92,
+      "text": "Finally she covered her face with her hands and ran away up the mountain like a wild kid."
+    },
+    {
+      "start": 3703.64,
+      "end": 3708.2,
+      "text": "The clattering of the coins in the long tresses of hair hanging down her back"
+    },
+    {
+      "start": 3708.2,
+      "end": 3714.04,
+      "text": "was audible in the darkness. Jilin crossed himself, seized the lock of the Kolodka so"
+    },
+    {
+      "start": 3714.04,
+      "end": 3719.62,
+      "text": "was not to stumble as he went, and hobbled along the road, gazing constantly at the reflection"
+    },
+    {
+      "start": 3719.62,
+      "end": 3725.3,
+      "text": "of light where the moon was rising. He knew the road. He had to go straight on for about"
+    },
+    {
+      "start": 3725.3,
+      "end": 3730.8,
+      "text": "eight miles. If only he could get to the forest before the moon had quite risen. He crossed"
+    },
+    {
+      "start": 3730.8,
+      "end": 3735.48,
+      "text": "the stream. The light behind the mountain was growing brighter. He passed through the"
+    },
+    {
+      "start": 3735.48,
+      "end": 3741.96,
+      "text": "gully. On he went, glancing upwards from time to time. Still the moon was not visible."
+    },
+    {
+      "start": 3741.96,
+      "end": 3746.7,
+      "text": "The burning reflection was increasing, and everything on one side of the gully was growing"
+    },
+    {
+      "start": 3746.7,
+      "end": 3752.16,
+      "text": "brighter and brighter. A shadow was creeping along the mountain and coming nearer and nearer"
+    },
+    {
+      "start": 3752.16,
+      "end": 3759.28,
+      "text": "to him. Gillian went on and on, and the shadows still continued to advance. He hastened on,"
+    },
+    {
+      "start": 3759.28,
+      "end": 3763.96,
+      "text": "and the moon was working her way out even more quickly than he had anticipated. To the"
+    },
+    {
+      "start": 3763.96,
+      "end": 3769.28,
+      "text": "right the tops of the trees were already lit up. He was now close to the forest,"
+    },
+    {
+      "start": 3769.28,
+      "end": 3774.52,
+      "text": "When the moon burst forth from behind the mountain, everything was as light and bright,"
+    },
+    {
+      "start": 3774.52,
+      "end": 3780.64,
+      "text": "as if it were day. Every little leaf on every little tree was visible. It was quite quiet"
+    },
+    {
+      "start": 3780.64,
+      "end": 3786.08,
+      "text": "on the lit-up mountainsides, as if everything had died out of existence. The only thing"
+    },
+    {
+      "start": 3786.08,
+      "end": 3792.12,
+      "text": "to be heard was the gurgling of the stream below. He reached the forest without anything"
+    },
+    {
+      "start": 3792.12,
+      "end": 3797.62,
+      "text": "happening. Gillan chose the darkest spot he could find in the forest, and there he sat"
+    },
+    {
+      "start": 3797.62,
+      "end": 3804.02,
+      "text": "down to rest. After recovering his breath, he ate a hearth-cake. Then he took a stone,"
+    },
+    {
+      "start": 3804.02,
+      "end": 3809.62,
+      "text": "and again set about battering the kolodka. He battered it with all the strength of his arm,"
+    },
+    {
+      "start": 3809.62,
+      "end": 3815.38,
+      "text": "and he could not break it. He arose and went along the road. He, went for a mile,"
+    },
+    {
+      "start": 3815.38,
+      "end": 3821.14,
+      "text": "got thoroughly exhausted. His legs tottered beneath him. Ten steps more he took, and then"
+    },
+    {
+      "start": 3821.14,
+      "end": 3827.86,
+      "text": "he stopped short. It's no use, said he. All I can do is to drag myself on as long as I have the"
+    },
+    {
+      "start": 3827.86,
+      "end": 3833.54,
+      "text": "strength to do so. If once I sit down I shall not get up again. I can never get to the fortress"
+    },
+    {
+      "start": 3833.54,
+      "end": 3839.38,
+      "text": "today, but as soon as it is dawn I will lie up in the forest, and at night I'll go on again.\""
+    },
+    {
+      "start": 3840.98,
+      "end": 3846.34,
+      "text": "All night he went along. The only people he encountered were two mounted Tatars,"
+    },
+    {
+      "start": 3846.34,
+      "end": 3850.98,
+      "text": "And as he saw them at a distance, he was able to hide away from them behind a tree."
+    },
+    {
+      "start": 3851.62,
+      "end": 3857.46,
+      "text": "The moon had already begun to wane, the dew was falling, it was close upon dawn,"
+    },
+    {
+      "start": 3857.46,
+      "end": 3860.66,
+      "text": "and still Jilin had not got to the end of the forest."
+    },
+    {
+      "start": 3861.78,
+      "end": 3867.46,
+      "text": "Well, thought he, just thirty steps more, and then I'll turn into the forest and sit down."
+    },
+    {
+      "start": 3868.34,
+      "end": 3872.5,
+      "text": "He took the thirty steps, and saw that the forest was coming to an end."
+    },
+    {
+      "start": 3872.5,
+      "end": 3878.74,
+      "text": "He went out to the very end of it. There, queter bright before him, as if on the palm of his hands"
+    },
+    {
+      "start": 3878.74,
+      "end": 3884.18,
+      "text": "lay the step and the fortress, and to the left, quite close under the mountainside,"
+    },
+    {
+      "start": 3884.18,
+      "end": 3889.38,
+      "text": "campfires were burning and smoking, and people were standing round the smouldering logs."
+    },
+    {
+      "start": 3889.94,
+      "end": 3895.3,
+      "text": "He gazed fixedly, and saw cossacks, soldiers, and glistening arms."
+    },
+    {
+      "start": 3895.3,
+      "end": 3902.5,
+      "text": "Gillin, full of joy, rallied his last remaining strength and prepared to descend the mountainside."
+    },
+    {
+      "start": 3902.5,
+      "end": 3908.06,
+      "text": "God grant, thought he, that a mounted Tatar may not see me in the open plane,"
+    },
+    {
+      "start": 3908.06,
+      "end": 3913.7,
+      "text": "although I'm pretty near now. I'm not there yet. And the thought was no sooner in his head,"
+    },
+    {
+      "start": 3913.7,
+      "end": 3920.66,
+      "text": "when behold. On a little mound stood three Tatars about two furlongs off. They saw him,"
+    },
+    {
+      "start": 3920.66,
+      "end": 3926.96,
+      "text": "him, and dashed after him. His heart absolutely died away within him. Then he waved his arms"
+    },
+    {
+      "start": 3926.96,
+      "end": 3929.84,
+      "text": "and shouted with all the breath he had in his body,"
+    },
+    {
+      "start": 3929.84,
+      "end": 3934.24,
+      "text": "My brothers! My brothers! Save me!"
+    },
+    {
+      "start": 3934.24,
+      "end": 3939.16,
+      "text": "Our fellows heard him, and some mounted Cossacks galloped forward. They made for him in an"
+    },
+    {
+      "start": 3939.16,
+      "end": 3944.8,
+      "text": "oblique direction to cut off the Tatars. The Cossacks were far off, the Tatars were"
+    },
+    {
+      "start": 3944.8,
+      "end": 3952.4,
+      "text": "near, but now Jilin rallied all his strength, seized his Kolodka, and ran towards the Cossacks,"
+    },
+    {
+      "start": 3952.4,
+      "end": 3957.84,
+      "text": "no longer remembering who he was, but crossing himself and crying continually,"
+    },
+    {
+      "start": 3957.84,
+      "end": 3961.0,
+      "text": "Brothers! Brothers! Brothers!"
+    },
+    {
+      "start": 3961.0,
+      "end": 3966.34,
+      "text": "The Cossacks were about fifteen in number. The Tatars grew frightened. Instead of drawing"
+    },
+    {
+      "start": 3966.34,
+      "end": 3972.0,
+      "text": "nearer they reigned in their horses, and Jilin ran right into the Cossacks. The Cossacks"
+    },
+    {
+      "start": 3972.0,
+      "end": 3977.44,
+      "text": "surrounded him and asked him who he was and whence he came, but Jilin no longer recollected"
+    },
+    {
+      "start": 3977.44,
+      "end": 3981.68,
+      "text": "who he was and burst out crying, babbling all the time,"
+    },
+    {
+      "start": 3981.68,
+      "end": 3982.96,
+      "text": "Brothers! Brothers!"
+    },
+    {
+      "start": 3984.0,
+      "end": 3990.0,
+      "text": "The regular soldiers next came running out and crowded round Jilin. One of them offered him"
+    },
+    {
+      "start": 3990.0,
+      "end": 3995.92,
+      "text": "bread, another broth, a third covered him with a mantle, a fourth broke up the colodka."
+    },
+    {
+      "start": 3996.72,
+      "end": 4000.72,
+      "text": "The officers presently recognized him and conducted him to the fortress."
+    },
+    {
+      "start": 4000.72,
+      "end": 4005.52,
+      "text": "The soldiers were delighted and his comrades gathered round Jilin."
+    },
+    {
+      "start": 4005.52,
+      "end": 4008.68,
+      "text": "Jilin told them all that had happened to him and said,"
+    },
+    {
+      "start": 4008.68,
+      "end": 4014.56,
+      "text": "You see, I was going home to be married. But no, that is not to be my fate evidently."
+    },
+    {
+      "start": 4014.56,
+      "end": 4019.28,
+      "text": "And so he continued to serve in the Caucasus. As for Kostulin,"
+    },
+    {
+      "start": 4019.28,
+      "end": 4023.24,
+      "text": "they only ransomed him three months later for five thousand rubles."
+    },
+    {
+      "start": 4023.24,
+      "end": 4025.48,
+      "text": "They brought him in barely alive."
+    }
+  ]
+}

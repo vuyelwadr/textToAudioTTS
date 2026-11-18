@@ -1,0 +1,19 @@
+{
+  "item": {
+    "index": 19,
+    "video_id": "rtsA8xSSymg",
+    "title": "The Disgraced Officer. Leo Tolstoy's \"An Old Acquaintance \".",
+    "duration": 3811,
+    "url": "https://www.youtube.com/watch?v=rtsA8xSSymg",
+    "slug": "theDisgracedOfficer"
+  },
+  "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDisgracedOfficer",
+  "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDisgracedOfficer/raw_audio/theDisgracedOfficer.webm",
+  "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDisgracedOfficer/video_work/theDisgracedOfficer_audio_16k.wav",
+  "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDisgracedOfficer/theDisgracedOfficerTranscript.json",
+  "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDisgracedOfficer/theDisgracedOfficerTranscript.txt",
+  "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDisgracedOfficer/theDisgracedOfficer.txt",
+  "chunks": 61,
+  "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDisgracedOfficer/video_work/theDisgracedOfficer_chunk_audio_joined.wav",
+  "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theDisgracedOfficer/theDisgracedOfficer_neuralsurfer.mp4"
+}

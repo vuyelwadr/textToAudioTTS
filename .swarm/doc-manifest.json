@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "scanned_at": "2026-05-01T20:36:00.284Z",
+  "files": [
+    {
+      "path": "docs/HALF_OF_A_YELLOW_SUN_SMOKE_MATRIX.md",
+      "title": "Half of a Yellow Sun Smoke Matrix",
+      "summary": "Purpose: compare short two-chunk audiobook smoke renders across multiple Qwen and VibeVoice settings before committing to a full-book rerun. Source passages: - `generated/audiobooks-half_of_a_yello...",
+      "lines": 60,
+      "mtime": 1776540857683.866
+    },
+    {
+      "path": "docs/ModelChat.md",
+      "title": "GPU utilization audit for TTS runs",
+      "summary": "Thinking: Logs were created but no wav files. Let me check the logs for errors. $ ssh puhti.csc.fi 'head -50 /scratch/project_2010549/ruwododa/textToAudioTTS-puhti/generated/audiobooks-half_of_a_ye...",
+      "lines": 1289,
+      "mtime": 1776120286077.5625
+    },
+    {
+      "path": "docs/QUICK_START.md",
+      "title": "TTS Download - Quick Start Guide",
+      "summary": "Your original script had **syntax errors in the JavaScript code**: 1. **Line 84** - Missing closing parenthesis: ```javascript // WRONG if (consentTexts.some(text => button.textContent.includes(tex...",
+      "lines": 183,
+      "mtime": 1775750524599.7263
+    },
+    {
+      "path": "docs/README_ChunkingAdapter.md",
+      "title": "Text Chunking Adapter for Web TTS",
+      "summary": "This adapter provides optimized text chunking for web-based Text-to-Speech (TTS) services with large character limits, designed to work with parallel browser automation. The `textChunkingAdapter.py...",
+      "lines": 240,
+      "mtime": 1762038020934.14
+    },
+    {
+      "path": "docs/tasks/unmasking_autism_qwen_full_20260427/user-messages.md",
+      "title": "User Messages",
+      "summary": "- Generate the full audiobook and active-line video for `Unmasking Autism: Discovering the New Faces of Neurodiversity`. - Use the same Qwen settings as the verified `PrometheusAtlas` run. - Create...",
+      "lines": 10,
+      "mtime": 1777252831927.81
+    },
+    {
+      "path": "docs/tasks/unmasking_autism_qwen_full_20260427/verification.md",
+      "title": "Verification",
+      "summary": "- Extract TXT from EPUB with only Introduction through Conclusion. - Write a JSON source-text audit with included sections, counts, hash, and forbidden section heading scan. - Dry-run chunking loca...",
+      "lines": 32,
+      "mtime": 1777275584664.9124
+    },
+    {
+      "path": "docs/tts_takeover_context.md",
+      "title": "TTS takeover context",
+      "summary": "This document captures the approved takeover plan plus the user prompts that drove it, so the repo keeps the execution context instead of leaving it trapped in editor/session state. - `openbmb/VoxC...",
+      "lines": 357,
+      "mtime": 1776026633785.5366
+    },
+    {
+      "path": "docs/user_messages.md",
+      "title": "User Messages - textToAudioTTS",
+      "summary": "Extracted: 2026-04-14 00:36:43 Repo path: `/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS` Scope: only sessions whose recorded workspace or cwd exactly matches this repo path. Includes Code...",
+      "lines": 1483,
+      "mtime": 1776116203488.0146
+    },
+    {
+      "path": "docs/VIBEVOICE_VERIFICATION_NOTES.md",
+      "title": "VibeVoice verification notes",
+      "summary": "- Keep the realtime baseline on `Mike`. - Do not change the voice just to hide the intro artifact. - The unwanted music / SFX appears only at the start of the first realtime chunk. - The fix is a p...",
+      "lines": 41,
+      "mtime": 1776143656624.2856
+    },
+    {
+      "path": "docs/WORKSPACE_INDEX.md",
+      "title": "Workspace Index",
+      "summary": "This repository is now physically regrouped at the top level. - `scripts/`: runnable Python scripts, generators, diagnostics, and local test helpers - `experiments/`: structured comparison workspac...",
+      "lines": 76,
+      "mtime": 1775767594546.953
+    },
+    {
+      "path": "experiments/tts_naturalness/README.md",
+      "title": "TTS Naturalness Experiment",
+      "summary": "This workspace is the repo's clean comparison area for model-level TTS tests. - Compare the most natural sounding TTS models first, then let voice-level ranking happen by ear. - Keep every generate...",
+      "lines": 149,
+      "mtime": 1775846362254.1702
+    },
+    {
+      "path": "generated/champion_audiobook_samples_2026-04-24/README.md",
+      "title": "Champion Audiobook Samples - 2026-04-24",
+      "summary": "`CHAMPION_voxcpm2_original_long_audiobook_test.wav` is the current local winner. It passed the ASR quality gate with: - Duration: `224.48s` - Sample rate: `48000 Hz` - Coverage: `1.0000` - WER: `0....",
+      "lines": 52,
+      "mtime": 1777048952305.203
+    },
+    {
+      "path": "generated/champion_audiobook_samples_2026-04-24/voxcpm2_variant_sweep_all_20/README.md",
+      "title": "VoxCPM2 Variant Sweep - 2026-04-25",
+      "summary": "All 20 requested long-form VoxCPM2 variants were generated on Mahti and copied locally. Source text: `experiments/tts_naturalness/inputs/long_audiobook_test.txt` Reference voices: - `default_clone`...",
+      "lines": 47,
+      "mtime": 1777093225081.61
+    },
+    {
+      "path": "generated/huggingface/voxcpm2-audiobook-champion-2026-04-24/README.md",
+      "title": "VoxCPM2 Audiobook Champion Artifacts",
+      "summary": "--- license: apache-2.0 base_model: openbmb/VoxCPM2 tags: - text-to-speech - audiobook - voxcpm2 - tts-evaluation - asr-quality-gate language: - en pipeline_tag: text-to-speech --- This repository ...",
+      "lines": 53,
+      "mtime": 1777061583024.962
+    },
+    {
+      "path": "generated/huggingface/voxcpm2-audiobook-champion-2026-04-24/variant_sweep/README.md",
+      "title": "VoxCPM2 Variant Sweep",
+      "summary": "This folder adds the 20-variant VoxCPM2 audiobook sweep run on Mahti. The full local sweep includes plain TTS settings, ten voice-design prompts, and clone/ultimate modes for both reference voices....",
+      "lines": 24,
+      "mtime": 1777093248575.3687
+    },
+    {
+      "path": "library/credoMutwa/indaba/ttsOnline/README.md",
+      "title": "TTS Online Automation Script",
+      "summary": "Automates text-to-speech generation using [text-to-speech.online](https://www.text-to-speech.online/) with Selenium WebDriver. - **Automated TTS Generation**: Navigate website, select settings, inp...",
+      "lines": 230,
+      "mtime": 1775754609465.1768
+    },
+    {
+      "path": "README.md",
+      "title": "textToAudioTTS",
+      "summary": "Audiobook and TTS pipeline for CSC Puhti and Mahti. This repo is set up to chunk long text, render each chunk with one or more TTS models, join the chunk WAVs into final audiobook files, and keep t...",
+      "lines": 234,
+      "mtime": 1776209808919.112
+    },
+    {
+      "path": "scripts/mahti/README.md",
+      "title": "CSC Heavy TTS",
+      "summary": "This folder wires heavyweight external TTS stacks into this repo so they can be bootstrapped and run on CSC GPU clusters instead of on the local Mac. - `orpheus` - `fish-speech` - `f5-tts` - `xtts`...",
+      "lines": 255,
+      "mtime": 1776155944226.5312
+    }
+  ]
+}

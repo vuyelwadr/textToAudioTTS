@@ -1,0 +1,20 @@
+# Dedicated environment for legacy Kokoro v0.19 comparison runs.
+#
+# Setup:
+#   /opt/homebrew/bin/python3.11 -m venv .venv-kokoro-legacy
+#   source .venv-kokoro-legacy/bin/activate
+#   python -m pip install --upgrade pip
+#   python -m pip install -r config/requirements.kokoro_legacy_env.txt
+#
+# Upstream v0.19 README flow:
+#   - model/assets from hexgrad/kLegacy
+#   - helper code from v0.19/{kokoro.py,models.py,istftnet.py,plbert.py}
+
+numpy==1.26.4
+soundfile==0.13.1
+torch==2.6.0
+torchaudio==2.6.0
+kokoro==0.7.12
+munch==4.0.0
+phonemizer==3.3.0
+scipy==1.17.1

@@ -1,0 +1,24 @@
+# Dedicated environment for the TTS naturalness comparison harness.
+#
+# Setup:
+#   /opt/homebrew/bin/python3.11 -m venv .venv-tts-experiments
+#   source .venv-tts-experiments/bin/activate
+#   pip install --upgrade pip
+#   pip install -r config/requirements.tts_experiments_env.txt
+#   python -m playwright install chromium
+
+numpy==1.25.2
+gradio_client>=1.13,<3
+playwright>=1.52,<2
+psutil==7.1.1
+soundfile==0.13.1
+torch==2.6.0
+torchaudio==2.6.0
+tqdm==4.67.1
+
+chatterbox-tts==0.1.4
+kokoro
+misaki
+
+# Optional phase-2 source coverage:
+#   pip install TTS==0.22.0

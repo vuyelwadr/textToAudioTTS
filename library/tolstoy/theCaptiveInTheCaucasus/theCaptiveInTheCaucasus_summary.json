@@ -1,0 +1,19 @@
+{
+  "item": {
+    "index": 26,
+    "video_id": "HbM3Pk8t_fE",
+    "title": "The Captive in the Caucasus. A Short Story by Leo Tolstoy",
+    "duration": 4034,
+    "url": "https://www.youtube.com/watch?v=HbM3Pk8t_fE",
+    "slug": "theCaptiveInTheCaucasus"
+  },
+  "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theCaptiveInTheCaucasus",
+  "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theCaptiveInTheCaucasus/raw_audio/theCaptiveInTheCaucasus.webm",
+  "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theCaptiveInTheCaucasus/video_work/theCaptiveInTheCaucasus_audio_16k.wav",
+  "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theCaptiveInTheCaucasus/theCaptiveInTheCaucasusTranscript.json",
+  "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theCaptiveInTheCaucasus/theCaptiveInTheCaucasusTranscript.txt",
+  "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theCaptiveInTheCaucasus/theCaptiveInTheCaucasus.txt",
+  "chunks": 64,
+  "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theCaptiveInTheCaucasus/video_work/theCaptiveInTheCaucasus_chunk_audio_joined.wav",
+  "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theCaptiveInTheCaucasus/theCaptiveInTheCaucasus_neuralsurfer.mp4"
+}

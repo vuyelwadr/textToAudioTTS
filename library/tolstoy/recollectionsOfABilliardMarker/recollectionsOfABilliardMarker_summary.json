@@ -1,0 +1,19 @@
+{
+  "item": {
+    "index": 23,
+    "video_id": "3i9UkNKourk",
+    "title": "Recollections of a Billiard Marker: An Insightful Short Story into Human Nature by Leo Tolstoy",
+    "duration": 2466,
+    "url": "https://www.youtube.com/watch?v=3i9UkNKourk",
+    "slug": "recollectionsOfABilliardMarker"
+  },
+  "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/recollectionsOfABilliardMarker",
+  "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/recollectionsOfABilliardMarker/raw_audio/recollectionsOfABilliardMarker.webm",
+  "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/recollectionsOfABilliardMarker/video_work/recollectionsOfABilliardMarker_audio_16k.wav",
+  "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/recollectionsOfABilliardMarker/recollectionsOfABilliardMarkerTranscript.json",
+  "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/recollectionsOfABilliardMarker/recollectionsOfABilliardMarkerTranscript.txt",
+  "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/recollectionsOfABilliardMarker/recollectionsOfABilliardMarker.txt",
+  "chunks": 39,
+  "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/recollectionsOfABilliardMarker/video_work/recollectionsOfABilliardMarker_chunk_audio_joined.wav",
+  "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/recollectionsOfABilliardMarker/recollectionsOfABilliardMarker_neuralsurfer.mp4"
+}

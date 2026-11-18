@@ -1,0 +1,19 @@
+{
+  "item": {
+    "index": 22,
+    "video_id": "386aJ0yMYi0",
+    "title": "Lost on the Steppe, the Snowstorm. A harrowing short story by Leo Tolstoy",
+    "duration": 4362,
+    "url": "https://www.youtube.com/watch?v=386aJ0yMYi0",
+    "slug": "lostOnTheSteppeTheSnowstorm"
+  },
+  "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/lostOnTheSteppeTheSnowstorm",
+  "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/lostOnTheSteppeTheSnowstorm/raw_audio/lostOnTheSteppeTheSnowstorm.webm",
+  "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/lostOnTheSteppeTheSnowstorm/video_work/lostOnTheSteppeTheSnowstorm_audio_16k.wav",
+  "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/lostOnTheSteppeTheSnowstorm/lostOnTheSteppeTheSnowstormTranscript.json",
+  "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/lostOnTheSteppeTheSnowstorm/lostOnTheSteppeTheSnowstormTranscript.txt",
+  "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/lostOnTheSteppeTheSnowstorm/lostOnTheSteppeTheSnowstorm.txt",
+  "chunks": 70,
+  "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/lostOnTheSteppeTheSnowstorm/video_work/lostOnTheSteppeTheSnowstorm_chunk_audio_joined.wav",
+  "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/lostOnTheSteppeTheSnowstorm/lostOnTheSteppeTheSnowstorm_neuralsurfer.mp4"
+}

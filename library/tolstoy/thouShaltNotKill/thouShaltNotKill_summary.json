@@ -1,0 +1,19 @@
+{
+  "item": {
+    "index": 9,
+    "video_id": "GGv9PghX9u8",
+    "title": "\"Thou shalt not kill.\" An Insightful Essay by Leo Tolstoy",
+    "duration": 967,
+    "url": "https://www.youtube.com/watch?v=GGv9PghX9u8",
+    "slug": "thouShaltNotKill"
+  },
+  "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/thouShaltNotKill",
+  "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/thouShaltNotKill/raw_audio/thouShaltNotKill.webm",
+  "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/thouShaltNotKill/video_work/thouShaltNotKill_audio_16k.wav",
+  "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/thouShaltNotKill/thouShaltNotKillTranscript.json",
+  "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/thouShaltNotKill/thouShaltNotKillTranscript.txt",
+  "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/thouShaltNotKill/thouShaltNotKill.txt",
+  "chunks": 15,
+  "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/thouShaltNotKill/video_work/thouShaltNotKill_chunk_audio_joined.wav",
+  "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/thouShaltNotKill/thouShaltNotKill_neuralsurfer.mp4"
+}

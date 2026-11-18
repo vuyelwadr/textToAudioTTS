@@ -1,0 +1,19 @@
+{
+  "item": {
+    "index": 4,
+    "video_id": "ARBz804DeFw",
+    "title": "THE FORGED COUPON.  A Story of Sin and Then Redemption.  Leo Tolstoy",
+    "duration": 8990,
+    "url": "https://www.youtube.com/watch?v=ARBz804DeFw",
+    "slug": "theForgedCoupon"
+  },
+  "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theForgedCoupon",
+  "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theForgedCoupon/raw_audio/theForgedCoupon.webm",
+  "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theForgedCoupon/video_work/theForgedCoupon_audio_16k.wav",
+  "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theForgedCoupon/theForgedCouponTranscript.json",
+  "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theForgedCoupon/theForgedCouponTranscript.txt",
+  "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theForgedCoupon/theForgedCoupon.txt",
+  "chunks": 143,
+  "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theForgedCoupon/video_work/theForgedCoupon_chunk_audio_joined.wav",
+  "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theForgedCoupon/theForgedCoupon_neuralsurfer.mp4"
+}

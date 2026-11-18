@@ -1,0 +1,1 @@
+- 2026-05-25: User asked to make `/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/annaKarenina` into a moving-cursor video, matching the settings used for `/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/1984`, and to queue the Mahti job after recovering prior context.

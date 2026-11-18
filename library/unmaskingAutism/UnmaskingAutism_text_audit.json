@@ -1,0 +1,89 @@
+{
+  "source_epub": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/unmaskingAutism/Unmasking Autism _ Discovering the New Faces of Neurodiversity_Devon Price_liber3.epub",
+  "included_spine_ids": [
+    "itr",
+    "c001",
+    "c002",
+    "c003",
+    "c004",
+    "c005",
+    "c006",
+    "c007",
+    "c008",
+    "c009"
+  ],
+  "included_sections": [
+    {
+      "spine_id": "itr",
+      "href": "OEBPS/xhtml/Pric_9780593235249_epub3_itr_r1.xhtml",
+      "paragraph_count": 51,
+      "first_block": "Introduction: Alienation"
+    },
+    {
+      "spine_id": "c001",
+      "href": "OEBPS/xhtml/Pric_9780593235249_epub3_c001_r1.xhtml",
+      "paragraph_count": 129,
+      "first_block": "Chapter 1: What Is Autism, Really?"
+    },
+    {
+      "spine_id": "c002",
+      "href": "OEBPS/xhtml/Pric_9780593235249_epub3_c002_r1.xhtml",
+      "paragraph_count": 130,
+      "first_block": "Chapter 2: Who Are the Masked Autistics?"
+    },
+    {
+      "spine_id": "c003",
+      "href": "OEBPS/xhtml/Pric_9780593235249_epub3_c003_r1.xhtml",
+      "paragraph_count": 78,
+      "first_block": "Chapter 3: The Anatomy of the Mask"
+    },
+    {
+      "spine_id": "c004",
+      "href": "OEBPS/xhtml/Pric_9780593235249_epub3_c004_r1.xhtml",
+      "paragraph_count": 118,
+      "first_block": "Chapter 4: The Cost of Masking"
+    },
+    {
+      "spine_id": "c005",
+      "href": "OEBPS/xhtml/Pric_9780593235249_epub3_c005_r1.xhtml",
+      "paragraph_count": 130,
+      "first_block": "Chapter 5: Rethinking Autism"
+    },
+    {
+      "spine_id": "c006",
+      "href": "OEBPS/xhtml/Pric_9780593235249_epub3_c006_r1.xhtml",
+      "paragraph_count": 133,
+      "first_block": "Chapter 6: Building an Autistic Life"
+    },
+    {
+      "spine_id": "c007",
+      "href": "OEBPS/xhtml/Pric_9780593235249_epub3_c007_r1.xhtml",
+      "paragraph_count": 177,
+      "first_block": "Chapter 7: Cultivating Autistic Relationships"
+    },
+    {
+      "spine_id": "c008",
+      "href": "OEBPS/xhtml/Pric_9780593235249_epub3_c008_r1.xhtml",
+      "paragraph_count": 72,
+      "first_block": "Chapter 8: Creating a Neurodiverse World"
+    },
+    {
+      "spine_id": "c009",
+      "href": "OEBPS/xhtml/Pric_9780593235249_epub3_c009_r1.xhtml",
+      "paragraph_count": 42,
+      "first_block": "Conclusion: Integration"
+    }
+  ],
+  "excluded_back_matter": [
+    "dedication",
+    "acknowledgments",
+    "notes",
+    "index",
+    "next-reads"
+  ],
+  "characters": 520862,
+  "words": 85827,
+  "paragraphs": 1063,
+  "sha256": "6be7b659ec69e4c95997d797b9165d18930300297a8b1e8d46b5514bb444ab9a",
+  "forbidden_section_heading_matches": []
+}

@@ -1,0 +1,17 @@
+{
+  "source_epub": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/annaKarenina/Anna Karenina (Leo Tolstoy, Constance Garnett) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+  "raw_output": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/annaKarenina/AnnaKarenina.raw.txt",
+  "output": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/annaKarenina/AnnaKarenina.txt",
+  "method": "pandoc epub to plain text, start at PART I, stop after THE END, remove pandoc image placeholders",
+  "raw_sha256": "5a11b175f39ba249d9eee427690ca6a0977e3d947c67ed8a5c89f9aaa8d4b498",
+  "output_sha256": "a50f2f077be7d44c1e4b0219e36e6c9b68feb31878153ee47759c73c70e8aa75",
+  "raw_bytes": 1969054,
+  "output_bytes": 1966017,
+  "word_count": 351287,
+  "line_count": 15375,
+  "part_heading_count": 8,
+  "roman_heading_count": 239,
+  "removed_placeholder_lines": 2,
+  "starts_with": "Anna Karenina\n\nLeo Tolstoy\n\nTranslated from the Russian by Constance Garnett\n\nPART I\n\nI\n\nHAPPY families are all alike; every unhappy family is unhappy in its own way.\n\nEverything was in confusion in the Oblonskys' house. The wife had discov",
+  "ends_with": "n praying; but my life now, my whole life apart from anything that can happen to me, every minute of it is no more meaningless, as it was before, but it has the positive meaning of goodness, which I have the power to put into it.'\n\nTHE END\n"
+}

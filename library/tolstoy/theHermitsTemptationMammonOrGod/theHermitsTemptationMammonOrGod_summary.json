@@ -1,0 +1,19 @@
+{
+  "item": {
+    "index": 13,
+    "video_id": "1g2C81xhsKg",
+    "title": "The Hermit's Temptation. \"Mammon or God?\" A Spiritual Short Story by Leo Tolstoy.",
+    "duration": 1111,
+    "url": "https://www.youtube.com/watch?v=1g2C81xhsKg",
+    "slug": "theHermitsTemptationMammonOrGod"
+  },
+  "item_dir": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theHermitsTemptationMammonOrGod",
+  "raw_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theHermitsTemptationMammonOrGod/raw_audio/theHermitsTemptationMammonOrGod.webm",
+  "wav_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theHermitsTemptationMammonOrGod/video_work/theHermitsTemptationMammonOrGod_audio_16k.wav",
+  "transcript_json": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theHermitsTemptationMammonOrGod/theHermitsTemptationMammonOrGodTranscript.json",
+  "transcript_txt": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theHermitsTemptationMammonOrGod/theHermitsTemptationMammonOrGodTranscript.txt",
+  "text": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theHermitsTemptationMammonOrGod/theHermitsTemptationMammonOrGod.txt",
+  "chunks": 18,
+  "joined_audio": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theHermitsTemptationMammonOrGod/video_work/theHermitsTemptationMammonOrGod_chunk_audio_joined.wav",
+  "mp4": "/Users/ruwodda/Documents/Personal/Repos/textToAudioTTS/library/tolstoy/theHermitsTemptationMammonOrGod/theHermitsTemptationMammonOrGod_neuralsurfer.mp4"
+}
