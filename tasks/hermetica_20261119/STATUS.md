@@ -65,3 +65,13 @@ Outputs (Roihu):
 Videos upload to the existing Google Drive `Books` folder
 (`1hwBGIjlCFDitWVfP23-jkRyyPDeMGkRK`) using the Firefox-cookie resumable
 uploader (`tasks/thought_forms_etidorhpa_20261113/upload_to_drive_books.py`).
+
+New subfolders created 2026-11-19:
+
+| book | folder id |
+|---|---|
+| The Divine Pymander | `1AlaX11Ui07jFjgo_lrIiDAaIM0_IjrMi` |
+| The Kybalion | `14P0LHOGFbeBZmapwjKfFvI_eYNqVj-wE` |
+
+`tasks/hermetica_20261119/upload_to_drive.py --folder-name ... --remote ...`
+creates/reuses a subfolder and streams the mp4 from Roihu to Drive.
