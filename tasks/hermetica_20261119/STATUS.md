@@ -95,5 +95,30 @@ New subfolders created 2026-11-19:
 | The Divine Pymander | `1AlaX11Ui07jFjgo_lrIiDAaIM0_IjrMi` |
 | The Kybalion | `14P0LHOGFbeBZmapwjKfFvI_eYNqVj-wE` |
 
-`tasks/hermetica_20261119/upload_to_drive.py --folder-name ... --remote ...`
-creates/reuses a subfolder and streams the mp4 from Roihu to Drive.
+`tasks/hermetica_20261119/upload_to_drive.py --folder-id ... --remote ...`
+streams the mp4 from Roihu to Drive. Pass `--replace` to trash an existing
+same-name file first (recoverable from Drive trash).
+
+Uploaded:
+
+| book | Drive file id | size |
+|---|---|---|
+| The Kybalion | `1UjR0XeHmxdJ33ZOiDFq0aXS9r_j4fXtE` | 1,945,740,940 B |
+
+Final render checks:
+
+| book | duration | size | streams |
+|---|---|---|---|
+| Mysticism and the New Physics | 5:58:05 | 3.4 GB | 1080p24 + AAC 24 kHz mono |
+| The Divine Pymander | 3:05:02 | 1.6 GB | 1080p24 + AAC 24 kHz mono |
+| The Kybalion | 3:18:23 | 1.9 GB | 1080p24 + AAC 24 kHz mono |
+
+The old 10:31 error is gone: the new Talbot chunk 14 is a normal 42.48 s
+take, and 10:31 now falls inside chunk 15 (starts 10:23, 40.96 s, ASR score
+0.950, coverage 0.955, status `ok`).
+
+
+Note: the Drive name search did not consistently return the newly-created
+empty subfolders, so the first Kybalion upload created a duplicate folder.
+The file was moved into the original `14P0...` folder and the duplicate was
+trashed; later uploads pass `--folder-id` explicitly.
