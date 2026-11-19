@@ -103,7 +103,26 @@ Uploaded:
 
 | book | Drive file id | size |
 |---|---|---|
+| Mysticism and the New Physics | `1_yfp3PvbAJklakVdZWd6FCkX6Tm-aqW6` | 3,547,146,181 B |
+| The Divine Pymander | `15M_Lyi_YFZLdRmu5ONr9RkHZ29TvON2o` | 1,669,962,760 B |
 | The Kybalion | `1UjR0XeHmxdJ33ZOiDFq0aXS9r_j4fXtE` | 1,945,740,940 B |
+
+The old broken Talbot file `1fFzVIpjj6bFlGk3orJ037wjydNeoLqvV`
+(3,521,277,735 B) was moved to Drive trash, so it is recoverable if needed.
+Each folder was re-listed after upload and contains exactly one file whose
+name and byte size match the Roihu artifact.
+
+## Verified done
+
+- [x] Talbot chunk 14/214 auto-healed; 10:31 is now a normal chunk 15 take
+      (40.96 s, ASR 0.950, coverage 0.955).
+- [x] All three chunk audits report 0 blocking chunks.
+- [x] Three 1080p24 MP4s rendered and ffprobe-checked (durations match the
+      joined WAVs within the chapter-gap padding).
+- [x] Three Drive files byte-size-verified in the correct Books subfolders.
+- [x] Roihu aarch64/x86_64 venv split fixed and the audit stack pinned.
+- [x] Code pushed to the `hermetica-20261119` branch.
+
 
 Final render checks:
 
