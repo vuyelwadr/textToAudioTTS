@@ -294,9 +294,9 @@ def main() -> int:
     for paragraph in flow_paragraphs(intro_lines):
         if paragraph.upper().startswith("INTRODUCTION"):
             paragraph = paragraph[len("INTRODUCTION"):].lstrip(". ")
-        paragraph = paragraph.replace("SE os Greeks applied", "The Greeks applied")
         if paragraph.startswith("os Greeks applied"):
             paragraph = "The " + paragraph
+        paragraph = re.sub(r"\b(?:SE )?The os Greeks applied", "The Greeks applied", paragraph)
         if paragraph.startswith("*"):
             continue
         out.append(fix_tokens(paragraph))

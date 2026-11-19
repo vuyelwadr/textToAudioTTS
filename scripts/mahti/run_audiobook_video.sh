@@ -48,6 +48,13 @@ resolve_script_dir() {
 SCRIPT_DIR="$(resolve_script_dir)"
 REPO_ROOT=$(cd -- "$SCRIPT_DIR/../.." && pwd)
 
+# The GPU job that submits this CPU job exports ALL of its environment,
+# including MAHTI_ENV_ROOT/CSC_ENV_ROOT/venvs-<arch>. Roihu's GPU pool is
+# aarch64 and its CPU pool is x86_64, so inheriting the GPU venv here makes
+# pip install x86_64 wheels into the aarch64 venv (and corrupt it). Drop the
+# inherited venv pointers and let common.sh resolve the CPU architecture.
+unset MAHTI_ENV_ROOT CSC_ENV_ROOT VIRTUAL_ENV
+
 # shellcheck disable=SC1091
 source "$SCRIPT_DIR/common.sh"
 load_pytorch_module 2.9

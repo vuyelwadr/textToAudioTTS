@@ -6,6 +6,7 @@ Project-specific rules for this repo:
 
 - For long audiobook runs on CSC, keep GPU jobs focused on text chunking, TTS, and chunk audit. Do not render the final MP4 inline on a GPU job unless the user explicitly asks for that. Use `VIDEO_RENDER_MODE=submit_cpu`.
 - Keep `AUDIT_CHUNKS=1` for production audiobook runs. Do not mark a run complete if the chunk audit reports blocking chunks.
+- The chunk audit now also treats any take at/above 158 s (Qwen3-TTS's 2048-token / 163.84 s decoder ceiling) or below 65% expected-word coverage as blocking, and `build_chunked_audiobook.py` re-synthesizes only those chunk indices automatically (up to `--max-heal-attempts`, default 2) before failing the run.
 - Keep `--sanitize-prechapter-note-blocks` enabled. It is the default guardrail against note/endnote walls being turned into audiobook chunks.
 - For Qwen full-book runs, keep chunks small enough to avoid the model's fixed output ceiling. The production wrapper default is `CHUNK_SIZE=2200` and refuses values above `2600` unless `ALLOW_LARGE_QWEN_CHUNKS=1`; do not raise it without proving the chunk audit still passes.
 - When generating or rerendering active-line video, reuse the chunk ASR cache with `--active-line-asr-cache-dir` whenever it exists.

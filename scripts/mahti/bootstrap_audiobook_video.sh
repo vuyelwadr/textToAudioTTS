@@ -31,6 +31,16 @@ invalidate_broken_audiobook_video_marker() {
     if [[ -f "$env_path/bin/python3" && ! -L "$env_path/bin/python3" ]]; then
         rm -f "$marker"
     fi
+    # A partially-installed venv can still have a working interpreter, so the
+    # marker alone is not proof that the audit stack is usable. Re-bootstrap if
+    # the whisper/hub imports or the bundled ffmpeg wrapper are missing.
+    if [[ -f "$marker" ]]; then
+        if ! "$env_path/bin/python" -c 'import numpy, soundfile, faster_whisper, huggingface_hub' >/dev/null 2>&1; then
+            rm -f "$marker"
+        elif [[ ! -x "$env_path/bin/ffmpeg" ]]; then
+            rm -f "$marker"
+        fi
+    fi
 }
 
 ensure_audiobook_video_venv() {
@@ -66,7 +76,13 @@ ensure_audiobook_video_venv() {
 bootstrap_audiobook_video() {
     ensure_audiobook_video_venv
 
-    python -m pip install faster-whisper pillow numpy soundfile imageio-ffmpeg matplotlib openai-whisper
+    # Pin huggingface_hub below 1.0: faster-whisper 1.2.x imports the private
+    # huggingface_hub._snapshot_download module, which 1.x removed. Without
+    # this pin a fresh bootstrap breaks the audit with ModuleNotFoundError.
+    python -m pip install \
+        "huggingface_hub<1.0" \
+        "faster-whisper==1.2.0" \
+        pillow numpy soundfile imageio-ffmpeg openai-whisper
 
     python - <<'PY'
 import os

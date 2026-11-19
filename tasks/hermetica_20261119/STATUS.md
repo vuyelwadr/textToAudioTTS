@@ -46,14 +46,36 @@ Prepared manuscripts: `library/divinePymander/divinePymander.txt` (32.4k words),
 ## Runs
 
 All on Roihu, `gpumedium`, 2× GH200, 48 CPUs, `CHUNK_SIZE=850`,
-`AUDIT_CHUNKS=1`, `FORCE=1`, Schopenhauer `LhKBK6s_lMw` 10 s clone,
+`AUDIT_CHUNKS=1`, Schopenhauer `LhKBK6s_lMw` 10 s clone,
 torch 2.9.1 pinned, video via `VIDEO_RENDER_MODE=submit_cpu` on Roihu `small`.
 
-| job | book | run label | job id |
-|---|---|---|---|
-| `talbot-rerun` | Mysticism and the New Physics | `full_20261119_v2` | 3217386 |
-| `pymander-qwen` | The Divine Pymander | `full_20261119_v1` | 3217387 |
-| `kybalion-qwen` | The Kybalion | `full_20261119_v1` | 3217388 |
+First attempt (2026-11-19 01:25):
+
+| job | book | run label | job id | result |
+|---|---|---|---|---|
+| `talbot-rerun` | Mysticism and the New Physics | `full_20261119_v2` | 3217386 | TTS 511/511, audit crashed |
+| `pymander-qwen` | The Divine Pymander | `full_20261119_v1` | 3217587 | TTS 242/242, audit crashed |
+| `kybalion-qwen` | The Kybalion | `full_20261119_v1` | 3217388 | TTS + audit + heal OK, video failed |
+
+Root cause: Roihu GPU nodes are aarch64 but CPU nodes are x86_64. The
+`submit_audiobook_video.sh` CPU job inherited `MAHTI_ENV_ROOT=venvs-aarch64`
+via `--export ALL`, installed x86_64 wheels into the aarch64 audit venv, and
+corrupted it (`huggingface_hub`/`ffmpeg` missing). `run_audiobook_video.sh`
+now unsets the inherited venv roots; the bootstrap pins
+`huggingface_hub<1.0` + `faster-whisper==1.2.0` and validates the venv.
+
+Second attempt (2026-11-19 ~02:50):
+
+| job | purpose | job id |
+|---|---|---|
+| `talbot-resume` | reuse 511 chunk WAVs, audit + auto-heal 14/214, join, submit video | 3218804 |
+| `kybalion-video` | reuse existing render, submit CPU video only | 3218805 |
+| `pymander-v2` | fresh TTS/audit with the corrected opening sentence | 3218806 |
+
+Outputs (Roihu):
+`generated/audiobooks-mysticism_and_new_physics-full_20261119_v2/`
+`generated/audiobooks-divine_pymander-full_20261119_v2/`
+`generated/audiobooks-kybalion-full_20261119_v1/`
 
 Outputs (Roihu):
 `generated/audiobooks-mysticism_and_new_physics-full_20261119_v2/`
